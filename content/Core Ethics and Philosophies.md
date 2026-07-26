@@ -133,7 +133,7 @@ Politics cannot create virtue, guarantee flourishing, or eliminate all human con
 
 - Robert Nozick – [_Anarchy, State, and Utopia_](https://eclass.uoa.gr/modules/document/file.php/PPP641/%CE%95%CE%BD%CF%8C%CF%84%CE%B7%CF%84%CE%B1%205%CE%B7:%20%CE%A6%CE%AC%CE%BA%CE%B5%CE%BB%CE%BF%CF%82%20%CE%9C%CE%B1%CE%B8%CE%AE%CE%BC%CE%B1%CF%84%CE%BF%CF%82/Robert%20Nozick%20Anarchy,%20State,%20and%20Utopia%202001.pdf)
 - Stanford Encyclopedia of Philosophy – [Political Realism in International Relations](https://plato.stanford.edu/entries/realism-intl-relations/)
-- Hans Morgenthau – _Politics Among Nations_
+- Hans Morgenthau – [_Politics Among Nations_](https://cssplatformbytha.com/wp-content/uploads/2024/10/Morgenthau_Hans_Joachim__Thompson_Kenneth_W._-_Politics_among_nations___the_struggle_for_power_and_peace-McGraw-Hill_19971.pdf)
 - Christopher Heath Wellman – Rights Forfeiture Theory of Punishment
 
 ---
