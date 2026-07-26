@@ -63,8 +63,8 @@ I adopt Stoic eudaimonism as my personal operating system for character and dail
 
 Stoic eudaimonism is not a replacement for my political or inter-personal rights framework. It is the personal discipline that allows me to live and act consistently with that framework without being destroyed by anger, resentment, or attachment to outcomes I cannot fully control.
 
-- Meditations - Marcus Aurelius https://vreeman.com/meditations/
-https://en.wikipedia.org/wiki/Eudaimonia
+- [Meditations - Marcus Aurelius](https://vreeman.com/meditations/)
+- [Eudaimonia - Wikipedia](https://en.wikipedia.org/wiki/Eudaimonia)
 
 ---
 ## **Moral Psychology**
@@ -73,7 +73,7 @@ https://en.wikipedia.org/wiki/Eudaimonia
 
 A being becomes a full moral agent under this framework when it possesses sufficient first-order subjective experience combined with the capacity for intentional action and foresight of consequences. Agency is not binary in all cases; it scales with cognitive and experiential sophistication. Once agency is present, the being can generate duties through voluntary choices (most clearly seen in the responsibility trigger of voluntary procreation) and can forfeit rights through deliberate violations of others’ negative rights. Non-agent sentient beings (e.g., many animals or fetuses) retain moral status through sentience alone but do not bear the same responsibilities.
 
-- https://plato.stanford.edu/entries/agency/
+- Agency - Stanford Ecnhttps://plato.stanford.edu/entries/agency/
 - https://plato.stanford.edu/entries/moral-responsibility/
 
 #### Moral Motivation 
@@ -96,8 +96,8 @@ Weakness of will is acknowledged as a persistent human tendency. Knowing the cor
 
 Humans readily grasp the logic of negative rights and proportional response when the framework is stated clearly. Rights are understood as side-constraints against interference. When an agent knowingly and wantonly violates those constraints, especially through repeated or severe predation that erodes trust, forfeiture of corresponding rights becomes both intelligible and motivating to observers. The psychological force of forfeiture lies in reciprocity and desert: those who refuse to respect the basic negative rights of others cannot claim the full protection of those same rights. This supports decisive enforcement without requiring belief in objective moral truth—only recognition of the practical necessity of the prescribed rules.
 
-- https://cdn.ymaws.com/www.apaonline.org/resource/resmgr/Prizes_&_Awards/Wellman,_Christopher.pdf
-- https://plato.stanford.edu/entries/justice-retributive/
+- [The Rights Forfeiture Theory of Punishment - Christopher Heath Wellman](https://cdn.ymaws.com/www.apaonline.org/resource/resmgr/Prizes_&_Awards/Wellman,_Christopher.pdf)
+- [Retributive Justice - Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/justice-retributive/)
 
 ---
 ## **Metaphysics**
@@ -106,4 +106,4 @@ Humans readily grasp the logic of negative rights and proportional response when
 
 I am an agnostic atheist. I do not believe in the existence of any gods, while remaining open to the theoretical possibility that evidence could change that assessment. Religious claims are treated as unsupported by sufficient evidence. This stance is personal and does not form the basis of my moral system; my moral system is grounded in my prescribed sentientist framework rather than in any theological foundation.
 
-https://en.wikipedia.org/wiki/Agnostic_atheism
+- [Agnostic atheism - Wikipedia](https://en.wikipedia.org/wiki/Agnostic_atheism)
