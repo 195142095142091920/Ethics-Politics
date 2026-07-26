@@ -1,7 +1,7 @@
 
 # **Core Ethics and Philosophy**
 
-## **Meta-Ethics:**
+## **Meta-Ethics**
 
 ### Moral anti-realism
 
@@ -11,7 +11,7 @@ https://plato.stanford.edu/entries/moral-anti-realism/
 
 ---
  
-## **Core Ethical Framework:**
+## **Core Ethical Framework**
 
 ### Prescriptive Threshold Sentientist Deontology (Negative-rights focused)  
 
