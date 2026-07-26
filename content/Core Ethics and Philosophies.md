@@ -50,19 +50,23 @@ https://plato.stanford.edu/entries/moral-anti-realism/
 
 ## **Personal Ethical Practice:**
 
-### Stoicism
 
-I adopt Stoicism as my personal operating system for character and daily conduct. Key elements I take from it:
+Eudaemonism (the personal aim of flourishing through virtue and rational living, pursued within the constraints of the prescribed rights framework)
+### Stoic Eudaimonism
+
+I adopt Stoic eudaimonism as my personal operating system for character and daily conduct. Key elements I take from it:
 
 - Focus only on what is within my control (my judgments, actions, and responses).
 - Accept external events, including the actions of others and outcomes of politics, without being ruled by them emotionally.
 - Cultivate the four cardinal virtues as practical guides: wisdom, courage, justice, and temperance.
 - Treat adversity and the hostility of others as material for practicing virtue rather than as reasons for despair or rage.
 - Maintain inner composure while still acting decisively in the world according to the prescribed sentientist principles.
+- Flourish through virtue and rational living, pursued within the constraints of the prescribed rights framework
 
-Stoicism is not a replacement for my political or inter-personal rights framework. It is the personal discipline that allows me to live and act consistently with that framework without being destroyed by anger, resentment, or attachment to outcomes I cannot fully control.
+Stoic eudaimonism is not a replacement for my political or inter-personal rights framework. It is the personal discipline that allows me to live and act consistently with that framework without being destroyed by anger, resentment, or attachment to outcomes I cannot fully control.
 
 https://vreeman.com/meditations/
+https://en.wikipedia.org/wiki/Eudaimonia
 
 ---
 
