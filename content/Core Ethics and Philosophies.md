@@ -144,4 +144,13 @@ Politics cannot create virtue, guarantee flourishing, or eliminate all human con
 
 I am an agnostic atheist. I do not believe in the existence of any gods, while remaining open to the theoretical possibility that evidence could change that assessment. Religious claims are treated as unsupported by sufficient evidence. This stance is personal and does not form the basis of my moral system; my moral system is grounded in my prescribed sentientist framework rather than in any theological foundation.
 
-- [Agnostic atheism - Wikipedia](https://en.wikipedia.org/wiki/Agnostic_atheism)
+- Wikipedia - [Agnostic atheism](https://en.wikipedia.org/wiki/Agnostic_atheism)
+
+
+---
+
+## **Aesthetics**
+
+#### Beauty
+
+Ideological beauty is found in order and clarity. Order and clarity are ideologically beautiful because they are often the conditions under which sentient beings can live well and exercise agency without constant friction. Natural ideological beauty is found in healthy ecosystems of rights-respecting sentient beings. Natural visual beauty can often exist regardless of ethics, as nature can be visually beautiful, but ethically hideous. 
