@@ -127,7 +127,7 @@ The state retains a primary duty to its own citizens. Alliances, interventions, 
 The same logic of rights and forfeiture that applies to individuals scales to political life. Agents or organized groups that systematically violate the negative rights of others, or that seek to subvert the rights-respecting order itself, may be met with decisive force. Reciprocity and the practical necessity of deterrence justify withholding full rights protections from those who reject the basic framework of non-aggression and mutual restraint.
 
 
-**Limits of Politics** 
+#### Limits of Politics 
 
 Politics cannot create virtue, guarantee flourishing, or eliminate all human conflict. The state’s role is deliberately narrower: to maintain the external conditions under which individuals can pursue their own ends, including character development and personal flourishing, without being subjected to predation or chaos. Over-extension of political power beyond this function tends to generate new rights violations rather than resolve them.
 
