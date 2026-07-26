@@ -8,7 +8,7 @@ https://plato.stanford.edu/entries/moral-anti-realism/
 
 ---
  
-## **Core Ethical Framework**
+## **Normative Ethics**
 
 #### Prescriptive Threshold Sentientist Deontology (Negative-rights focused)  
 
@@ -48,7 +48,7 @@ https://plato.stanford.edu/entries/moral-anti-realism/
 
 ---
 
-## **Personal Ethical Practice**
+## **Character Ethics**
 
 #### Stoic Eudaimonism
 
@@ -68,7 +68,7 @@ https://en.wikipedia.org/wiki/Eudaimonia
 
 ---
 
-## **Personal Religious Stance**
+## **Metaphysics**
 
 #### Agnostic Atheism 
 
