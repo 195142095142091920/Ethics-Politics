@@ -4,7 +4,7 @@
 
 I prescribe a sentience-centered system because it is the most coherent and stably consistent framework available. I do not claim objective moral truth.  
 
-https://plato.stanford.edu/entries/moral-anti-realism/
+- [Moral Anti-Realism - Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/moral-anti-realism/)
 
 ---
  

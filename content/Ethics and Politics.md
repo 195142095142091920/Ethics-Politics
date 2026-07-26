@@ -4,6 +4,16 @@ draft: "true"
 
 # **Core Ethics and Philosophy**
 
+| Your Position          | Closest Philosopher(s)                |
+| ---------------------- | ------------------------------------- |
+| Moral Anti-Realism     | J.L. Mackie, Richard Joyce            |
+| Threshold Deontology   | Michael Moore, Thomas Nagel           |
+| Negative Rights        | Robert Nozick                         |
+| Sentientism            | Jeremy Bentham, Peter Singer          |
+| Rights Forfeiture      | Christopher Heath Wellman             |
+| Stoicism + Eudaemonism | Marcus Aurelius, Epictetus, Aristotle |
+| Agnostic Atheism       | Bertrand Russell, J.L. Mackie         |
+
 ## **Meta-Ethics**
 
 #### Moral anti-realism
