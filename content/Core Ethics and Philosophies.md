@@ -39,17 +39,17 @@ I am an agnostic atheist. I do not believe in the existence of any gods, while r
 #### Summary
 
 - **Sentientist:**
-    1. Moral status and rights attach to beings capable of sentience (or on a clear trajectory toward it under a graduated potentiality + responsibility framework). First-order subjective experience is the basis for moral status.
+    1. Moral status and negative rights attach to beings capable of first-order subjective experience, or those on a clear developmental trajectory toward it.
     
        - Wikipedia - [Sentientism](https://en.wikipedia.org/wiki/Sentientism) 
 
 - **Negative-rights focused:** 
-    1. Rights primarily function as side-constraints against interference, harm, or rights violations by others (including the state). I generally reject positive rights that force others to provide goods or services. Negative rights are strong side-constraints.
+    1. Rights function as side-constraints against interference and harm. Positive rights that compel others to provide goods or services are generally rejected.
        
        - Wikipedia - [Negative and Positive Rights](https://en.wikipedia.org/wiki/Negative_and_positive_rights) 
 
 - **Threshold deontologist:** 
-    1. I hold firm moral rules (do not violate sentient rights, do not kill the innocent, respect voluntary agreements) that normally override consequentialist calculations — until a sufficiently high threshold of harm or rights violation is reached. At that point, stronger action (including force, forfeiture of the violator’s rights, or intervention) becomes permissible or required. Simply, rights may be overridden only after a clear violation threshold; violators forfeit rights. Fetal moral weight scales with approaching sentience and is primarily grounded in the responsibility trigger of voluntary creation.
+    1. Core rules against violating sentient rights normally hold. They may be overridden only after a clear threshold of rights violation is crossed, at which point the violator forfeits corresponding protections. Fetal moral weight scales with proximity to sentience and is grounded primarily in the responsibility created by voluntary procreation.
        
        - Stanford Encyclopedia of Philosophy - [Deontological Ethics](https://plato.stanford.edu/entries/ethics-deontological/)
 
