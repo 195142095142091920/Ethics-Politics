@@ -3,4 +3,4 @@ title: Index
 enableToc: "false"
 ---
 
-# - [[Core Ethics and Philosophies]]
+# - [[Ethical and Philosophical Framework]]
