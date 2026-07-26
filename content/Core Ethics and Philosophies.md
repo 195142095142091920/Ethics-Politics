@@ -82,13 +82,15 @@ Because this system is anti-realist, moral motivation cannot rely on the belief 
 1. Rational recognition that the sentience-based negative-rights framework is the most coherent and stable system available for protecting subjective experience 
 2. The personal cultivation of character through Stoicism. The agent chooses to uphold the framework because it is the best available coordination system and because living in accordance with it supports personal flourishing ([[#Stoic Eudaimonism]]). External enforcement remains necessary for those who reject the prescription.
 
-- https://plato.stanford.edu/entries/moral-motivation/
+- [Moral Motivation - Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/moral-motivation/)
+
 
 #### Weakness of Will (Akrasia) 
 
 Weakness of will is acknowledged as a persistent human tendency. Knowing the correct action under the prescribed rules does not guarantee performance. Stoic discipline is the primary countermeasure: training judgment, focusing only on what is within one’s control, and repeatedly aligning impulse with reasoned principle. The framework itself does not excuse akrasia; failure to act rightly when one had the capacity remains a personal shortcoming, though the political system concerns itself primarily with outward rights violations rather than inner moral failure.
 
-- https://plato.stanford.edu/entries/weakness-will/
+- [Weakness of Will - Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/weakness-will/)
+
 
 #### Moral Psychology of Rights & Forfeiture 
 
