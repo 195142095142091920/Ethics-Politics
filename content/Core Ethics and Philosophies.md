@@ -153,4 +153,8 @@ I am an agnostic atheist. I do not believe in the existence of any gods, while r
 
 #### Beauty
 
-Ideological beauty is found in order and clarity. Order and clarity are ideologically beautiful because they are often the conditions under which sentient beings can live well and exercise agency without constant friction. Created ideological beauty is found in rights-respecting order, through law, discipline, high agency, and care. This often leads to created visual beauty, the forming of visibly beautiful objects and environments. Natural ideological beauty is found in healthy ecosystems of rights-respecting sentient beings. Natural visual beauty can often exist regardless of ethics, as nature can be visually beautiful, but ethically hideous. 
+Ideological beauty is found in clarity, competence, and order. Order and clarity are ideologically beautiful because they are often the conditions under which sentient beings can live well and exercise agency without constant friction. Created ideological beauty is found in rights-respecting order, through law, discipline, high agency, and care. This often leads to created visual beauty, the forming of visibly beautiful objects and environments. Natural ideological beauty is found in healthy ecosystems of rights-respecting sentient beings. Natural visual beauty can often exist regardless of ethics, as nature can be visually beautiful, but ethically hideous. 
+
+#### Artistry
+
+A culture that rewards rights-respecting order, high agency, developed skill, and merit tend to produce artistic works that are beautiful. 
