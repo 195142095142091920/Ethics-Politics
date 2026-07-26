@@ -1,4 +1,4 @@
-## **Meta-Ethics:**
+## **Meta-Ethics**
 
 ### Moral anti-realism
 
@@ -8,11 +8,11 @@ https://plato.stanford.edu/entries/moral-anti-realism/
 
 ---
  
-## **Core Ethical Framework:**
+## **Core Ethical Framework**
 
 ### Prescriptive Threshold Sentientist Deontology (Negative-rights focused)  
 
-#### Axioms:
+#### Axioms
 
 1. I prescribe that subjective experience (first-order phenomenal consciousness) shall serve as the basis for moral status and the possession of negative rights.
 
