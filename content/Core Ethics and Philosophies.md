@@ -73,8 +73,8 @@ Stoic eudaimonism is not a replacement for my political or inter-personal rights
 
 A being becomes a full moral agent under this framework when it possesses sufficient first-order subjective experience combined with the capacity for intentional action and foresight of consequences. Agency is not binary in all cases; it scales with cognitive and experiential sophistication. Once agency is present, the being can generate duties through voluntary choices (most clearly seen in the responsibility trigger of voluntary procreation) and can forfeit rights through deliberate violations of others’ negative rights. Non-agent sentient beings (e.g., many animals or fetuses) retain moral status through sentience alone but do not bear the same responsibilities.
 
-- Agency - Stanford Ecnhttps://plato.stanford.edu/entries/agency/
-- https://plato.stanford.edu/entries/moral-responsibility/
+- [Agency - Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/agency/)
+- [Moral Responsibility - Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/moral-responsibility/) 
 
 #### Moral Motivation 
 
