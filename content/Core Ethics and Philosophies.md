@@ -162,8 +162,13 @@ A culture that rewards rights-respecting order, high agency, developed skill, an
 
 ---
 
-#### **Meaning and Purpose**
+## **Meaning and Purpose**
 
 #### A Life of Meaning
 
 Meaning is not discovered as an objective cosmic fact. It is realized through the consistent exercise of agency in accordance with virtue and the prescribed ethical constraints. A meaningful life is one in which the agent develops character, acts rightly toward other sentient beings, and pursues long-term projects that express competence and care.
+
+
+#### Role of Eudaemonism
+
+[[#Stoic Eudaimonism]] provides the personal aim: flourishing through rational activity and virtue. Meaning is not a separate mystical property; it is what a well-lived life feels like from the inside when one is meeting the demands of reason and character over time.
