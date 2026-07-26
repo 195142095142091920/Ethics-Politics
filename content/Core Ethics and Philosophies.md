@@ -100,6 +100,38 @@ Humans readily grasp the logic of negative rights and proportional response when
 - [Retributive Justice - Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/justice-retributive/)
 
 ---
+## **Political Philosophy**
+
+#### Purpose of the State 
+
+The legitimate function of the state is the protection of negative rights and the security of the political community that sustains them. The state exists first to prevent and punish violations of life, liberty, and property, and to defend the community against external and internal threats that would destroy the conditions for those rights. It is not primarily an engine for equalizing outcomes, enforcing comprehensive moral visions, or guaranteeing positive goods.
+
+
+#### Political Authority and Coercion
+
+Political authority is justified only insofar as it is necessary to secure negative rights and collective security. Coercive power is a tool, not an intrinsic good. It must remain bounded by the same side-constraints that apply to individuals, except where an agent has forfeited rights through serious violation. Expansive state power is accepted only when required to suppress recurrent patterns of rights violation or to defend the community against organized threats.
+
+
+#### Sovereignty and Borders
+
+A political community has the right to maintain its sovereignty and to control its borders. Because high-trust, relatively cohesive societies better protect negative rights in practice, a people may legitimately prefer cultural continuity and selective immigration that preserves the conditions for mutual cooperation and rights-respecting order. Open-ended demographic transformation that erodes those conditions is not a moral requirement.
+
+
+#### National Interest and Foreign Relations 
+
+The state retains a primary duty to its own citizens. Alliances, interventions, and international commitments are evaluated according to whether they advance the security and long-term interests of the political community. No foreign tribunal or external authority holds legitimate veto power over decisions necessary for national survival or the protection of citizens’ rights.
+
+
+#### Rights, Order, and Forfeiture at Scale 
+
+The same logic of rights and forfeiture that applies to individuals scales to political life. Agents or organized groups that systematically violate the negative rights of others, or that seek to subvert the rights-respecting order itself, may be met with decisive force. Reciprocity and the practical necessity of deterrence justify withholding full rights protections from those who reject the basic framework of non-aggression and mutual restraint.
+
+
+**Limits of Politics** 
+
+Politics cannot create virtue, guarantee flourishing, or eliminate all human conflict. The state’s role is deliberately narrower: to maintain the external conditions under which individuals can pursue their own ends, including character development and personal flourishing, without being subjected to predation or chaos. Over-extension of political power beyond this function tends to generate new rights violations rather than resolve them.
+
+---
 ## **Metaphysics**
 
 #### Agnostic Atheism 
