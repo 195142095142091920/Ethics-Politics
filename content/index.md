@@ -1,8 +1,6 @@
 ---
-title: Ethics and Politics
+title: Index
 enableToc: "false"
 ---
 
-# Pages
-
-- [[Core Ethics and Philosophies]]
+# - [[Core Ethics and Philosophies]]
