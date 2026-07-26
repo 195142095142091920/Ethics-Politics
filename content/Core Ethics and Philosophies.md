@@ -162,3 +162,8 @@ A culture that rewards rights-respecting order, high agency, developed skill, an
 
 ---
 
+#### **Meaning and Purpose**
+
+#### A Life of Meaning
+
+Meaning is not discovered as an objective cosmic fact. It is realized through the consistent exercise of agency in accordance with virtue and the prescribed ethical constraints. A meaningful life is one in which the agent develops character, acts rightly toward other sentient beings, and pursues long-term projects that express competence and care.
