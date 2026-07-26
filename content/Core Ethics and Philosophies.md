@@ -55,26 +55,6 @@ I am an agnostic atheist. I do not believe in the existence of any gods, while r
 
 
 ---
-
-## **Character Ethics**
-
-#### Stoic Eudaimonism
-
-I adopt Stoic eudaimonism as my personal operating system for character and daily conduct. Key elements I take from it:
-
-- Focus only on what is within my control (my judgments, actions, and responses).
-- Accept external events, including the actions of others and outcomes of politics, without being ruled by them emotionally.
-- Cultivate the four cardinal virtues as practical guides: wisdom, courage, justice, and temperance.
-- Treat adversity and the hostility of others as material for practicing virtue rather than as reasons for despair or rage.
-- Maintain inner composure while still acting decisively in the world according to the prescribed sentientist principles.
-- Flourish through virtue and rational living, pursued within the constraints of the prescribed rights framework
-
-Stoic eudaimonism is not a replacement for my political or inter-personal rights framework. It is the personal discipline that allows me to live and act consistently with that framework without being destroyed by anger, resentment, or attachment to outcomes I cannot fully control.
-
-- Marcus Aurelius - [Meditations](https://vreeman.com/meditations/)
-- Wikipedia - [Eudaimonia](https://en.wikipedia.org/wiki/Eudaimonia)
-
----
 ## **Moral Psychology**
 
 #### Theory of Agency 
@@ -108,13 +88,33 @@ Humans readily grasp the logic of negative rights and proportional response when
 - Stanford Encyclopedia of Philosophy - [Retributive Justice](https://plato.stanford.edu/entries/justice-retributive/)
 
 ---
+## **Character Ethics**
+
+#### Stoic Eudaimonism
+
+I adopt Stoic eudaimonism as my personal operating system for character and daily conduct. Key elements I take from it:
+
+- Focus only on what is within my control (my judgments, actions, and responses).
+- Accept external events, including the actions of others and outcomes of politics, without being ruled by them emotionally.
+- Cultivate the four cardinal virtues as practical guides: wisdom, courage, justice, and temperance.
+- Treat adversity and the hostility of others as material for practicing virtue rather than as reasons for despair or rage.
+- Maintain inner composure while still acting decisively in the world according to the prescribed sentientist principles.
+- Flourish through virtue and rational living, pursued within the constraints of the prescribed rights framework
+
+Stoic eudaimonism is not a replacement for my political or inter-personal rights framework. It is the personal discipline that allows me to live and act consistently with that framework without being destroyed by anger, resentment, or attachment to outcomes I cannot fully control.
+
+- Marcus Aurelius - [*Meditations*](https://vreeman.com/meditations/)
+- Wikipedia - [Eudaimonia](https://en.wikipedia.org/wiki/Eudaimonia)
+
+
+---
 ## **Political Philosophy**
 
 #### Purpose of the State 
 
 The legitimate function of the state is the protection of negative rights and the security of the political community that sustains them. The state exists first to prevent and punish violations of life, liberty, and property, and to defend the community against external and internal threats that would destroy the conditions for those rights. It is not primarily an engine for equalizing outcomes, enforcing comprehensive moral visions, or guaranteeing positive goods.
 
-- Robert Nozick – [_Anarchy, State, and Utopia_](https://eclass.uoa.gr/modules/document/file.php/PPP641/%CE%95%CE%BD%CF%8C%CF%84%CE%B7%CF%84%CE%B1%205%CE%B7:%20%CE%A6%CE%AC%CE%BA%CE%B5%CE%BB%CE%BF%CF%82%20%CE%9C%CE%B1%CE%B8%CE%AE%CE%BC%CE%B1%CF%84%CE%BF%CF%82/Robert%20Nozick%20Anarchy,%20State,%20and%20Utopia%202001.pdf)
+- Robert Nozick - [_Anarchy, State, and Utopia_](https://eclass.uoa.gr/modules/document/file.php/PPP641/%CE%95%CE%BD%CF%8C%CF%84%CE%B7%CF%84%CE%B1%205%CE%B7:%20%CE%A6%CE%AC%CE%BA%CE%B5%CE%BB%CE%BF%CF%82%20%CE%9C%CE%B1%CE%B8%CE%AE%CE%BC%CE%B1%CF%84%CE%BF%CF%82/Robert%20Nozick%20Anarchy,%20State,%20and%20Utopia%202001.pdf)
   
 #### Political Authority and Coercion
 
@@ -130,14 +130,14 @@ A political community has the right to maintain its sovereignty and to control i
 
 The state retains a primary duty to its own citizens. Alliances, interventions, and international commitments are evaluated according to whether they advance the security and long-term interests of the political community. No foreign tribunal or external authority holds legitimate veto power over decisions necessary for national survival or the protection of citizens’ rights.
 
-- Stanford Encyclopedia of Philosophy – [Political Realism in International Relations](https://plato.stanford.edu/entries/realism-intl-relations/)
-- Hans Morgenthau – [_Politics Among Nations_](https://cssplatformbytha.com/wp-content/uploads/2024/10/Morgenthau_Hans_Joachim__Thompson_Kenneth_W._-_Politics_among_nations___the_struggle_for_power_and_peace-McGraw-Hill_19971.pdf)
+- Stanford Encyclopedia of Philosophy - [Political Realism in International Relations](https://plato.stanford.edu/entries/realism-intl-relations/)
+- Hans Morgenthau - [_Politics Among Nations_](https://cssplatformbytha.com/wp-content/uploads/2024/10/Morgenthau_Hans_Joachim__Thompson_Kenneth_W._-_Politics_among_nations___the_struggle_for_power_and_peace-McGraw-Hill_19971.pdf)
   
 #### Rights, Order, and Forfeiture at Scale 
 
 The same logic of rights and forfeiture that applies to individuals scales to political life. Agents or organized groups that systematically violate the negative rights of others, or that seek to subvert the rights-respecting order itself, may be met with decisive force. Reciprocity and the practical necessity of deterrence justify withholding full rights protections from those who reject the basic framework of non-aggression and mutual restraint.
 
-- Christopher Heath Wellman – [Rights Forfeiture Theory of Punishment](https://cdn.ymaws.com/www.apaonline.org/resource/resmgr/Prizes_&_Awards/Wellman,_Christopher.pdf)
+- Christopher Heath Wellman - [Rights Forfeiture Theory of Punishment](https://cdn.ymaws.com/www.apaonline.org/resource/resmgr/Prizes_&_Awards/Wellman,_Christopher.pdf)
 
 #### Limits of Politics 
 
