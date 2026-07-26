@@ -113,7 +113,7 @@ Supportive of AI, genetic engineering, and transhumanist technologies when consi
 
 America First realism with selective Western imperialism. Prioritize U.S. sovereignty, security, cultural cohesion, and manufacturing strength. Engage forcefully against direct threats (especially Iran and extremist Islam) while avoiding open-ended nation-building. Participate in alliances and institutions only when they clearly serve American interests.
 
-**Interventionism vs Non-Intervention**
+### Interventionism vs Non-Intervention
 
 - Direct intervention justified in areas of clear U.S. strategic interest, particularly against direct enemies such as Iran.
 
@@ -121,7 +121,7 @@ America First realism with selective Western imperialism. Prioritize U.S. sovere
 
 - Favors Western imperialism/colonialism against openly hostile, ethically inferior cultures. Non-hostile cultures should generally be left alone.
 
-**Alliances & NATO**
+### Alliances & NATO
 
 - Reject any alliance that erodes U.S. sovereignty or harms American interests.
 
@@ -129,7 +129,7 @@ America First realism with selective Western imperialism. Prioritize U.S. sovere
 
 - Maintain diplomacy, but never capitulate to allies’ demands or submit to foreign tribunals.
 
-**Trade & Economics**
+### Trade & Economics
 
 - Prioritize and incentivize American manufacturing.
 
@@ -141,7 +141,7 @@ America First realism with selective Western imperialism. Prioritize U.S. sovere
 
 - Treat China as a dangerous strategic rival; trade may continue under the above reciprocal and national-interest conditions.
 
-**Immigration & Borders**
+### Immigration & Borders
 
 - Cultural homogeneity is ideal for societal strength. Diversity has generally proven negative in the short-to-mid term by fostering tribalism and value clashes.
 
@@ -153,7 +153,7 @@ America First realism with selective Western imperialism. Prioritize U.S. sovere
 
 - Abolish birthright citizenship prospectively (existing legal citizenships unaffected).
 
-**Israel & Middle East**
+### Israel & Middle East
 
 - Strong support for Israel as the frontline defense against the Iranian regime and extremist Islam.
 
@@ -161,7 +161,7 @@ America First realism with selective Western imperialism. Prioritize U.S. sovere
 
 - Goal of eradicating extremist Islam as a global force.
 
-**Russia, Ukraine, China/Taiwan**
+### Russia, Ukraine, China/Taiwan
 
 - Russia is an aggressor; support nations fighting it.
 
@@ -169,7 +169,7 @@ America First realism with selective Western imperialism. Prioritize U.S. sovere
 
 - Prioritize intelligence, cybersecurity, and strength-based responses.
 
-**Global Institutions (UN, WHO, ICC, climate accords)**
+### Global Institutions (UN, WHO, ICC, climate accords)
 
 - Participate only if they directly benefit U.S. interests.
 
@@ -177,13 +177,13 @@ America First realism with selective Western imperialism. Prioritize U.S. sovere
 
 - Follow American law and national interest above globalist bureaucracy.
 
-**Military Spending & Projection**
+### Military Spending & Projection
 
 - Current high spending is acceptable; increase if needed for capability gaps.
 
 - Homeland defense is priority #1, but global power projection and offensive deterrence are often necessary extensions of that goal.
 
-**Nuclear & WMD**
+### Nuclear & WMD
 
 - Proliferation cannot be fully reversed.
 
