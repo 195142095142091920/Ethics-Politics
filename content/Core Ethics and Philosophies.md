@@ -32,18 +32,18 @@ I prescribe a sentience-centered system because it is the most coherent and stab
 
 - **Sentientist:**
     1. Moral status and rights attach to beings capable of sentience (or on a clear trajectory toward it under a graduated potentiality + responsibility framework). First-order subjective experience is the basis for moral status.
-       
-       https://en.wikipedia.org/wiki/Sentientism
+    
+       - [Sentientism - Wikipedia](https://en.wikipedia.org/wiki/Sentientism) 
 
 - **Negative-rights focused:** 
     1. Rights primarily function as side-constraints against interference, harm, or rights violations by others (including the state). I generally reject positive rights that force others to provide goods or services. Negative rights are strong side-constraints.
        
-       https://en.wikipedia.org/wiki/Negative_and_positive_rights
+       - [Negative and Positive Rights - Wikipedia](https://en.wikipedia.org/wiki/Negative_and_positive_rights) 
 
 - **Threshold deontologist:** 
     1. I hold firm moral rules (do not violate sentient rights, do not kill the innocent, respect voluntary agreements) that normally override consequentialist calculations — until a sufficiently high threshold of harm or rights violation is reached. At that point, stronger action (including force, forfeiture of the violator’s rights, or intervention) becomes permissible or required. Simply, rights may be overridden only after a clear violation threshold; violators forfeit rights. Fetal moral weight scales with approaching sentience and is primarily grounded in the responsibility trigger of voluntary creation.
        
-       https://plato.stanford.edu/entries/ethics-deontological/
+       - [Deontological Ethics - Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/ethics-deontological/)
 
 
 ---
@@ -63,7 +63,7 @@ I adopt Stoic eudaimonism as my personal operating system for character and dail
 
 Stoic eudaimonism is not a replacement for my political or inter-personal rights framework. It is the personal discipline that allows me to live and act consistently with that framework without being destroyed by anger, resentment, or attachment to outcomes I cannot fully control.
 
-https://vreeman.com/meditations/
+- Meditations - Marcus Aurelius https://vreeman.com/meditations/
 https://en.wikipedia.org/wiki/Eudaimonia
 
 ---
