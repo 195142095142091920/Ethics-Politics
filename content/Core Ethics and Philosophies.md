@@ -7,7 +7,15 @@ I prescribe a sentience-centered system because it is the most coherent and stab
 - Stanford Encyclopedia of Philosophy - [Moral Anti-Realism](https://plato.stanford.edu/entries/moral-anti-realism/)
 
 ---
- 
+
+## **Metaphysics**
+#### Agnostic Atheism 
+
+I am an agnostic atheist. I do not believe in the existence of any gods, while remaining open to the theoretical possibility that evidence could change that assessment. Religious claims are treated as unsupported by sufficient evidence. This stance is personal and does not form the basis of my moral system; my moral system is grounded in my prescribed sentientist framework rather than in any theological foundation.
+
+- Wikipedia - [Agnostic atheism](https://en.wikipedia.org/wiki/Agnostic_atheism)
+
+--- 
 ## **Normative Ethics**
 
 #### Prescriptive Threshold Sentientist Deontology (Negative-rights focused)  
@@ -138,16 +146,6 @@ Politics cannot create virtue, guarantee flourishing, or eliminate all human con
 
 
 ---
-## **Metaphysics**
-
-#### Agnostic Atheism 
-
-I am an agnostic atheist. I do not believe in the existence of any gods, while remaining open to the theoretical possibility that evidence could change that assessment. Religious claims are treated as unsupported by sufficient evidence. This stance is personal and does not form the basis of my moral system; my moral system is grounded in my prescribed sentientist framework rather than in any theological foundation.
-
-- Wikipedia - [Agnostic atheism](https://en.wikipedia.org/wiki/Agnostic_atheism)
-
-
----
 
 ## **Aesthetics**
 
@@ -166,12 +164,8 @@ A culture that rewards rights-respecting order, high agency, developed skill, an
 
 #### A Life of Meaning
 
-Meaning is not discovered as an objective cosmic fact, nor is it purely invented in a vacuum. It is realized through the consistent exercise of agency in accordance with virtue and the prescribed ethical constraints. A meaningful life is one in which the agent develops character, acts rightly toward other sentient beings, and pursues long-term projects that express competence and care.
+Meaning is not discovered as an objective cosmic fact, nor is it purely invented in a vacuum. It is realized through the consistent exercise of agency in accordance with virtue and the prescribed ethical constraints. A meaningful life is one in which the agent develops character, acts rightly toward other sentient beings, and pursues long-term projects that express competence and care. [[#Stoic Eudaimonism]] provides the personal aim: flourishing through rational activity and virtue. Meaning is not a separate mystical property; it is what a well-lived life feels like from the inside when one is meeting the demands of reason and character over time.
 
-#### Role of Eudaemonism
+#### Mortality and Legacy
 
-[[#Stoic Eudaimonism]] provides the personal aim: flourishing through rational activity and virtue. Meaning is not a separate mystical property; it is what a well-lived life feels like from the inside when one is meeting the demands of reason and character over time.
-
-#### Mortality
-
-Mortality is a biological fact, not a moral tragedy that requires supernatural compensation. The appropriate response is clear-eyed acceptance combined with the effort to leave the conditions for other sentient lives better rather than worse. Legacy matters insofar as it reflects actual causal impactcharacter transmitted, rights-respecting order maintained, useful work left behind — not as a demand for eternal remembrance. Purpose is local and agent-centered: to live well within the constraints, to protect what deserves protection, and to avoid adding unnecessary suffering or chaos.
+Mortality is a biological fact, not a moral tragedy that requires supernatural compensation. The appropriate response is clear-eyed acceptance combined with the effort to leave the conditions for other sentient lives better rather than worse. Legacy matters insofar as it reflects actual causal impact - character transmitted, rights-respecting order maintained, useful work left behind - not as a demand for eternal remembrance. Purpose is local and agent-centered: to live well within the constraints, to protect what deserves protection, and to avoid adding unnecessary suffering or chaos.
