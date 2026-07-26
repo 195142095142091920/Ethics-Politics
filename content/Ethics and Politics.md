@@ -90,6 +90,47 @@ I am an agnostic atheist. I do not believe in the existence of any gods, while r
 
 https://en.wikipedia.org/wiki/Agnostic_atheism
 
+
+
+### 1. Robert Nozick – _Anarchy, State, and Utopia_
+
+**What it adds:** This is the strongest modern philosophical defense of **rights as side-constraints**. Nozick argues that individuals have inviolable rights that limit what others (including the state) may do to them, even in pursuit of good outcomes. He supports a minimal state whose primary role is protecting those rights (life, liberty, property).
+
+**Directly supports your claims about:**
+
+- The purpose of the state as protection of negative rights
+- Coercive power being limited by side-constraints
+- Rejection of the state as an engine for equalizing outcomes or providing positive goods
+
+### 2. Stanford Encyclopedia of Philosophy – Political Realism in International Relations
+
+**What it adds:** This entry summarizes the realist tradition: states are the primary actors, they pursue national interest and security, and international politics is shaped by power and survival rather than moral idealism.
+
+**Directly supports your claims about:**
+
+- National interest as the proper guide for foreign relations
+- Sovereignty
+- Skepticism toward subordinating national decisions to external moral or legal authorities
+
+### 3. Hans Morgenthau – _Politics Among Nations_
+
+**What it adds:** The classic 20th-century statement of political realism. Morgenthau argued that politics is governed by objective laws rooted in human nature, that national interest defined in terms of power is the main guide for statesmen, and that moral aspirations must be filtered through political reality.
+
+**Directly supports your claims about:**
+
+- The state owing its primary duty to its own citizens
+- Evaluating alliances and interventions by national interest
+- Limits of idealistic or universalist approaches to foreign policy
+
+### 4. Christopher Heath Wellman – Rights Forfeiture Theory
+
+**What it adds:** Provides the philosophical mechanism for **why** rights can be lost. Wellman argues that by violating the rights of others, an agent forfeits (some of) their own rights, making defensive or punitive force permissible.
+
+**Directly supports your claims about:**
+
+- Rights forfeiture scaling from individuals to organized groups
+- Reciprocity and the justification for decisive action against systematic rights violators
+- The idea that those who reject the basic framework of non-aggression cannot claim its full protections
 ---
 # **Overall Political and Social Character**
 

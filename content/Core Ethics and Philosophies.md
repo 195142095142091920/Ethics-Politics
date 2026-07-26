@@ -131,6 +131,11 @@ The same logic of rights and forfeiture that applies to individuals scales to po
 
 Politics cannot create virtue, guarantee flourishing, or eliminate all human conflict. The state’s role is deliberately narrower: to maintain the external conditions under which individuals can pursue their own ends, including character development and personal flourishing, without being subjected to predation or chaos. Over-extension of political power beyond this function tends to generate new rights violations rather than resolve them.
 
+- Robert Nozick – [_Anarchy, State, and Utopia_](https://eclass.uoa.gr/modules/document/file.php/PPP641/%CE%95%CE%BD%CF%8C%CF%84%CE%B7%CF%84%CE%B1%205%CE%B7:%20%CE%A6%CE%AC%CE%BA%CE%B5%CE%BB%CE%BF%CF%82%20%CE%9C%CE%B1%CE%B8%CE%AE%CE%BC%CE%B1%CF%84%CE%BF%CF%82/Robert%20Nozick%20Anarchy,%20State,%20and%20Utopia%202001.pdf)
+- Stanford Encyclopedia of Philosophy – [Political Realism in International Relations](https://plato.stanford.edu/entries/realism-intl-relations/)
+- Hans Morgenthau – _Politics Among Nations_
+- Christopher Heath Wellman – Rights Forfeiture Theory of Punishment
+
 ---
 ## **Metaphysics**
 
