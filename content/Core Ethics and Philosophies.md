@@ -121,6 +121,16 @@ The legitimate function of the state is the protection of negative rights and th
 Political authority is justified only insofar as it is necessary to secure negative rights and collective security. Coercive power is a tool, not an intrinsic good. It must remain bounded by the same side-constraints that apply to individuals, except where an agent has forfeited rights through serious violation. Expansive state power is accepted only when required to suppress recurrent patterns of rights violation or to defend the community against organized threats.
 
 
+#### Justice 
+
+Justice consists primarily in the reliable protection of negative rights and the impartial application of rules that respect agency and responsibility. A just order secures the conditions under which sentient beings can exercise agency without predation, enforces rights forfeiture against violators, and refrains from using state power to engineer equal outcomes. Distributive patterns are not themselves the measure of justice; the protection of side-constraints and the maintenance of a high-trust framework for cooperation are.
+
+
+#### Philosophy of Law
+
+Law is a practical instrument for securing negative rights and coordinating behavior within a political community. Its authority derives from its necessity in protecting the conditions for rights-respecting order, not from any claim to embody objective moral truth. Valid law should track responsibility and agency, apply rights forfeiture proportionally, and remain limited in scope. When law systematically violates negative rights or abandons impartial enforcement, it loses legitimacy and may justly be resisted.
+
+
 #### Sovereignty and Borders
 
 A political community has the right to maintain its sovereignty and to control its borders. Because high-trust, cohesive societies better protect negative rights in practice, a people may legitimately prefer cultural continuity and selective immigration that preserves the conditions for mutual cooperation and rights-respecting order. Open-ended demographic transformation that erodes those conditions ought be avoided.
