@@ -114,7 +114,7 @@ Political authority is justified only insofar as it is necessary to secure negat
 
 #### Sovereignty and Borders
 
-A political community has the right to maintain its sovereignty and to control its borders. Because high-trust, relatively cohesive societies better protect negative rights in practice, a people may legitimately prefer cultural continuity and selective immigration that preserves the conditions for mutual cooperation and rights-respecting order. Open-ended demographic transformation that erodes those conditions is not a moral requirement.
+A political community has the right to maintain its sovereignty and to control its borders. Because high-trust, cohesive societies better protect negative rights in practice, a people may legitimately prefer cultural continuity and selective immigration that preserves the conditions for mutual cooperation and rights-respecting order. Open-ended demographic transformation that erodes those conditions ought be avoided.
 
 
 #### National Interest and Foreign Relations 
