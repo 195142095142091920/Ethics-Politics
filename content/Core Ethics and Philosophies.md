@@ -48,7 +48,7 @@ https://plato.stanford.edu/entries/moral-anti-realism/
 
 ---
 
-## **Personal Ethical Practice:**
+## **Personal Ethical Practice**
 
 #### Stoic Eudaimonism
 
@@ -68,7 +68,7 @@ https://en.wikipedia.org/wiki/Eudaimonia
 
 ---
 
-## **Personal Religious Stance:**
+## **Personal Religious Stance**
 
 #### Agnostic Atheism 
 
