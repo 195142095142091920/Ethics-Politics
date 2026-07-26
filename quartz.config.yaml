@@ -162,6 +162,7 @@ plugins:
     layout:
       position: left
       priority: 50
+      condition: not-index
   - source: "@quartz-community/graph"
     enabled: false
     layout:
