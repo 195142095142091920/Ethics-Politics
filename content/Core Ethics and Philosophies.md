@@ -4,7 +4,7 @@
 
 I prescribe a sentience-centered system because it is the most coherent and stably consistent framework available. I do not claim objective moral truth.  
 
-- [Moral Anti-Realism - Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/moral-anti-realism/)
+- Stanford Encyclopedia of Philosophy - [Moral Anti-Realism](https://plato.stanford.edu/entries/moral-anti-realism/)
 
 ---
  
@@ -33,17 +33,17 @@ I prescribe a sentience-centered system because it is the most coherent and stab
 - **Sentientist:**
     1. Moral status and rights attach to beings capable of sentience (or on a clear trajectory toward it under a graduated potentiality + responsibility framework). First-order subjective experience is the basis for moral status.
     
-       - [Sentientism - Wikipedia](https://en.wikipedia.org/wiki/Sentientism) 
+       - Wikipedia - [Sentientism](https://en.wikipedia.org/wiki/Sentientism) 
 
 - **Negative-rights focused:** 
     1. Rights primarily function as side-constraints against interference, harm, or rights violations by others (including the state). I generally reject positive rights that force others to provide goods or services. Negative rights are strong side-constraints.
        
-       - [Negative and Positive Rights - Wikipedia](https://en.wikipedia.org/wiki/Negative_and_positive_rights) 
+       - Wikipedia - [Negative and Positive Rights](https://en.wikipedia.org/wiki/Negative_and_positive_rights) 
 
 - **Threshold deontologist:** 
     1. I hold firm moral rules (do not violate sentient rights, do not kill the innocent, respect voluntary agreements) that normally override consequentialist calculations — until a sufficiently high threshold of harm or rights violation is reached. At that point, stronger action (including force, forfeiture of the violator’s rights, or intervention) becomes permissible or required. Simply, rights may be overridden only after a clear violation threshold; violators forfeit rights. Fetal moral weight scales with approaching sentience and is primarily grounded in the responsibility trigger of voluntary creation.
        
-       - [Deontological Ethics - Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/ethics-deontological/)
+       - Stanford Encyclopedia of Philosophy - [Deontological Ethics](https://plato.stanford.edu/entries/ethics-deontological/)
 
 
 ---
@@ -63,8 +63,8 @@ I adopt Stoic eudaimonism as my personal operating system for character and dail
 
 Stoic eudaimonism is not a replacement for my political or inter-personal rights framework. It is the personal discipline that allows me to live and act consistently with that framework without being destroyed by anger, resentment, or attachment to outcomes I cannot fully control.
 
-- [Meditations - Marcus Aurelius](https://vreeman.com/meditations/)
-- [Eudaimonia - Wikipedia](https://en.wikipedia.org/wiki/Eudaimonia)
+- Marcus Aurelius - [Meditations](https://vreeman.com/meditations/)
+- Wikipedia - [Eudaimonia](https://en.wikipedia.org/wiki/Eudaimonia)
 
 ---
 ## **Moral Psychology**
@@ -73,8 +73,8 @@ Stoic eudaimonism is not a replacement for my political or inter-personal rights
 
 A being becomes a full moral agent under this framework when it possesses sufficient first-order subjective experience combined with the capacity for intentional action and foresight of consequences. Agency is not binary in all cases; it scales with cognitive and experiential sophistication. Once agency is present, the being can generate duties through voluntary choices (most clearly seen in the responsibility trigger of voluntary procreation) and can forfeit rights through deliberate violations of others’ negative rights. Non-agent sentient beings (e.g., many animals or fetuses) retain moral status through sentience alone but do not bear the same responsibilities.
 
-- [Agency - Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/agency/)
-- [Moral Responsibility - Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/moral-responsibility/) 
+- Stanford Encyclopedia of Philosophy - [Agency](https://plato.stanford.edu/entries/agency/)
+- Stanford Encyclopedia of Philosophy - [Moral Responsibility](https://plato.stanford.edu/entries/moral-responsibility/) 
 
 #### Moral Motivation 
 
@@ -82,22 +82,22 @@ Because this system is anti-realist, moral motivation cannot rely on the belief 
 1. Rational recognition that the sentience-based negative-rights framework is the most coherent and stable system available for protecting subjective experience 
 2. The personal cultivation of character through Stoicism. The agent chooses to uphold the framework because it is the best available coordination system and because living in accordance with it supports personal flourishing ([[#Stoic Eudaimonism]]). External enforcement remains necessary for those who reject the prescription.
 
-- [Moral Motivation - Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/moral-motivation/)
+- Stanford Encyclopedia of Philosophy - [Moral Motivation](https://plato.stanford.edu/entries/moral-motivation/)
 
 
 #### Weakness of Will (Akrasia) 
 
 Weakness of will is acknowledged as a persistent human tendency. Knowing the correct action under the prescribed rules does not guarantee performance. Stoic discipline is the primary countermeasure: training judgment, focusing only on what is within one’s control, and repeatedly aligning impulse with reasoned principle. The framework itself does not excuse akrasia; failure to act rightly when one had the capacity remains a personal shortcoming, though the political system concerns itself primarily with outward rights violations rather than inner moral failure.
 
-- [Weakness of Will - Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/weakness-will/)
+- Stanford Encyclopedia of Philosophy - [Weakness of Will](https://plato.stanford.edu/entries/weakness-will/)
 
 
 #### Moral Psychology of Rights & Forfeiture 
 
 Humans readily grasp the logic of negative rights and proportional response when the framework is stated clearly. Rights are understood as side-constraints against interference. When an agent knowingly and wantonly violates those constraints, especially through repeated or severe predation that erodes trust, forfeiture of corresponding rights becomes both intelligible and motivating to observers. The psychological force of forfeiture lies in reciprocity and desert: those who refuse to respect the basic negative rights of others cannot claim the full protection of those same rights. This supports decisive enforcement without requiring belief in objective moral truth—only recognition of the practical necessity of the prescribed rules.
 
-- [The Rights Forfeiture Theory of Punishment - Christopher Heath Wellman](https://cdn.ymaws.com/www.apaonline.org/resource/resmgr/Prizes_&_Awards/Wellman,_Christopher.pdf)
-- [Retributive Justice - Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/justice-retributive/)
+- Christopher Heath Wellman - [The Rights Forfeiture Theory of Punishment](https://cdn.ymaws.com/www.apaonline.org/resource/resmgr/Prizes_&_Awards/Wellman,_Christopher.pdf)
+- Stanford Encyclopedia of Philosophy - [Retributive Justice](https://plato.stanford.edu/entries/justice-retributive/)
 
 ---
 ## **Political Philosophy**
@@ -106,7 +106,8 @@ Humans readily grasp the logic of negative rights and proportional response when
 
 The legitimate function of the state is the protection of negative rights and the security of the political community that sustains them. The state exists first to prevent and punish violations of life, liberty, and property, and to defend the community against external and internal threats that would destroy the conditions for those rights. It is not primarily an engine for equalizing outcomes, enforcing comprehensive moral visions, or guaranteeing positive goods.
 
-
+- Robert Nozick – [_Anarchy, State, and Utopia_](https://eclass.uoa.gr/modules/document/file.php/PPP641/%CE%95%CE%BD%CF%8C%CF%84%CE%B7%CF%84%CE%B1%205%CE%B7:%20%CE%A6%CE%AC%CE%BA%CE%B5%CE%BB%CE%BF%CF%82%20%CE%9C%CE%B1%CE%B8%CE%AE%CE%BC%CE%B1%CF%84%CE%BF%CF%82/Robert%20Nozick%20Anarchy,%20State,%20and%20Utopia%202001.pdf)
+  
 #### Political Authority and Coercion
 
 Political authority is justified only insofar as it is necessary to secure negative rights and collective security. Coercive power is a tool, not an intrinsic good. It must remain bounded by the same side-constraints that apply to individuals, except where an agent has forfeited rights through serious violation. Expansive state power is accepted only when required to suppress recurrent patterns of rights violation or to defend the community against organized threats.
@@ -121,20 +122,20 @@ A political community has the right to maintain its sovereignty and to control i
 
 The state retains a primary duty to its own citizens. Alliances, interventions, and international commitments are evaluated according to whether they advance the security and long-term interests of the political community. No foreign tribunal or external authority holds legitimate veto power over decisions necessary for national survival or the protection of citizens’ rights.
 
-
+- Stanford Encyclopedia of Philosophy – [Political Realism in International Relations](https://plato.stanford.edu/entries/realism-intl-relations/)
+- Hans Morgenthau – [_Politics Among Nations_](https://cssplatformbytha.com/wp-content/uploads/2024/10/Morgenthau_Hans_Joachim__Thompson_Kenneth_W._-_Politics_among_nations___the_struggle_for_power_and_peace-McGraw-Hill_19971.pdf)
+  
 #### Rights, Order, and Forfeiture at Scale 
 
 The same logic of rights and forfeiture that applies to individuals scales to political life. Agents or organized groups that systematically violate the negative rights of others, or that seek to subvert the rights-respecting order itself, may be met with decisive force. Reciprocity and the practical necessity of deterrence justify withholding full rights protections from those who reject the basic framework of non-aggression and mutual restraint.
 
+- Christopher Heath Wellman – [Rights Forfeiture Theory of Punishment](https://cdn.ymaws.com/www.apaonline.org/resource/resmgr/Prizes_&_Awards/Wellman,_Christopher.pdf)
 
 #### Limits of Politics 
 
 Politics cannot create virtue, guarantee flourishing, or eliminate all human conflict. The state’s role is deliberately narrower: to maintain the external conditions under which individuals can pursue their own ends, including character development and personal flourishing, without being subjected to predation or chaos. Over-extension of political power beyond this function tends to generate new rights violations rather than resolve them.
 
-- Robert Nozick – [_Anarchy, State, and Utopia_](https://eclass.uoa.gr/modules/document/file.php/PPP641/%CE%95%CE%BD%CF%8C%CF%84%CE%B7%CF%84%CE%B1%205%CE%B7:%20%CE%A6%CE%AC%CE%BA%CE%B5%CE%BB%CE%BF%CF%82%20%CE%9C%CE%B1%CE%B8%CE%AE%CE%BC%CE%B1%CF%84%CE%BF%CF%82/Robert%20Nozick%20Anarchy,%20State,%20and%20Utopia%202001.pdf)
-- Stanford Encyclopedia of Philosophy – [Political Realism in International Relations](https://plato.stanford.edu/entries/realism-intl-relations/)
-- Hans Morgenthau – [_Politics Among Nations_](https://cssplatformbytha.com/wp-content/uploads/2024/10/Morgenthau_Hans_Joachim__Thompson_Kenneth_W._-_Politics_among_nations___the_struggle_for_power_and_peace-McGraw-Hill_19971.pdf)
-- Christopher Heath Wellman – Rights Forfeiture Theory of Punishment
+
 
 ---
 ## **Metaphysics**
