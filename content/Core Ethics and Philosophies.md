@@ -1,6 +1,6 @@
 ## **Meta-Ethics**
 
-### Moral anti-realism
+#### Moral anti-realism
 
 I prescribe a sentience-centered system because it is the most coherent and stably consistent framework available. I do not claim objective moral truth.  
 
@@ -10,7 +10,7 @@ https://plato.stanford.edu/entries/moral-anti-realism/
  
 ## **Core Ethical Framework**
 
-### Prescriptive Threshold Sentientist Deontology (Negative-rights focused)  
+#### Prescriptive Threshold Sentientist Deontology (Negative-rights focused)  
 
 #### Axioms
 
@@ -28,7 +28,7 @@ https://plato.stanford.edu/entries/moral-anti-realism/
 
 7. All moral and political rules within this system must remain consistent with the prescribed primacy of subjective experience. This framework is not claimed as an objective moral fact, but as a coherent system I choose to endorse and seek to enforce.
 
-#### Summary:
+#### Summary
 
 - **Sentientist:**
     1. Moral status and rights attach to beings capable of sentience (or on a clear trajectory toward it under a graduated potentiality + responsibility framework). First-order subjective experience is the basis for moral status.
@@ -50,7 +50,7 @@ https://plato.stanford.edu/entries/moral-anti-realism/
 
 ## **Personal Ethical Practice:**
 
-### Stoic Eudaimonism
+#### Stoic Eudaimonism
 
 I adopt Stoic eudaimonism as my personal operating system for character and daily conduct. Key elements I take from it:
 
@@ -70,7 +70,7 @@ https://en.wikipedia.org/wiki/Eudaimonia
 
 ## **Personal Religious Stance:**
 
-### Agnostic Atheism 
+#### Agnostic Atheism 
 
 I am an agnostic atheist. I do not believe in the existence of any gods, while remaining open to the theoretical possibility that evidence could change that assessment. Religious claims are treated as unsupported by sufficient evidence. This stance is personal and does not form the basis of my moral system; my moral system is grounded in my prescribed sentientist framework rather than in any theological foundation.
 
