@@ -67,7 +67,37 @@ https://vreeman.com/meditations/
 https://en.wikipedia.org/wiki/Eudaimonia
 
 ---
+## **Moral Psychology**
 
+#### Theory of Agency 
+
+A being becomes a full moral agent under this framework when it possesses sufficient first-order subjective experience combined with the capacity for intentional action and foresight of consequences. Agency is not binary in all cases; it scales with cognitive and experiential sophistication. Once agency is present, the being can generate duties through voluntary choices (most clearly seen in the responsibility trigger of voluntary procreation) and can forfeit rights through deliberate violations of others’ negative rights. Non-agent sentient beings (e.g., many animals or fetuses) retain moral status through sentience alone but do not bear the same responsibilities.
+
+- https://plato.stanford.edu/entries/agency/
+- https://plato.stanford.edu/entries/moral-responsibility/
+
+#### Moral Motivation 
+
+Because this system is anti-realist, moral motivation cannot rely on the belief that moral facts exist independently of human prescription. Motivation instead rests on two pillars: 
+1. Rational recognition that the sentience-based negative-rights framework is the most coherent and stable system available for protecting subjective experience 
+2. The personal cultivation of character through Stoicism. The agent chooses to uphold the framework because it is the best available coordination system and because living in accordance with it supports personal flourishing ([[#Stoic Eudaimonism]]). External enforcement remains necessary for those who reject the prescription.
+
+- https://plato.stanford.edu/entries/moral-motivation/
+
+#### Weakness of Will (Akrasia) 
+
+Weakness of will is acknowledged as a persistent human tendency. Knowing the correct action under the prescribed rules does not guarantee performance. Stoic discipline is the primary countermeasure: training judgment, focusing only on what is within one’s control, and repeatedly aligning impulse with reasoned principle. The framework itself does not excuse akrasia; failure to act rightly when one had the capacity remains a personal shortcoming, though the political system concerns itself primarily with outward rights violations rather than inner moral failure.
+
+- https://plato.stanford.edu/entries/weakness-will/
+
+#### Moral Psychology of Rights & Forfeiture 
+
+Humans readily grasp the logic of negative rights and proportional response when the framework is stated clearly. Rights are understood as side-constraints against interference. When an agent knowingly and wantonly violates those constraints, especially through repeated or severe predation that erodes trust, forfeiture of corresponding rights becomes both intelligible and motivating to observers. The psychological force of forfeiture lies in reciprocity and desert: those who refuse to respect the basic negative rights of others cannot claim the full protection of those same rights. This supports decisive enforcement without requiring belief in objective moral truth—only recognition of the practical necessity of the prescribed rules.
+
+- https://cdn.ymaws.com/www.apaonline.org/resource/resmgr/Prizes_&_Awards/Wellman,_Christopher.pdf
+- https://plato.stanford.edu/entries/justice-retributive/
+
+---
 ## **Metaphysics**
 
 #### Agnostic Atheism 
