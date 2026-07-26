@@ -50,8 +50,6 @@ https://plato.stanford.edu/entries/moral-anti-realism/
 
 ## **Personal Ethical Practice:**
 
-
-Eudaemonism (the personal aim of flourishing through virtue and rational living, pursued within the constraints of the prescribed rights framework)
 ### Stoic Eudaimonism
 
 I adopt Stoic eudaimonism as my personal operating system for character and daily conduct. Key elements I take from it:
