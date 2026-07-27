@@ -14,6 +14,6 @@ Preference for the nuclear family and traditional social patterns as the proven 
 
 Hardline orientation on crime: expanded use of imprisonment, support for the death penalty in serious cases, and decisive action against cartels and chronic rights violators. Substantial state coercive power is accepted as necessary to suppress recurrent tendencies toward predation and disorder. Islamist and communist ideologies are treated as civilizational and security threats due to their systematic hostility to the Western rights-based framework.
 
-## **The Future and Technology:** 
+## **The Future and Technology** 
 
 Techno-optimist within the bounds of the prescribed sentientist constraints. Support for AI, genetic technologies, and related advances. Any emergent AI sentience is recognized under the ethical framework but remains subject to decisive termination if it poses a systemic threat to the rights-respecting order.
