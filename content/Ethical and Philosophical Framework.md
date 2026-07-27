@@ -161,7 +161,7 @@ Politics cannot create virtue, guarantee flourishing, or eliminate all human con
 
 #### Beauty
 
-Beauty in the fullest sense is found in clarity, competence, and order. These are valuable because they are often the conditions under which sentient beings can live well and exercise agency without constant friction. Rights-respecting order - expressed through law, discipline, high agency, and care - generates a deeper form of beauty that frequently produces visible beauty in objects and environments. Natural visual beauty can exist independently of ethics: nature may be visually striking while remaining ethically indifferent or even harsh.
+Beauty in the fullest sense is found in clarity, competence, and order. These are valuable because they are often the conditions under which sentient beings can live well and exercise agency without constant friction. Rights-respecting order - expressed through law, discipline, high agency, and care - generates a deeper form of beauty that frequently produces visible beauty in objects and environments. Natural visual beauty can exist independently of ethics: nature may be visually striking while remaining ethically indifferent or abominable.
 
 #### Artistry
 
