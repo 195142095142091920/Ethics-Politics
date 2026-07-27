@@ -20,3 +20,24 @@
   overflow: visible !important;
   max-height: none !important;
 }
+
+/* Remove purple highlight from H1 links on the homepage */
+
+body[data-slug="/"] h1 a,
+body[data-slug=""] h1 a,
+.page h1 a {
+  color: var(--dark) !important;
+  background-color: transparent !important;
+  padding: 0 !important;
+  border-radius: 0 !important;
+  text-decoration: none !important;
+  box-shadow: none !important;
+}
+
+body[data-slug="/"] h1 a:hover,
+body[data-slug=""] h1 a:hover,
+.page h1 a:hover {
+  color: var(--secondary) !important;
+  text-decoration: underline !important;
+  background-color: transparent !important;
+}
