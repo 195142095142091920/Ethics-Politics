@@ -2,19 +2,18 @@
 
 // put your custom CSS here!
 
-/* Force TOC to stay expanded and hide the fold arrow */
+/* Only affect the Table of Contents when it exists */
 
-.toc-header {
-  pointer-events: none !important; /* disables clicking */
+.toc .toc-header {
+  pointer-events: none !important;
   cursor: default !important;
 }
 
-.toc-header .fold {
-  display: none !important; /* hides the arrow */
+.toc .toc-header .fold {
+  display: none !important;
 }
 
-/* Make sure the content stays visible */
-.toc-content {
+.toc .toc-content {
   display: block !important;
   height: auto !important;
   overflow: visible !important;
