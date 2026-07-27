@@ -1,12 +1,27 @@
 @use "./variables.scss" as *;
 
 // put your custom CSS here!
-/* Disable TOC collapsing and hide the arrow */
-.toc summary {
-  pointer-events: none;
-}
 
-.toc summary::-webkit-details-marker,
-.toc summary::marker {
-  display: none;
+/* Disable TOC collapsing and hide the arrow */
+.toc {
+  details {
+    summary {
+      pointer-events: none;   /* prevents clicking */
+      list-style: none;       /* removes default arrow in some browsers */
+    }
+
+    summary::-webkit-details-marker {
+      display: none;          /* hides the arrow in Chrome/Safari */
+    }
+
+    summary::marker {
+      display: none;          /* hides the arrow in Firefox */
+    }
+  }
+
+  /* Force it to stay open */
+  details[open],
+  details {
+    open: true;
+  }
 }
