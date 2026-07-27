@@ -28,11 +28,11 @@ On minimum wages the evidence is genuinely contested. Some well-known studies (n
 
 **Sources**
 - Our World in Data – [Economic Growth](https://ourworldindata.org/economic-growth)
-- Fraser Institute – [Economic Freedom of the World](https://www.fraserinstitute.org/studies/economic-freedom-world-2025-annual-report)
+- Fraser Institute – [Economic Freedom of the World](https://www.fraserinstitute.org/sites/default/files/2025-10/economic-freedom-of-the-world-2025-annual-report.pdf)
 - David Neumark – [Employment effects of minimum wages](https://wol.iza.org/uploads/articles/464/pdfs/employment-effects-of-minimum-wages.pdf)
 - Card & Krueger – [Minimum Wages and Employment: A Case Study of the Fast-Food Industry in New Jersey and Pennsylvania](https://davidcard.berkeley.edu/papers/njmin-aer.pdf)
 - Doucouliagos & Stanley - [Employment Effect of Minimum Wages](https://www.mdpi.com/2673-8392/2/4/130)
-- Wolfson & Belman meta-analyses on minimum-wage employment effects
+- Wolfson & Belman - [15 Years of Research on U.S. Employment and the Minimum Wage](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2705499)
 - Cato Institute – [Corporate Welfare in the Federal Budget](https://www.cato.org/policy-analysis/corporate-welfare-federal-budget-0)
 ---
 ## **Taxation** 
