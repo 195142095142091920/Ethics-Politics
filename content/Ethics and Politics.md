@@ -132,27 +132,27 @@ https://en.wikipedia.org/wiki/Agnostic_atheism
 - Reciprocity and the justification for decisive action against systematic rights violators
 - The idea that those who reject the basic framework of non-aggression cannot claim its full protections
 ---
-# **Overall Political and Social Character**
+# **Political and Social Character**
 
-## **Nationalist / America First:** 
+## Civilizational Nationalism
 
-Prioritize cultural cohesion, high-trust society, strict immigration with cultural compatibility, strong borders, and national sovereignty.  
+Priority is given to cultural cohesion, high-trust social conditions, national sovereignty, and strong borders. Immigration policy should be selective and oriented toward cultural compatibility. The state’s primary duties are to its own citizens and the long-term continuity of the political community.
 
-## **Limited-government economic views:** 
+## Economic Orientation 
 
-Free-market leaning, flat tax preference, minimal mandatory welfare, skepticism of subsidies and redistribution.
+Free-market leaning with a preference for low, simple taxation (including flat tax structures). Mandatory welfare and large-scale redistribution are viewed with skepticism. Subsidies and industrial policy should be minimal and tightly justified.
 
-## **Cultural traditionalism:** 
+## Cultural Stance
 
-Preference for the nuclear family and traditional gender roles (not mandated), strong opposition to identity politics and DEI, free-speech absolutist.  
+Preference for the nuclear family and traditional social patterns as the proven default, without requiring legal mandates for private life. Strong opposition to identity politics and DEI frameworks. Free speech is treated as a near-absolutist value, with narrow exceptions for direct threats and clear subversive ideologies that reject the rights-based order.
 
-## **Order and security:** 
+## **Order and Security** 
 
-Hardline on crime, expanded death penalty, expanded prisons, decisive action against cartels and rights violators, selective hawkishness against civilizational threats. Substantial state coercive power is accepted as necessary to suppress recurrent human tendencies toward rights violation. Islamist and communist ideologies are treated as threat-level due to their subversive and anti-Western character.
+Hardline orientation on crime: expanded use of imprisonment, support for the death penalty in serious cases, and decisive action against cartels and chronic rights violators. Substantial state coercive power is accepted as necessary to suppress recurrent tendencies toward predation and disorder. Islamist and communist ideologies are treated as civilizational and security threats due to their systematic hostility to the Western rights-based framework.
 
-## **Techno-optimist:** 
+## **The Future and Technology:** 
 
-Supportive of AI, genetic engineering, and transhumanist technologies when consistent with the prescribed sentientist constraints. AI sentience is recognized but remains subject to emergency termination if it endangers the broader system of rights.  
+Techno-optimist within the bounds of the prescribed sentientist constraints. Support for AI, genetic technologies, and related advances. Any emergent AI sentience is recognized under the ethical framework but remains subject to decisive termination if it poses a systemic threat to the rights-respecting order.
   
   
 ---
