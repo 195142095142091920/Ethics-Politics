@@ -9,7 +9,7 @@ Limited government, individual responsibility, low taxation, and maximum cultura
 
 Market-based systems grounded in secure property rights and price signals have produced the largest sustained gains in material living standards, poverty reduction, and innovation in recorded history. Comparative evidence favors these systems over socialist or heavily state-directed alternatives. Historical cases of sustained socialist organization produced chronic shortages, lower productivity, and eventual stagnation or collapse relative to more market-oriented peers; hybrid systems that preserved significant private ownership and price signals performed better than those that suppressed them.
 
-The state’s economic role should remain limited to core public goods — national defense, domestic public safety, courts, and basic infrastructure — plus a narrow set of evidence-based rules against force, fraud, and severe safety failures. Broad economic management, industrial planning, and taxpayer-funded corporate subsidies are rejected. A modest, slowly adjusted minimum-wage floor can be tolerated as a practical compromise; large or rapid increases are opposed on employment and cost grounds. In an age of advancing automation, a future modest citizen dividend framed as a share of national output remains conceivable, but only if it stays universal, limited, and does not expand mandatory redistribution or undermine work.
+The state’s economic role should remain limited to core public goods - national defense, domestic public safety, courts, and basic infrastructure - plus a narrow set of evidence-based rules against force, fraud, and severe safety failures. Broad economic management, industrial planning, and taxpayer-funded corporate subsidies are rejected. A modest, slowly adjusted minimum-wage floor can be tolerated as a practical compromise; large or rapid increases are opposed on employment and cost grounds. In an age of advancing automation, a future modest citizen dividend framed as a share of national output remains conceivable, but only if it stays universal, limited, and does not expand mandatory redistribution or undermine work.
 
 #### Key Elements
 
@@ -49,7 +49,7 @@ On minimum wages the evidence is genuinely contested. Some well-known studies (n
 > A small, slowly rising floor probably doesn’t do huge damage. Big, rapid jumps are more likely to cost some low-skilled people their jobs or hours and to raise prices. The research is genuinely mixed, so the honest position is caution: modest is tolerable, aggressive is risky.
 > 
 > **Looking ahead to automation.** 
-> If machines eventually produce a lot more wealth with less human labor, a small universal payment tied to overall economic output *might* make sense someday. But it has to stay small and universal — not turn into another big redistributive welfare system that discourages work.
+> If machines eventually produce a lot more wealth with less human labor, a small universal payment tied to overall economic output *might* make sense someday. But it has to stay small and universal, not turn into another big redistributive welfare system that discourages work.
 > 
 > **Bottom line in plain English:** 
 > Let markets do most of the heavy lifting because they have the best record at creating widespread prosperity. Keep government focused on the basics and on stopping clear harm. Avoid special favors for corporations. Be careful with wage mandates. Stay open to new ideas if technology changes the game, but don’t abandon the principles that produced the gains we already have.
