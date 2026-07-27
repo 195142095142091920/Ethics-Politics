@@ -2,22 +2,32 @@
 
 // put your custom CSS here!
 
-/* Only affect the Table of Contents when it exists */
+/* Force right-hand TOC to stay permanently open and hide the arrow */
 
-.toc .toc-header {
-  pointer-events: none !important;
-  cursor: default !important;
-}
+.toc {
+  .toc-header {
+    pointer-events: none !important;
+    cursor: default !important;
+  }
 
-.toc .toc-header .fold {
-  display: none !important;
-}
+  .toc-header svg,
+  .toc-header .fold,
+  .fold {
+    display: none !important;
+    visibility: hidden !important;
+    opacity: 0 !important;
+    width: 0 !important;
+    height: 0 !important;
+  }
 
-.toc .toc-content {
-  display: block !important;
-  height: auto !important;
-  overflow: visible !important;
-  max-height: none !important;
+  .toc-content,
+  .toc-content.overflow,
+  ul.toc-content {
+    display: block !important;
+    height: auto !important;
+    max-height: none !important;
+    overflow: visible !important;
+  }
 }
 
 /* Remove purple highlight from H1 links on the homepage */
