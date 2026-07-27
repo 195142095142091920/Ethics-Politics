@@ -2,7 +2,7 @@
 draft: "true"
 ---
 
-# **Core Ethics and Philosophy**
+# **Ethics and Philosophical Framework**
 
 | Your Position          | Closest Philosopher(s)                |
 | ---------------------- | ------------------------------------- |
