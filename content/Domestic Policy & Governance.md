@@ -34,6 +34,27 @@ On minimum wages the evidence is genuinely contested. Some well-known studies (n
 - Doucouliagos & Stanley - [Employment Effect of Minimum Wages](https://www.mdpi.com/2673-8392/2/4/130)
 - Wolfson & Belman - [15 Years of Research on U.S. Employment and the Minimum Wage](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2705499)
 - Cato Institute – [Corporate Welfare in the Federal Budget](https://www.cato.org/policy-analysis/corporate-welfare-federal-budget-0)
+
+> [!note]- Simple Explanation
+> **Markets work better than the alternatives for making people richer over time.**  
+> Countries and periods that protected private property and let prices and competition guide most decisions produced higher living standards, less extreme poverty, and more innovation than systems that put the state in charge of most production and prices. The big historical examples (Soviet bloc vs. the West, North vs. South Korea, Venezuela’s collapse, China’s growth after it allowed more markets) all point in the same direction.
+> 
+> **Government still has a limited, important job.** 
+> It needs to handle defense, basic law and order, courts, and core infrastructure. It also needs a few clear rules against force, fraud, and serious safety dangers. Beyond that, when government tries to heavily manage the economy or pick winners with subsidies, the results are usually wasteful and favor the politically connected.
+> 
+> **Corporate subsidies are mostly a bad deal.** 
+> Taxpayers currently spend large amounts supporting specific companies. The track record shows these programs rarely deliver the promised broad benefits and often just reward lobbying.
+> 
+> **Minimum wage is more complicated.** 
+> A small, slowly rising floor probably doesn’t do huge damage. Big, rapid jumps are more likely to cost some low-skilled people their jobs or hours and to raise prices. The research is genuinely mixed, so the honest position is caution: modest is tolerable, aggressive is risky.
+> 
+> **Looking ahead to automation.** 
+> If machines eventually produce a lot more wealth with less human labor, a small universal payment tied to overall economic output *might* make sense someday. But it has to stay small and universal — not turn into another big redistributive welfare system that discourages work.
+> 
+> **Bottom line in plain English:** 
+> Let markets do most of the heavy lifting because they have the best record at creating widespread prosperity. Keep government focused on the basics and on stopping clear harm. Avoid special favors for corporations. Be careful with wage mandates. Stay open to new ideas if technology changes the game, but don’t abandon the principles that produced the gains we already have.
+
+
 ---
 ## **Taxation** 
 
