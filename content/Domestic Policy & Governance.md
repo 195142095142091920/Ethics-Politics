@@ -20,9 +20,20 @@ The state’s economic role should remain limited to core public goods — natio
 - Acceptance of a low, inflation-adjusted wage floor; opposition to aggressive minimum-wage policy.
 - Conditional openness to a future productivity-linked citizen dividend under strict constraints.
 
-**Rationale** Comparative historical evidence shows that societies with greater economic freedom and stronger market institutions have achieved higher long-run growth, faster poverty reduction, and greater consumer abundance than those that suppressed private property and price signals. Targeted safety and anti-fraud rules address real market failures, but regulatory scope expands easily and is prone to capture; therefore the burden of proof remains on further intervention. Corporate subsidies distort capital allocation and reward political connection more reliably than economic value.
+#### Rationale 
+
+Comparative historical evidence shows that societies with greater economic freedom and stronger market institutions have achieved higher long-run growth, faster poverty reduction, and greater consumer abundance than those that suppressed private property and price signals. Targeted safety and anti-fraud rules address real market failures, but regulatory scope expands easily and is prone to capture; therefore the burden of proof remains on further intervention. Corporate subsidies distort capital allocation and reward political connection more reliably than economic value.
 
 On minimum wages the evidence is genuinely contested. Some well-known studies (notably Card & Krueger) find little or no employment loss from moderate increases. Other research and several meta-analyses find negative employment effects, particularly for teenagers and the least skilled, with the size of the effect varying by the magnitude of the increase and local labor-market conditions. The weight of evidence does not support large or rapid increases as costless. A modest floor remains compatible with the overall framework; aggressive minimum-wage policy does not.
+
+**Sources**
+- Our World in Data – [Economic Growth](https://ourworldindata.org/economic-growth)
+- Fraser Institute – [Economic Freedom of the World](https://www.fraserinstitute.org/studies/economic-freedom-world-2025-annual-report)
+- David Neumark – [Employment effects of minimum wages](https://wol.iza.org/uploads/articles/464/pdfs/employment-effects-of-minimum-wages.pdf)
+- Card & Krueger – [Minimum Wages and Employment: A Case Study of the Fast-Food Industry in New Jersey and Pennsylvania](https://davidcard.berkeley.edu/papers/njmin-aer.pdf)
+- Doucouliagos & Stanley - [Employment Effect of Minimum Wages](https://www.mdpi.com/2673-8392/2/4/130)
+- Wolfson & Belman meta-analyses on minimum-wage employment effects
+- Cato Institute – [Corporate Welfare in the Federal Budget](https://www.cato.org/policy-analysis/corporate-welfare-federal-budget-0)
 ---
 ## **Taxation** 
 
