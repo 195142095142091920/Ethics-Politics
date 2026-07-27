@@ -2,27 +2,21 @@
 
 // put your custom CSS here!
 
-/* Force Table of Contents to stay permanently expanded and hide the arrow */
+/* Force TOC to stay expanded and hide the fold arrow */
 
-.toc details {
-  open: true !important;
-}
-
-.toc details summary {
-  pointer-events: none !important;
+.toc-header {
+  pointer-events: none !important; /* disables clicking */
   cursor: default !important;
-  list-style: none !important;
 }
 
-.toc details summary::-webkit-details-marker {
-  display: none !important;
+.toc-header .fold {
+  display: none !important; /* hides the arrow */
 }
 
-.toc details summary::marker {
-  display: none !important;
-}
-
-/* Extra insurance - prevent any collapse animation/height issues */
-.toc details:not([open]) {
-  open: true !important;
+/* Make sure the content stays visible */
+.toc-content {
+  display: block !important;
+  height: auto !important;
+  overflow: visible !important;
+  max-height: none !important;
 }
