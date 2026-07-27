@@ -2,26 +2,27 @@
 
 // put your custom CSS here!
 
-/* Disable TOC collapsing and hide the arrow */
-.toc {
-  details {
-    summary {
-      pointer-events: none;   /* prevents clicking */
-      list-style: none;       /* removes default arrow in some browsers */
-    }
+/* Force Table of Contents to stay permanently expanded and hide the arrow */
 
-    summary::-webkit-details-marker {
-      display: none;          /* hides the arrow in Chrome/Safari */
-    }
+.toc details {
+  open: true !important;
+}
 
-    summary::marker {
-      display: none;          /* hides the arrow in Firefox */
-    }
-  }
+.toc details summary {
+  pointer-events: none !important;
+  cursor: default !important;
+  list-style: none !important;
+}
 
-  /* Force it to stay open */
-  details[open],
-  details {
-    open: true;
-  }
+.toc details summary::-webkit-details-marker {
+  display: none !important;
+}
+
+.toc details summary::marker {
+  display: none !important;
+}
+
+/* Extra insurance - prevent any collapse animation/height issues */
+.toc details:not([open]) {
+  open: true !important;
 }
