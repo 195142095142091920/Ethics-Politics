@@ -1,16 +1,6 @@
 @use "./variables.scss" as *;
 
 // put your custom CSS here!
-.toc {
-  min-height: auto !important;
-  overflow: visible !important;
-}
-
-.toc.collapsed {
-  height: auto !important;
-  max-height: 3rem; /* or whatever fits the header */
-}
-
 /* Disable TOC collapsing and hide the arrow */
 .toc summary {
   pointer-events: none;
