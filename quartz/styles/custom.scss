@@ -10,3 +10,13 @@
   height: auto !important;
   max-height: 3rem; /* or whatever fits the header */
 }
+
+/* Disable TOC collapsing and hide the arrow */
+.toc summary {
+  pointer-events: none;
+}
+
+.toc summary::-webkit-details-marker,
+.toc summary::marker {
+  display: none;
+}
