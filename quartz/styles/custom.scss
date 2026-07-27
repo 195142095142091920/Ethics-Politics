@@ -50,3 +50,12 @@ body[data-slug=""] h1 a:hover,
   text-decoration: underline !important;
   background-color: transparent !important;
 }
+
+
+/* Hide Table of Contents only on the homepage */
+
+body[data-slug="/"] .toc,
+body[data-slug=""] .toc,
+body[data-slug="/index"] .toc {
+  display: none !important;
+}
