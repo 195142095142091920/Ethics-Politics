@@ -5,14 +5,24 @@ Limited government, individual responsibility, low taxation, and maximum cultura
 ---
 ## **Economic System** 
 
-Capitalism has produced the highest observed quality of life, abundance, and innovation. Completely unrestricted capitalism is rejected where it produces clear exploitation or serious safety failures. Limited regulation is accepted for genuine consumer protection, health, and safety; beyond that, regulation should remain minimal to avoid stifling growth.
+#### Position 
 
-The proper role of government is narrow: defense, policing, fire protection, basic infrastructure (roads, parks, etc.), and a small number of essential public goods.
+Market-based systems grounded in secure property rights and price signals have produced the largest sustained gains in material living standards, poverty reduction, and innovation in recorded history. Comparative evidence favors these systems over socialist or heavily state-directed alternatives. Historical cases of sustained socialist organization produced chronic shortages, lower productivity, and eventual stagnation or collapse relative to more market-oriented peers; hybrid systems that preserved significant private ownership and price signals performed better than those that suppressed them.
 
-Minimum wage may include a modest inflation-adjusted floor, but repeated increases are understood to raise general costs. Corporate subsidies funded by taxpayers are rejected.
+The state’s economic role should remain limited to core public goods — national defense, domestic public safety, courts, and basic infrastructure — plus a narrow set of evidence-based rules against force, fraud, and severe safety failures. Broad economic management, industrial planning, and taxpayer-funded corporate subsidies are rejected. A modest, slowly adjusted minimum-wage floor can be tolerated as a practical compromise; large or rapid increases are opposed on employment and cost grounds. In an age of advancing automation, a future modest citizen dividend framed as a share of national output remains conceivable, but only if it stays universal, limited, and does not expand mandatory redistribution or undermine work.
 
-Universal Basic Income is viewed with openness in an age of advancing automation, provided it functions more as a return on contribution than pure redistribution.
+#### Key Elements
 
+- Strong presumption in favor of open markets and private property.
+- Comparative superiority of market systems over socialist and heavily state-directed alternatives.
+- Government confined to public goods and a narrow regulatory core.
+- Rejection of corporate subsidies and most forms of industrial policy.
+- Acceptance of a low, inflation-adjusted wage floor; opposition to aggressive minimum-wage policy.
+- Conditional openness to a future productivity-linked citizen dividend under strict constraints.
+
+**Rationale** Comparative historical evidence shows that societies with greater economic freedom and stronger market institutions have achieved higher long-run growth, faster poverty reduction, and greater consumer abundance than those that suppressed private property and price signals. Targeted safety and anti-fraud rules address real market failures, but regulatory scope expands easily and is prone to capture; therefore the burden of proof remains on further intervention. Corporate subsidies distort capital allocation and reward political connection more reliably than economic value.
+
+On minimum wages the evidence is genuinely contested. Some well-known studies (notably Card & Krueger) find little or no employment loss from moderate increases. Other research and several meta-analyses find negative employment effects, particularly for teenagers and the least skilled, with the size of the effect varying by the magnitude of the increase and local labor-market conditions. The weight of evidence does not support large or rapid increases as costless. A modest floor remains compatible with the overall framework; aggressive minimum-wage policy does not.
 ---
 ## **Taxation** 
 
