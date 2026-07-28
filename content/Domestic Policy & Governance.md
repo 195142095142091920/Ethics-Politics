@@ -55,42 +55,42 @@ On minimum wages the evidence is genuinely contested. Some well-known studies (n
 ---
 ## **Taxation** 
 
-#### Position 
-The preferred long-term tax system is a flat tax with a large zero bracket. Income below a substantial threshold (targeting roughly the first $40,000–$50,000 for single filers and $80,000–$100,000 for joint filers, adjusted over time) faces a zero rate. Income above that threshold faces a single flat rate of 18–22%. Capital gains and dividends receive preferential but still flat treatment. Most deductions, credits, and special preferences are eliminated to keep the base broad and the rules simple.
+#### Position The tax system across all levels of government should be low, simple, and limited to funding core public functions.
 
-The overall tax burden stays low and is directed primarily at funding core public functions: national defense, public safety, basic infrastructure, a limited education funding floor, debt service, and a small austere safety net. Progressive rate schedules that raise marginal rates as income rises are rejected. During a multi-year transition, a temporary high-end surtax or modest broad-based consumption tax with a clear end date may be used to maintain revenue while spending is brought under control.
+At the federal level the centerpiece is a flat income tax with a large zero bracket and a short, transparent phase-in. Income below roughly $40,000–$45,000 for single filers and $80,000–$90,000 for joint filers (adjusted over time) faces a zero rate. A brief linear phase-in range then applies so that the rate rises smoothly to the full flat rate of 18–22%. Income above the phase-in range faces that single flat rate. Capital gains and dividends receive preferential but still flat treatment. Most deductions, credits, and special preferences are eliminated to keep the base broad and the rules simple.
 
-#### Key Elements
+Other taxes are kept secondary and constrained:
 
-- Large zero-tax bracket for lower and middle earners
-- Single flat rate (18–22%) on income above the threshold
-- Preferential flat treatment of capital income
-- Broad base with elimination of most deductions and credits
-- Low overall tax burden limited to core government functions
-- Temporary transitional revenue measures with explicit sunset
-- Rejection of rising marginal rate schedules
+- A modest, broad-based retail sales tax may serve as a supporting or transitional revenue source. A European-style VAT is rejected in favor of the more transparent sales tax.
+- Corporate tax should be low and simple, ideally structured so business income is taxed only once.
+- Payroll taxes should decline as Social Security and Medicare are reformed toward more contribution-linked designs and a smaller residual safety net.
+- Property taxes remain primarily local, moderate, and tied to core local services (police, fire, roads, basic schools). They are retained but constrained.
+- Estate and inheritance taxes are rejected.
+- Excise taxes and tariffs are acceptable only when narrow and justified by clear externalities or national-interest policy.
+
+Progressive income-tax rate schedules with rising marginal rates are rejected. The overall tax burden should remain low and matched to essential functions only: national defense, public safety, basic infrastructure, a limited education funding floor, debt service, and a small austere safety net. Temporary transitional measures (a high-end surtax or modest sales tax with an explicit end date) may be used while spending is brought under control.
 
 #### Rationale 
-Federal tax revenue as a share of the economy has stayed relatively stable for decades even when top tax rates swung widely. High statutory rates have not reliably produced much higher revenue shares because people change behavior, claim deductions, and shift income.
+High and complex taxes distort work, saving, investment, and compliance. U.S. federal revenue as a share of the economy has remained relatively stable for decades even when top statutory rates changed dramatically; very high rates do not reliably produce proportionally higher revenue. Flat-tax reforms in other countries have shown that simplification is workable and need not collapse collections.
 
-Flat-tax systems adopted in several countries (notably Estonia and other Eastern European reformers) showed that simplification is practical, compliance can improve, and revenue does not automatically collapse. Lower and flatter rates reduce the penalty on extra work, saving, and investment. A large zero bracket raises take-home pay for a wide range of households, supporting private spending. In competitive markets this tends to expand output; in sectors with limited supply some of the gain shows up as higher prices. The more durable benefit comes from lower marginal rates and simpler rules.
+A large zero bracket increases take-home pay for lower- and middle-income households and supports private spending. A short linear phase-in removes the sharp notch that would otherwise encourage people to hold income just below the threshold. Lower marginal rates above the phase-in reduce disincentives to work and invest. A visible retail sales tax is preferable to a VAT because it is more transparent and less prone to quiet rate increases. Corporate and payroll taxes should not serve as primary redistribution tools. Property tax is retained at the local level because it is a practical and accountable way to fund local order and infrastructure; eliminating it would require less accountable replacements. Estate taxes confiscate property that has already been taxed.
 
-This tax design is only sustainable alongside spending restraint. It can support a strong military, debt service, basic infrastructure, core education funding, and a minimal work-conditioned safety net. It cannot support the current long-term path of major entitlement programs without significant reform of those programs. The tax structure and the commitment to a smaller, more limited federal government therefore go together.
+This structure is sustainable only alongside spending restraint. It can support strong defense, core public goods, and a minimal safety floor. It cannot support the present long-term trajectory of major entitlement programs without reforming those programs. The tax rules and the commitment to a smaller federal government are designed to fit together.
 
 ##### Sources
 
 - Federal receipts as percent of GDP – [FRED](https://fred.stlouisfed.org/series/FYFRGDA188S)
 - Fraser Institute – [Lessons from Abroad—Flat Tax in Practice](https://www.fraserinstitute.org/sites/default/files/Flat_Tax_Lessons_From_Abroad.pdf)
-- Cato Institute – analyses of flat-tax reforms and revenue stability
+- Cato Institute – analyses of flat-tax reforms, corporate tax, and revenue stability
 - Tax Policy Center – [How do US taxes compare internationally?](https://taxpolicycenter.org/briefing-book/how-do-us-taxes-compare-internationally) and revenue composition data
 - Reviews of Eastern European flat-tax reforms (Estonia, Russia, Slovakia)
 
 > [!note]- Simple Explanation 
-> Most people below a clear income line should pay no federal income tax. Everyone above that line should pay the same flat percentage. Almost all special deductions and loopholes are removed so the system stays simple and hard to game. Capital income is taxed at a flat but lower rate to avoid punishing saving and investment.
+> The main federal tax is simple: most people below a clear income line pay nothing. There is then a short, gradual ramp-up so that crossing the line does not create a sudden penalty. Above that ramp, everyone pays the same flat percentage. Almost all special loopholes are removed. Capital income is taxed at a flat but lower rate so saving and investment are not punished.
 > 
-> The goal is a low overall tax take that only pays for the government’s essential jobs—defense, basic order, core infrastructure, a small safety floor, and debt payments. High, complicated tax rates have never consistently collected a much larger share of the economy, and they create waste and avoidance.
+> Other taxes stay limited. A modest retail sales tax can help raise money without heavily punishing work; a hidden VAT is avoided. Corporate taxes stay low and simple. Payroll taxes shrink as retirement and health programs are reformed. Property taxes are mainly local and kept moderate to pay for local police, fire, and basic services. Inheritance taxes are rejected. Special taxes on specific goods or imports are used only for narrow, clear reasons.
 > 
-> Because the tax system collects less than today’s system, government spending must also be reduced over time. That is intentional: the tax rules and the smaller scope of government are designed to fit together. A temporary extra tax may be used during the changeover so the budget does not suddenly collapse while spending is brought down.
+> The total tax take is kept low so it only pays for essential jobs—defense, basic order, core infrastructure, a small safety floor, and debt. Because this system collects less than today’s system, government spending must also be reduced over time. That is intentional. A temporary extra tax may be used during the changeover so the budget remains stable while spending is brought down.
 
 ---
 ## **Welfare & Entitlements** 
