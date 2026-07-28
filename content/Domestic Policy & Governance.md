@@ -55,7 +55,42 @@ On minimum wages the evidence is genuinely contested. Some well-known studies (n
 ---
 ## **Taxation** 
 
-A flat tax is preferred. Higher earnings should not be punished with progressively higher rates. The overall tax burden should remain low so individuals retain control over most of their income. Taxation beyond the narrow funding of essential services (police, fire, basic infrastructure, core education functions, and emergency services) is viewed as presumptively illegitimate.
+#### Position 
+The preferred long-term tax system is a flat tax with a large zero bracket. Income below a substantial threshold (targeting roughly the first $40,000–$50,000 for single filers and $80,000–$100,000 for joint filers, adjusted over time) faces a zero rate. Income above that threshold faces a single flat rate of 18–22%. Capital gains and dividends receive preferential but still flat treatment. Most deductions, credits, and special preferences are eliminated to keep the base broad and the rules simple.
+
+The overall tax burden stays low and is directed primarily at funding core public functions: national defense, public safety, basic infrastructure, a limited education funding floor, debt service, and a small austere safety net. Progressive rate schedules that raise marginal rates as income rises are rejected. During a multi-year transition, a temporary high-end surtax or modest broad-based consumption tax with a clear end date may be used to maintain revenue while spending is brought under control.
+
+#### Key Elements
+
+- Large zero-tax bracket for lower and middle earners
+- Single flat rate (18–22%) on income above the threshold
+- Preferential flat treatment of capital income
+- Broad base with elimination of most deductions and credits
+- Low overall tax burden limited to core government functions
+- Temporary transitional revenue measures with explicit sunset
+- Rejection of rising marginal rate schedules
+
+#### Rationale 
+Federal tax revenue as a share of the economy has stayed relatively stable for decades even when top tax rates swung widely. High statutory rates have not reliably produced much higher revenue shares because people change behavior, claim deductions, and shift income.
+
+Flat-tax systems adopted in several countries (notably Estonia and other Eastern European reformers) showed that simplification is practical, compliance can improve, and revenue does not automatically collapse. Lower and flatter rates reduce the penalty on extra work, saving, and investment. A large zero bracket raises take-home pay for a wide range of households, supporting private spending. In competitive markets this tends to expand output; in sectors with limited supply some of the gain shows up as higher prices. The more durable benefit comes from lower marginal rates and simpler rules.
+
+This tax design is only sustainable alongside spending restraint. It can support a strong military, debt service, basic infrastructure, core education funding, and a minimal work-conditioned safety net. It cannot support the current long-term path of major entitlement programs without significant reform of those programs. The tax structure and the commitment to a smaller, more limited federal government therefore go together.
+
+##### Sources
+
+- Federal receipts as percent of GDP – [FRED](https://fred.stlouisfed.org/series/FYFRGDA188S)
+- Fraser Institute – [Lessons from Abroad—Flat Tax in Practice](https://www.fraserinstitute.org/sites/default/files/Flat_Tax_Lessons_From_Abroad.pdf)
+- Cato Institute – analyses of flat-tax reforms and revenue stability
+- Tax Policy Center – [How do US taxes compare internationally?](https://taxpolicycenter.org/briefing-book/how-do-us-taxes-compare-internationally) and revenue composition data
+- Reviews of Eastern European flat-tax reforms (Estonia, Russia, Slovakia)
+
+> [!note]- Simple Explanation 
+> Most people below a clear income line should pay no federal income tax. Everyone above that line should pay the same flat percentage. Almost all special deductions and loopholes are removed so the system stays simple and hard to game. Capital income is taxed at a flat but lower rate to avoid punishing saving and investment.
+> 
+> The goal is a low overall tax take that only pays for the government’s essential jobs—defense, basic order, core infrastructure, a small safety floor, and debt payments. High, complicated tax rates have never consistently collected a much larger share of the economy, and they create waste and avoidance.
+> 
+> Because the tax system collects less than today’s system, government spending must also be reduced over time. That is intentional: the tax rules and the smaller scope of government are designed to fit together. A temporary extra tax may be used during the changeover so the budget does not suddenly collapse while spending is brought down.
 
 ---
 ## **Welfare & Entitlements** 
