@@ -95,7 +95,7 @@ This structure is sustainable only alongside spending restraint. It can support 
 > 
 > Other taxes stay limited. A modest retail sales tax can help raise money without heavily punishing work; a hidden VAT is avoided. Corporate taxes stay low and simple. Payroll taxes shrink as retirement and health programs are reformed. Property taxes are mainly local and kept moderate to pay for local police, fire, and basic services. Inheritance taxes are rejected. Special taxes on specific goods or imports are used only for narrow, clear reasons.
 > 
-> The total tax take is kept low so it only pays for essential jobs—defense, basic order, core infrastructure, a small safety floor, and debt. Because this system collects less than today’s system, government spending must also be reduced over time. That is intentional. A temporary extra tax may be used during the changeover so the budget remains stable while spending is brought down.
+> The total tax take is kept low so it only pays for essential jobs - defense, basic order, core infrastructure, a small safety floor, and debt. Because this system collects less than today’s system, government spending must also be reduced over time. That is intentional. A temporary extra tax may be used during the changeover so the budget remains stable while spending is brought down.
 
 ---
 ## **Welfare & Entitlements** 
