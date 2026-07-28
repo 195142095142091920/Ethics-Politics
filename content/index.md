@@ -2,6 +2,6 @@
 title: Index
 enableToc: "false"
 ---
-# [[Ethical and Philosophical Framework]]
-# [[Political and Social Character]]
-# [[Domestic Policy & Governance]]
+# [[1. Ethical and Philosophical Framework]]
+# [[2. Political and Social Character]]
+# [[3. Domestic Policy & Governance]]

@@ -1,0 +1,152 @@
+# Cultural & Social Issues
+
+Core Principle: Traditional nuclear family preference, free speech absolutism (with narrow exceptions), meritocracy, cultural compatibility for cohesion, and personal responsibility. Strong skepticism of identity politics, mandates, and progressive social engineering.
+
+---
+
+Family & Gender
+
+- Ideal: Nuclear family (married mother + father, 2–3 children) as healthiest structure.
+
+- Divorce allowed; no automatic custody default - neutral court decides based on child’s best interest (including child’s preference).
+
+- Traditional gender roles (male provider, female homemaker) superior for society, but not mandated. Individuals free to choose.
+
+Abortion & Bioethics
+
+- Sentientist with fetal rights. Primary cutoff at sentience; overall pro-life due to societal domino effects of permissiveness.
+
+- No termination of fetuses from voluntary decisions.
+
+- Rape exception: Mother freed of responsibility (no consent/agreement).
+
+- Builds on earlier responsibility framework (voluntary unprotected sex triggers duties).
+
+LGBTQ+ & Identity Issues
+
+- Same-sex marriage legal, but ideal outcome is biological male-female pairing. Concerns over male-male adoption (potential abuse risks) and incomplete fulfillment of traditional parenting dynamic.
+
+- Transgenderism should not be encouraged; gender dysphoria as mental illness - treat root causes rather than affirm/transition.
+
+- Adults free to transition privately, but no participation in opposite-sex sports.
+
+- Minors: No medical transition.
+
+- Bathrooms: Biological sex only.
+
+- Pronouns: Voluntary respect only - never mandated.
+
+- Conversion therapy: Opposed.
+
+Free Speech & Censorship
+
+- Absolutist: Only restrict direct threats/calls to violence violating sentient rights.
+
+- Private platforms free to set their own TOS.
+
+- Misinformation: Debunk via private actors or individuals, not government.
+
+Race & Diversity
+
+- Zero race/gender quotas or affirmative action - fundamentally discriminatory. Abolish DEI.
+
+- Meritocracy only for hiring/admissions. Equality of opportunity, not outcome.
+
+- Reparations: Only from direct offending governments; liability tied to voter records; generational sunset clause.
+
+- Need unbiased research on group differences (e.g., IQ). Reduce focus on race as divider; emphasize shared values and color-blindness.
+
+Gun Rights
+
+- Available to qualified citizens. Background checks and red flag laws to block bad actors.
+
+- Concealed carry stricter than open.
+
+- Assault weapons vaguely defined; handguns more concerning for concealment.
+
+- Heavy restrictions on full-auto and high explosives.
+
+- Overall: Strong 2A support with targeted safeguards.
+
+Drugs & Vice
+
+- Marijuana: Legal (personal disapproval of widespread use).
+
+- Harder drugs: Leaning toward legalization but conflicted.
+
+- Prostitution: Legal but regulated to prevent exploitation.
+
+- Gambling: Legal for adults.
+
+- DUI/DWI: Severe penalties (10+ years or permanent license loss).
+
+- Drug war focus: Offensive military action against cartels as terrorist entities. Joint ops with compliant governments; war with them if necessary.
+
+Patriotism & National Identity
+
+- Civic nationalism + cultural cohesion preferred. Multiculturalism only works with shared core values.
+
+- Many Latin American and European cultures compatible; Islamic/third-world cultures often clash (human rights, responsibility, norms).
+
+- Teach objective, unmodified history.
+
+- American exceptionalism based on liberty, rights, and opportunity - not blind nationalism.
+
+  ---  
+
+
+  
+Family & Gender:  
+  
+Definition of marriage/family? Stance on no-fault divorce, child custody defaults, traditional roles vs modern flexibility?  
+  
+Marriage and family have multiple definitions depending on one's followed culture and religion. I believe the healthiest family is something very close to the nuclear family - mother, father, married and loyal to one another, with two to three children. If someone wishes to divorce, it should be allowed. Child custody should not default to any particular parent. If the parents cannot come to a resolution, a neutral court should be the arbiter of the dispute - focused with a private opinion of the child's preference. I believe traditional roles are superior, a stronger male working while a female raises children and cares for the home and supports the working man. I don't believe in mandating this in any way, it's just my belief in what constitutes the best functioning society. People ultimately should be able to live as they decide.  
+  
+  
+Abortion & Bioethics:  
+  
+Limits by trimester/sentience? Exceptions? Your responsibility framework in law?  
+  
+I am a sentientist and believe in fetal rights. I hinge primarily on sentience as the cutoff for abortion bans, but I support pro-life in its entirety due to the practical domino effect of pro-choice being accepted in society. Women should not be allowed to terminate sentient life in their womb if it exists because of her own decisions. If the fetus is the product of rape, she is freed of obligation, since she did not sign any agreement to raise the fetus (voluntary sexual intercourse resulting in a fetus).  
+  
+  
+LGBTQ+ & Identity Issues:  
+  
+Same-sex marriage, transgender policies (sports, youth medical transition, bathrooms, pronouns), conversion therapy?  
+  
+I believe same-sex marriage should be legal, however I personally believe that the best outcome for society is Male and Female, naturally and biologically. Most importantly I am a bit worried about particularly male-male adoption and some indications of higher than average sexual abuse, and their rate of adopting particularly male children - this seems like a red flag. Furthermore, I think that same-sex parents do not fully fulfill the best case Male/Female dynamic of traditional parenting, though I am not one for mandating my belief in this regard. Transgenderism is a mental illness and I do not believe in the, in my opinion, ideologically driven, DSM definitions of gender. I believe that we should be treating the mental illness, not validating it's existence. If an adult wishes to transition, they can do so, and there could be private practices doctors that train and facilitate this surgery, sure, it's both parties freedom to engage in those actions. Transgenders should not be allowed in their transitioned-sex sports in any case. Minors should not undergo any transgender treatment in any case. Bathrooms should be entered by birth-sex only in every case. Pronouns may be respected or not, it is the freedom of each individual to speak as they wish - it should never be mandated. I don't believe in conversion therapy.  
+  
+  
+Free Speech & Censorship:  
+  
+Absolute or with limits (hate speech, misinformation, private platforms)?  
+  
+I am a free-speech absolutist. The only thing that should be legally restricted should be threats or calls to violence that infringe upon others sentient rights. Private platforms are private, and can restrict speech as they fit for their own codes of conduct and TOS - just as I can remove someone from my private home if they speak in a way I don't approve. Misinformation campaigns should be the responsibility of the private platform, or, in public, the individuals, to debunk as factually fallacious.  
+  
+  
+Race & Diversity:  
+  
+Affirmative action, DEI programs, reparations, color-blindness vs equity?  
+  
+There should be absolutely zero hiring quotas on the basis of innate characteristics - it is fundamentally racist and sexist. DEI programs should be abolished. Equality of outcome is discriminatory by definition. Equality of opportunity should be the goal. Meritocracy should be the only relevant factor in hiring and admissions. Reparations to affected families should only ever be paid by the offending government, only if there is a causal link from the electorates voting decisions that elected the candidate or administration responsible for damages - for example, if someone's vote is on record to have elected the offending government, they should be liable for the tax to add to the sum of reparations. If someone did not vote for the offending government, they should not be liable for the tax to add to the sum of reparations. There should be a limit to how many generations the reparations are still applicable to, expiring after enough time has passed to distance the events. On the topic of color and race - we need to have more unbiased scientific research on racial IQ. We need to move past race as a core dividing issue in society, and that does not mean speaking about it more, it means speaking about it less.  
+  
+  
+Gun Rights:  
+  
+Shall-issue, constitutional carry, restrictions (assault weapons, background checks, red flag laws)?  
+  
+Guns should be available to purchase for those that are qualified. There should be background checks and red flag laws that prevent bad actors from acquiring a firearm. Concealed carry should be a higher level to achieve than not. Assault weapons are vaguely defined. Handguns are more dangerous due to ease of concealment. High ordnance explosives should be banned or heavily restricted for construction work. Full automatics should be heavily restricted but potentially available to extremely trained or vetted individuals.  
+  
+  
+Drugs & Vice:  
+  
+Legalization of marijuana, harder drugs, prostitution, gambling? Harm reduction or prohibition?  
+  
+Marijuana should be legal though I don't condone the majority to partake. Hard drugs likely should be legal, though I am very on-the-edge to ban them. Prostitution should be legal, but less clandestine, and regulated to prevent exploitation of prostitutes. Gambling should only be regulated away from minors. If an adult wants to gamble, they should be able to. Driving while intoxicated or under the influence of hard drugs should result in license revocation for a minimum of 10 years, to a maximum of permanently. The focus of the drug war should be less on our own addicts, and more on the obliteration of drug cartels, offensively, with force. They should be treated as terroristic entities endangering the safety of our country and should be militarily destroyed. If Central and South American governments comply and allow the U.S. military to jointly perform these operations, that would be best. If they do not comply, then war with those governments is justified to eradicate their drug-cartel-generation problem.  
+  
+  
+Patriotism & National Identity:  
+  
+Civic nationalism, multiculturalism, American exceptionalism, history education?  
+  
+I believe it is the best result for a cohesive nation to be patriotic and monocultural. Multiculturalism can work only if the cultures share important common values. For example, many Mexican and South American families that are legally immigrated to the U.S. are compatible with our culture because of shared family values and shared religious values. Islamic and third world African cultures are not compatible with western society and clash with much of our values - human rights, civic responsibility, politeness, cleanliness, etc. We should teach unmodified, objective history. American exceptionalism should not be on the basis of "just because America", but because of what America stands for - liberty, freedom, rights, and great financial opportunity.  
