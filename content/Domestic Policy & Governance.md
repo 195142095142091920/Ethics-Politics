@@ -82,9 +82,11 @@ This structure is sustainable only alongside spending restraint. It can support 
 
 - Federal receipts as percent of GDP – [FRED](https://fred.stlouisfed.org/series/FYFRGDA188S)
 - Fraser Institute – [Lessons from Abroad—Flat Tax in Practice](https://www.fraserinstitute.org/sites/default/files/Flat_Tax_Lessons_From_Abroad.pdf)
-- Cato Institute – analyses of flat-tax reforms, corporate tax, and revenue stability
 - Tax Policy Center – [How do US taxes compare internationally?](https://taxpolicycenter.org/briefing-book/how-do-us-taxes-compare-internationally) and revenue composition data
-- Reviews of Eastern European flat-tax reforms (Estonia, Russia, Slovakia)
+- **Cato Institute analyses**
+	- The Global Flat Tax Revolution (Daniel J. Mitchell): [https://www.cato.org/policy-report/july/august-2007/global-flat-tax-revolution](https://www.cato.org/policy-report/july/august-2007/global-flat-tax-revolution)
+	- Flat World, Flat Taxes: [https://www.cato.org/commentary/flat-world-flat-taxes](https://www.cato.org/commentary/flat-world-flat-taxes)
+	- Tax Harmonization or Tax Competition (Mitchell paper discussing Eastern European reforms): [https://www.cato.org/sites/cato.org/files/pubs/papers/russiaconference/mitchell.pdf](https://www.cato.org/sites/cato.org/files/pubs/papers/russiaconference/mitchell.pdf)
 
 > [!note]- Simple Explanation 
 > The main federal tax is simple: most people below a clear income line pay nothing. There is then a short, gradual ramp-up so that crossing the line does not create a sudden penalty. Above that ramp, everyone pays the same flat percentage. Almost all special loopholes are removed. Capital income is taxed at a flat but lower rate so saving and investment are not punished.
