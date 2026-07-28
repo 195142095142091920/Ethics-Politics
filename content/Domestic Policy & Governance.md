@@ -58,7 +58,7 @@ On minimum wages the evidence is genuinely contested. Some well-known studies (n
 #### Position 
 The tax system across all levels of government should be low, simple, and limited to funding core public functions.
 
-At the federal level the centerpiece is a flat income tax with a large zero bracket and a short, transparent phase-in. Income below roughly $40,000–$45,000 for single filers and $80,000–$90,000 for joint filers (adjusted over time) faces a zero rate. A brief linear phase-in range then applies so that the rate rises smoothly to the full flat rate of 18–22%. Income above the phase-in range faces that single flat rate. Capital gains and dividends receive preferential but still flat treatment. Most deductions, credits, and special preferences are eliminated to keep the base broad and the rules simple.
+At the federal level the centerpiece is a flat income tax with a large zero bracket and a short, transparent phase-in. Income below roughly $40,000-$45,000 for single filers and $80,000-$90,000 for joint filers (adjusted over time) faces a zero rate. A brief linear phase-in range then applies so that the rate rises smoothly to the full flat rate of 18-22%. Income above the phase-in range faces that single flat rate. Capital gains and dividends receive preferential but still flat treatment. Most deductions, credits, and special preferences are eliminated to keep the base broad and the rules simple.
 
 Other taxes are kept secondary and constrained:
 
@@ -85,9 +85,10 @@ This structure is sustainable only alongside spending restraint. It can support 
 - Tax Policy Center - [How do US taxes compare internationally?](https://taxpolicycenter.org/briefing-book/how-do-us-taxes-compare-internationally) and revenue composition data
 - Daniel J. Mitchell, CATO Institute - [The Global Flat Tax Revolution](https://www.cato.org/policy-report/july/august-2007/global-flat-tax-revolution)
 - Daniel J. Mitchell, CATO Institute - [Flat World, Flat Taxes](https://www.cato.org/commentary/flat-world-flat-taxes)
-- Daniel J. Mitchell, CATO Institute -  [Tax Harmonization or Tax Competition](https://www.cato.org/sites/cato.org/files/pubs/papers/russiaconference/mitchell.pdf)[https://www.cato.org/sites/cato.org/files/pubs/papers/russiaconference/mitchell.pdf](https://www.cato.org/sites/cato.org/files/pubs/papers/russiaconference/mitchell.pdf)
+- Daniel J. Mitchell, CATO Institute -  [Tax Competition and Fiscal Reform: Rewarding Pro-Growth Tax Policy](https://www.cato.org/sites/cato.org/files/pubs/papers/russiaconference/mitchell.pdf)
 - European Central Bank - [Flat Taxes in Central and Eastern Europe](https://www.ecb.europa.eu/pub/pdf/other/mb200709_focus10.en.pdf)
-- 
+- The Fraser Institute - [The Impact and Cost of Taxation in Canada: The Case For Flat Tax Reform](https://www.fraserinstitute.org/sites/default/files/impact-and-cost-of-taxation-in-canada-2008.pdf)
+- Tax Foundation - [Details and Analysis of a Tax Reform Plan for Growth and Opportunity](https://files.taxfoundation.org/20230705114425/Details-and-Analysis-of-a-Tax-Reform-Plan-for-Growth-and-Opportunity-July-2023.pdf)
 
 > [!note]- Simple Explanation 
 > The main federal tax is simple: most people below a clear income line pay nothing. There is then a short, gradual ramp-up so that crossing the line does not create a sudden penalty. Above that ramp, everyone pays the same flat percentage. Almost all special loopholes are removed. Capital income is taxed at a flat but lower rate so saving and investment are not punished.
