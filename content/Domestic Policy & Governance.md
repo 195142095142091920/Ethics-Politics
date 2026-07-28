@@ -80,13 +80,14 @@ This structure is sustainable only alongside spending restraint. It can support 
 
 ##### Sources
 
-- Federal receipts as percent of GDP – [FRED](https://fred.stlouisfed.org/series/FYFRGDA188S)
-- Fraser Institute – [Lessons from Abroad—Flat Tax in Practice](https://www.fraserinstitute.org/sites/default/files/Flat_Tax_Lessons_From_Abroad.pdf)
-- Tax Policy Center – [How do US taxes compare internationally?](https://taxpolicycenter.org/briefing-book/how-do-us-taxes-compare-internationally) and revenue composition data
-- **Cato Institute analyses**
-	- The Global Flat Tax Revolution (Daniel J. Mitchell): [https://www.cato.org/policy-report/july/august-2007/global-flat-tax-revolution](https://www.cato.org/policy-report/july/august-2007/global-flat-tax-revolution)
-	- Flat World, Flat Taxes: [https://www.cato.org/commentary/flat-world-flat-taxes](https://www.cato.org/commentary/flat-world-flat-taxes)
-	- Tax Harmonization or Tax Competition (Mitchell paper discussing Eastern European reforms): [https://www.cato.org/sites/cato.org/files/pubs/papers/russiaconference/mitchell.pdf](https://www.cato.org/sites/cato.org/files/pubs/papers/russiaconference/mitchell.pdf)
+- Federal receipts as percent of GDP - [FRED](https://fred.stlouisfed.org/series/FYFRGDA188S)
+- Fraser Institute - [Lessons from Abroad—Flat Tax in Practice](https://www.fraserinstitute.org/sites/default/files/Flat_Tax_Lessons_From_Abroad.pdf)
+- Tax Policy Center - [How do US taxes compare internationally?](https://taxpolicycenter.org/briefing-book/how-do-us-taxes-compare-internationally) and revenue composition data
+- Daniel J. Mitchell, CATO Institute - [The Global Flat Tax Revolution](https://www.cato.org/policy-report/july/august-2007/global-flat-tax-revolution)
+- Daniel J. Mitchell, CATO Institute - [Flat World, Flat Taxes](https://www.cato.org/commentary/flat-world-flat-taxes)
+- Daniel J. Mitchell, CATO Institute -  [Tax Harmonization or Tax Competition](https://www.cato.org/sites/cato.org/files/pubs/papers/russiaconference/mitchell.pdf)[https://www.cato.org/sites/cato.org/files/pubs/papers/russiaconference/mitchell.pdf](https://www.cato.org/sites/cato.org/files/pubs/papers/russiaconference/mitchell.pdf)
+- European Central Bank - [Flat Taxes in Central and Eastern Europe](https://www.ecb.europa.eu/pub/pdf/other/mb200709_focus10.en.pdf)
+- 
 
 > [!note]- Simple Explanation 
 > The main federal tax is simple: most people below a clear income line pay nothing. There is then a short, gradual ramp-up so that crossing the line does not create a sudden penalty. Above that ramp, everyone pays the same flat percentage. Almost all special loopholes are removed. Capital income is taxed at a flat but lower rate so saving and investment are not punished.
