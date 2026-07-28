@@ -58,7 +58,7 @@ On minimum wages the evidence is genuinely contested. Some well-known studies (n
 #### Position 
 The tax system across all levels of government should be low, simple, and limited to funding core public functions.
 
-At the federal level the centerpiece is a flat income tax with a large zero bracket and a short, transparent phase-in. Income below roughly $40,000-$45,000 for single filers and $80,000-$90,000 for joint filers (adjusted over time) faces a zero rate. A brief linear phase-in range then applies so that the rate rises smoothly to the full flat rate of 18-22%. Income above the phase-in range faces that single flat rate. Capital gains and dividends receive preferential but still flat treatment. Most deductions, credits, and special preferences are eliminated to keep the base broad and the rules simple.
+At the federal level the centerpiece is a flat income tax with a large zero bracket and a short, transparent phase-in. Income below roughly \$40,000-\$45,000 for single filers and \$80,000-\$90,000 for joint filers (adjusted over time) faces a zero rate. A brief linear phase-in range then applies so that the rate rises smoothly to the full flat rate of 18-22%. Income above the phase-in range faces that single flat rate. Capital gains and dividends receive preferential but still flat treatment. Most deductions, credits, and special preferences are eliminated to keep the base broad and the rules simple.
 
 Other taxes are kept secondary and constrained:
 
