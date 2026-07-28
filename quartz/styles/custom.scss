@@ -51,11 +51,7 @@ body[data-slug=""] h1 a:hover,
   background-color: transparent !important;
 }
 
-
-/* Hide Table of Contents only on the homepage */
-
-body[data-slug="/"] .toc,
-body[data-slug=""] .toc,
-body[data-slug="/index"] .toc {
+/* Hide TOC on homepage only */
+body[data-slug="index"] .toc {
   display: none !important;
 }
