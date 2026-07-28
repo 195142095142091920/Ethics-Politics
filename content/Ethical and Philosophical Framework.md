@@ -67,7 +67,7 @@ A being becomes a full moral agent under this framework when it possesses suffic
 #### Moral Motivation 
 
 Because this system is anti-realist, moral motivation cannot rely on the belief that moral facts exist independently of human prescription. Motivation instead rests on two pillars: 
-1. Rational recognition that the sentience-based negative-rights framework is the most coherent and stable system available for protecting subjective experience 
+1. Rational recognition that the sentience-based negative-rights framework is the most coherent and stable system available for protecting subjective experience.
 2. The personal cultivation of character through Stoicism. The agent chooses to uphold the framework because it is the best available coordination system and because living in accordance with it supports personal flourishing ([[#Stoic Eudaimonism]]). External enforcement remains necessary for those who reject the prescription.
 
 - Stanford Encyclopedia of Philosophy - [Moral Motivation](https://plato.stanford.edu/entries/moral-motivation/)
