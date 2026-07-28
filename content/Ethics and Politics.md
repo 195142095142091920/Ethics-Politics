@@ -1,7 +1,16 @@
 ---
 draft: "true"
 ---
-
+- **Ethics and Philosophical Framework**
+- **Political and Social Character**
+- **Authority & Civil Liberties**
+- **Religion & Secularism**
+- **Domestic Policy & Governance**
+- **Criminal Justice & Security**
+- **Cultural & Social Issues**
+- **Foreign Policy & International Relations**
+- **Energy & Environment**
+- **Bioethics, Progress & Technology**
 # **Ethics and Philosophical Framework**
 
 | Your Position          | Closest Philosopher(s)                |
@@ -417,7 +426,19 @@ Nuclear proliferation is unfortunate, but it can never be reversed. Progress wil
 
 # Domestic Policy & Governance
 
-  
+  ### Recommended logical order
+
+1. **Core Principle** (keep first)
+2. **Economic System** (foundational — how wealth is generated)
+3. **Taxation** (how the state extracts resources)
+4. **Fiscal Policy** (overall budget, debt, deficits — belongs with taxation)
+5. **Welfare & Entitlements / Safety Net**
+6. **Healthcare**
+7. **Education**
+8. **Infrastructure & Regulation**
+9. **Housing & Urban Policy**
+10. **Energy Policy**
+
 Core Principle: Limited government, individual responsibility, low taxation, cultural/economic freedom with minimal safety nets. Prioritize free markets, personal choice, and fiscal restraint while allowing opt-in social programs and basic public services.
 
 Economic System
