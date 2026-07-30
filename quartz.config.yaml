@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: "195142095142091920.github.io/Ethics-Politics"
+  baseUrl: "414.onl"
   ignorePatterns:
     - private
     - templates
