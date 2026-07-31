@@ -14,6 +14,6 @@ enableToc: "false"
 # [[10. Bioethics, Progress, & Technology (WIP)]]
 
 ---
-This site is a researched collection of my ethics, philosophies, and normative beliefs. The goal was a coherent, comprehensive, neutral, non-partisan analysis of political and social topics. 
+This site is a researched collection of my ethics, philosophies, and normative beliefs. The goal is a coherent, comprehensive, neutral, non-partisan analysis of political and social topics. 
 
 Frontier LLMs such as Grok 4.5 and Gemini 3.6 have assisted in formulating and revising text, research, and critical hardening. 
