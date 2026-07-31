@@ -17,5 +17,6 @@ enableToc: "false"
 # [[10. Bioethics, Progress, & Technology (WIP)]]
 
 ---
-This site is a researched collection of my beliefs. 
-Frontier LLM's such as Grok 4.5 and Gemini 3.6 have assisted in formulating text, researching, and critical hardening of positions. The goal was a comprehensive, neutral, non-partisan analysis of all 
+This site is a researched collection of my ethics, philosophies, and normative beliefs. The goal was a coherent, comprehensive, neutral, non-partisan analysis of political and social topics. 
+
+Frontier LLM's such as Grok 4.5 and Gemini 3.6 have assisted in formulating and revising text, research, and hardening of positions through critique. 
