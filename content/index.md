@@ -2,6 +2,9 @@
 title: Index
 enableToc: "false"
 ---
+
+
+
 # [[1. Ethical and Philosophical Framework]]
 # [[2. Political and Social Character]]
 # [[3. Domestic Policy & Governance (WIP)]]
@@ -12,3 +15,7 @@ enableToc: "false"
 # [[8. Foreign Policy & International Relations (WIP)]]
 # [[9. Energy & Environment (WIP)]]
 # [[10. Bioethics, Progress, & Technology (WIP)]]
+
+---
+This site is a researched collection of my beliefs. 
+Frontier LLM's such as Grok 4.5 and Gemini 3.6 have assisted in formulating text, researching, and critical hardening of positions. The goal was a comprehensive, neutral, non-partisan analysis of all 
