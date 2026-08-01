@@ -4,9 +4,9 @@ enableToc: "false"
 ---
 # [[1. Ethical and Philosophical Framework]]
 # [[2. Political and Social Character]]
-# [[5. Domestic Policy & Governance (WIP)]]
-# [[4. Religion & Secularism (WIP)]]
 # [[3. Authority & Civil Liberties (WIP)]]
+# [[4. Religion & Secularism (WIP)]]
+# [[5. Domestic Policy & Governance (WIP)]]
 # [[6. Criminal Justice & Security (WIP)]]
 # [[7. Cultural & Social Issues (WIP)]]
 # [[8. Foreign Policy & International Relations (WIP)]]
