@@ -2,6 +2,7 @@
 title: Index
 enableToc: "false"
 ---
+# [[Start Here]]
 # [[1. Ethical and Philosophical Framework]]
 # [[2. Political and Social Character]]
 # [[3. Authority & Civil Liberties]]
@@ -14,6 +15,8 @@ enableToc: "false"
 # [[10. Bioethics, Progress, & Technology]]
 # [[11. Modern Political Parties]]
 # [[12. Current Administration]]
+# [[Where I Stand]]
+# [[Glossary]]
 
 ---
 This site is a researched collection of my ethics, philosophies, and normative beliefs. The goal is a coherent, comprehensive, neutral, non-partisan analysis of political and social topics. 

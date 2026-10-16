@@ -55,3 +55,23 @@ body[data-slug=""] h1 a:hover,
 body[data-slug="index"] .toc {
   display: none !important;
 }
+/* Readability: comfortable line length and spacing */
+article {
+  line-height: 1.7;
+}
+article p, article li {
+  max-width: 70ch;
+}
+.callout {
+  margin: 1.25rem 0;
+}
+@media (max-width: 800px) {
+  article {
+    font-size: 1.05rem;
+    line-height: 1.75;
+  }
+  article table {
+    display: block;
+    overflow-x: auto;
+  }
+}
