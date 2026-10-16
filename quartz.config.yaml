@@ -234,7 +234,6 @@ plugins:
     options:
       links:
         Site index: https://414.onl
-        GitHub repository: https://github.com/195142095142091920/Ethics-Politics
   - source: "@quartz-community/recent-notes"
     enabled: false
   - source: "@quartz-community/spacer"
