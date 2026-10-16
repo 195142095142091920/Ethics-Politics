@@ -43,7 +43,7 @@ My position on every topic, one line each, taken from each topic's summary. Foll
 - **[[3. Authority & Civil Liberties#Voting and Elections|Voting and Elections]]:** Voters must show ID, mail-in ballots are fully authenticated and encrypted, and felons cannot vote.
 - **[[3. Authority & Civil Liberties#Election Administration|Election Administration]]:** Elections require ID, authenticated mail ballots, and clean voter rolls, with money limited to individual donations.
 - **[[3. Authority & Civil Liberties#Ranked-Choice Voting|Ranked-Choice Voting]]:** Ranked-choice voting is each state's choice, never a federal mandate or ban.
-- **[[3. Authority & Civil Liberties#Direct Democracy and Citizen Initiatives|Direct Democracy and Citizen Initiatives]]:** States and localities may offer citizen initiatives and referendums, and a constitutional amendment creates a national initiative for federal statutes and amendments, reaching the ballot with signatures from 1% (statute) or 2% (amendment) of qualified voters within 18 months.
+- **[[3. Authority & Civil Liberties#Direct Democracy and Citizen Initiatives|Direct Democracy and Citizen Initiatives]]:** States and localities may offer citizen initiatives and referendums. A constitutional amendment creates a national initiative for federal statutes and amendments, reaching the ballot with signatures from 1% (statute) or 2% (amendment) of qualified voters within 18 months.
 - **[[3. Authority & Civil Liberties#Surveillance State|Surveillance State]]:** Facial recognition and social credit are opt-in only.
 
 ---
@@ -90,7 +90,7 @@ My position on every topic, one line each, taken from each topic's summary. Foll
 - **[[6. Criminal Justice & Security#Evidentiary Standard|Evidentiary Standard]]:** Nobody is executed unless the proof is overwhelming and backed by objective evidence such as video and physical evidence, not just testimony.
 - **[[6. Criminal Justice & Security#Wrongful Convictions and Compensation|Wrongful Convictions and Compensation]]:** Convicting an innocent person is treated as the state violating their rights.
 - **[[6. Criminal Justice & Security#Capital Trials and the Abolition of Death Row|Capital Trials and the Abolition of Death Row]]:** Capital trials take 30 days at most, and the sentence is carried out the day it is handed down.
-- **[[6. Criminal Justice & Security#Repeat Offenders and Forfeiture of the Right to Life|Repeat Offenders and Forfeiture of the Right to Life]]:** Repeat offenders who keep committing crimes after being punished lose their right to life once they reach three marks, provided they are still active: at least one earlier mark must fall within the ten years before the new crime.
+- **[[6. Criminal Justice & Security#Repeat Offenders and Forfeiture of the Right to Life|Repeat Offenders and Forfeiture of the Right to Life]]:** Repeat offenders who keep committing crimes after being punished lose their right to life once they reach three marks, provided they are still active. At least one earlier mark must fall within the ten years before the new crime.
 - **[[6. Criminal Justice & Security#Juvenile Offenders|Juvenile Offenders]]:** There is no fixed age of criminal responsibility; how severely a minor is punished depends on how serious the crime was.
 - **[[6. Criminal Justice & Security#Age of Consent|Age of Consent]]:** The age of consent is 18, except under the close-in-age exception below, and a minor cannot consent to sex with an adult.
 - **[[6. Criminal Justice & Security#Insanity Defense|Insanity Defense]]:** Mental illness does not undo a rights violation: a mentally handicapped person who kills still commits murder.
@@ -105,7 +105,7 @@ My position on every topic, one line each, taken from each topic's summary. Foll
 - **[[6. Criminal Justice & Security#Border Security and Immigration Enforcement|Border Security and Immigration Enforcement]]:** Illegal immigrants are removed by force, the border is heavily fortified, and lethal force is allowed when necessary.
 - **[[6. Criminal Justice & Security#Terrorism and Domestic Extremism|Terrorism and Domestic Extremism]]:** Domestic terrorism is treated as a serious threat.
 - **[[6. Criminal Justice & Security#Gun Crime and Violence|Gun Crime and Violence]]:** Gang and high-crime areas get heavy, hot-spot policing and fast, harsh crackdowns, and high-rate violent offenders are locked up, with full due process.
-- **[[6. Criminal Justice & Security#Domestic Violence|Domestic Violence]]:** Extreme violence, intentional neglect, beating without drawing blood, and withholding food, water, or shelter as punishment against a spouse or family member are capital if they cause lasting injury; otherwise they are egregious: three marks at once: execution, experimentation, or life with labor.
+- **[[6. Criminal Justice & Security#Domestic Violence|Domestic Violence]]:** Extreme violence, intentional neglect, beating without drawing blood, and withholding food, water, or shelter as punishment against a spouse or family member are capital if they cause lasting injury. Otherwise they are egregious: three marks at once: execution, experimentation, or life with labor.
 - **[[6. Criminal Justice & Security#Victims' Rights|Victims' Rights]]:** Offenders lose their rights when they violate others'.
 
 ---
