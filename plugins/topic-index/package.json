@@ -1,0 +1,19 @@
+{
+  "name": "topic-index",
+  "version": "0.1.0",
+  "type": "module",
+  "description": "Emits static/topicIndex.json: one search entry per h2 topic, linked by anchor.",
+  "main": "./dist/index.js",
+  "exports": { ".": { "import": "./dist/index.js" } },
+  "quartz": {
+    "name": "topic-index",
+    "displayName": "Topic Index",
+    "category": "emitter",
+    "version": "1.0.0",
+    "quartzVersion": ">=5.0.0",
+    "dependencies": [],
+    "defaultOrder": 51,
+    "defaultEnabled": true,
+    "defaultOptions": {}
+  }
+}
