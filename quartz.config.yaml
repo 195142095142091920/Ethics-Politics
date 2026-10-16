@@ -229,7 +229,7 @@ plugins:
     layout:
       position: afterBody
       priority: 10
-  - source: "@quartz-community/footer"
+  - source: "github:quartz-community/footer"
     enabled: true
     options:
       links:
