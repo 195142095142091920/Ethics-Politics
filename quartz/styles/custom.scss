@@ -75,3 +75,16 @@ article p, article li {
     overflow-x: auto;
   }
 }
+
+/* Mermaid fix: theme colors resolved to plain rgb (same colors), since mermaid cannot parse hsl(calc(...)) */
+:root[saved-theme="light"] {
+  --tertiary: rgb(166, 138, 249);
+}
+:root[saved-theme="dark"] {
+  --secondary: rgb(166, 138, 249);
+  --tertiary: rgb(197, 182, 252);
+}
+/* Mermaid edge labels: readable text on the highlight background in both themes */
+.mermaid .edgeLabel, .mermaid .edgeLabel p, .mermaid .edgeLabel span {
+  color: #222222 !important;
+}
