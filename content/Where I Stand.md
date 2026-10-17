@@ -66,6 +66,7 @@ My position on every topic, one line each, taken from each topic's summary. Foll
 
 ## [[5. Domestic Policy & Governance]]
 - **[[5. Domestic Policy & Governance#Economic System|Economic System]]:** **Markets work better than the alternatives for making people richer over time.** Countries and periods that protected private property and let prices and competition guide most decisions produced higher living standards, less extreme poverty, and more innovation than systems that put the state in charge of most production and prices.
+- **[[5. Domestic Policy & Governance#Socialism|Socialism]]:** Socialism in its core sense, social or state ownership of the means of production and planning in place of markets, is incompatible with the framework because it overrides property and voluntary exchange. Social democracy is different: the Nordic countries are market economies with large welfare states. The framework shares the goal of a floor for basic needs but funds only a minimal one and leaves the rest to markets and voluntary giving.
 - **[[5. Domestic Policy & Governance#Labor and Unions|Labor and Unions]]:** Unions are voluntary and no one has to join or pay one to work.
 - **[[5. Domestic Policy & Governance#Antitrust|Antitrust]]:** Big is not illegal.
 - **[[5. Domestic Policy & Governance#Taxation|Taxation]]:** The main federal tax is simple: most people below a clear income line pay nothing, and those with low earnings receive a top-up on what they earn.
