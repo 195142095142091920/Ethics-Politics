@@ -180,7 +180,7 @@ My position on every topic, one line each, taken from each topic's summary. Foll
 - **[[9. Energy & Environment#Conservation vs Development|Conservation vs Development]]:** I believe nature should be preserved where rights are not violated.
 - **[[9. Energy & Environment#Water Resources and Rights|Water Resources and Rights]]:** I believe water rights are property, pollution of water is a violation, and markets should allocate water within health standards.
 - **[[9. Energy & Environment#Agriculture, Grazing, and Habitat|Agriculture, Grazing, and Habitat]]:** I believe animal agriculture should be banned outright and instantly.
-- **[[9. Energy & Environment#Commercial Fishing and Aquaculture|Commercial Fishing and Aquaculture]]:** My position is that commercial fishing and fish farming of sentient animals should be banned outright and instantly.
+- **[[9. Energy & Environment#Commercial Fishing and Aquaculture|Commercial Fishing and Aquaculture]]:** I believe commercial fishing and fish farming of sentient animals should be banned outright and instantly.
 
 ---
 
