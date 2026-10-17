@@ -41,7 +41,7 @@ Retribution, incapacitation, and the protection of victims' sentient rights take
 ---
 
 ## [[7. Cultural & Social Issues]]
-Traditional nuclear family preference, free speech absolutism (with narrow exceptions), meritocracy, cultural compatibility for cohesion, and personal responsibility. Strong skepticism of identity politics, mandates, and progressive social engineering.
+Traditional nuclear family preference, free speech absolutism (with narrow exceptions), meritocracy, cultural compatibility for cohesion, and personal responsibility. Strong opposition to identity politics and progressive social engineering, and skepticism of mandates.
 
 ---
 
