@@ -38,6 +38,13 @@ Set out in [[6. Criminal Justice & Security#Abolition of Permanent Incarceration
 
 ---
 
+## Felony and misdemeanor
+A felony is any offense worth two or more marks, or any capital-tier crime. A misdemeanor is any offense worth one mark or a fine only.
+
+Set out in [[6. Criminal Justice & Security#Repeat Offenders and Forfeiture of the Right to Life|Criminal Justice & Security: Repeat Offenders and Forfeiture of the Right to Life]].
+
+---
+
 ## Fixed-term labor track
 The fixed-term labor track is the lesser tier, one or two marks, served for a term the judge sets in proportion to the harm, with a known end date.
 
