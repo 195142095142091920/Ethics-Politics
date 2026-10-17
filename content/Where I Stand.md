@@ -109,6 +109,7 @@ My position on every topic, one line each, taken from each topic's summary. Foll
 - **[[6. Criminal Justice & Security#Drug Policy|Drug Policy]]:** Using drugs privately is not a crime, but using them in public is banned.
 - **[[6. Criminal Justice & Security#Border Security and Immigration Enforcement|Border Security and Immigration Enforcement]]:** Illegal immigrants are removed by force, the border is heavily fortified, and lethal force is allowed when necessary.
 - **[[6. Criminal Justice & Security#Terrorism and Domestic Extremism|Terrorism and Domestic Extremism]]:** Domestic terrorism is treated as a serious threat.
+- **Author's view on political violence:** The 2020 riots were left-wing political violence that terrorism counts leave out, and both sides' violence is condemned equally.
 - **[[6. Criminal Justice & Security#Gun Crime and Violence|Gun Crime and Violence]]:** Gang and high-crime areas get heavy, hot-spot policing and fast, harsh crackdowns, and high-rate violent offenders are locked up, with full due process.
 - **[[6. Criminal Justice & Security#Domestic Violence|Domestic Violence]]:** Extreme violence, intentional neglect, beating without drawing blood, and withholding food, water, or shelter as punishment against a spouse or family member are capital if they cause lasting injury. Otherwise they are egregious: three marks at once: execution, experimentation, or life with labor.
 - **[[6. Criminal Justice & Security#Victims' Rights|Victims' Rights]]:** Offenders lose their rights when they violate others'.
