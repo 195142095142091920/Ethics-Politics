@@ -31,7 +31,7 @@ Strict separation of religion and government in the United States. Religions tha
 ---
 
 ## [[5. Domestic Policy & Governance]]
-Limited government, individual responsibility, low taxation, and maximum cultural and economic freedom, with only minimal safety nets. The state prioritizes free markets, personal choice, and fiscal restraint. Opt-in social programs and basic public services are acceptable; mandatory redistribution is not, beyond the narrow exceptions named in Welfare and Entitlements. Minimal necessary taxes fund core services: K-12 education, police, fire, emergency services, infrastructure upkeep, and the bare-minimum safety floor defined in Welfare and Entitlements. How the education tax is defined and collected, and who is exempt or opts in, remains open in the Taxation section.
+Limited government, individual responsibility, low taxation, and maximum cultural and economic freedom, with only minimal safety nets. The state prioritizes free markets, personal choice, and fiscal restraint. Opt-in social programs and basic public services are acceptable; mandatory redistribution is not, beyond the narrow exceptions named in Welfare and Entitlements. Minimal necessary taxes fund core services: K-12 education, police, fire, emergency services, infrastructure upkeep, and the bare-minimum safety floor defined in Welfare and Entitlements. K-12 is funded by each state from its general revenue at about \$10,000 per child, as set out in [[5. Domestic Policy & Governance#Education|Education]].
 
 ---
 
