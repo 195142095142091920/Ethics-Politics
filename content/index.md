@@ -3,6 +3,7 @@ title: Index
 enableToc: "false"
 ---
 # [[Start Here]]
+# [[Where I Stand]]
 # [[1. Ethical and Philosophical Framework]]
 # [[2. Political and Social Character]]
 # [[3. Authority & Civil Liberties]]
@@ -15,7 +16,6 @@ enableToc: "false"
 # [[10. Bioethics, Progress, & Technology]]
 # [[11. Modern Political Parties]]
 # [[12. Current Administration]]
-# [[Where I Stand]]
 # [[Glossary]]
 
 ---

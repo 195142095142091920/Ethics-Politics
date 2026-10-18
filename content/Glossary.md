@@ -1,4 +1,4 @@
-## Core Principles
+## About this glossary
 Key terms used across the site, each defined in the site's own words and linked to where it is set out.
 
 ---
