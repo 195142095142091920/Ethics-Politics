@@ -67,7 +67,7 @@ Set out in [[5. Domestic Policy & Governance#Welfare and Entitlements|Domestic P
 ---
 
 ## Mark
-A mark is a recorded conviction counted toward the repeat-offender threshold, and every mark includes supervised hard labor.
+A mark is a recorded conviction counted toward the repeat-offender threshold, and every mark includes supervised hard labor. Every mark requires proof beyond reasonable doubt.
 
 Set out in [[6. Criminal Justice & Security#Repeat Offenders and Forfeiture of the Right to Life|Criminal Justice & Security: Repeat Offenders and Forfeiture of the Right to Life]].
 
