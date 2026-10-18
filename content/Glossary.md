@@ -52,6 +52,13 @@ Set out in [[6. Criminal Justice & Security#Abolition of Permanent Incarceration
 
 ---
 
+## Income-scaled fine
+Any criminal, civil, or regulatory fine set in proportion to the offender's means. Individuals pay day fines: the number of days set by the offense, the value per day by income and wealth, with a small minimum and no cap. Corporations pay a percentage of global revenue, or their gain from the offense if higher.
+
+Set out in [[6. Criminal Justice & Security#Income-Scaled Fines|Criminal Justice & Security: Income-Scaled Fines]].
+
+---
+
 ## Last-resort allowance
 A strictly means-tested allowance for severe disability and the elderly poor, from general revenue under the backstop logic, with fraud enforcement and periodic medical reviews; a narrow exception.
 
