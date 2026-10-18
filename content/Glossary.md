@@ -39,7 +39,7 @@ Set out in [[6. Criminal Justice & Security#Abolition of Permanent Incarceration
 ---
 
 ## Felony and misdemeanor
-A felony is any offense worth two or more marks, or any capital-tier crime. A misdemeanor is any offense worth one mark or a fine only.
+A felony is any offense worth two or more marks, or any capital-tier crime. A misdemeanor is any offense worth one mark or a fine without a mark.
 
 Set out in [[6. Criminal Justice & Security#Repeat Offenders and Forfeiture of the Right to Life|Criminal Justice & Security: Repeat Offenders and Forfeiture of the Right to Life]].
 
@@ -53,7 +53,7 @@ Set out in [[6. Criminal Justice & Security#Abolition of Permanent Incarceration
 ---
 
 ## Income-scaled fine
-Any criminal, civil, or regulatory fine set in proportion to the offender's means. Individuals pay day fines: the number of days set by the offense, the value per day by income and wealth, with a small minimum and no cap. Corporations pay a percentage of global revenue, or their gain from the offense if higher.
+Any criminal, civil, or regulatory fine set in proportion to the offender's means. Individuals pay day fines as a pure percentage, with no floor or cap: 1 to 60 days for misdemeanors and 61 to 360 for felonies, each day worth about half a day's net income plus about 0.01% of net wealth, always alongside a labor component. Corporations pay up to 4% of global revenue, or their gain from the offense if higher.
 
 Set out in [[6. Criminal Justice & Security#Income-Scaled Fines|Criminal Justice & Security: Income-Scaled Fines]].
 
