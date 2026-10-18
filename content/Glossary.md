@@ -53,7 +53,7 @@ Set out in [[6. Criminal Justice & Security#Abolition of Permanent Incarceration
 ---
 
 ## Income-scaled fine
-Any criminal, civil, or regulatory fine set in proportion to the offender's means. Individuals pay day fines as a pure percentage, with no floor or cap: 1 to 60 days for misdemeanors and 61 to 360 for felonies, each day worth about half a day's net income plus about 0.01% of net wealth, always alongside a labor component. Corporations pay up to 4% of global revenue, or their gain from the offense if higher.
+Any criminal, civil, or regulatory fine set in proportion to the offender's means. Individuals pay day fines as a pure percentage, with no floor or cap: 1 to 60 days for misdemeanors and 61 to 360 for felonies, each day worth about half a day's net income plus about 0.05% of net wealth, always alongside a labor component that scales with severity. Corporations pay up to 4% of global revenue, or their gain from the offense if higher, and the CEO is personally responsible by default, serving the labor and paying a personal fine; the same applies to heads of nonprofits and religious groups. Labor from a fine is added on top of any mark's labor term, and minor regulatory fines involving no wrongdoing carry no labor.
 
 Set out in [[6. Criminal Justice & Security#Income-Scaled Fines|Criminal Justice & Security: Income-Scaled Fines]].
 
