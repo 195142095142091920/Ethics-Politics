@@ -17,6 +17,13 @@ Set out in [[6. Criminal Justice & Security#Evidentiary Standard|Criminal Justic
 
 ---
 
+## Debt brake
+An automatic rule that compares debt each year with the legislated path and raises the income surcharge half a point per point of overshoot, up to two points, suspended in recessions; after three years on, spending cuts are required.
+
+Set out in [[5. Domestic Policy & Governance#Fiscal Policy|Domestic Policy & Governance: Fiscal Policy]].
+
+---
+
 ## Desert
 Desert means punishment matched to what the offender earned by the crime, regardless of whether it deters.
 
@@ -105,3 +112,10 @@ Set out in [[1. Ethical and Philosophical Framework#Axioms|Ethical and Philosoph
 Any being, biological or artificial, that possesses first-order subjective experience is to be treated as a rights-bearer under this framework. Higher-order self-awareness is not required.
 
 Set out in [[1. Ethical and Philosophical Framework#Axioms|Ethical and Philosophical Framework: Axioms]].
+
+---
+
+## Transition levy
+A temporary tax of 16% of all wages, split between worker and employer, that replaces today's payroll taxes and pays only for the Social Security and Medicare benefits already promised, then the debt. It never rises above 16%, steps down as the debt is paid, and ends when the protected benefits end.
+
+Set out in [[5. Domestic Policy & Governance#Taxation|Domestic Policy & Governance: Taxation]].
