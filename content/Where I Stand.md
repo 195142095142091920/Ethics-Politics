@@ -44,7 +44,7 @@ My position on every topic, one line each, taken from each topic's summary. Foll
 - **[[3. Authority & Civil Liberties#Role of Juries|Role of Juries]]:** I believe conviction should require a unanimous jury of at least twelve, in civil and criminal cases alike.
 - **[[3. Authority & Civil Liberties#Voting and Elections|Voting and Elections]]:** I believe voters must show ID, mail-in ballots ought to be fully authenticated and encrypted, and [[Glossary#Felony and misdemeanor|felons]] should not vote.
 - **[[3. Authority & Civil Liberties#Election Administration|Election Administration]]:** I believe elections should require ID, authenticated mail ballots, and clean voter rolls, with money limited to individual donations.
-- **[[3. Authority & Civil Liberties#Ranked-Choice Voting|Ranked-Choice Voting]]:** I believe ranked-choice voting should be each state's choice, never a federal mandate or ban.
+- **[[3. Authority & Civil Liberties#Ranked-Choice Voting|Ranked-Choice Voting]]:** I believe ranked-choice voting should be required for every federal, state, and local election, by constitutional amendment.
 - **[[3. Authority & Civil Liberties#Direct Democracy and Citizen Initiatives|Direct Democracy and Citizen Initiatives]]:** I believe states and localities may offer citizen initiatives and referendums. I support a constitutional amendment creating a national initiative for federal statutes and amendments, reaching the ballot with signatures from 1% (statute) or 2% (amendment) of qualified voters within 18 months.
 
 ---
