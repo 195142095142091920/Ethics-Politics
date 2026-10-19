@@ -13,7 +13,7 @@ A short tour of the framework. Each section below is introduced in its own words
 ---
 
 ## [[2. Political and Social Character]]
-Priority is given to cultural cohesion, high-trust social conditions, national sovereignty, and strong borders. The state's primary duties are to its own citizens and to the long-term continuity of the political community. Immigration is selective and oriented toward compatibility with the shared Western value structure, judged at the country level and through values vetting of every immigrant, and cultural assimilation is paramount. The border is secured, with lethal force used when necessary against violent or armed crossings. "Western" names a value structure, not an ethnicity, so compatibility is open to anyone who holds those values.
+Priority is given to cultural cohesion, high-trust social conditions, national sovereignty, and strong borders. The state's primary duties are to its own citizens and to the long-term continuity of the political community. Immigration is selective and oriented toward compatibility with the shared Western value structure, judged at the country level and through values vetting of every immigrant, and cultural assimilation is paramount. The border is secured, with lethal force used when necessary. "Western" names a value structure, not an ethnicity, so compatibility is open to anyone who holds those values.
 
 ---
 
