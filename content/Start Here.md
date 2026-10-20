@@ -125,7 +125,7 @@ I grade the current presidential administration's major actions against my posit
 | Government Structure and Executive Power | Department of Government Efficiency | January 20, 2025 | Directionally aligned (details differ) |
 | Government Structure and Executive Power | Schedule Policy/Career | January 20, 2025 | Directionally aligned (details differ) |
 
-Totals: Aligned: 13; Directionally aligned (details differ): 18; Mixed: 6; Directionally opposed: 3; Opposed: 3.
+Totals: Aligned: 13; Directionally aligned (details differ): 20; Mixed: 9; Directionally opposed: 4; Opposed: 4.
 
 ---
 
