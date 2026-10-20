@@ -72,14 +72,14 @@ I grade the current presidential administration's major actions against my posit
 
 ### Summary of Grades
 
-Totals: Aligned: 13; Directionally aligned (details differ): 20; Mixed: 10; Directionally opposed: 4; Opposed: 4.
+Totals: Aligned: 13; Directionally aligned (details differ): 22; Mixed: 7; Directionally opposed: 5; Opposed: 4.
 
 > [!summary]- Grade chart (51 entries)
 > | Topic | Action | Date | Grade |
 > |---|---|---|---|
-> | Health | Women's health research | October 19, 2026 | Mixed |
+> | Health | Women's health research | October 19, 2026 | Directionally opposed |
 > | Foreign Policy and Security | Russia sanctions law waived | October 16, 2026 | Directionally opposed |
-> | Government Structure and Executive Power | Inquiry into Fed Governor Lisa Cook | October 7, 2026 | Mixed |
+> | Government Structure and Executive Power | Inquiry into Fed Governor Lisa Cook | October 7, 2026 | Directionally aligned (details differ) |
 > | Economy, Taxes, and Trade | Diesel fuel tax deferral | October 5, 2026 | Mixed |
 > | Immigration and Borders | Third-country removals allowed to resume | September 29, 2026 | Directionally aligned (details differ) |
 > | Animals, Agriculture, Environment, and Energy | Tick and mosquito suppression | September 29, 2026 | Mixed |
@@ -104,7 +104,7 @@ Totals: Aligned: 13; Directionally aligned (details differ): 20; Mixed: 10; Dire
 > | Crime, Justice, and Policing | DC crime emergency | August 11, 2025 | Directionally aligned (details differ) |
 > | Crime, Justice, and Policing | Civil commitment for street disorder | July 24, 2025 | Directionally aligned (details differ) |
 > | Economy, Taxes, and Trade | One Big Beautiful Bill Act | July 4, 2025 | Mixed |
-> | Immigration and Borders | Limits on universal injunctions | June 27, 2025 | Mixed |
+> | Immigration and Borders | Limits on universal injunctions | June 27, 2025 | Directionally aligned (details differ) |
 > | Economy, Taxes, and Trade | Reciprocal tariffs | April 2, 2025 | Directionally opposed |
 > | Government Structure and Executive Power | Orders against law firms | March 6, 2025 | Directionally opposed |
 > | Technology | Strategic Bitcoin Reserve | March 6, 2025 | Mixed |
