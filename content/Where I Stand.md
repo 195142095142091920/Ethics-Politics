@@ -227,5 +227,5 @@ My position on every topic, one line each, taken from each topic's summary. Foll
 - **[[11. Modern Political Parties#Method|Method]]:** No American party matches my framework.
 
 
-## [[12. Current Administration]]
+## [[12. Current Administration|12. Current Events]]
 - **[[12. Current Administration#Summary of Grades|Summary of Grades]]:** The current administration's major actions are graded separately against the framework.
