@@ -38,7 +38,7 @@ Limited government, individual responsibility, low taxation, and maximum cultura
 ---
 
 ## [[6. Criminal Justice & Security]]
-Retribution, incapacitation, and the protection of victims' sentient rights take priority over rehabilitation. Those who murder, commit violent rape, child molestation, child rape, kidnapping, or human trafficking, or who repeatedly violate the rights of others, forfeit the protections they denied their victims. Punishment is swift, certain, and public, and capital punishment applies only where guilt is established beyond any real doubt. Enforcement is heavy, with military-style action against cartels and high-crime threats.
+Retribution, incapacitation, and the protection of victims' sentient rights take priority over rehabilitation. Those who murder, commit violent rape, child molestation, child rape, kidnapping, human trafficking, or selling hard drugs, or who repeatedly violate the rights of others, forfeit the protections they denied their victims. Punishment is swift, certain, and public, and capital punishment applies only where guilt is established beyond any real doubt. Enforcement is heavy, with military-style action against cartels and high-crime threats.
 
 ---
 
