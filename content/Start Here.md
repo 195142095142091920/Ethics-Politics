@@ -72,9 +72,9 @@ I grade the current presidential administration's major actions against my posit
 
 ### Summary of Grades
 
-Totals: Aligned: 13; Directionally aligned (details differ): 20; Mixed: 9; Directionally opposed: 4; Opposed: 4.
+Totals: Aligned: 13; Directionally aligned (details differ): 20; Mixed: 10; Directionally opposed: 4; Opposed: 4.
 
-> [!summary]- Grade chart (50 entries)
+> [!summary]- Grade chart (51 entries)
 > | Topic | Action | Date | Grade |
 > |---|---|---|---|
 > | Health | Women's health research | October 19, 2026 | Mixed |
@@ -84,6 +84,7 @@ Totals: Aligned: 13; Directionally aligned (details differ): 20; Mixed: 9; Direc
 > | Immigration and Borders | Third-country removals allowed to resume | September 29, 2026 | Directionally aligned (details differ) |
 > | Animals, Agriculture, Environment, and Energy | Tick and mosquito suppression | September 29, 2026 | Mixed |
 > | Immigration and Borders | Refugee ceiling for fiscal year 2027 | September 25, 2026 | Directionally aligned (details differ) |
+> | Foreign Policy and Security | Greenland defense agreement | September 22, 2026 | Mixed |
 > | Animals, Agriculture, Environment, and Energy | Hunting heritage | September 17, 2026 | Opposed |
 > | Animals, Agriculture, Environment, and Energy | Saltwater angling | September 17, 2026 | Opposed |
 > | Animals, Agriculture, Environment, and Energy | Support for ranchers and livestock markets | September 4, 2026 | Opposed |
