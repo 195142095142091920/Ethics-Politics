@@ -114,7 +114,7 @@ async function _navigate(url: URL, isBack: boolean = false) {
   if (!isBack) {
     if (url.hash) {
       const el = document.getElementById(decodeURIComponent(url.hash.substring(1)))
-      el?.scrollIntoView()
+      el?.scrollIntoView({ behavior: "instant" as ScrollBehavior })
     } else {
       window.scrollTo({ top: 0 })
     }
@@ -152,6 +152,28 @@ async function navigate(url: URL, isBack: boolean = false) {
 
 window.spaNavigate = navigate
 
+
+// Site-wide: in-page jumps are instant; neutralize smooth scrolling requested by any script
+if (typeof window !== "undefined" && !(window as any).__noSmoothScroll) {
+  ;(window as any).__noSmoothScroll = true
+  const unsmooth = (o: unknown) =>
+    o && typeof o === "object" && (o as ScrollToOptions).behavior === "smooth"
+      ? { ...(o as object), behavior: "instant" as ScrollBehavior }
+      : o
+  const siv = Element.prototype.scrollIntoView
+  Element.prototype.scrollIntoView = function (arg?: boolean | ScrollIntoViewOptions) {
+    return siv.call(this, unsmooth(arg) as any)
+  }
+  for (const name of ["scrollTo", "scroll", "scrollBy"] as const) {
+    const wf = (window as any)[name].bind(window)
+    ;(window as any)[name] = (...a: any[]) => wf(...a.map(unsmooth))
+    const ef = (Element.prototype as any)[name]
+    ;(Element.prototype as any)[name] = function (...a: any[]) {
+      return ef.apply(this, a.map(unsmooth))
+    }
+  }
+}
+
 function createRouter() {
   if (typeof window !== "undefined") {
     window.addEventListener("click", async (event) => {
@@ -162,7 +184,7 @@ function createRouter() {
 
       if (isSamePage(url) && url.hash) {
         const el = document.getElementById(decodeURIComponent(url.hash.substring(1)))
-        el?.scrollIntoView()
+        el?.scrollIntoView({ behavior: "instant" as ScrollBehavior })
         history.pushState({}, "", url)
         return
       }

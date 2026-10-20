@@ -30,6 +30,39 @@
   }
 }
 
+/* TOC: subtle dividers between entries, and its own scrollbar inside the sticky sidebar */
+@media all and ($desktop) {
+  .sidebar.right .toc {
+    overflow: visible !important;
+    flex: 0 0 auto !important;
+    min-height: 0;
+  }
+  .sidebar.right .toc .toc-content,
+  .sidebar.right .toc .toc-content.overflow,
+  .sidebar.right .toc ul.toc-content {
+    max-height: calc(100vh - 8rem) !important;
+    overflow-y: auto !important;
+    overflow-x: hidden !important;
+    overscroll-behavior: contain;
+    scrollbar-width: thin;
+    scrollbar-color: var(--gray) transparent;
+    padding-right: 0.4rem !important;
+  }
+}
+.toc .toc-content > li {
+  padding: 0.2rem 0;
+  border-bottom: 1px solid color-mix(in srgb, var(--gray) 22%, transparent);
+}
+.toc .toc-content > li:last-child {
+  border-bottom: none;
+}
+.toc .toc-content::-webkit-scrollbar { width: 6px; }
+.toc .toc-content::-webkit-scrollbar-thumb { background: var(--gray); border-radius: 3px; }
+.toc .toc-content::-webkit-scrollbar-track { background: transparent; }
+
+/* In-page anchor jumps are instant */
+html, body { scroll-behavior: auto !important; }
+
 /* Remove purple highlight from H1 links on the homepage */
 
 body[data-slug="/"] h1 a,
