@@ -67,7 +67,7 @@ This page measures today's political parties against the framework. Each party i
 
 ---
 
-## [[12. Current Administration|12. Current Events]]
+## [[12. Current Events]]
 This page grades the current presidential administration's major actions against the framework. Donald J. Trump took office for his second term on January 20, 2025. Each action is graded on direction as well as detail, because no administration will match the framework exactly: **Aligned** (direction and details match), **Directionally aligned (details differ)** (moves the way the framework does, by a different route or to a different degree), **Mixed** (parts point both ways, or the site has no settled position), **Directionally opposed** (moves against the framework, with some overlap), and **Opposed**. Grades reflect my framework, set out in the sections linked from each entry; descriptions are drawn from the official text of each action.
 
 ### Summary of Grades

@@ -15,7 +15,7 @@ enableToc: "false"
 # [[9. Energy & Environment]]
 # [[10. Bioethics, Progress, & Technology]]
 # [[11. Modern Political Parties]]
-# [[12. Current Administration|12. Current Events]]
+# [[12. Current Events]]
 # [[Glossary]]
 
 ---
