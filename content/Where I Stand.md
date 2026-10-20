@@ -227,5 +227,9 @@ My position on every topic, one line each, taken from each topic's summary. Foll
 - **[[11. Modern Political Parties#Method|Method]]:** No American party matches my framework.
 
 
-## [[12. Current Events]]
-- **[[12. Current Events#Summary of Grades|Summary of Grades]]:** The current administration's major actions are graded separately against the framework.
+## [[12. Current Administration]]
+- **[[12. Current Administration#Summary of Grades|Summary of Grades]]:** The current administration's major actions are graded separately against the framework.
+
+## [[13. News Commentary]]
+- **[[13. News Commentary#Case: France riots, 17 October 2026|Case: France riots, 17 October 2026]]:** I believe these riots aren't really about school funding or the cost of living.
+- **[[13. News Commentary#Case: Abdul El-Sayed, Michigan Senate race, 2026|Case: Abdul El-Sayed, Michigan Senate race, 2026]]:** Documented accounts on the Democratic nominee for U.S. Senate in Michigan.
