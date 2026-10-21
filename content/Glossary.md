@@ -115,6 +115,13 @@ Set out in [[1. Ethical and Philosophical Framework#Axioms|Ethical and Philosoph
 
 ---
 
+## Sanctuary Levy
+A single flat, time-limited levy on income above \$75,000 single or \$150,000 joint, with grandfathered Social Security benefits excluded and a cap of 3%. It is legally dedicated to sanctuary care for the animals alive when animal agriculture, commercial fishing, breeding mills, and animal testing shut down, to repaying the sanctuary bonds that cover the early years after liquidation proceeds, and to a closing endowment for the last animals. It is held level, may only be lowered, and ends when the national sanctuary population falls below 1% of its starting animal units and the bonds are repaid.
+
+Set out in [[9. Energy & Environment#Sanctuary Plan|Energy & Environment: Sanctuary Plan]] and [[5. Domestic Policy & Governance#Taxation|Domestic Policy & Governance: Taxation]].
+
+---
+
 ## Sentience basis (sentientism)
 Any being, biological or artificial, that possesses first-order subjective experience is to be treated as a rights-bearer under this framework. Higher-order self-awareness is not required.
 
