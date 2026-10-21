@@ -72,11 +72,12 @@ I grade the current presidential administration's major actions against my posit
 
 ### Summary of Grades
 
-Totals: Aligned: 13; Directionally aligned (details differ): 22; Mixed: 7; Directionally opposed: 5; Opposed: 4.
+Totals: Aligned: 14; Directionally aligned (details differ): 23; Mixed: 7; Directionally opposed: 5; Opposed: 4.
 
-> [!summary]- Grade chart (51 entries)
+> [!summary]- Grade chart (53 entries)
 > | Topic | Action | Date | Grade |
 > |---|---|---|---|
+> | Immigration and Borders | Enforcement at houses of worship | October 20, 2026 | Directionally aligned (details differ) |
 > | Health | Women's health research | October 19, 2026 | Directionally opposed |
 > | Foreign Policy and Security | Russia sanctions law waived | October 16, 2026 | Directionally opposed |
 > | Government Structure and Executive Power | Inquiry into Fed Governor Lisa Cook | October 7, 2026 | Directionally aligned (details differ) |
@@ -92,6 +93,7 @@ Totals: Aligned: 13; Directionally aligned (details differ): 22; Mixed: 7; Direc
 > | Health | Childhood vaccine schedule realigned | May 29, 2026 | Directionally aligned (details differ) |
 > | Economy, Taxes, and Trade | TrumpIRA.gov retirement accounts | April 30, 2026 | Directionally aligned (details differ) |
 > | Government Structure and Executive Power | Citizenship verification in elections | March 31, 2026 | Aligned |
+> | Culture | Contractor DEI clause | March 26, 2026 | Aligned |
 > | Foreign Policy and Security | Control of Venezuelan oil exports and revenue | January 9, 2026 | Directionally aligned (details differ) |
 > | Foreign Policy and Security | Capture of Nicolás Maduro | January 3, 2026 | Aligned |
 > | Health | Medical marijuana research | December 18, 2025 | Directionally aligned (details differ) |
