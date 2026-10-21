@@ -61,7 +61,7 @@ My position on every topic, one line each, taken from each topic's summary. Foll
 - **[[4. Religion & Secularism#Christianity and Western Heritage|Christianity and Western Heritage]]:** I view Western heritage and moderate Christianity as good, and I see a Western society shaped by moderate Christianity as culturally better than an anti-Western Islamic one.
 - **[[4. Religion & Secularism#Atheism, Secularism, and Faith|Atheism, Secularism, and Faith]]:** I believe the government should stay neutral toward religions that respect rights.
 - **[[4. Religion & Secularism#Religious Upbringing and Children|Religious Upbringing and Children]]:** I believe parents should be able to raise children in their faith and choose religious schools or homeschooling.
-- **[[4. Religion & Secularism#High-Control Groups|High-Control Groups]]:** I believe no group should be restricted for what it believes or teaches, except under the excluded-religions amendment, but force, fraud, coerced labor, and abuse ought to be prosecuted, leaders should answer for violations they direct, the head of the organization answers for its fines by default, and every member should be free to leave.
+- **[[4. Religion & Secularism#High-Control Groups|High-Control Groups]]:** I believe no group should be restricted for what it believes or teaches, except under the excluded-religions amendment and the bar on building or rebuilding places that promote anti-constitutional causes ([[3. Authority & Civil Liberties#Property Rights|Property Rights]]), but force, fraud, coerced labor, and abuse ought to be prosecuted, leaders should answer for violations they direct, the head of the organization answers for its fines by default, and every member should be free to leave.
 
 ---
 
