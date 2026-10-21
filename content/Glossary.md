@@ -122,6 +122,13 @@ Set out in [[9. Energy & Environment#Sanctuary Plan|Energy & Environment: Sanctu
 
 ---
 
+## Sanctuary license
+The license a nonprofit must hold to run a sanctuary under the Sanctuary Plan after the emergency phase. It sets care standards, sterilization, adoption vetting and unannounced inspections, and bars the sale of animals or animal products and all breeding. Licensed operators are paid a fixed amount per animal per year from the Sanctuary Levy, are accredited by an independent body and inspected by the state, and hold use of the land, never ownership, while any animals remain on it. Each site transfers from the state once its operator passes accreditation.
+
+Set out in [[9. Energy & Environment#Handover to Nonprofit Operators|Energy & Environment: Handover to Nonprofit Operators]].
+
+---
+
 ## Sentience basis (sentientism)
 Any being, biological or artificial, that possesses first-order subjective experience is to be treated as a rights-bearer under this framework. Higher-order self-awareness is not required.
 
