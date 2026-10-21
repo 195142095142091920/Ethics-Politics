@@ -94,6 +94,13 @@ Set out in [[1. Ethical and Philosophical Framework#Axioms|Ethical and Philosoph
 
 ---
 
+## Rebuttable presumption (immigration)
+A starting assumption against admission that an individual applicant can overcome with clear and convincing evidence of conduct and record, never by declaration alone. It applies to Muslim applicants and to applicants from countries where Islamist movements govern or where most people back state-enforced religious law.
+
+Set out in [[8. Foreign Policy & International Relations#Immigration and Borders|Foreign Policy & International Relations: Immigration and Borders]].
+
+---
+
 ## Repeat-offender threshold
 The repeat-offender threshold is three marks. When an offender reaches three marks, the offender forfeits the right to life.
 
