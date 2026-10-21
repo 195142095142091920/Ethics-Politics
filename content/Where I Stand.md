@@ -233,4 +233,4 @@ My position on every topic, one line each, taken from each topic's summary. Foll
 ## [[13. News Commentary]]
 - **[[13. News Commentary#Case: France riots, 17 October 2026|Case: France riots, 17 October 2026]]:** I believe these riots aren't really about school funding or the cost of living.
 - **[[13. News Commentary#Case: Greenland, 2024–2026|Case: Greenland, 2024–2026]]:** Documented timeline of the U.S. push for Greenland and the September 2026 defense agreement.
-- **[[13. News Commentary#Case: Abdul El-Sayed, Michigan Senate race, 2026|Case: Abdul El-Sayed, Michigan Senate race, 2026]]:** Documented accounts on the Democratic nominee for U.S. Senate in Michigan.
+- **[[13. News Commentary#Case: Abdul El-Sayed, Michigan Senate race, 2026|Case: Abdul El-Sayed, Michigan Senate race, 2026]]:** I would not allow a Muslim into public office, so under my framework he could not hold this seat; on policy he conflicts with me on healthcare, taxes, immigration, Israel, policing, abortion and energy, and aligns on Ukraine, campaign money, AI rules, housing supply and no vouchers.
