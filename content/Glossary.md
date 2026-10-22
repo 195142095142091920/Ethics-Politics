@@ -130,7 +130,7 @@ Set out in [[9. Energy & Environment#Handover to Nonprofit Operators|Energy & En
 ---
 
 ## Sentience basis (sentientism)
-Any being, biological or artificial, that possesses first-order subjective experience is to be treated as a rights-bearer under this framework. Higher-order self-awareness is not required.
+Any being, biological or artificial, that possesses first-order subjective experience is to be treated as a rights-bearer under my framework. Higher-order self-awareness is not required.
 
 Set out in [[1. Ethical and Philosophical Framework#Axioms|Ethical and Philosophical Framework: Axioms]].
 
