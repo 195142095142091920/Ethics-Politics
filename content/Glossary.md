@@ -18,9 +18,9 @@ Set out in [[6. Criminal Justice & Security#Evidentiary Standard|Criminal Justic
 ---
 
 ## Debt brake
-An automatic rule that compares debt each year with the legislated path and raises the income surcharge half a point per point of overshoot, up to two points, suspended in recessions; after three years on, spending cuts are required.
+An automatic rule that raises the temporary income surcharge when debt runs above its legislated path, is suspended in recessions, and forces spending cuts if it stays on.
 
-Set out in [[5. Domestic Policy & Governance#Fiscal Policy|Domestic Policy & Governance: Fiscal Policy]].
+Set out in [[5. Domestic Policy & Governance#Fiscal Policy|Domestic Policy & Governance: Fiscal Policy]] and [[5. Domestic Policy & Governance#^surcharge|Taxation]].
 
 ---
 
@@ -38,8 +38,8 @@ Set out in [[5. Domestic Policy & Governance#Welfare and Entitlements|Domestic P
 
 ---
 
-## Egregious tier
-The egregious tier covers grave abuse that does not cause lasting injury; it counts as three marks at once: execution, experimentation, or life with labor, as the victim chooses.
+## Grave tier
+The grave tier covers grave abuse that does not cause lasting injury; it counts as three marks at once: execution, experimentation, or life with labor, as the victim chooses.
 
 Set out in [[6. Criminal Justice & Security#Abolition of Permanent Incarceration and Compelled Labor|Criminal Justice & Security: Abolition of Permanent Incarceration and Compelled Labor]].
 
@@ -60,7 +60,7 @@ Set out in [[6. Criminal Justice & Security#Abolition of Permanent Incarceration
 ---
 
 ## Income-scaled fine
-Any criminal, civil, or regulatory fine set in proportion to the offender's means. Individuals pay day fines as a pure percentage, with no floor or cap: 1 to 60 days for misdemeanors and 61 to 360 for felonies, each day worth about half a day's net income plus about 0.05% of net wealth, always alongside a labor component that scales with severity. Corporations pay up to 4% of global revenue, or their gain from the offense if higher, and the CEO is personally responsible by default, serving the labor and paying a personal fine; the same applies to heads of nonprofits and religious groups. Labor from a fine is added on top of any mark's labor term, and minor regulatory fines involving no wrongdoing carry no labor.
+Any criminal, civil, or regulatory fine set in proportion to the offender's income and wealth. Individuals pay day fines with no floor or cap, always alongside labor that scales with severity. Corporations pay a share of global revenue, or their gain from the offense if higher, and the CEO is personally responsible by default, serving the labor and paying a personal fine; the same applies to heads of nonprofits and religious groups.
 
 Set out in [[6. Criminal Justice & Security#Income-Scaled Fines|Criminal Justice & Security: Income-Scaled Fines]].
 
@@ -116,7 +116,7 @@ Set out in [[1. Ethical and Philosophical Framework#Axioms|Ethical and Philosoph
 ---
 
 ## Sanctuary Levy
-A single flat, time-limited levy on income above \$75,000 single or \$150,000 joint, with grandfathered Social Security benefits excluded and a cap of 3%. It is legally dedicated to sanctuary care for the animals alive when animal agriculture, commercial fishing, breeding mills, and animal testing shut down, to repaying the sanctuary bonds that cover the early years after liquidation proceeds, and to a closing endowment for the last animals. It is held level, may only be lowered, and ends when the national sanctuary population falls below 1% of its starting animal units and the bonds are repaid.
+A single flat, time-limited levy on income above its own line, never above 3%, legally dedicated to sanctuary care for the animals alive when animal agriculture, commercial fishing, breeding mills, and animal testing shut down, to repaying the sanctuary bonds, and to a closing endowment for the last animals. It may only be lowered, and it ends when the national sanctuary population falls below 1% of its starting animal units and the bonds are repaid.
 
 Set out in [[9. Energy & Environment#Sanctuary Plan|Energy & Environment: Sanctuary Plan]] and [[5. Domestic Policy & Governance#Taxation|Domestic Policy & Governance: Taxation]].
 
