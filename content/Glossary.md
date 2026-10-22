@@ -136,6 +136,13 @@ Set out in [[1. Ethical and Philosophical Framework#Axioms|Ethical and Philosoph
 
 ---
 
+## Sentience class
+The statutory class a species falls in for criminal purposes, set by an expert board on the best available scientific consensus and revised only for acts after a revision takes effect. The high class covers mammals, birds, cephalopods, and decapod crustaceans such as crabs and lobsters; fish and shrimp are placed species by species; bivalves and insects sit on the lowest, precautionary tier. Deliberately killing a high-class animal outside self-defense is murder on the capital track; killing a lower-class animal is a mark; deliberately killing a lowest-tier animal carries a small fine.
+
+Set out in [[1. Ethical and Philosophical Framework#^sentience-classes|Ethical and Philosophical Framework: Sentience Determination]].
+
+---
+
 ## Transition levy
 A temporary tax of 16% of all wages, split between worker and employer, that replaces today's payroll taxes and pays only for the Social Security and Medicare benefits already promised, then the debt. It never rises above 16%, steps down as the debt is paid, and ends when the protected benefits end.
 
