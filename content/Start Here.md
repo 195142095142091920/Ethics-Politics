@@ -72,11 +72,14 @@ I grade the current presidential administration's major actions against my posit
 
 ### Summary of Grades
 
-Totals: Aligned: 14; Directionally aligned (details differ): 23; Mixed: 7; Directionally opposed: 5; Opposed: 4.
+Totals: Aligned: 15; Directionally aligned (details differ): 25; Mixed: 10; Directionally opposed: 5; Opposed: 4.
 
-> [!summary]- Grade chart (53 entries)
+> [!summary]- Grade chart (59 entries)
 > | Topic | Action | Date | Grade |
 > |---|---|---|---|
+> | Immigration and Borders | Big Bend border wall | October 21, 2026 | Directionally aligned (details differ) |
+> | Government Structure and Executive Power | Voter-status sweeps and ballot demands | October 21, 2026 | Mixed |
+> | Culture | Transgender inmate care | October 21, 2026 | Aligned |
 > | Immigration and Borders | Enforcement at houses of worship | October 20, 2026 | Directionally aligned (details differ) |
 > | Health | Women's health research | October 19, 2026 | Directionally opposed |
 > | Foreign Policy and Security | Russia sanctions law waived | October 16, 2026 | Directionally opposed |
@@ -84,8 +87,10 @@ Totals: Aligned: 14; Directionally aligned (details differ): 23; Mixed: 7; Direc
 > | Economy, Taxes, and Trade | Diesel fuel tax deferral | October 5, 2026 | Mixed |
 > | Immigration and Borders | Third-country removals allowed to resume | September 29, 2026 | Directionally aligned (details differ) |
 > | Animals, Agriculture, Environment, and Energy | Tick and mosquito suppression | September 29, 2026 | Mixed |
+> | Technology | Renaming AI "Super Intelligence" | September 29, 2026 | Mixed |
 > | Immigration and Borders | Refugee ceiling for fiscal year 2027 | September 25, 2026 | Directionally aligned (details differ) |
 > | Foreign Policy and Security | Greenland defense agreement | September 22, 2026 | Mixed |
+> | Animals, Agriculture, Environment, and Energy | Companion animal welfare enforcement | September 21, 2026 | Mixed |
 > | Animals, Agriculture, Environment, and Energy | Hunting heritage | September 17, 2026 | Opposed |
 > | Animals, Agriculture, Environment, and Energy | Saltwater angling | September 17, 2026 | Opposed |
 > | Animals, Agriculture, Environment, and Energy | Support for ranchers and livestock markets | September 4, 2026 | Opposed |
@@ -94,6 +99,7 @@ Totals: Aligned: 14; Directionally aligned (details differ): 23; Mixed: 7; Direc
 > | Economy, Taxes, and Trade | TrumpIRA.gov retirement accounts | April 30, 2026 | Directionally aligned (details differ) |
 > | Government Structure and Executive Power | Citizenship verification in elections | March 31, 2026 | Aligned |
 > | Culture | Contractor DEI clause | March 26, 2026 | Aligned |
+> | Foreign Policy and Security | War with Iran | February 28, 2026 | Directionally aligned (details differ) |
 > | Foreign Policy and Security | Control of Venezuelan oil exports and revenue | January 9, 2026 | Directionally aligned (details differ) |
 > | Foreign Policy and Security | Capture of Nicolás Maduro | January 3, 2026 | Aligned |
 > | Health | Medical marijuana research | December 18, 2025 | Directionally aligned (details differ) |
