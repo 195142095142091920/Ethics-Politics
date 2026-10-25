@@ -18,7 +18,7 @@ Priority is given to cultural cohesion, high-trust social conditions, national s
 ---
 
 ## [[3. Authority & Civil Liberties]]
-Strong individual liberties and property rights with government limited to protecting sentient rights, public safety, and order. Opt-in mechanisms where possible; harsh accountability for criminals and officials; skepticism of overreach but support for effective enforcement.
+Strong individual liberties and property rights with government limited to protecting sentient rights, public safety, and order. Opt-in mechanisms where possible; harsh accountability for criminals and officials; skepticism of overreach but support for effective enforcement. Voting requires ID, a knowledge exam, and eligibility that excludes [[Glossary#Felony and misdemeanor|felons]] and current means-tested welfare recipients (conflict of interest).
 
 ---
 

@@ -147,3 +147,10 @@ Set out in [[1. Ethical and Philosophical Framework#^sentience-classes|Ethical a
 A temporary tax of 16% of all wages, split between worker and employer, that replaces today's payroll taxes and pays only for the Social Security and Medicare benefits already promised, then the debt. It never rises above 16%, steps down as the debt is paid, and ends when the protected benefits end.
 
 Set out in [[5. Domestic Policy & Governance#Taxation|Domestic Policy & Governance: Taxation]].
+
+---
+
+## Welfare voting bar
+A person currently receiving means-tested welfare — cash, food, housing, or non-emergency medical transfers funded by general taxation — cannot vote for the duration of that receipt. The rule exists because letting recipients vote on transfers to themselves is a massive conflict of interest. Grandfathered Social Security and Medicare, private insurance, charity, mutual aid, emergency shelter, emergency medical care, and K-12 do not count. The bar lifts when the benefit ends.
+
+Set out in [[3. Authority & Civil Liberties#Voting and Elections|Authority & Civil Liberties: Voting and Elections]] and [[3. Authority & Civil Liberties#^welfare-vote|welfare voting bar]].
