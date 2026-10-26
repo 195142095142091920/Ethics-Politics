@@ -150,7 +150,12 @@ Set out in [[5. Domestic Policy & Governance#Taxation|Domestic Policy & Governan
 
 ---
 
-## Welfare voting bar
-A person currently receiving means-tested welfare — cash, food, housing, or non-emergency medical transfers funded by general taxation — cannot vote for the duration of that receipt. The rule exists because letting recipients vote on transfers to themselves is a massive conflict of interest. Grandfathered Social Security and Medicare, private insurance, charity, mutual aid, emergency shelter, emergency medical care, and K-12 do not count. The bar lifts when the benefit ends.
+## Net fiscal voting bar
+Only net taxpayers vote. A person is a net taxpayer for the prior completed tax year when taxes paid exceed personally directed transfers received and income-tax liability is positive. Personally directed transfers on the received side are cash, food, housing, or non-emergency medical support funded by general taxation — including the last-resort allowance, the earnings-only top-up, and refundable credit cash-outs. Taxes on the paid side are federal income tax, payroll taxes attributable to the worker, and state income tax. Grandfathered Social Security and Medicare, unemployment insurance, veterans' benefits, private insurance, charity, mutual aid, emergency shelter, emergency medical care, K-12, roads, defense, and other universal or shared public goods do not count as transfers. The rule exists because the franchise decides other people's money, and letting non–net-taxpayers cast those votes is a massive conflict of interest. The bar lifts when a later completed tax year shows net taxpayer again. The unit is the tax-filing unit; joint filers share one status, so a stay-at-home spouse on a joint return that is a net taxpayer votes. Also called the net taxpayer voting bar.
 
-Set out in [[3. Authority & Civil Liberties#Voting and Elections|Authority & Civil Liberties: Voting and Elections]] and [[3. Authority & Civil Liberties#^welfare-vote|welfare voting bar]].
+Set out in [[3. Authority & Civil Liberties#Voting and Elections|Authority & Civil Liberties: Voting and Elections]] and [[3. Authority & Civil Liberties#^net-fiscal-vote|net fiscal voting bar]].
+
+---
+
+## Welfare voting bar
+Superseded name for the [[#Net fiscal voting bar|net fiscal voting bar]] (net taxpayer voting bar): the franchise is restricted to net taxpayers, not merely barred on binary means-tested receipt.
