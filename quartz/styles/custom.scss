@@ -123,3 +123,90 @@ article p, article li {
 }
 
 a.back-to-top { display:block; background:none !important; text-align:right; font-size:0.85rem; margin:0.5rem 0; opacity:0.75; }
+
+/* === READABILITY A+B DRAFT (2026-10-27) — In short stands out ================
+ * [!tldr] In short renders as data-callout="abstract" (Quartz/Obsidian alias).
+ * Data / Documented accounts stay on [!example] (purple). Objections on [!question].
+ * Sources on [!quote]. Do not restyle those here.
+ * ========================================================================= */
+
+/* In short (abstract/tldr): distinct from Position prose and Data/example */
+.callout[data-callout="abstract"] {
+  --color: #c47a00;          /* amber — skims land here first */
+  --border: #c47a0066;
+  --bg: #c47a0014;
+  border-left-width: 4px;
+  border-radius: 6px;
+  box-shadow: 0 1px 0 color-mix(in srgb, var(--color) 18%, transparent);
+}
+
+:root[saved-theme="dark"] .callout[data-callout="abstract"] {
+  --color: #e0a23a;
+  --border: #e0a23a66;
+  --bg: #e0a23a18;
+}
+
+.callout[data-callout="abstract"] > .callout-title {
+  font-weight: 700;
+  letter-spacing: 0.01em;
+}
+
+.callout[data-callout="abstract"] > .callout-title .callout-title-inner > p {
+  font-size: 0.95rem;
+  text-transform: none;
+}
+
+.callout[data-callout="abstract"] > .callout-content {
+  font-size: 1.02em;
+}
+
+/* Optional pin-style icon (URL-encoded lucide "bookmark") */
+.callout[data-callout="abstract"] {
+  --callout-icon: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m19 21-7-4-7 4V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2v16z"/></svg>');
+}
+
+/* In short / Case index list at top of section pages */
+article h2:is(#in-short-index, #case-index) + p + ul,
+article h2:is(#in-short-index, #case-index) ~ ul:first-of-type {
+  /* fallback; prefer the marker-scoped rule below */
+}
+
+/* Prefer: style the list that follows the index heading directly */
+#in-short-index + p + ul,
+#case-index + p + ul {
+  list-style: none;
+  padding-left: 0;
+  margin: 0.75rem 0 1.5rem;
+  border: 1px solid color-mix(in srgb, var(--gray) 35%, transparent);
+  border-radius: 8px;
+  background: color-mix(in srgb, var(--lightgray) 35%, transparent);
+  max-height: min(28rem, 55vh);
+  overflow-y: auto;
+  overscroll-behavior: contain;
+}
+
+#in-short-index + p + ul > li,
+#case-index + p + ul > li {
+  padding: 0.45rem 0.85rem;
+  border-bottom: 1px solid color-mix(in srgb, var(--gray) 22%, transparent);
+  font-size: 0.95rem;
+  line-height: 1.45;
+  max-width: none; /* override article li 70ch — index needs width */
+}
+
+#in-short-index + p + ul > li:last-child,
+#case-index + p + ul > li:last-child {
+  border-bottom: none;
+}
+
+#in-short-index + p + ul > li > a,
+#case-index + p + ul > li > a {
+  font-weight: 600;
+}
+
+@media (max-width: 800px) {
+  #in-short-index + p + ul,
+  #case-index + p + ul {
+    max-height: min(20rem, 45vh);
+  }
+}
