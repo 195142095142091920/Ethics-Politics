@@ -3,6 +3,14 @@ Key terms used across the site, each defined in the site's own words and linked 
 
 ---
 
+## Abortion rights floor (12 weeks)
+
+The legal **rights statute** on elective abortion: banned from **12 weeks**, fixed by constitutional amendment. Sentience remains the moral and rights theory; 12 weeks is the locked floor at the bottom of the published expert range for possible fetal sentience onset (~12 weeks to after 24–28 weeks). The amendment does not move later when onset estimates are revised upward, and it is not revised by the animal sentience-class board. Limits **earlier than 12 weeks** are a separately labeled **prudential** statute: allowed only on published drift evidence, and they sunset or narrow to this floor if a stated periodic review finds that evidence no longer holds. Massachusetts Chapter 188 (2026) and similar later-limit loosenings are drift evidence for that prudential statute, not proof of fetal full rights before the floor. “Full pro-life = rights” is rejected. Rape and life-of-mother exceptions follow the responsibility and conflicts rules in the Abortion topic.
+
+Set out in [[7. Cultural & Social Issues#Abortion and Bioethics|Cultural & Social Issues: Abortion and Bioethics]].
+
+---
+
 ## Agency
 Responsibility rests on agency, which scales with cognitive and experiential sophistication; only an agent can generate duties through voluntary choice or forfeit rights through deliberate violation.
 
@@ -130,7 +138,7 @@ Set out in [[9. Energy & Environment#Handover to Nonprofit Operators|Energy & En
 ---
 
 ## Sentience basis (sentientism)
-Any being, biological or artificial, that possesses first-order subjective experience is to be treated as a rights-bearer under my framework. Higher-order self-awareness is not required.
+Any being, biological or artificial, that possesses first-order subjective experience is to be treated as a rights-bearer under my framework. Higher-order self-awareness is not required. For elective abortion, the legal rights floor is the constitutional **12-week** ban ([[#Abortion rights floor (12 weeks)|Abortion rights floor (12 weeks)]]), not a rewrite of this criterion into conception-as-rights; earlier-than-12 limits are the labeled prudential statute in [[7. Cultural & Social Issues#Abortion and Bioethics|Abortion and Bioethics]].
 
 Set out in [[1. Ethical and Philosophical Framework#Axioms|Ethical and Philosophical Framework: Axioms]].
 
