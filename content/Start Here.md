@@ -6,7 +6,7 @@ A short tour of my positions. Each section below is introduced in its own words,
 ---
 
 ## [[1. Ethical and Philosophical Framework]]
-- **Sentientist:** Moral status and negative rights attach to beings capable of first-order subjective experience, or those on a clear developmental trajectory toward it.
+- **Sentientist:** Moral status and full negative rights attach to beings capable of first-order subjective experience. A being on a clear developmental trajectory toward sentience (e.g. a healthy fetus) gets significant moral weight, not the full negative-rights stack. Elective-abortion law: rights statute bans from 12 weeks by constitutional amendment; earlier-than-12 limits are labeled prudential on drift evidence with sunset ([[Glossary#Abortion rights floor (12 weeks)|Abortion rights floor (12 weeks)]]).
 - **Negative-rights focused:** Rights function as side-constraints against interference and harm. Positive rights that compel others to provide goods or services are generally rejected. Minimal tax-funded basic services (education, public safety, infrastructure) are accepted as a narrow practical exception.
 - **Threshold deontologist:** Core rules against violating sentient rights normally hold. They may be overridden only after a clear threshold of rights violation is crossed, at which point the violator forfeits corresponding protections. Fetal moral weight scales with proximity to sentience and is grounded primarily in the responsibility created by voluntary procreation. Duties to sustain another being arise only from voluntary responsibility; where no voluntary act created the dependency, as in rape, withdrawing support differs from killing.
 

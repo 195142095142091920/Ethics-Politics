@@ -151,6 +151,14 @@ Set out in [[1. Ethical and Philosophical Framework#^sentience-classes|Ethical a
 
 ---
 
+## Socialism (excluded)
+
+**Excluded socialism** = the ideology of state or collective ownership of productive property, central planning in place of prices, and compulsory redistribution beyond a minimal rights-protection floor, imposed by force. That is what the excluded-ideologies amendment bars from office and from building places that promote it ([[1. Ethical and Philosophical Framework#^excluded-ideologies|Excluded ideologies]]).
+
+**Not socialism under this site:** a flat income tax; the named minimal welfare / earnings-only top-up floor; or the time-limited flat [[#Sanctuary Levy|Sanctuary Levy]] (≤3%, income above \$75,000 single / \$150,000 joint) that funds sanctuary care for animals freed by the shutdown. Those are narrow compelled payments for named rights-protection jobs, not collective ownership of production. Social democracy (markets + a large welfare state) is judged as too large a compulsory state, not as excluded socialism. Voluntary cooperatives competing in markets are allowed.
+
+Set out in [[5. Domestic Policy & Governance#Socialism|Domestic Policy: Socialism]].
+
 ## Infestation (pest)
 
 When a high-class pest population occupies a **dwelling**, a **food store**, or a **medical facility** in a way that foreseeably spreads pathogens or destroys necessary stores. Those three sites only. A food store is a structure used to store food for persons or animals under care — not an open field, and not a general agricultural barn that is not a food store. A qualifying infestation is a clear disease or rights threat: lethal control of the occupying population is lawful self-defense / defense of rights, with separation or exclusion first where they will work and the least-harmful method required. Pest status does not demote the species; rats, mice, pigeons, and other high-class animals stay in the high class. Preventive area-wide extermination of high-class animals that are not occupying a qualifying site remains murder. Hunger, nuisance alone, or fear that pests might arrive later is not an infestation.
