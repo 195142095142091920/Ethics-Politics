@@ -43,6 +43,42 @@ function notifyNav(url: FullSlug) {
 const cleanupFns: Set<(...args: any[]) => void> = new Set()
 window.addCleanup = (fn) => cleanupFns.add(fn)
 
+// SPA back-nav: restore scrollY (browser default often lands mid/bottom after micromorph)
+if (typeof history !== "undefined" && "scrollRestoration" in history) {
+  history.scrollRestoration = "manual"
+}
+
+const scrollPositions = new Map<string, number>()
+let currentPathKey = typeof window !== "undefined" ? window.location.pathname + window.location.search : ""
+
+function pathKey(url: URL | Location): string {
+  return url.pathname + url.search
+}
+
+function saveScrollForCurrent() {
+  if (typeof window === "undefined") return
+  scrollPositions.set(currentPathKey, window.scrollY)
+}
+
+function restoreScroll(url: URL | Location) {
+  const y = scrollPositions.get(pathKey(url)) ?? 0
+  requestAnimationFrame(() => {
+    requestAnimationFrame(() => {
+      window.scrollTo({ top: y })
+    })
+  })
+}
+
+if (typeof window !== "undefined") {
+  window.addEventListener(
+    "scroll",
+    () => {
+      scrollPositions.set(currentPathKey, window.scrollY)
+    },
+    { passive: true },
+  )
+}
+
 function startLoading() {
   document.querySelector(".navigation-progress")?.remove()
   const loadingBar = document.createElement("div")
@@ -66,6 +102,8 @@ let isNavigating = false
 let p: DOMParser
 async function _navigate(url: URL, isBack: boolean = false) {
   isNavigating = true
+  // Save leaving page scroll under tracked path (popstate already updated location)
+  saveScrollForCurrent()
   startLoading()
   p = p || new DOMParser()
   const contents = await fetchCanonical(url)
@@ -111,13 +149,13 @@ async function _navigate(url: URL, isBack: boolean = false) {
   micromorph(document.body, html.body)
 
   // scroll into place and add history
-  if (!isBack) {
-    if (url.hash) {
-      const el = document.getElementById(decodeURIComponent(url.hash.substring(1)))
-      el?.scrollIntoView({ behavior: "instant" as ScrollBehavior })
-    } else {
-      window.scrollTo({ top: 0 })
-    }
+  if (isBack) {
+    restoreScroll(url)
+  } else if (url.hash) {
+    const el = document.getElementById(decodeURIComponent(url.hash.substring(1)))
+    el?.scrollIntoView({ behavior: "instant" as ScrollBehavior })
+  } else {
+    window.scrollTo({ top: 0 })
   }
 
   // now, patch head, re-executing scripts
@@ -131,6 +169,7 @@ async function _navigate(url: URL, isBack: boolean = false) {
   if (!isBack) {
     history.pushState({}, "", url)
   }
+  currentPathKey = pathKey(window.location)
 
   notifyNav(getFullSlug(window))
   delete announcer.dataset.persist
@@ -189,6 +228,7 @@ function createRouter() {
         return
       }
 
+      saveScrollForCurrent()
       navigate(url, false)
     })
 
