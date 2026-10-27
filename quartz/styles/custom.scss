@@ -172,16 +172,15 @@ a.internal {
   padding: 0 !important;
 }
 
-/* Homepage Contents group labels */
-body[data-slug="index"] article p > strong:only-child,
-body[data-slug="/"] article p > strong:only-child {
+/* Homepage Contents group labels (### parents) */
+body[data-slug="index"] article h3,
+body[data-slug="/"] article h3 {
   font-size: 1.2rem;
   letter-spacing: 0.02em;
-  display: inline-block;
   margin-top: 1.35rem;
   margin-bottom: 0.25rem;
 }
-body[data-slug="index"] article h2 + p > strong:only-child,
-body[data-slug="/"] article h2 + p > strong:only-child {
+body[data-slug="index"] article h2 + h3,
+body[data-slug="/"] article h2 + h3 {
   margin-top: 0.5rem; /* first group under Contents */
 }
