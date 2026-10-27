@@ -137,9 +137,17 @@ Set out in [[1. Ethical and Philosophical Framework#Axioms|Ethical and Philosoph
 ---
 
 ## Sentience class
-The statutory class a species falls in for criminal purposes, set by an expert board on the best available scientific consensus and revised only for acts after a revision takes effect. The high class covers mammals, birds, cephalopods, and decapod crustaceans such as crabs and lobsters; fish and shrimp are placed species by species; bivalves and insects sit on the lowest, precautionary tier. Deliberately killing a high-class animal outside self-defense is murder on the capital track; killing a lower-class animal is a mark; deliberately killing a lowest-tier animal carries a small fine.
+The statutory class a species falls in for criminal purposes, set by an expert board on the best available scientific consensus and revised only for acts after a revision takes effect. The high class covers mammals, birds, cephalopods, and decapod crustaceans such as crabs and lobsters — including rats, mice, and pigeons; fish and shrimp are placed species by species; bivalves and insects sit on the lowest, precautionary tier. Pest status does not demote a species. Deliberately killing a high-class animal outside self-defense or defense of rights is murder on the capital track; a qualifying [[#Infestation (pest)|infestation]] at a dwelling, food store, or medical facility is a clear disease or rights threat under that defense; killing a lower-class animal is a mark; deliberately killing a lowest-tier animal carries a small fine.
 
 Set out in [[1. Ethical and Philosophical Framework#^sentience-classes|Ethical and Philosophical Framework: Sentience Determination]].
+
+---
+
+## Infestation (pest)
+
+When a high-class pest population occupies a **dwelling**, a **food store**, or a **medical facility** in a way that foreseeably spreads pathogens or destroys necessary stores. Those three sites only. A food store is a structure used to store food for persons or animals under care — not an open field, and not a general agricultural barn that is not a food store. A qualifying infestation is a clear disease or rights threat: lethal control of the occupying population is lawful self-defense / defense of rights, with separation or exclusion first where they will work and the least-harmful method required. Pest status does not demote the species; rats, mice, pigeons, and other high-class animals stay in the high class. Preventive area-wide extermination of high-class animals that are not occupying a qualifying site remains murder. Hunger, nuisance alone, or fear that pests might arrive later is not an infestation.
+
+Set out in [[7. Cultural & Social Issues#Hunting, Fishing, Pets, and Zoos|Cultural & Social Issues: Hunting, Fishing, Pets, and Zoos]] and [[1. Ethical and Philosophical Framework#Animal Rights and Sentientism|Ethical and Philosophical Framework: Animal Rights and Sentientism]].
 
 ---
 
