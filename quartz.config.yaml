@@ -173,6 +173,14 @@ plugins:
   - source: "./plugins/topic-index"
     enabled: true
   - source: "./plugins/search"
+    enabled: false
+    layout:
+      position: left
+      priority: 20
+      group: toolbar
+      groupOptions:
+        grow: true
+  - source: "./plugins/pagefind-search"
     enabled: true
     layout:
       position: left

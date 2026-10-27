@@ -30,6 +30,10 @@ jobs:
         run: npx quartz plugin install
       - name: Build Quartz
         run: npx quartz build
+      - name: Annotate HTML for Pagefind
+        run: node scripts/annotate-pagefind.mjs
+      - name: Build Pagefind index
+        run: npx pagefind --site public
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
