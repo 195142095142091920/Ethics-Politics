@@ -1,0 +1,30 @@
+{
+  "_comment": "Keys are either bare heading ids (unique sitewide) OR 'slugContains#headingId' when the same id appears on multiple pages. Values = extra indexed keywords as a hidden span after that heading. Do not rewrite prose.",
+  "byHeadingId": {
+    "animal-rights-and-sentientism": ["rats", "rat", "mice", "mouse", "pigeons", "pest", "infestation", "sentience class"],
+    "voting-and-elections": ["SNAP", "food stamps", "food stamp", "EBT", "means-tested", "net taxpayer", "net taxpayers", "net fiscal", "welfare voting bar", "SSI", "TANF", "Medicaid means-tested"],
+    "births-and-family-formation": ["TFR", "total fertility rate", "fertility rate", "pronatalist", "pronatalism", "replacement fertility"],
+    "taxation": ["flat tax", "child credit", "birth credit", "family credits"],
+    "gun-crime-and-violence": ["NCVS", "UCR", "defensive gun use", "DGU", "FBI Crime Data Explorer"],
+    "6.-criminal#core-principles": ["UCR", "reported crime", "FBI reported"],
+    "abortion-and-bioethics": ["12 weeks", "twelve weeks", "abortion rights floor", "Chapter 188", "MA Chapter 188", "Massachusetts Chapter 188"],
+    "case-massachusetts-abortion-law-chapter-188-2026": ["Chapter 188", "MA Ch. 188", "MA Chapter 188", "Massachusetts 188", "abortion drift"],
+    "case-salvadoran-troops-abducted-in-haiti-october-2026": ["El Salvador", "Salvadoran", "Bukele", "Haiti gangs"],
+    "lgbtq-and-identity-issues": ["conversion therapy", "transgender", "same-sex marriage"],
+    "investor-visas": ["EB-5", "EB5", "investor visa"],
+    "ai-and-automation": ["AGI", "artificial general intelligence", "defensive AGI"],
+    "equal-treatment-in-employment-and-business": ["DEI", "diversity equity inclusion", "affirmative action"],
+    "world-health-organization": ["WHO"],
+    "religious-upbringing-and-children": ["homeschool", "homeschooling", "religious school"],
+    "net-fiscal-voting-bar": ["net taxpayer", "net taxpayers", "SNAP", "food stamps", "means-tested"],
+    "welfare-voting-bar": ["SNAP", "food stamps", "means-tested", "welfare vote"],
+    "abortion-rights-floor-12-weeks": ["12 weeks", "twelve weeks", "Chapter 188", "abortion floor"],
+    "infestation-pest": ["rats", "mice", "pest", "infestation"],
+    "sentience-class": ["rats", "sentience board", "high class"]
+  },
+  "byPageSlugContains": {
+    "glossary": ["definition", "key term"],
+    "start-here": ["start here", "reading order"],
+    "where-i-stand": ["positions summary", "scorecard"]
+  }
+}

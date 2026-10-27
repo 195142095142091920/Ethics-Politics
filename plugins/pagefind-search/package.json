@@ -1,0 +1,55 @@
+{
+  "name": "pagefind-search",
+  "version": "0.1.0",
+  "type": "module",
+  "description": "Ctrl/Cmd+K search modal backed by Pagefind (heading-anchored results).",
+  "main": "./dist/index.js",
+  "exports": {
+    ".": {
+      "types": "./dist/index.d.ts",
+      "import": "./dist/index.js"
+    },
+    "./components": {
+      "types": "./dist/components/index.d.ts",
+      "import": "./dist/components/index.js"
+    },
+    "./package.json": "./package.json"
+  },
+  "files": [
+    "dist",
+    "package.json",
+    "README.md"
+  ],
+  "peerDependencies": {
+    "preact": "^10.0.0"
+  },
+  "quartz": {
+    "name": "pagefind-search",
+    "displayName": "Pagefind Search",
+    "category": "component",
+    "version": "1.0.0",
+    "quartzVersion": ">=5.0.0",
+    "dependencies": [],
+    "defaultOrder": 50,
+    "defaultEnabled": true,
+    "defaultOptions": {
+      "enablePreview": false,
+      "resultLimit": 12
+    },
+    "components": {
+      "PagefindSearch": {
+        "displayName": "Pagefind Search",
+        "defaultPosition": "left",
+        "defaultPriority": 20
+      }
+    },
+    "optionSchema": {
+      "enablePreview": {
+        "type": "boolean"
+      },
+      "resultLimit": {
+        "type": "number"
+      }
+    }
+  }
+}
