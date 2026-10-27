@@ -1,7 +1,7 @@
 ## Core Principles
 A short tour of my positions. Each section below is introduced in its own words, taken from that section's opening principles, with a link to read more. Key terms are defined in the [[Glossary]], and every topic's one-line position is collected in [[Where I Stand]].
 
-**How to read this site:** each topic opens with an **In short** box that gives my position in a few lines. The questions below it (Q&As) are collapsed; click one to see my answer to a common objection. **Key Elements** lists the position point by point, and **data boxes** (marked Data) hold the figures and documented accounts, each with its source.
+**How to read this site:** each topic opens with an **In short** box that gives my position in a few lines. The questions below it (Q&As) are collapsed; click one to see my answer to a common objection. **Data boxes** (marked Data) hold the figures and documented accounts, each with its source.
 
 ---
 
