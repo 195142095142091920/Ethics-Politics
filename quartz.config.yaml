@@ -84,7 +84,7 @@ plugins:
       position: right
       priority: 30
     options:
-      collapseByDefault: false
+      collapseByDefault: true
   - source: "@quartz-community/crawl-links"
     enabled: true
     options:
@@ -104,6 +104,9 @@ plugins:
   - source: "@quartz-community/hard-line-breaks"
     enabled: true
     order: 90
+  - source: "./plugins/collapsible-tables"
+    enabled: true
+    order: 95
   - source: "@quartz-community/ox-hugo"
     enabled: false
     order: 91

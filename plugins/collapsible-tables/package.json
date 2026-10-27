@@ -1,0 +1,19 @@
+{
+  "name": "collapsible-tables",
+  "version": "0.1.0",
+  "type": "module",
+  "description": "Wrap Markdown tables in collapsed <details> for 414.onl",
+  "main": "./dist/index.js",
+  "exports": { ".": { "import": "./dist/index.js" } },
+  "quartz": {
+    "name": "collapsible-tables",
+    "displayName": "Collapsible Tables",
+    "category": "transformer",
+    "version": "1.0.0",
+    "quartzVersion": ">=5.0.0",
+    "dependencies": [],
+    "defaultOrder": 95,
+    "defaultEnabled": true,
+    "defaultOptions": {}
+  }
+}

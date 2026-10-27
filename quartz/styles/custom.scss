@@ -2,42 +2,50 @@
 
 // put your custom CSS here!
 
-/* Force right-hand TOC to stay permanently open and hide the arrow */
-
-.toc {
-  .toc-header {
-    pointer-events: none !important;
-    cursor: default !important;
-  }
-
-  .toc-header svg,
-  .toc-header .fold,
-  .fold {
-    display: none !important;
-    visibility: hidden !important;
-    opacity: 0 !important;
-    width: 0 !important;
-    height: 0 !important;
-  }
-
-  .toc-content,
-  .toc-content.overflow,
-  ul.toc-content {
-    display: block !important;
-    height: auto !important;
-    max-height: none !important;
-    overflow: visible !important;
-  }
-}
-
-/* TOC: subtle dividers between entries, and its own scrollbar inside the sticky sidebar */
+/* Desktop: TOC permanently open, no fold arrow.
+ * Mobile/tablet: TOC visible, foldable, default-collapsed (collapseByDefault). */
 @media all and ($desktop) {
+  .toc,
+  .toc:has(button.toc-header.collapsed) {
+    flex: 0 0.5 auto !important;
+    overflow: visible !important;
+    min-height: 1.4rem;
+  }
+
+  .toc {
+    .toc-header {
+      pointer-events: none !important;
+      cursor: default !important;
+    }
+
+    .toc-header svg,
+    .toc-header .fold,
+    .fold {
+      display: none !important;
+      visibility: hidden !important;
+      opacity: 0 !important;
+      width: 0 !important;
+      height: 0 !important;
+    }
+
+    .toc-content,
+    .toc-content.collapsed,
+    .toc-content.overflow,
+    ul.toc-content {
+      display: block !important;
+      height: auto !important;
+      max-height: none !important;
+      overflow: visible !important;
+    }
+  }
+
   .sidebar.right .toc {
     overflow: visible !important;
     flex: 0 0 auto !important;
     min-height: 0;
   }
   .sidebar.right .toc .toc-content,
+  .sidebar.right .toc .toc-content.collapsed,
   .sidebar.right .toc .toc-content.overflow,
   .sidebar.right .toc ul.toc-content {
     max-height: calc(100vh - 8rem) !important;
@@ -49,6 +57,56 @@
     padding-right: 0.4rem !important;
   }
 }
+
+/* Mobile/tablet: unhide right-sidebar TOC (base.scss hides it below desktop) */
+@media all and not ($desktop) {
+  .sidebar.right > .toc {
+    display: flex !important;
+    flex-direction: column;
+    flex: 1 1 100% !important;
+    width: 100%;
+    max-width: 100%;
+    margin: 0.75rem 0 1rem;
+    padding: 0.35rem 0 0.5rem;
+    border-top: 1px solid color-mix(in srgb, var(--gray) 35%, transparent);
+    border-bottom: 1px solid color-mix(in srgb, var(--gray) 35%, transparent);
+    overflow-y: hidden;
+    max-height: min(50vh, 24rem) !important;
+  }
+
+  .sidebar.right > .toc:has(button.toc-header.collapsed) {
+    flex: 0 0 auto !important;
+    max-height: 2rem !important;
+  }
+
+  .sidebar.right > .toc .toc-header {
+    pointer-events: auto !important;
+    cursor: pointer !important;
+  }
+
+  .sidebar.right > .toc .toc-header svg,
+  .sidebar.right > .toc .toc-header .fold,
+  .sidebar.right > .toc .fold {
+    display: inline-block !important;
+    visibility: visible !important;
+    opacity: 0.8 !important;
+    width: auto !important;
+    height: auto !important;
+  }
+
+  .sidebar.right > .toc .toc-content,
+  .sidebar.right > .toc .toc-content.overflow,
+  .sidebar.right > .toc ul.toc-content {
+    overflow-y: auto !important;
+    overflow-x: hidden !important;
+    max-height: calc(min(50vh, 24rem) - 2rem) !important;
+    overscroll-behavior: contain;
+    scrollbar-width: thin;
+    scrollbar-color: var(--gray) transparent;
+  }
+}
+
+/* TOC: subtle dividers between entries, and its own scrollbar inside the sticky sidebar */
 .toc .toc-content > li {
   padding: 0.2rem 0;
   border-bottom: 1px solid color-mix(in srgb, var(--gray) 22%, transparent);
@@ -183,4 +241,25 @@ body[data-slug="/"] article h3 {
 body[data-slug="index"] article h2 + h3,
 body[data-slug="/"] article h2 + h3 {
   margin-top: 0.5rem; /* first group under Contents */
+}
+
+/* Collapsible tables — default collapsed */
+details.table-collapse {
+  margin: 1rem 0;
+}
+details.table-collapse > summary {
+  cursor: pointer;
+  font-weight: 600;
+  color: var(--dark);
+  padding: 0.35rem 0;
+  user-select: none;
+}
+details.table-collapse > summary:hover {
+  color: var(--secondary);
+}
+details.table-collapse[open] > summary {
+  margin-bottom: 0.25rem;
+}
+details.table-collapse .table-container {
+  margin-top: 0.25rem;
 }
