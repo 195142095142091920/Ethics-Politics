@@ -159,6 +159,13 @@ Set out in [[1. Ethical and Philosophical Framework#^sentience-classes|Ethical a
 
 Set out in [[5. Domestic Policy & Governance#Socialism|Domestic Policy: Socialism]].
 
+
+## Office bar (authority roles)
+
+Civic disability for adherents of an [[1. Ethical and Philosophical Framework#^excluded-ideologies|excluded ideology]] (Nazism, communism, socialism, Islam): they may not hold **authority roles** — elected or appointed public office; law enforcement, military, and intelligence; judges and prosecutors; immigration and other adjudicators who decide status or benefits; K-12 public curriculum authority. Those roles are sworn; lying on the oath is perjury ([[4. Religion & Secularism#^office-bar|Oath of Office and Perjury]]).
+
+**Not covered:** ordinary non-authority taxpayer jobs (accountant, grounds worker, non-adjudicative clerk, and the like). Belief, speech, and home practice stay free. The separate **building bar** caps places that promote an excluded ideology ([[3. Authority & Civil Liberties#^building-bar|Property Rights]]).
+
 ## Infestation (pest)
 
 When a high-class pest population occupies a **dwelling**, a **food store**, or a **medical facility** in a way that foreseeably spreads pathogens or destroys necessary stores. Those three sites only. A food store is a structure used to store food for persons or animals under care — not an open field, and not a general agricultural barn that is not a food store. A qualifying infestation is a clear disease or rights threat: lethal control of the occupying population is lawful self-defense / defense of rights, with separation or exclusion first where they will work and the least-harmful method required. Pest status does not demote the species; rats, mice, pigeons, and other high-class animals stay in the high class. Preventive area-wide extermination of high-class animals that are not occupying a qualifying site remains murder. Hunger, nuisance alone, or fear that pests might arrive later is not an infestation.

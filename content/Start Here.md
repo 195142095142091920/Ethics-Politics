@@ -23,7 +23,7 @@ Strong individual liberties and property rights with government limited to prote
 ---
 
 ## [[4. Religion & Secularism]]
-Strict separation of religion and government in the United States. Religions that do not violate sentient rights are tolerated; those that do are restricted or banned in their harmful aspects. Private conscience and association protected; public institutions remain secular.
+Strict separation of religion and government in the United States. Religions that do not violate sentient rights are tolerated; those that do are restricted in their harmful aspects. **Office bar:** adherents of the four excluded ideologies (Nazism, communism, socialism, Islam) may not hold authority roles — elected or appointed office; law enforcement, military, and intelligence; judges and prosecutors; immigration and other adjudicators; K-12 public curriculum authority — under the excluded-ideologies amendment ([[4. Religion & Secularism#^office-bar|Oath of Office]]; [[1. Ethical and Philosophical Framework#^excluded-ideologies|Excluded ideologies]]). Ordinary non-authority public jobs are open. Private conscience and home practice protected; no new mosques; public institutions remain secular.
 
 ---
 
