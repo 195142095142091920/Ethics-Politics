@@ -1,6 +1,6 @@
 ---
 title: Ethics and Politics
-enableToc: true
+enableToc: false
 ---
 This site is a researched collection of my ethics, philosophies, and normative beliefs — an honest analysis of politics and ethics leading to my conclusions.
 
@@ -15,27 +15,3 @@ Going full libertarian tomorrow would ignore the country we actually have — th
 The path we are on does not get closer to that republic. So I favor harder, more directionally aligned moves now — including conservative-leaning enforcement, borders, and forfeiture — because they close distance to the ideal. They are not the ideal itself.
 
 Supporting parties or policies is a cost analysis. They are not fully perfect and not fully inside this framework. When a side is directionally aligned on major points — such as anti-crime and harsh on crime, anti-immigration, pro-assimilation, and against trans policies — I will support them.
-
-## Contents
-### Entry
-- [[Start Here]]
-- [[Where I Stand]]
-### Foundations
-- [[1. Ethical and Philosophical Framework]]
-- [[2. Political and Social Character]]
-### State
-- [[3. Authority & Civil Liberties]]
-- [[4. Religion & Secularism]]
-### Domestic
-- [[5. Domestic Policy & Governance]]
-- [[6. Criminal Justice & Security]]
-- [[7. Cultural & Social Issues]]
-### World
-- [[8. Foreign Policy & International Relations]]
-- [[9. Energy & Environment]]
-- [[10. Bioethics, Progress, & Technology]]
-### Applied
-- [[11. Modern Political Parties]]
-- [[12. Current Administration]]
-- [[13. News Commentary]]
-- [[Glossary]]
