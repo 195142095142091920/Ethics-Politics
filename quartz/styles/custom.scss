@@ -142,10 +142,7 @@ body[data-slug=""] h1 a:hover,
   background-color: transparent !important;
 }
 
-/* Hide TOC on homepage only */
-body[data-slug="index"] .toc {
-  display: none !important;
-}
+/* Homepage TOC: shown in right sidebar like other pages (was display:none). */
 /* Readability: comfortable line length and spacing */
 article {
   line-height: 1.7;
