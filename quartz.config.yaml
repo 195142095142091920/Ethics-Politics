@@ -201,7 +201,7 @@ plugins:
       position: beforeBody
       priority: 10
   - source: "@quartz-community/content-meta"
-    enabled: true
+    enabled: false
     options:
       showReadingTime: false
     layout:

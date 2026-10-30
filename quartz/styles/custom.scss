@@ -260,3 +260,10 @@ details.table-collapse[open] > summary {
 details.table-collapse .table-container {
   margin-top: 0.25rem;
 }
+
+/* Hide page dates in folder and tag lists */
+.page-listing time,
+.section-li time,
+.section-li .meta {
+  display: none;
+}
