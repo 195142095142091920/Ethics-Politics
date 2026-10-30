@@ -14,4 +14,4 @@ Going full libertarian tomorrow would ignore the country we actually have - the 
 
 The path we are on does not get closer to that republic. So I favor harder, more directionally aligned moves now - including conservative-leaning enforcement, borders, and forfeiture - because they close distance to the ideal. They are not the ideal itself.
 
-Supporting parties or policies is a cost analysis. They are never perfect and will never be fully inside my worldview framework. When a side is directionally aligned on major points - such as stringently anti-crime, anti-mass immigration, pro-assimilation, futurist, non-welfarist, and traditional social values - I will support them.
+Supporting parties or policies is a cost analysis. They are never perfect and will never be fully inside my worldview framework. When a side is directionally aligned on major points - such as stringently anti-crime, anti-mass immigration, pro-assimilation, futurist, non-welfarist, and fights for traditional social values - I will support them.
