@@ -33,7 +33,7 @@ I believe in limited government, individual responsibility, low taxation, and ma
 ---
 
 ## [[6. Criminal Justice & Security]]
-I put retribution, incapacitation, and the protection of victims' sentient rights ahead of rehabilitation. I believe those who murder or commit violent rape, child molestation, child rape, kidnapping, human trafficking, or the sale or distribution of hard drugs, or who repeatedly violate the rights of others, forfeit the protections they denied their victims. Punishment ought to be swift, certain, and public, and capital punishment should apply only where guilt is established beyond any real doubt. I support heavy enforcement, with military-style action against cartels and high-crime threats.
+I put retribution, incapacitation, and the protection of victims' sentient rights first, and I support rehabilitation as secondary. I believe those who murder or commit violent rape, child molestation, child rape, kidnapping, human trafficking, or the sale or distribution of hard drugs, or who repeatedly violate the rights of others, forfeit the protections they denied their victims. Punishment ought to be swift, certain, and public, and capital punishment should apply only where guilt is established beyond any real doubt. I support heavy enforcement, with military-style action against cartels and high-crime threats.
 
 ---
 
