@@ -30,6 +30,8 @@ jobs:
         run: npx quartz plugin install
       - name: Build Quartz
         run: npx quartz build
+      - name: Add admin editor (414.onl/admin)
+        run: cp -R admin public/admin
       - name: Annotate HTML for Pagefind
         run: node scripts/annotate-pagefind.mjs
       - name: Build Pagefind index

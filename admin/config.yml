@@ -1,0 +1,43 @@
+# yaml-language-server: $schema=https://unpkg.com/@sveltia/cms/schema/sveltia-cms.json
+# Editor for 414.onl at https://414.onl/admin (Sveltia CMS).
+# Pages are edited as raw text, so the file is saved exactly as typed:
+# frontmatter, wikilinks, callouts, block IDs and dollar-sign escapes are untouched.
+
+backend:
+  name: github
+  repo: 195142095142091920/Ethics-Politics
+  branch: main
+  # Token sign-in only. For a GitHub sign-in button, deploy sveltia-cms-auth,
+  # add base_url: https://<worker>.workers.dev and change this to [oauth, token].
+  auth_methods: [token]
+  commit_messages:
+    create: "Create {{path}} via admin"
+    update: "Edit {{path}} via admin"
+    delete: "Delete {{path}} via admin"
+    uploadMedia: "Upload {{path}} via admin"
+    deleteMedia: "Delete {{path}} via admin"
+
+publish_mode: simple
+
+site_url: https://414.onl
+display_url: https://414.onl
+
+media_folder: content/images
+public_folder: images
+
+collections:
+  - name: pages
+    label: Pages
+    label_singular: Page
+    folder: content
+    extension: md
+    format: raw
+    create: false
+    delete: false
+    summary: "{{filename}}"
+    editor:
+      preview: false
+    fields:
+      - label: Page text
+        name: body
+        widget: text
