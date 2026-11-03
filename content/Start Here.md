@@ -18,7 +18,7 @@ I give priority to cultural cohesion, high-trust social conditions, national sov
 ---
 
 ## [[3. Authority & Civil Liberties]]
-I support strong individual liberties and property rights, with government limited to protecting sentient rights, public safety, and order. I want opt-in mechanisms where possible and harsh accountability for criminals and officials. I am skeptical of overreach but support effective enforcement. I believe voting should require ID, a knowledge exam, and eligibility that excludes [[Glossary#Felony and misdemeanor|felons]] and restricts the franchise to net taxpayers (conflict of interest).
+I support strong individual liberties and property rights, with government limited to protecting sentient rights, public safety, and order. I want opt-in mechanisms where possible and harsh accountability for criminals and officials. I am skeptical of overreach but support effective enforcement. I believe voting should require ID, a knowledge exam, and eligibility that excludes [[Glossary#Felony and misdemeanor|felons]] and restricts the franchise to net taxpayers (conflict of interest). That makes my system a constitutional republic with a qualified franchise, an [[3. Authority & Civil Liberties#Epistocratic Republic and Qualified Franchise|epistocratic republic]] rather than a full democracy.
 
 ---
 

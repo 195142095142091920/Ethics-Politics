@@ -6,7 +6,7 @@ This site is a researched collection of my ethics, philosophies, and normative b
 
 Frontier LLMs such as Grok 4.5 and Gemini 3.6 have assisted in formulating and revising text, research, and critical hardening.
 
-This is my ideal for America: a negative-rights republic with a hard criminal code, net-taxpayer franchise, assimilation and values filters, ranked-choice democracy, and a thin state on tax and markets. It is a destination I am stating, not a poll of what is popular.
+This is my ideal for America: a negative-rights constitutional republic with a qualified franchise - an [[3. Authority & Civil Liberties#Epistocratic Republic and Qualified Franchise|epistocratic republic]], not a full democracy - where only net taxpayers who pass a voter license test vote, by ranked-choice voting, with a hard criminal code, assimilation and values filters, and a thin state on tax and markets. It is a destination I am stating, not a poll of what is popular.
 
 I am not naive enough to think that ideal will ever actually be reached. It will never happen. These are ideals. Voting for and supporting things in that realm - and getting closer - is enough. Directionally aligned enough to move toward it is good. That is life.
 

@@ -190,3 +190,10 @@ Set out in [[3. Authority & Civil Liberties#Voting and Elections|Authority & Civ
 
 ## Welfare voting bar
 Superseded name for the [[#Net fiscal voting bar|net fiscal voting bar]] (net taxpayer voting bar): the franchise is restricted to net taxpayers, not merely barred on binary means-tested receipt.
+
+---
+
+## Epistocratic republic
+A constitutional republic with a qualified (restricted) franchise, also called a limited democracy rather than a full democracy. Epistocracy means rule by the knowledgeable. Elections, ranked-choice voting, and the Constitution stay, and the vote goes to citizens who meet a stake qualification, the [[#Net fiscal voting bar|net fiscal voting bar]], and a competence qualification, the voter license test on issues, civics, and laws.
+
+Set out in [[3. Authority & Civil Liberties#Epistocratic Republic and Qualified Franchise|Authority & Civil Liberties: Epistocratic Republic and Qualified Franchise]].
