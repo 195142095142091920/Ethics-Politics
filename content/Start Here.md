@@ -23,7 +23,7 @@ I support strong individual liberties and property rights, with government limit
 ---
 
 ## [[4. Religion & Secularism]]
-I support strict separation of religion and government in the United States. Religions that do not violate sentient rights should be tolerated; those that do should be restricted in their harmful aspects. **Office bar:** I would bar adherents of the four excluded ideologies (Nazism, communism, socialism, Islam) from authority roles - elected or appointed office; law enforcement, military, and intelligence; judges and prosecutors; immigration and other adjudicators; K-12 public curriculum authority - under the excluded-ideologies amendment ([[4. Religion & Secularism#^office-bar|Oath of Office]]; [[1. Ethical and Philosophical Framework#^excluded-ideologies|Excluded ideologies]]). Ordinary non-authority public jobs stay open. I protect private conscience and home practice, but I want no new mosques, and public institutions ought to remain secular.
+I support strict separation of religion and government in the United States. Religions that do not violate sentient rights should be tolerated; those that do should be restricted in their harmful aspects. **Office bar:** under the excluded-ideologies amendment, I would bar adherents of the four excluded ideologies (Nazism, communism, socialism, Islam) from sworn authority roles, from public office and policing to the courts and K-12 curriculum authority ([[4. Religion & Secularism#^office-bar|Oath of Office]]; [[1. Ethical and Philosophical Framework#^excluded-ideologies|Excluded ideologies]]). Ordinary non-authority public jobs stay open. I protect private conscience and home practice, but I want no new mosques, and public institutions ought to remain secular.
 
 ---
 
