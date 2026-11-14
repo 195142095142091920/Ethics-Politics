@@ -44,7 +44,7 @@ const css = `
   stroke-width: 1.5px;
   fill: none;
 }
-.search > .search-container {
+.search-container {
   position: fixed;
   z-index: var(--search-z-index, 999);
   left: 0;
@@ -56,21 +56,38 @@ const css = `
   backdrop-filter: blur(4px);
   background: rgba(0, 0, 0, 0.25);
 }
-.search > .search-container.active {
+.search-container.active {
   display: block;
 }
-.search > .search-container > .search-space {
+.search-container > .search-space {
   width: min(720px, 92vw);
   margin: 10vh auto 2rem;
 }
-@media (max-width: 600px) {
-  .search > .search-container > .search-space {
-    width: 100vw;
+@media (max-width: 800px) {
+  .search-container {
+    z-index: 10050;
+    height: 100dvh;
+    height: 100svh;
+    background: var(--light);
+    backdrop-filter: none;
+  }
+  .search-container > .search-space {
+    width: 100%;
+    max-width: 100%;
     margin: 0;
-    min-height: 100vh;
+    min-height: 100%;
+    display: flex;
+    flex-direction: column;
+    background: var(--light);
   }
 }
-.search .search-bar {
+.search-bar-row {
+  display: block;
+}
+.search-close {
+  display: none;
+}
+.search-bar {
   width: 100%;
   box-sizing: border-box;
   border: 1px solid var(--lightgray);
@@ -80,7 +97,7 @@ const css = `
   background: var(--light);
   color: var(--darkgray);
 }
-.search .search-layout {
+.search-layout {
   background: var(--light);
   border: 1px solid var(--lightgray);
   border-top: none;
@@ -89,27 +106,105 @@ const css = `
   overflow-y: auto;
   box-shadow: 0 14px 50px rgba(27, 33, 48, 0.12);
 }
-@media (max-width: 600px) {
-  .search .search-bar { border-radius: 0; }
-  .search .search-layout {
+@media (max-width: 800px) {
+  .search-bar-row {
+    display: flex;
+    align-items: stretch;
+    gap: 0;
+    background: var(--light);
+    border-bottom: 1px solid var(--lightgray);
+    flex-shrink: 0;
+  }
+  .search-bar {
+    border: 0;
     border-radius: 0;
-    max-height: calc(100vh - 3.2rem);
-    min-height: calc(100vh - 3.2rem);
+    flex: 1 1 auto;
+    min-width: 0;
+    min-height: 3.25rem;
+    padding: 0.9rem 1rem;
+    font-size: 1.05rem;
+  }
+  .search-close {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex: 0 0 auto;
+    min-width: 4.5rem;
+    padding: 0 1rem;
+    border: 0;
+    background: transparent;
+    color: var(--secondary);
+    font: inherit;
+    font-size: 1rem;
+    font-weight: 600;
+    cursor: pointer;
+  }
+  .search-layout {
+    border: 0;
+    border-radius: 0;
+    flex: 1 1 auto;
+    max-height: none;
+    min-height: 0;
+    box-shadow: none;
+  }
+  .pf-filters {
+    flex-wrap: nowrap;
+    overflow-x: auto;
+    overflow-y: hidden;
+    overscroll-behavior-x: contain;
+    -webkit-overflow-scrolling: touch;
+    scrollbar-width: thin;
+    padding: 0.45rem 1rem;
+    gap: 0.4rem;
+  }
+  .pf-chip {
+    flex: 0 0 auto;
+    padding: 0.3rem 0.7rem;
+    font-size: 0.85rem;
+  }
+  .pf-group {
+    padding: 0.85rem 1rem 0.5rem;
+  }
+  .pf-group-title {
+    font-size: 0.8rem;
+    font-weight: 600;
+    letter-spacing: 0.02em;
+    color: var(--gray);
+    text-transform: none;
+    margin: 0 0 0.45rem;
+  }
+  .pf-sub {
+    padding: 0.65rem 0.55rem;
+    margin-bottom: 0.3rem;
+  }
+  .pf-sub-title {
+    font-size: 1.05rem;
+    font-weight: 600;
+    margin: 0 0 0.25rem;
+  }
+  .pf-excerpt {
+    font-size: 0.95rem;
+    line-height: 1.45;
+  }
+  .pf-hint,
+  .pf-empty {
+    font-size: 1rem;
+    padding: 1rem;
   }
 }
-.search .pf-hint {
+.pf-hint {
   padding: 0.75rem 1rem;
   color: var(--gray);
   font-size: 0.9rem;
 }
-.search .pf-filters {
+.pf-filters {
   display: flex;
   flex-wrap: wrap;
   gap: 0.35rem;
   padding: 0.5rem 1rem;
   border-bottom: 1px solid var(--lightgray);
 }
-.search .pf-chip {
+.pf-chip {
   border: 1px solid var(--lightgray);
   background: transparent;
   color: var(--darkgray);
@@ -119,22 +214,22 @@ const css = `
   font-size: 0.8rem;
   cursor: pointer;
 }
-.search .pf-chip.active {
+.pf-chip.active {
   background: var(--secondary);
   border-color: var(--secondary);
   color: var(--light);
 }
-.search .pf-group {
+.pf-group {
   padding: 0.65rem 1rem 0.35rem;
   border-top: 1px solid var(--lightgray);
 }
-.search .pf-group-title {
+.pf-group-title {
   font-weight: 600;
   color: var(--dark);
   margin: 0 0 0.35rem;
   font-size: 0.95rem;
 }
-.search .pf-sub {
+.pf-sub {
   display: block;
   text-decoration: none;
   color: inherit;
@@ -142,29 +237,33 @@ const css = `
   border-radius: 4px;
   margin-bottom: 0.2rem;
 }
-.search .pf-sub:hover,
-.search .pf-sub.focus {
+.pf-sub:hover,
+.pf-sub.focus {
   background: var(--highlight);
 }
-.search .pf-sub-title {
+.pf-sub-title {
   color: var(--secondary);
   font-size: 0.9rem;
   margin: 0 0 0.15rem;
 }
-.search .pf-excerpt {
+.pf-excerpt {
   margin: 0;
   font-size: 0.85rem;
   color: var(--darkgray);
   line-height: 1.35;
 }
-.search .pf-excerpt mark {
+.pf-excerpt mark {
   background: var(--textHighlight);
   color: inherit;
   padding: 0 0.1em;
 }
-.search .pf-empty {
+.pf-empty {
   padding: 1rem;
   color: var(--gray);
+}
+
+@media (max-width: 800px) {
+  .pf-filters { display: none !important; }
 }
 `
 
@@ -213,20 +312,43 @@ const inlineScript = `
     let focusIdx = -1;
     let links = [];
 
+    const closeBtn = root.querySelector(".search-close");
+    const spaceHome = container.parentNode;
+    let savedScroll = 0;
+
+    function syncViewport() {
+      if (!container.classList.contains("active")) {
+        container.style.height = "";
+        container.style.top = "";
+        return;
+      }
+      const vv = window.visualViewport;
+      if (!vv) return;
+      container.style.top = vv.offsetTop + "px";
+      container.style.height = vv.height + "px";
+    }
+
     function close() {
       container.classList.remove("active");
       button.setAttribute("aria-expanded", "false");
-      if (sidebar) sidebar.style.zIndex = "";
+      document.documentElement.classList.remove("mobile-no-scroll");
+      container.style.height = "";
+      container.style.top = "";
+      if (spaceHome && container.parentNode !== spaceHome) spaceHome.appendChild(container);
+      window.scrollTo(0, savedScroll);
       input.value = "";
       clear(layout);
       focusIdx = -1;
       links = [];
-      button.focus();
+      button.focus({ preventScroll: true });
     }
     function open() {
+      savedScroll = window.scrollY;
+      if (container.parentNode !== document.body) document.body.appendChild(container);
       container.classList.add("active");
       button.setAttribute("aria-expanded", "true");
-      if (sidebar) sidebar.style.zIndex = "9999";
+      document.documentElement.classList.add("mobile-no-scroll");
+      syncViewport();
       input.focus();
       ensurePagefind().catch(() => {});
       if (!layout.childElementCount) {
@@ -390,6 +512,22 @@ const inlineScript = `
     };
     container.addEventListener("click", onBackdrop);
     cleanups.push(() => container.removeEventListener("click", onBackdrop));
+
+    if (closeBtn) {
+      const onCloseBtn = (e) => { e.preventDefault(); e.stopPropagation(); close(); };
+      closeBtn.addEventListener("click", onCloseBtn);
+      cleanups.push(() => closeBtn.removeEventListener("click", onCloseBtn));
+    }
+
+    const onVV = () => syncViewport();
+    if (window.visualViewport) {
+      window.visualViewport.addEventListener("resize", onVV);
+      window.visualViewport.addEventListener("scroll", onVV);
+      cleanups.push(() => {
+        window.visualViewport.removeEventListener("resize", onVV);
+        window.visualViewport.removeEventListener("scroll", onVV);
+      });
+    }
   }
 
   function highlightFromSession() {
@@ -478,15 +616,24 @@ export const PagefindSearch = (userOpts) => {
       ),
       h("div", { class: "search-container" }, [
         h("div", { class: "search-space" }, [
-          h("input", {
-            autocomplete: "off",
-            class: "search-bar",
-            name: "search",
-            type: "text",
-            "aria-label": "Search for something",
-            placeholder: "Search for something",
-            "data-result-limit": String(opts.resultLimit),
-          }),
+          h("div", { class: "search-bar-row" }, [
+            h("input", {
+              autocomplete: "off",
+              class: "search-bar",
+              name: "search",
+              type: "text",
+              inputmode: "search",
+              enterkeyhint: "search",
+              "aria-label": "Search for something",
+              placeholder: "Search for something",
+              "data-result-limit": String(opts.resultLimit),
+            }),
+            h(
+              "button",
+              { type: "button", class: "search-close", "aria-label": "Close search" },
+              "Close",
+            ),
+          ]),
           h("div", {
             class: "search-layout",
             "data-preview": String(!!opts.enablePreview),

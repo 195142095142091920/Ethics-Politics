@@ -1,0 +1,41 @@
+{
+  "name": "mobile-nav",
+  "version": "0.1.0",
+  "type": "module",
+  "description": "Mobile Sections button and bottom-sheet table of contents for 414.onl.",
+  "main": "./dist/index.js",
+  "exports": {
+    ".": {
+      "types": "./dist/index.d.ts",
+      "import": "./dist/index.js"
+    },
+    "./components": {
+      "types": "./dist/components/index.d.ts",
+      "import": "./dist/components/index.js"
+    },
+    "./package.json": "./package.json"
+  },
+  "files": ["dist", "package.json", "README.md"],
+  "peerDependencies": {
+    "preact": "^10.0.0"
+  },
+  "quartz": {
+    "name": "mobile-nav",
+    "displayName": "Mobile Nav",
+    "category": "component",
+    "version": "1.0.0",
+    "quartzVersion": ">=5.0.0",
+    "dependencies": [],
+    "defaultOrder": 50,
+    "defaultEnabled": true,
+    "defaultOptions": {},
+    "components": {
+      "MobileNav": {
+        "displayName": "Mobile Nav",
+        "defaultPosition": "left",
+        "defaultPriority": 22
+      }
+    },
+    "optionSchema": {}
+  }
+}

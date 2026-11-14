@@ -58,8 +58,9 @@
   }
 }
 
-/* Mobile/tablet: unhide right-sidebar TOC (base.scss hides it below desktop) */
-@media all and not ($desktop) {
+/* Tablet: unhide right-sidebar TOC below the article (base.scss hides it below desktop).
+ * Mobile (<=800px): the in-flow TOC is hidden; plugins/mobile-nav opens it as a sheet. */
+@media all and ($tablet) {
   .sidebar.right > .toc {
     display: flex !important;
     flex-direction: column;

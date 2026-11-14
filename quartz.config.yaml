@@ -190,6 +190,13 @@ plugins:
       group: toolbar
       groupOptions:
         grow: true
+  - source: "./plugins/mobile-nav"
+    enabled: true
+    layout:
+      position: left
+      priority: 22
+      group: toolbar
+      display: mobile-only
   - source: "@quartz-community/backlinks"
     enabled: false
     layout:
