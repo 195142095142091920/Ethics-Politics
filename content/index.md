@@ -4,7 +4,7 @@ enableToc: false
 ---
 This site is a researched collection of my ethics, philosophies, and normative beliefs - an honest analysis of politics and ethics leading to my conclusions.
 
-This is my ideal for America: a negative-rights constitutional republic with a qualified franchise, an epistocratic republic rather than a full democracy. Only net taxpayers who pass a voter license test vote, by ranked-choice voting. It has a hard criminal code, assimilation and values filters, and a thin state on tax and markets. It is a destination I am stating, not a poll of what is popular.
+This is my ideal for America: a negative-rights constitutional republic with a qualified franchise, an epistocratic republic rather than a full democracy. Only net taxpayers who pass a voter license test would vote, by ranked-choice voting. It would have a hard criminal code, assimilation and values filters, and a thin state on tax and markets. It is a destination I am stating, not a poll of what is popular.
 
 I am not so naive to think that ideal will ever actually be reached. It will never happen. These are ideals. Voting for and supporting things in that realm - and getting closer - is enough. Directionally aligned enough to move toward it is good. That is life.
 
