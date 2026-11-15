@@ -1,14 +1,14 @@
 ## Core Principles
 A short tour of my positions. Each section below is introduced in my own words, drawn from that section's opening principles, with a link to read more. Key terms are defined in the [[Glossary]], and every topic's one-line position is collected in [[Where I Stand]].
 
-**How to read this site:** each topic opens with an **In short** box that gives my position in a few lines. The questions below it (Q&As) are collapsed; click one to see my answer to a common objection. **Data boxes** (marked Data) hold the figures and documented accounts, each with its source.
+**How to read this site:** each topic opens with an **In short** box that gives my position in a few lines. The questions below it (Q&As) are collapsed. Click one to see my answer to a common objection. **Data boxes** (marked Data) hold the figures and documented accounts, each with its source.
 
 ---
 
 ## [[1. Ethical and Philosophical Framework]]
 - **Sentientist:** I believe moral status and full negative rights belong to beings capable of first-order subjective experience. A being on a clear developmental trajectory toward sentience (e.g. a healthy fetus) gets significant moral weight in my view, not the full negative-rights stack. On elective abortion, I believe it should be banned from conception by constitutional amendment as a safeguard: the rights claim starts at 12 weeks, but no one can pin down exactly when sentience starts, and countries that set a week limit keep raising it ([[Glossary#Abortion ban (from conception)|Abortion ban (from conception)]]).
 - **Negative-rights focused:** I treat rights as side-constraints against interference and harm. I reject positive rights that compel others to provide goods or services. I accept minimal tax-funded basic services (education, public safety, infrastructure) as a narrow practical exception.
-- **Threshold deontologist:** I hold that core rules against violating sentient rights normally stand. They may be overridden only after a clear threshold of rights violation is crossed, at which point the violator forfeits the corresponding protections. I believe fetal moral weight scales with proximity to sentience and rests primarily on the responsibility created by voluntary procreation. Duties to sustain another being arise only from voluntary responsibility; where no voluntary act created the dependency, as in rape, I hold that withdrawing support differs from killing.
+- **Threshold deontologist:** I hold that core rules against violating sentient rights normally stand. They may be overridden only after a clear threshold of rights violation is crossed, at which point the violator forfeits the corresponding protections. I believe fetal moral weight scales with proximity to sentience and rests primarily on the responsibility created by voluntary procreation. Duties to sustain another being arise only from voluntary responsibility. Where no voluntary act created the dependency, as in rape, I hold that withdrawing support differs from killing.
 
 ---
 
