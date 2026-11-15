@@ -13,7 +13,7 @@ A short tour of my positions. Each section below is introduced in my own words, 
 ---
 
 ## [[2. Political and Social Character]]
-I give priority to cultural cohesion, high-trust social conditions, national sovereignty, and strong borders. I believe the state's primary duties are to its own citizens and to the long-term continuity of the political community. Immigration should be selective and oriented toward compatibility with the shared Western value structure, judged at the country level and through values vetting of every immigrant, and I treat cultural assimilation as paramount. The border must be secured, with lethal force used when necessary. To me "Western" names a value structure, not an ethnicity, so compatibility is open to anyone who holds those values.
+I give priority to cultural cohesion, high-trust social conditions, national sovereignty, and strong borders. I believe the state's primary duties are to its own citizens and to the long-term continuity of the political community. Immigration should be selective and oriented toward compatibility with the shared Western value structure, judged at the country level and through values vetting of every immigrant, and I treat cultural assimilation as paramount. The border should be secured, with lethal force used when necessary. To me "Western" names a value structure, not an ethnicity, so compatibility is open to anyone who holds those values.
 
 ---
 
