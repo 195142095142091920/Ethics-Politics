@@ -5,7 +5,7 @@ Key terms used across the site, each defined in the site's own words and linked 
 
 ## Abortion ban (from conception)
 
-The legal rule on elective abortion: banned from conception, fixed by constitutional amendment. Sentience remains the moral and rights theory; the rights claim starts at 12 weeks, the earliest point in the published expert range for possible fetal sentience onset (~12 weeks to after 24-28 weeks). Before 12 weeks the ban is a safeguard, not a rights claim: sentience onset is uncertain, and every later limit gets pushed back. Denmark and Norway raised their on-request limits from 12 to 18 weeks in 2025, France from 12 to 14 weeks in 2022, and Massachusetts Chapter 188 loosened later-term rules in 2026. The amendment does not move later when onset estimates are revised upward, and it is not revised by the animal sentience-class board. Rape and life-of-mother exceptions follow the responsibility and conflicts rules in the Abortion topic.
+The legal rule on elective abortion: banned from conception, fixed by constitutional amendment. Sentience remains the moral and rights theory; the rights claim starts at 12 weeks, the earliest point in the published expert range for possible fetal sentience onset (~12 weeks to after 24-28 weeks). Before 12 weeks the ban is a safeguard, not a rights claim: no one can pin down exactly when sentience starts, and countries that set a week limit keep raising it. Denmark and Norway raised their on-request limits from 12 to 18 weeks in 2025, France from 12 to 14 weeks in 2022, and Massachusetts Chapter 188 loosened later-term rules in 2026. The amendment does not move later when onset estimates are revised upward, and it is not revised by the animal sentience-class board. Rape and life-of-mother exceptions follow the responsibility and conflicts rules in the Abortion topic.
 
 Set out in [[7. Cultural & Social Issues#Abortion and Bioethics|Cultural & Social Issues: Abortion and Bioethics]].
 
@@ -138,7 +138,7 @@ Set out in [[9. Energy & Environment#Handover to Nonprofit Operators|Energy & En
 ---
 
 ## Sentience basis (sentientism)
-Any being, biological or artificial, that possesses first-order subjective experience is to be treated as a rights-bearer under my framework. Higher-order self-awareness is not required. For elective abortion, I would ban it from conception by constitutional amendment as a safeguard ([[#Abortion ban (from conception)|Abortion ban (from conception)]]). The rights claim starts at 12 weeks; the earlier ban is not a rewrite of this criterion into conception-as-rights ([[7. Cultural & Social Issues#Abortion and Bioethics|Abortion and Bioethics]]).
+Any being, biological or artificial, that possesses first-order subjective experience is to be treated as a rights-bearer under my framework. Higher-order self-awareness is not required. For elective abortion, I believe it should be banned from conception by constitutional amendment as a safeguard ([[#Abortion ban (from conception)|Abortion ban (from conception)]]). The rights claim starts at 12 weeks; the earlier ban is not a rewrite of this criterion into conception-as-rights ([[7. Cultural & Social Issues#Abortion and Bioethics|Abortion and Bioethics]]).
 
 Set out in [[1. Ethical and Philosophical Framework#Axioms|Ethical and Philosophical Framework: Axioms]].
 
