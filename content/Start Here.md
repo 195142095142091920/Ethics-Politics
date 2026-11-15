@@ -42,6 +42,8 @@ I put retribution, incapacitation, and the protection of victims' sentient right
 ## [[7. Cultural & Social Issues]]
 I prefer the traditional nuclear family, and I support free speech absolutism (with narrow exceptions), meritocracy, cultural compatibility for cohesion, and personal responsibility. I strongly oppose identity politics and progressive social engineering, and I am skeptical of mandates.
 
+A man is an adult human male and a woman is an adult human female. Transgenderism is a mental illness I would not affirm, and minors should get no transition treatment ([[7. Cultural & Social Issues#LGBTQ+ and Identity Issues|LGBTQ+ and Identity Issues]]).
+
 ---
 
 ## [[8. Foreign Policy & International Relations]]
