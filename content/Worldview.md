@@ -69,11 +69,15 @@ Evidentialist scientific naturalist; a secular Stoic in personal ethics
 
 ## [[3. Authority & Civil Liberties]]
 
-* Epistocratic constitutional republic: a modern Aristotelian polity or timocracy, close to Brennan, with a fiscal stake test and a voter license
-* Brennan pairs epistocracy with cosmopolitan liberalism; I pair it with civilizational nationalism and keep Swiss-style initiatives
-* Militant democracy (Loewenstein) without party or speech bans: bars on sworn authority roles and buildings only
-* Negative-rights side-constraints with forfeiture: Nozickian, plus a minimal floor that is "not a right anyone can claim"
-* Procedural civil libertarian, sunset-clause constitutionalist, conventional federalist
+Epistocratic constitutional republic: a modern Aristotelian polity or timocracy, close to Brennan, with a fiscal stake test and a voter license
+
+Brennan pairs epistocracy with cosmopolitan liberalism; I pair it with civilizational nationalism and keep Swiss-style initiatives
+
+Militant democracy (Loewenstein) without party or speech bans: bars on sworn authority roles and buildings only
+
+Negative-rights side-constraints with forfeiture: Nozickian, plus a minimal floor that is "not a right anyone can claim"
+
+Procedural civil libertarian, sunset-clause constitutionalist, conventional federalist
 
 - **[[3. Authority & Civil Liberties#Individual Liberty vs State Power|Individual Liberty vs State Power]]:** The government should leave people alone unless they are actively harming others or about to do so.
 - **[[3. Authority & Civil Liberties#Emergency Powers|Emergency Powers]]:** Emergency powers should be necessary, narrow, and temporary.
@@ -104,10 +108,13 @@ Evidentialist scientific naturalist; a secular Stoic in personal ethics
 
 ## [[4. Religion & Secularism]]
 
-* Secular agnostic atheist and strict church-state separationist
-* Unlike social conservatives, I am against Christian law
-* Unlike liberal secularists, I would put civic disabilities on Islam, a far more forceful version of the "liberal counter-jihad" pattern
-* The disabilities are "not a penalty": no one should be fined, jailed, or silenced for belief
+Secular agnostic atheist and strict church-state separationist
+
+Unlike social conservatives, I am against Christian law
+
+Unlike liberal secularists, I would put civic disabilities on Islam, a far more forceful version of the "liberal counter-jihad" pattern
+
+The disabilities are "not a penalty": no one should be fined, jailed, or silenced for belief
 
 - **[[4. Religion & Secularism#Role of Religion in Government|Role of Religion in Government]]:** Religion should stay out of government, and officials should not turn scripture into law.
 - **[[4. Religion & Secularism#Oath of Office and Perjury|Oath of Office and Perjury]]:** I treat authority roles as sworn positions.
@@ -127,11 +134,15 @@ Evidentialist scientific naturalist; a secular Stoic in personal ethics
 
 ## [[5. Domestic Policy & Governance]]
 
-* Flat-tax, free-market classical liberalism with an opt-in welfare state and a Friedmanite, NIT-style floor
-* Market pronatalist; bounded executive discretion over federal property
-* Unlike conservatives: no vouchers, broad tariffs, entitlement protection, or farm subsidies
-* Unlike libertarians: a public K-12 guarantee, a voluntary public health plan, natalist credits, and an AI-displacement trigger on capital taxes
-* Tariffs treated cautiously; tax and regulatory relief over mandates
+Flat-tax, free-market classical liberalism with an opt-in welfare state and a Friedmanite, NIT-style floor
+
+Market pronatalist; bounded executive discretion over federal property
+
+Unlike conservatives: no vouchers, broad tariffs, entitlement protection, or farm subsidies
+
+Unlike libertarians: a public K-12 guarantee, a voluntary public health plan, natalist credits, and an AI-displacement trigger on capital taxes
+
+Tariffs treated cautiously; tax and regulatory relief over mandates
 
 - **[[5. Domestic Policy & Governance#Economic System|Economic System]]:** Markets work better than the alternatives for making people richer over time.
 - **[[5. Domestic Policy & Governance#Socialism|Socialism]]:** I see socialism in its core sense, social or state ownership of the means of production and planning in place of markets, as antithetical to my framework and a terrible idea, because it seizes property, forces redistribution, compels labor and speech, and suppresses dissent.
@@ -163,10 +174,13 @@ Evidentialist scientific naturalist; a secular Stoic in personal ethics
 
 ## [[6. Criminal Justice & Security]]
 
-* Hard retributivist through rights forfeiture, or penal maximalist, after Wellman
-* Punitive civil libertarian: maximal penalties under strict procedure, close to Singapore and Bukele ([[11. Modern Political Parties|S11]], [[13. News Commentary|S13]])
-* Unlike tough-on-crime conservatives: no qualified immunity, pretrial release by default, unanimous 12-person juries
-* An "objective evidence" capital standard, and a capital scope wider than any U.S. tradition
+Hard retributivist through rights forfeiture, or penal maximalist, after Wellman
+
+Punitive civil libertarian: maximal penalties under strict procedure, close to Singapore and Bukele ([[11. Modern Political Parties|S11]], [[13. News Commentary|S13]])
+
+Unlike tough-on-crime conservatives: no qualified immunity, pretrial release by default, unanimous 12-person juries
+
+An "objective evidence" capital standard, and a capital scope wider than any U.S. tradition
 
 - **[[6. Criminal Justice & Security#Evidentiary Standard|Evidentiary Standard]]:** Nobody should be executed unless the proof is overwhelming and backed by objective evidence such as video and physical evidence, not just testimony.
 - **[[6. Criminal Justice & Security#Murder, Rape, and the Mandatory Death Penalty|Murder, Rape, and the Mandatory Death Penalty]]:** Deliberate murder should be punished by death, and so should violent rape, child molestation, child rape, kidnapping, human trafficking, and selling or distributing hard drugs proven to the same strict standard.
@@ -201,10 +215,13 @@ Evidentialist scientific naturalist; a secular Stoic in personal ethics
 
 ## [[7. Cultural & Social Issues]]
 
-* Secular, gender-critical cultural traditionalist: "preference, not mandate"
-* Classical liberal-conservative fusionism, with classical liberal carve-outs for personal liberty
-* Colorblind meritocrat with pattern realism: "Judged as an individual, by the same law."
-* Unlike social conservatives, for same-sex marriage and legal vice; unlike race realists, no private decisions by group
+Secular, gender/cultural traditionalist: "preference, not mandate"
+
+Classical liberal-conservative fusionism, with classical liberal carve-outs for personal liberty
+
+Colorblind meritocrat with pattern realism: "Judged as an individual, by the same law."
+
+Unlike social conservatives, pro same-sex marriage and legal vice; unlike race realists, no private decisions by group
 
 - **[[7. Cultural & Social Issues#Family and Gender|Family and Gender]]:** The healthiest family is close to the traditional nuclear family, and I see traditional roles as best, but nothing should be mandated.
 - **[[7. Cultural & Social Issues#Feminism and Sex Equality|Feminism and Sex Equality]]:** Both sexes hold equal rights and should be judged by the same rules.
@@ -231,10 +248,13 @@ Evidentialist scientific naturalist; a secular Stoic in personal ethics
 
 ## [[8. Foreign Policy & International Relations]]
 
-* America First hawkish realist: "selective Western imperialism," my own phrase, without governing territory
-* Jacksonian (Walter Russell Mead): pro-Ukraine, more force on Iran, no nation-building
-* Stricter on war powers than the War Powers Resolution: 30 days
-* Values-selective restrictionist on immigration: religion-specific, open to any ancestry
+America First hawkish realist: "selective Western imperialism," my own phrase, without governing territory
+
+Jacksonian (Walter Russell Mead): pro-Ukraine, more force on Iran, no nation-building
+
+Stricter on war powers than the War Powers Resolution: 30 days
+
+Values-selective restrictionist on immigration: religion-specific, open to any ancestry
 
 - **[[8. Foreign Policy & International Relations#Interventionism vs Non-Intervention|Interventionism vs Non-Intervention]]:** The U.S. should intervene where its safety is at stake, especially against Iran.
 - **[[8. Foreign Policy & International Relations#Alliances and NATO|Alliances and NATO]]:** The U.S. should join alliances only when they make the country safer and never give up its sovereignty.
@@ -269,9 +289,11 @@ Evidentialist scientific naturalist; a secular Stoic in personal ethics
 
 ## [[9. Energy & Environment]]
 
-* Market eco-modernist: "reliability first, no mandates, nuclear yes"
-* Sentientist anti-naturalist: "Civilize nature."
-* Unlike conservatives, I treat climate change as a real harm; unlike environmentalists, no mandates or subsidies, and nature preserved only where rights are not violated
+Market eco-modernist: "reliability first, no mandates, nuclear yes"
+
+Sentientist anti-naturalist: "Nature herbivorization."
+
+Unlike conservatives, I treat climate change as a real harm; unlike environmentalists, no mandates or subsidies, and nature preserved only where rights are not violated
 
 - **[[9. Energy & Environment#Climate Change|Climate Change]]:** Climate change is real and nearly all recent warming is human-caused (IPCC), but it is not apocalyptic.
 - **[[9. Energy & Environment#Adaptation and Disaster Policy|Adaptation and Disaster Policy]]:** I see climate adaptation as practical.
@@ -295,10 +317,13 @@ Evidentialist scientific naturalist; a secular Stoic in personal ethics
 
 ## [[10. Bioethics, Progress, & Technology]]
 
-* Sentientist transhumanist techno-optimist, with Pearce-style abolition of predation
-* Defensive accelerationist on AI: pro-AI, regulated as an existential risk
-* Procreative liberty on cloning (John Robertson), against the bioconservatives (Kass)
-* Deontological and forfeiture-based, where most transhumanists are utilitarian
+Sentientist transhumanist techno-optimist, with Pearce-style abolition of predation
+
+Defensive accelerationist on AI: pro-AI, regulated as an existential risk
+
+Procreative liberty on cloning (John Robertson), against the bioconservatives (Kass)
+
+Deontological and forfeiture-based, where most transhumanists are utilitarian
 
 - **[[10. Bioethics, Progress, & Technology#AI and Automation|AI and Automation]]:** I am pro-AI but treat it as a serious existential risk, so government should regulate it and prepare a defensive AGI.
 - **[[10. Bioethics, Progress, & Technology#AI Sentience Determination|AI Sentience Determination]]:** AI sentience should be decided by scientific consensus, and sentient AI should get full rights.
@@ -323,9 +348,13 @@ Evidentialist scientific naturalist; a secular Stoic in personal ethics
 
 ## [[11. Modern Political Parties]]
 
-* Republican-leaning directional independent who backs the Trump administration overall, with stated dissents
-* My support is "a cost analysis," not a partisan identity ([[index|homepage]])
-* The Greens are closest on animals and nothing else
+Republican-leaning directional independent backing the Trump administration overall, with stated dissents
+
+Non-collectivist, non-progressivist, directionally opposed to general Democrat policy
+
+My support is "a cost analysis," not a partisan identity ([[index|homepage]])
+
+The Greens are closest on animals and nothing else
 
 - **[[11. Modern Political Parties#The Party Landscape|The Party Landscape]]:** Most Americans are independents, but almost all votes go to the two major parties.
 - **[[11. Modern Political Parties#Democratic Party|Democratic Party]]:** I align with it fully only on same-sex marriage and directionally on marijuana and drug reform.
