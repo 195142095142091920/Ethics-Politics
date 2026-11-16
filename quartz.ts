@@ -10,6 +10,7 @@ const explorerSortFn = new Function(
   "b",
   `
   var order = [
+    "ethics and politics",
     "worldview",
     "where i stand",
     "1. ethical and philosophical framework",

@@ -25,6 +25,7 @@
   "byPageSlugContains": {
     "glossary": ["definition", "key term"],
     "worldview": ["overview", "my labels", "ideology"],
-    "where-i-stand": ["positions summary", "scorecard"]
+    "where-i-stand": ["positions summary", "scorecard"],
+    "index": ["overview", "my labels", "ideology", "worldview", "where I stand", "positions summary", "scorecard"]
   }
 }
