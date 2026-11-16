@@ -4,17 +4,11 @@ aliases:
   - worldview
   - where-i-stand
 ---
-Here I set out my ethics, philosophies, and normative beliefs as a researched collection - an honest analysis of politics and ethics leading to my conclusions.
+Here I set out my ethics, philosophies, and normative beliefs as a researched collection - an honest analysis of politics and ethics leading to my conclusions on all manner of relevant topics.
 
-I present positions as my ideal for America: a negative-rights focused, epistocratic republic with a qualified franchise. Only net taxpayers who pass a voter license test would vote, by ranked-choice voting. It would have a hard criminal code, assimilation and values filters, and a thin state on tax and markets. It is a destination I am stating, not a poll of what is popular.
+Though I wish it were true, the world I wish for would never actually be reality. On this site, I lay out my ideals and decisions on what policy toward that world might look like. The path we are currently treading as a nation does not inch closer to the nation I wish for. So, I favor any directional moves that close the distance to the ideal - they often are not the ideal itself. 
 
-I am not so naive to think that ideal will ever actually be reached. It will never happen. These are ideals. Voting for and supporting things in that realm - and getting closer - is enough. Directionally aligned enough to move toward it is good. That is life.
-
-The path we are currently treading as a nation does not inch closer to the nation I wish for. So I favor harder, more directionally aligned moves now because they close distance to the ideal. They are not the ideal itself.
-
-Supporting parties or policies is a cost analysis. They are never perfect and will never be fully inside my worldview framework. When a side is directionally aligned on major points - such as stringently anti-crime, anti-mass/illegal immigration, pro-assimilation, futurist, non-welfarist, and fights for traditional social values - I will support them.
-
-Frontier LLMs have assisted in formulating and revising text, deep research, and critical hardening.
+Voting for and supporting parties and policies that are directionally aligned is the realistic goal that I follow. Supporting parties or policies is a cost analysis. They are very rarely perfect and will likely never be fully my worldview. 
 
 ---
 
@@ -466,3 +460,6 @@ I acknowledge each of these in the section cited.
 - **Birth-sex bathroom rules for private businesses**, alongside my association-freedom default. I acknowledge it is a mandate ([[7. Cultural & Social Issues|S7]]).
 - **My France-riots commentary** speaks of rioters who "have no ancestry in it." A critic might set that wording against my values-not-ethnicity standard ([[13. News Commentary|S13]]).
 - **AI displacement:** I say fast, near-total displacement would force taxing beyond "minimal" ([[10. Bioethics, Progress, & Technology|S10]]).
+
+
+[Frontier LLMs have assisted in formulating and revising text, deep research, and critical hardening.]
