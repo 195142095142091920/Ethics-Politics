@@ -13,7 +13,9 @@ aliases:
 
 I vote **Republican as the best directional fit**.
 
-**In a few words:** *Sentientist epistocratic national-individualist*. In full: *sentientist, negative-rights, forfeiture-retributivist, epistocratic-republican, civilizational-nationalist, free-market, transhumanist-abolitionist*.
+**In a few words:** *Sentientist epistocratic national-individualist*. 
+
+**In full:** *Sentientist, negative-rightist, forfeiture-retributivist, anti-collectivist individualist, epistocratic-republican, civilizational-nationalist, free-market privatist-capitalist, transhumanist, futurist, predation-abolitionist*.
 
 Each part below follows my site's sections. It opens with the labels that fit, the related labels, and where I depart from the standard version of each view, then gives my position on every topic in one line. Follow a link for the full reasoning, data, and sources. The closest thinkers and traditions, and the apparent tensions in my view, come after the sections.
 
