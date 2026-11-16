@@ -268,3 +268,15 @@ details.table-collapse .table-container {
 .section-li .meta {
   display: none;
 }
+
+/* Worldview traditions table: open by default; on narrow screens keep columns readable and scroll sideways */
+@media (max-width: 800px) {
+  details.wv-traditions .table-container {
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+  }
+  details.wv-traditions table {
+    display: table;
+    min-width: 40rem;
+  }
+}

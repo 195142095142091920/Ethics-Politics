@@ -21,14 +21,6 @@
    ]
   },
   {
-   "id": "g-site-and-inference",
-   "term": "[Site] and [Inference]",
-   "patterns": [
-    "\\[Site\\]",
-    "\\[Inference\\]"
-   ]
-  },
-  {
    "id": "g-abolitionism-animal-rights",
    "term": "Abolitionism (animal rights)",
    "patterns": [
@@ -1659,11 +1651,6 @@
    ]
   },
   {
-   "id": "g-named-exception-former-wording",
-   "term": "Named exception (former wording)",
-   "patterns": []
-  },
-  {
    "id": "g-nation-building",
    "term": "Nation-building",
    "patterns": [
@@ -1817,14 +1804,6 @@
    "patterns": [
     "i:organ use from condemned offenders",
     "i:organ use"
-   ]
-  },
-  {
-   "id": "g-originmain-commit-hashes-byte-identical",
-   "term": "origin/main, commit hashes, byte-identical",
-   "patterns": [
-    "origin/main",
-    "i:byte-identical"
    ]
   },
   {

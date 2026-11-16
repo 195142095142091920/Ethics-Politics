@@ -196,9 +196,10 @@ function buildTooltip(t, text, tipId) {
     children: [
       {
         type: "element",
-        tagName: "button",
+        tagName: "span",
         properties: {
-          type: "button",
+          role: "button",
+          tabIndex: 0,
           className: ["gt-term"],
           ariaDescribedBy: tipId,
           ariaExpanded: "false",
@@ -293,7 +294,8 @@ function transform(tree, file, ctxTerms) {
   const blocks = []
   function walk(node, parent, block, skipped) {
     if (node.type === "element") {
-      const nowSkipped = skipped || isSkippedElement(node)
+      // No tooltips inside headings (the glossary pages' own entry labels are wrapped by selfWrap).
+      const nowSkipped = skipped || isSkippedElement(node) || /^h[1-6]$/.test(node.tagName)
       if (headings.has(node.tagName)) blocks.push({ heading: textOf(node).trim() })
       const nb = BLOCK_TAGS.has(node.tagName) ? { nodes: [] } : block
       if (nb !== block) blocks.push(nb)
@@ -408,8 +410,7 @@ function transform(tree, file, ctxTerms) {
 // ---------- client ----------
 const css = `
 .gt{position:relative;display:inline}
-.gt-term{font:inherit;color:inherit;background:none;border:0;padding:0;margin:0;cursor:help;display:inline;
- text-align:inherit;letter-spacing:inherit;line-height:inherit;text-transform:inherit;
+.gt-term{cursor:help;display:inline;white-space:normal;
  text-decoration:underline dotted var(--secondary);text-underline-offset:.18em;text-decoration-thickness:1.5px}
 .gt-term:focus-visible{outline:2px solid var(--secondary);outline-offset:2px;border-radius:2px}
 .gt-tip{display:none;position:fixed;left:0;top:0;z-index:999;width:min(22rem,calc(100vw - 16px));max-height:min(60vh,26rem);overflow:auto;
@@ -500,6 +501,10 @@ const script = `
     if (open && !(tg.closest && tg.closest('.gt-tip'))) close(open);
   }, true);
   document.addEventListener('keydown', function(ev){
+    var ae = document.activeElement;
+    if ((ev.key === 'Enter' || ev.key === ' ') && ae && ae.classList && ae.classList.contains('gt-term')) {
+      ev.preventDefault(); ae.click(); return;
+    }
     if (ev.key !== 'Escape') return;
     var a = document.activeElement, g = (a && a.closest && a.closest('.gt')) || open || hov;
     if (!g) return;
