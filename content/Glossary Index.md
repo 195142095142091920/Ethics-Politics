@@ -553,7 +553,7 @@ The specialized terms I use, A to Z, each defined in my own words and linked to 
 
 **Phenomenal consciousness (first-order sentience)** - Having subjective experience, meaning there is something it feels like to be that being. "Any being, biological or artificial, that possesses first-order subjective experience is to be treated as a rights-bearer under my framework. Higher-order self-awareness is not required." (site Glossary (Sentience basis); site S1) ^g-phenomenal-consciousness-first-order-sentience
 
-**Police profiling** - Police using group traits, such as age, sex, or behavior patterns, to decide whom to check. In S7 I would allow it alongside random checks. (site S7) ^g-police-profiling
+**Police profiling** - Police using group traits, such as age, sex, or behavior patterns, to decide whom to check. I would allow it only at checkpoints everyone already passes through, to pick who gets a second look, alongside random checks. A stop or search of a particular person on the street should rest on that person's own behavior, and profiling should never decide guilt ([[1. Ethical and Philosophical Framework#Group Statistics and Individual Judgment|Group Statistics and Individual Judgment]]). (site S1) ^g-police-profiling
 
 **Polity (politeia)** - Aristotle's name for the good form of rule by the many: a mixed constitution that blends democracy and oligarchy, with citizenship tied to qualifications. I call my qualified-franchise republic "a modern Aristotelian polity." (standard meaning) ^g-polity-politeia
 
