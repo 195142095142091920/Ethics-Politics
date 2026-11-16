@@ -47,9 +47,12 @@ Evidentialist scientific naturalist; a secular Stoic in personal ethics
 
 ## [[2. Political and Social Character]]
 
-* Civilizational nationalist: values-based and civic, not ethnic, with secular anti-Islam assimilationism
-* Unlike ethnonationalists, my test is open to any ancestry
-* Unlike national conservatives, I am secular and define culture by values, not heritage
+Civilizational nationalist: values-based and civic, not ethnic, with secular anti-Islam assimilationism
+
+Unlike ethnonationalists, my test is open to any ancestry
+
+Unlike national conservatives, I am secular and define culture by values, not heritage
+
 * Anti-totalitarian parity: the state should condemn all four excluded ideologies
 
 - **[[2. Political and Social Character#Civilizational Nationalism|Civilizational Nationalism]]:** The country should put its own citizens first, keep strong borders, and admit immigrants who share Western values and assimilate.
