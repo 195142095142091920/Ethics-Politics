@@ -1,6 +1,5 @@
 ---
 title: Glossary Index
-glossaryTooltips: false
 ---
 The specialized terms used across the site, A to Z. Terms that already have an entry on the [[Glossary]] point there. Hover over, focus, or tap an underlined term on any page to see its definition.
 
@@ -9,6 +8,8 @@ The specialized terms used across the site, A to Z. Terms that already have an e
 **45 CFR 46 (Common Rule)** - The federal regulations protecting human research subjects; Subpart C limits research on prisoners to minimal-risk studies and research that may benefit them. "CFR" is the Code of Federal Regulations. (standard meaning; site S10) ^g-45-cfr-46-common-rule
 
 **60-day restraint** - The Justice Department's practice of avoiding public enforcement steps against candidates close to an election. I believe it should be a fixed written rule, binding in every case, with an exception only for an immediate threat or evidence about to be lost. (site S3, S13) ^g-60-day-restraint
+
+**[Site] and [Inference]** - The site's tags: [Site] means my site says it; [Inference] means a label or comparison my site doesn't use itself. (report notation) ^g-site-and-inference
 
 ## A
 
@@ -24,7 +25,9 @@ The specialized terms used across the site, A to Z. Terms that already have an e
 
 **Actuarial sex facts** - Sex-based statistics on risk, such as life expectancy or accident rates, used in insurance pricing. I believe this is the one group statistic insurers should be allowed to use. (site S7) ^g-actuarial-sex-facts
 
-**Agnostic atheism** - Not believing in any god (atheism) while holding that the question can't be settled with certainty (agnosticism). The report ties mine to burden-of-proof skepticism: a claim needs testable, repeatable proof before I accept it. (standard meaning; site S1) ^g-agnostic-atheism
+**Agency** - See [[Glossary#Agency|Agency]] on the Glossary page. ^g-agency
+
+**Agnostic atheism** - Not believing in any god (atheism) while holding that the question can't be settled with certainty (agnosticism). The site ties mine to burden-of-proof skepticism: a claim needs testable, repeatable proof before I accept it. (standard meaning; site S1) ^g-agnostic-atheism
 
 **AI preemption** - Preemption means federal law overrides state law. I believe national AI rules should preempt state law, but by statute passed by Congress, not executive order. (site S10) ^g-ai-preemption
 
@@ -40,11 +43,11 @@ The specialized terms used across the site, A to Z. Terms that already have an e
 
 **Amnesty** - Granting legal status to people living in the country unlawfully. I oppose it. (standard meaning) ^g-amnesty
 
-**Anarcho-capitalism** - The view that the state should be abolished and every service, including law, courts, and defense, supplied by private markets. The report uses it for Hans-Hermann Hoppe; I want a constitutional republic instead. (standard meaning) ^g-anarcho-capitalism
+**Anarcho-capitalism** - The view that the state should be abolished and every service, including law, courts, and defense, supplied by private markets. The site uses it for Hans-Hermann Hoppe; I want a constitutional republic instead. (standard meaning) ^g-anarcho-capitalism
 
-**Anti-naturalism (sentientist)** - Here, the rejection of nature as a moral standard, not the metaethical term. In S1 I say nature may be "ethically indifferent or abominable," and in S7 that "Nature needs to be civilized." The label is the report's, not my site's. (standard meaning; site S1, S7) ^g-anti-naturalism-sentientist
+**Anti-naturalism (sentientist)** - Here, the rejection of nature as a moral standard, not the metaethical term. In S1 I say nature may be "ethically indifferent or abominable," and in S7 that "Nature needs to be civilized." The label is not one my site uses. (standard meaning; site S1, S7) ^g-anti-naturalism-sentientist
 
-**Anti-totalitarian parity** - The report's label for my treating the excluded ideologies on the same terms in public memory. I believe the state should officially condemn all four and remove public honors for communist figures, while praising Nazism or communism stays legal. (site S1, S2, S13 (report label)) ^g-anti-totalitarian-parity
+**Anti-totalitarian parity** - The site's label for my treating the excluded ideologies on the same terms in public memory. I believe the state should officially condemn all four and remove public honors for communist figures, while praising Nazism or communism stays legal. (site S1, S2, S13 (report label)) ^g-anti-totalitarian-parity
 
 **Antitrust** - Law against monopolies and anti-competitive conduct. My view: "big is not illegal." (standard meaning; site S5) ^g-antitrust
 
@@ -66,7 +69,7 @@ The specialized terms used across the site, A to Z. Terms that already have an e
 
 **Bailouts** - Government rescues of failing firms or banks with public money. I oppose them. (standard meaning) ^g-bailouts
 
-**Bioconservatism** - Opposition to human enhancement and to reproductive technologies such as cloning, usually on grounds of human dignity or the value of the natural, as argued by Leon Kass. The report places me against this camp. (standard meaning) ^g-bioconservatism
+**Bioconservatism** - Opposition to human enhancement and to reproductive technologies such as cloning, usually on grounds of human dignity or the value of the natural, as argued by Leon Kass. The site places me against this camp. (standard meaning) ^g-bioconservatism
 
 **Birthright citizenship** - Automatic citizenship for anyone born on U.S. soil, under the 14th Amendment as now read. I believe it should end by amendment, going forward only. (standard meaning; site S8) ^g-birthright-citizenship
 
@@ -110,7 +113,7 @@ The specialized terms used across the site, A to Z. Terms that already have an e
 
 **Child credit and birth credit** - My proposed family credits: a child credit that doubles from the third child and a birth credit for third and later children, meant to raise births under lower immigration. (site S5) ^g-child-credit-and-birth-credit
 
-**Christian fundamentalism** - A strict, literal form of Christianity that seeks to shape law and public life by religious teaching. My Start Here lists it as a Republican break; I believe religion should stay out of government. (standard meaning) ^g-christian-fundamentalism
+**Christian fundamentalism** - A strict, literal form of Christianity that seeks to shape law and public life by religious teaching. My site lists it as a Republican break; I believe religion should stay out of government. (standard meaning) ^g-christian-fundamentalism
 
 **Civic disabilities** - My site's term for the two restrictions on excluded ideologies, the office bar and the building bar. My site says they "are not penalties": no one is fined, jailed, or silenced for belief. (site S1, S2) ^g-civic-disabilities
 
@@ -146,7 +149,7 @@ The specialized terms used across the site, A to Z. Terms that already have an e
 
 **Constructivism (Humean)** - In metaethics, the view that moral norms are built from the attitudes and choices of agents rather than discovered as outside facts. "Humean" means rooted in human sentiment and choice, after David Hume. S1 calls my view "constructivist in the Humean sense." (standard meaning; site S1) ^g-constructivism-humean
 
-**Corporate personhood (agent-liability skepticism)** - Corporate personhood is the legal treatment of a corporation as a person that can own property, sue, and be sued. The report's label for my view: corporations are tools, not moral agents, so I believe the CEO should be liable by default, fines should reach up to 4% of global revenue, and the corporate veil should be pierced for deliberate violations. (standard meaning; site S1, S6) ^g-corporate-personhood-agent-liability-skepticism
+**Corporate personhood (agent-liability skepticism)** - Corporate personhood is the legal treatment of a corporation as a person that can own property, sue, and be sued. The site's label for my view: corporations are tools, not moral agents, so I believe the CEO should be liable by default, fines should reach up to 4% of global revenue, and the corporate veil should be pierced for deliberate violations. (standard meaning; site S1, S6) ^g-corporate-personhood-agent-liability-skepticism
 
 **Corporate veil** - The legal separation that normally protects owners and managers from a company's debts and liabilities. "Piercing the veil" means a court holds them personally liable anyway, which I believe should happen for deliberate violations. (standard meaning; site S6) ^g-corporate-veil
 
@@ -155,6 +158,8 @@ The specialized terms used across the site, A to Z. Terms that already have an e
 **Cultural traditionalism** - A preference for traditional family and social forms. Mine is "preference, not mandate": I believe traditional roles are best but should never be mandated. (standard meaning; site S7) ^g-cultural-traditionalism
 
 ## D
+
+**Data box** - A collapsible callout on my site that collects figures and studies on a topic, including counter-evidence. (site) ^g-data-box
 
 **Day fines (income-scaled fines)** - See [[Glossary#Income-scaled fine|Income-scaled fine]] on the Glossary page. ^g-day-fines-income-scaled-fines
 
@@ -170,7 +175,7 @@ The specialized terms used across the site, A to Z. Terms that already have an e
 
 **Default enrollment (opt-out defaults)** - Signing people up automatically while letting them leave freely. I would use it only where a person protects themselves, as with private disability insurance, retirement accounts, and index accounts, citing Madrian and Shea's finding that 401(k) participation rose from 37% to 86% under automatic enrollment. (site S5, S10) ^g-default-enrollment-opt-out-defaults
 
-**Defensive accelerationism** - A stance, often called "d/acc," that favors fast technological progress while giving priority to defensive technologies against catastrophic risk. The report applies it to me as an inference: pro-AI, with AI regulated as an existential risk and a defensive AGI prepared (S10). (standard meaning (report inference)) ^g-defensive-accelerationism
+**Defensive accelerationism** - A stance, often called "d/acc," that favors fast technological progress while giving priority to defensive technologies against catastrophic risk. The site applies it to me as an inference: pro-AI, with AI regulated as an existential risk and a defensive AGI prepared (S10). (standard meaning (report inference)) ^g-defensive-accelerationism
 
 **DEI** - Diversity, equity, and inclusion: programs that give weight to group identity in hiring, admissions, and training. I believe in no quotas or DEI. (standard meaning; site S7) ^g-dei
 
@@ -228,6 +233,8 @@ The specialized terms used across the site, A to Z. Terms that already have an e
 
 **Estate, wealth, VAT, and sales taxes** - An estate tax is levied on what a person leaves at death; a wealth tax on total net worth each year; a VAT (value-added tax) and a sales tax on purchases. I believe none should exist at any level of government. (standard meaning; site S5) ^g-estate-wealth-vat-and-sales-taxes
 
+**ET** - Eastern Time (U.S.), the time zone all times on the site use. (standard meaning) ^g-et
+
 **Ethnonationalism** - Nationalism that defines the nation by shared ancestry or ethnicity. My test is about values and open to any ancestry. (standard meaning) ^g-ethnonationalism
 
 **Eudaimonism (Stoic)** - Ethics aimed at eudaimonia, a flourishing life lived through virtue. The Stoic version ties flourishing to virtue, composure, and accepting what one can't control. I use it for personal character only, not for politics. (standard meaning; site S1) ^g-eudaimonism-stoic
@@ -254,9 +261,13 @@ The specialized terms used across the site, A to Z. Terms that already have an e
 
 **Federalism** - Dividing power between the national government and the states. Mine puts defense, borders, and immigration at the federal level and schools at the local level. (standard meaning) ^g-federalism
 
+**Felony and misdemeanor** - See [[Glossary#Felony and misdemeanor|Felony and misdemeanor]] on the Glossary page. ^g-felony-and-misdemeanor
+
 **FISA 702** - Section 702 of the Foreign Intelligence Surveillance Act, which lets agencies collect communications of foreigners abroad from U.S. providers without a warrant and sweeps in Americans' messages. S3 cites a 2022 FISA Court finding of more than 278,000 noncompliant FBI queries. (standard meaning; site S3) ^g-fisa-702
 
 **Fiscal conservatism** - A politics of low taxes, limited spending, and balanced budgets. (standard meaning) ^g-fiscal-conservatism
+
+**Fixed-term labor track** - See [[Glossary#Fixed-term labor track|Fixed-term labor track]] on the Glossary page. ^g-fixed-term-labor-track
 
 **Flag-burning prosecution** - The August 2025 executive order directing prosecution tied to flag burning. I grade it Opposed because I believe only true threats and incitement should be punishable. (site S12) ^g-flag-burning-prosecution
 
@@ -280,7 +291,7 @@ The specialized terms used across the site, A to Z. Terms that already have an e
 
 **Full retirement age** - The age at which Social Security pays unreduced benefits, 67 for people born in 1960 or later. (standard meaning) ^g-full-retirement-age
 
-**Fusionism** - The postwar American conservative blend, associated with Frank Meyer, of free-market liberty, traditional values, and anti-communism. The report applies it to me as an inference. (standard meaning (report inference)) ^g-fusionism
+**Fusionism** - The postwar American conservative blend, associated with Frank Meyer, of free-market liberty, traditional values, and anti-communism. The site applies it to me as an inference. (standard meaning (report inference)) ^g-fusionism
 
 ## G
 
@@ -301,6 +312,8 @@ The specialized terms used across the site, A to Z. Terms that already have an e
 **Gold standard** - Tying a currency's value to a fixed amount of gold. I don't support it. (standard meaning) ^g-gold-standard
 
 **GOP** - "Grand Old Party," the U.S. Republican Party. (standard meaning) ^g-gop
+
+**Grave tier** - See [[Glossary#Grave tier|Grave tier]] on the Glossary page. ^g-grave-tier
 
 **Green card** - U.S. lawful permanent residence. I believe green-card and visa holders should be removed after a court finding by clear and convincing evidence, for welfare use, failing the civics test, or any crime above a basic infraction. (standard meaning; site S8) ^g-green-card
 
@@ -334,13 +347,15 @@ The specialized terms used across the site, A to Z. Terms that already have an e
 
 **ICE** - U.S. Immigration and Customs Enforcement, the federal agency that detains and deports people in the country unlawfully. I believe it should be expanded, with body cameras. (standard meaning) ^g-ice
 
+**In short** - The one-paragraph summary box at the top of each topic on my site. (site) ^g-in-short
+
 **Incapacitation** - Justifying punishment by stopping the offender from committing more crimes. It is one of my three grounds, with desert and forfeiture. (standard meaning; site S6) ^g-incapacitation
 
 **Index account** - A low-cost private investment account that every adult would be enrolled in by default, with a free opt-out and no taxpayer seed. The state should not run or hold the accounts. (site S10) ^g-index-account
 
 **Infestation** - See [[Glossary#Infestation (pest)|Infestation (pest)]] on the Glossary page. ^g-infestation
 
-**Interventionism (foreign policy)** - A foreign policy willing to use force abroad. The report's alternative label for mine is interventionism that punishes threats but rejects nation-building. (standard meaning) ^g-interventionism-foreign-policy
+**Interventionism (foreign policy)** - A foreign policy willing to use force abroad. The site's alternative label for mine is interventionism that punishes threats but rejects nation-building. (standard meaning) ^g-interventionism-foreign-policy
 
 **Investor visas** - Residence or citizenship granted in exchange for investment or payment. I oppose them; status should never be sold. (standard meaning; site S8) ^g-investor-visas
 
@@ -352,7 +367,7 @@ The specialized terms used across the site, A to Z. Terms that already have an e
 
 ## J
 
-**Jacksonian** - Walter Russell Mead's name for an American foreign-policy tradition, after Andrew Jackson: fierce against enemies, pro-military, wary of nation-building and international bodies, and usually protective of entitlements and tariffs. The report applies it to me as an inference; I oppose protecting entitlements and broad tariffs. (standard meaning (report inference)) ^g-jacksonian
+**Jacksonian** - Walter Russell Mead's name for an American foreign-policy tradition, after Andrew Jackson: fierce against enemies, pro-military, wary of nation-building and international bodies, and usually protective of entitlements and tariffs. The site applies it to me as an inference; I oppose protecting entitlements and broad tariffs. (standard meaning (report inference)) ^g-jacksonian
 
 **Jones Act** - A 1920 law requiring ships that carry goods between U.S. ports to be U.S.-built, -owned, -flagged, and -crewed. I believe the mandate should go. (standard meaning; site S12) ^g-jones-act
 
@@ -372,13 +387,13 @@ The specialized terms used across the site, A to Z. Terms that already have an e
 
 **Law-firm orders and the Comey firing** - Executive orders limiting security clearances and federal access for specific law firms, and the 2025 firing of prosecutor Maurene Comey (daughter of former FBI Director James Comey) without stated cause, later ruled unlawful. I grade both Directionally opposed. (site S12) ^g-law-firm-orders-and-the-comey-firing
 
-**Legislative (prescriptive) anti-realism** - The report's label for my metaethics: I deny objective moral facts but still prescribe a system and want it enforced, rather than treating all views as equally valid (relativism). (report inference) ^g-legislative-prescriptive-anti-realism
+**Legislative (prescriptive) anti-realism** - The site's label for my metaethics: I deny objective moral facts but still prescribe a system and want it enforced, rather than treating all views as equally valid (relativism). (report inference) ^g-legislative-prescriptive-anti-realism
 
 **Liberal counter-jihad** - A label for secular, socially liberal politicians, such as Pim Fortuyn in the Netherlands, who oppose Islam and Muslim immigration in the name of liberal values like gay rights and women's equality. (standard meaning (report inference)) ^g-liberal-counter-jihad
 
-**Liberal eugenics** - Nicholas Agar's term for parents freely choosing genetic traits for their children, with no state coercion, as opposed to state-run eugenics. The report applies it to my S10 view that "designer babies are fine if rights are respected after sentience." (standard meaning (report inference)) ^g-liberal-eugenics
+**Liberal eugenics** - Nicholas Agar's term for parents freely choosing genetic traits for their children, with no state coercion, as opposed to state-run eugenics. The site applies it to my S10 view that "designer babies are fine if rights are respected after sentience." (standard meaning (report inference)) ^g-liberal-eugenics
 
-**Libertarian paternalism** - Richard Thaler and Cass Sunstein's idea, also called "nudge," of steering choices with default settings that people can freely opt out of. The report applies it to my opt-out defaults for retirement accounts, private disability insurance, and index accounts (S5, S10). (standard meaning (report inference)) ^g-libertarian-paternalism
+**Libertarian paternalism** - Richard Thaler and Cass Sunstein's idea, also called "nudge," of steering choices with default settings that people can freely opt out of. The site applies it to my opt-out defaults for retirement accounts, private disability insurance, and index accounts (S5, S10). (standard meaning (report inference)) ^g-libertarian-paternalism
 
 **Libertarianism** - A political philosophy that puts individual liberty and property first and keeps state coercion to a minimum. "Nozickian" refers to Robert Nozick's rights-based version. (standard meaning) ^g-libertarianism
 
@@ -406,7 +421,7 @@ The specialized terms used across the site, A to Z. Terms that already have an e
 
 **Metaethics** - The study of what moral claims are and whether moral facts exist, as opposed to normative ethics, which asks which acts are right. (standard meaning; site S1) ^g-metaethics
 
-**Militant democracy** - Karl Loewenstein's 1937 term for a democracy that legally restricts movements hostile to democracy itself, as Germany's Basic Law allows bans on anti-constitutional parties. My site doesn't use the term; the report applies it to my excluded-ideologies amendment, which bans no party and no speech. (standard meaning (report inference)) ^g-militant-democracy
+**Militant democracy** - Karl Loewenstein's 1937 term for a democracy that legally restricts movements hostile to democracy itself, as Germany's Basic Law allows bans on anti-constitutional parties. My site doesn't use the term; it applies to my excluded-ideologies amendment, which bans no party and no speech. (standard meaning (report inference)) ^g-militant-democracy
 
 **Miller v. Alabama (2012)** - Supreme Court case barring mandatory life without parole for offenders under 18. (standard meaning) ^g-miller-v-alabama-2012
 
@@ -429,6 +444,8 @@ The specialized terms used across the site, A to Z. Terms that already have an e
 **Mugler v. Kansas (1887)** - Supreme Court case upholding Kansas's alcohol ban without compensation to a brewer, holding that banning a use harmful to the public is not a taking. My S9 Q&A cites it for the uncompensated Sanctuary Plan transfers. (site S9) ^g-mugler-v-kansas-1887
 
 ## N
+
+**Named exception (former wording)** - Wording my site used to use for the Sanctuary Plan's property seizures. Commit e9d1239 replaced it with forfeiture wording everywhere; the only remaining "named exception" uses are about the welfare floor (S1, S5), a separate topic. (report Section 5; site S1, S5) ^g-named-exception-former-wording
 
 **Nation-building** - Using military occupation and aid to rebuild another country's government and institutions. I reject it: I believe the United States should avoid "open-ended nation-building" (S8). (standard meaning; site S8) ^g-nation-building
 
@@ -468,6 +485,8 @@ The specialized terms used across the site, A to Z. Terms that already have an e
 
 **Organ use from condemned offenders** - My S10 position that organs from offenders sentenced to death, or at three marks on the execution or experimentation track, should be usable without consent, "under the same logic as the experimentation track," because their rights would be forfeited. (site S10) ^g-organ-use-from-condemned-offenders
 
+**origin/main, commit hashes, byte-identical** - origin/main is the live, published branch of my site's code repository; short codes like e9d1239 identify specific saved versions (commits); "byte-identical" means a file did not change at all between two versions. (standard meaning) ^g-originmain-commit-hashes-byte-identical
+
 ## P
 
 **Paid-leave mandate** - A law requiring employers to pay workers during family or medical leave. I oppose it. (standard meaning) ^g-paid-leave-mandate
@@ -478,13 +497,13 @@ The specialized terms used across the site, A to Z. Terms that already have an e
 
 **Pattern recognition (pattern realism)** - My view that noticing real group patterns is reasonable even when a particular person turns out to be harmless, and that statistics shouldn't be denied. Group statistics never become verdicts on individuals; each person is judged on their own values and conduct. (site S6, S7; my resolutions (section 4, item 6)) ^g-pattern-recognition-pattern-realism
 
-**Penal maximalism** - The report's label for my use of the most severe penalties across a wide range of crimes, such as mandatory death and the three-mark rule, all grounded in forfeiture. (report label; site S6) ^g-penal-maximalism
+**Penal maximalism** - The site's label for my use of the most severe penalties across a wide range of crimes, such as mandatory death and the three-mark rule, all grounded in forfeiture. (report label; site S6) ^g-penal-maximalism
 
 **Phenomenal consciousness (first-order sentience)** - Having subjective experience, meaning there is something it feels like to be that being. "Any being, biological or artificial, that possesses first-order subjective experience is to be treated as a rights-bearer under my framework. Higher-order self-awareness is not required." (site Glossary (Sentience basis); site S1) ^g-phenomenal-consciousness-first-order-sentience
 
 **Police profiling** - Police using group traits, such as age, sex, or behavior patterns, to decide whom to check. In S7 I would allow it alongside random checks. (site S7) ^g-police-profiling
 
-**Polity (politeia)** - Aristotle's name for the good form of rule by the many: a mixed constitution that blends democracy and oligarchy, with citizenship tied to qualifications. The report calls my qualified-franchise republic "a modern Aristotelian polity." (standard meaning) ^g-polity-politeia
+**Polity (politeia)** - Aristotle's name for the good form of rule by the many: a mixed constitution that blends democracy and oligarchy, with citizenship tied to qualifications. The site calls my qualified-franchise republic "a modern Aristotelian polity." (standard meaning) ^g-polity-politeia
 
 **Positive rights** - Claims to be provided something, such as welfare, health care, or housing. In S1 I say: "I reject positive rights." My floor is "not a right anyone can claim." (standard meaning; site S1) ^g-positive-rights
 
@@ -500,7 +519,7 @@ The specialized terms used across the site, A to Z. Terms that already have an e
 
 **Private vice** - Activities that mainly affect the person doing them, such as drug use, gambling, prostitution, and adult pornography. I would legalize them for adults. (standard meaning; site S7) ^g-private-vice
 
-**Procreative liberty** - John Robertson's principle that people have a strong liberty interest in deciding whether and how to have children, including through reproductive technology. The report places my S10 views on IVF, embryo screening, gene editing, and cloning near it, though mine rest on sentience-based negative rights rather than autonomy alone. (standard meaning (report inference)) ^g-procreative-liberty
+**Procreative liberty** - John Robertson's principle that people have a strong liberty interest in deciding whether and how to have children, including through reproductive technology. The site places my S10 views on IVF, embryo screening, gene editing, and cloning near it, though mine rest on sentience-based negative rights rather than autonomy alone. (standard meaning (report inference)) ^g-procreative-liberty
 
 **Prop 12 (California)** - A 2018 California ballot measure setting minimum space rules for egg-laying hens, breeding pigs, and veal calves and banning sales of products that don't meet them. S11 faults the Republican push to override it, since I believe the United States should ban animal agriculture. (standard meaning; site S11) ^g-prop-12-california
 
@@ -512,9 +531,11 @@ The specialized terms used across the site, A to Z. Terms that already have an e
 
 **Psychedelic therapy** - Clinical use of drugs like psilocybin or MDMA alongside therapy. I believe it should be available by prescription. (standard meaning) ^g-psychedelic-therapy
 
-**Punitive civil libertarian** - The report's alternative label for my criminal-justice view: a maximal penalty scale combined with strict procedural safeguards. (report label) ^g-punitive-civil-libertarian
+**Punitive civil libertarian** - The site's alternative label for my criminal-justice view: a maximal penalty scale combined with strict procedural safeguards. (report label) ^g-punitive-civil-libertarian
 
 ## Q
+
+**Q&A** - A collapsible question-and-answer callout on my site that answers a likely objection to a position. (site) ^g-qa
 
 **Qualified franchise** - A restricted right to vote. I believe that, on top of voter ID and the felony bar, every voter should meet a stake qualification (net taxpayer) and a competence qualification (the voter license test). (site Glossary (Epistocratic republic); site S3) ^g-qualified-franchise
 
@@ -550,9 +571,9 @@ The specialized terms used across the site, A to Z. Terms that already have an e
 
 **Restore Britain and Reform UK** - Two British right-wing parties. Restore Britain, led by Rupert Lowe, is closest to me on crime, pledging a binding referendum on restoring the death penalty; Reform UK, led by Nigel Farage, is next. (site S11) ^g-restore-britain-and-reform-uk
 
-**Restrictionism** - Favoring sharply lower immigration and tighter entry rules. "Values-selective" is the report's label for my version, which selects by fit with Western values. (standard meaning) ^g-restrictionism
+**Restrictionism** - Favoring sharply lower immigration and tighter entry rules. "Values-selective" is the site's label for my version, which selects by fit with Western values. (standard meaning) ^g-restrictionism
 
-**Retributivism** - The theory that punishment is justified because the offender deserves it, in proportion to the crime. "Hard retributivism through rights forfeiture" is the report's label for my severe version, in which a crime forfeits the rights that would otherwise protect the offender. (standard meaning; site S6) ^g-retributivism
+**Retributivism** - The theory that punishment is justified because the offender deserves it, in proportion to the crime. "Hard retributivism through rights forfeiture" is the site's label for my severe version, in which a crime forfeits the rights that would otherwise protect the offender. (standard meaning; site S6) ^g-retributivism
 
 **Ritual slaughter** - Religious methods of slaughtering animals, such as halal and kosher slaughter without stunning. I believe it should be banned for every faith. (standard meaning; site S1, S4) ^g-ritual-slaughter
 
@@ -562,6 +583,10 @@ The specialized terms used across the site, A to Z. Terms that already have an e
 
 ## S
 
+**S11 scorecard** - My net alignment scores for parties in S11: GOP +9, Libertarian and Constitution parties +3, Democrats -10, Greens and DSA -13. (site S11) ^g-s11-scorecard
+
+**S12 grades** - My five-step scale for grading each Trump administration action against my positions: Aligned, Directionally aligned (details differ), Mixed, Directionally opposed, and Opposed. Of 87 graded actions, the counts are 18 / 34 / 15 / 11 / 9. (site S12) ^g-s12-grades
+
 **Safe third country** - A country other than the refugee's home and the destination where the refugee can be sent to seek protection. I believe refugees should go only to a safe third country. (standard meaning; site S8) ^g-safe-third-country
 
 **Sanctuary cities** - Cities and counties that limit cooperation with federal immigration enforcement. Not related to my Sanctuary Plan for animals. I believe they should be abolished. (standard meaning; site S8) ^g-sanctuary-cities
@@ -570,6 +595,8 @@ The specialized terms used across the site, A to Z. Terms that already have an e
 
 **Sanctuary Levy** - See [[Glossary#Sanctuary Levy|Sanctuary Levy]] on the Glossary page. ^g-sanctuary-levy
 
+**Sanctuary license** - See [[Glossary#Sanctuary license|Sanctuary license]] on the Glossary page. ^g-sanctuary-license
+
 **Sanctuary Plan** - My plan for a day-one shutdown of animal agriculture, wild-capture commercial fishing, aquaculture, commercial breeding mills, and animal testing, with no wind-down. Every animal alive that day should be kept alive in sanctuary (then licensed nonprofit care) or adopted under strict vetting, with no breeding, funded by converted or liquidated industry equity, sanctuary bonds, and the Sanctuary Levy. (site S9) ^g-sanctuary-plan
 
 **Sanctuary system** - The sanctuaries and licensed nonprofit operators that would care for every animal alive at the shutdown for its natural life under the Sanctuary Plan. (site S9) ^g-sanctuary-system
@@ -577,6 +604,8 @@ The specialized terms used across the site, A to Z. Terms that already have an e
 **Seafood strategy and rancher support** - The October 2026 America First Seafood Strategy promoting fishing and aquaculture, and the September 2026 orders supporting ranchers and livestock markets. I grade both Opposed because I believe animal agriculture and commercial fishing should end. (site S12) ^g-seafood-strategy-and-rancher-support
 
 **Secret ballot** - Voting in private so no one can know how a given person voted. (standard meaning) ^g-secret-ballot
+
+**Section numbers (S1-S13)** - My site's own section numbers: S1 Ethical and Philosophical Framework, S2 Political and Social Character, S3 Authority & Civil Liberties, S4 Religion & Secularism, S5 Domestic Policy & Governance, S6 Criminal Justice & Security, S7 Cultural & Social Issues, S8 Foreign Policy & International Relations, S9 Energy & Environment, S10 Bioethics, Progress, & Technology, S11 Modern Political Parties, S12 Current Administration, S13 News Commentary. (site) ^g-section-numbers-s1-s13
 
 **Secularism** - Keeping religion and government separate. Mine is strict: I believe church and state should be strictly separated, churches taxed, no school prayer, and ritual slaughter banned for every faith (S4). (standard meaning; site S4) ^g-secularism
 
@@ -638,7 +667,7 @@ The specialized terms used across the site, A to Z. Terms that already have an e
 
 **True threats and incitement** - The narrow categories of speech the Supreme Court allows to be punished: serious statements of intent to commit violence against someone (true threats) and speech intended and likely to cause imminent lawless action (incitement). I believe they should be the only punishable speech. (standard meaning; site S7) ^g-true-threats-and-incitement
 
-**Two-level view** - The report's alternative label for my ethics: deontology for politics and the law, and Stoic eudaimonism for personal character. (report label; site S1) ^g-two-level-view
+**Two-level view** - The site's alternative label for my ethics: deontology for politics and the law, and Stoic eudaimonism for personal character. (report label; site S1) ^g-two-level-view
 
 **Two-state solution and annexation** - The two-state solution is a proposed Israeli state alongside an independent Palestinian state; annexation is a state formally absorbing territory. I oppose a two-state solution and believe West Bank annexation is justified. (standard meaning; site S8) ^g-two-state-solution-and-annexation
 
@@ -669,6 +698,8 @@ The specialized terms used across the site, A to Z. Terms that already have an e
 **War Powers Resolution** - A 1973 law requiring the President to notify Congress within 48 hours of sending forces into hostilities and to withdraw within 60 days, plus 30 for withdrawal, unless Congress authorizes. I believe Congress must authorize any sustained campaign within 30 days. (standard meaning; site S8) ^g-war-powers-resolution
 
 **Water rights** - Legal rights to use water from a river, lake, or aquifer. In my view they are property. (standard meaning) ^g-water-rights
+
+**Welfare voting bar** - See [[Glossary#Welfare voting bar|Welfare voting bar]] on the Glossary page. ^g-welfare-voting-bar
 
 **Western civilization (Western heritage)** - In my usage, "Western" is "a set of values, not an ethnicity" (S2, S8). I call moderate Christianity and Western heritage "good" (S4). (site S2, S4) ^g-western-civilization-western-heritage
 

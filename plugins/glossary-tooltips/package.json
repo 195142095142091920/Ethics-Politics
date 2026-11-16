@@ -2,7 +2,7 @@
   "name": "glossary-tooltips",
   "version": "0.1.0",
   "type": "module",
-  "description": "Build-time glossary hover definitions for 414.onl (first use of each term per h2/h3 section).",
+  "description": "Build-time glossary hover definitions for 414.onl (every use of each term).",
   "main": "./index.js",
   "exports": {
     ".": {
