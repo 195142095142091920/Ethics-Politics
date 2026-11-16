@@ -1,0 +1,2671 @@
+{
+ "version": 2,
+ "sectionHeadings": [
+  "h2",
+  "h3"
+ ],
+ "terms": [
+  {
+   "id": "g-45-cfr-46-common-rule",
+   "term": "45 CFR 46 (Common Rule)",
+   "patterns": [
+    "45 CFR 46",
+    "Common Rule"
+   ]
+  },
+  {
+   "id": "g-60-day-restraint",
+   "term": "60-day restraint",
+   "patterns": [
+    "i:60-day (?:pre-election )?restraint"
+   ]
+  },
+  {
+   "id": "g-site-and-inference",
+   "term": "[Site] and [Inference]",
+   "patterns": [
+    "\\[Site\\]",
+    "\\[Inference\\]"
+   ]
+  },
+  {
+   "id": "g-abolitionism-animal-rights",
+   "term": "Abolitionism (animal rights)",
+   "patterns": [
+    "i:abolitionist animal rights",
+    "i:animal-rights abolition(?:ism|ists?)",
+    "i:abolitionism",
+    "i:abolitionists?"
+   ]
+  },
+  {
+   "id": "g-abolitionist-project-pearce",
+   "term": "Abolitionist project (Pearce)",
+   "patterns": [
+    "i:abolitionist project",
+    "i:Pearce[’']s proposal"
+   ]
+  },
+  {
+   "id": "g-abortion-ban-from-conception",
+   "term": "Abortion ban from conception",
+   "patterns": [
+    "i:abortion ban from conception",
+    "i:banned from conception",
+    "i:ban(?:ned)? (?:on abortion )?from conception"
+   ],
+   "glossaryHeading": "Abortion ban (from conception)"
+  },
+  {
+   "id": "g-acled",
+   "term": "ACLED",
+   "patterns": [
+    "ACLED"
+   ]
+  },
+  {
+   "id": "g-acrps",
+   "term": "ACRPS",
+   "patterns": [
+    "ACRPS"
+   ]
+  },
+  {
+   "id": "g-actuarial-sex-facts",
+   "term": "Actuarial sex facts",
+   "patterns": [
+    "i:actuarial sex facts",
+    "i:actuarial tables"
+   ]
+  },
+  {
+   "id": "g-agency",
+   "term": "Agency",
+   "patterns": [
+    "i:(?<!the )(?<!an )(?<!no )(?<!seizing )(?<!News )(?<!Security )(?<!Protection )(?<!Finance )(?<!Relief )(?<!Drugs )(?<!drug )(?<!Union )(?<!welfare )(?<!AI )(?<!and )(?<!Operations )(?<!Housing )(?<!research )(?<!federal )(?<!prosecuting )(?<!Medicines )(?<!U\\.S\\. )(?<!Tasnim )(?<!Anadolu )agency(?! fees| for Asylum| rules| actions| acted| is abolished| should pay| that signs| matching| guidance| for Global|['’]s| \\(WAM\\))"
+   ],
+   "glossaryHeading": "Agency",
+   "note": "moral agency only; not government or news agencies"
+  },
+  {
+   "id": "g-agnostic-atheism",
+   "term": "Agnostic atheism",
+   "patterns": [
+    "i:agnostic atheis[mt]s?"
+   ]
+  },
+  {
+   "id": "g-ai-preemption",
+   "term": "AI preemption",
+   "patterns": [
+    "i:AI preemption",
+    "i:preempt(?:ing)? (?:conflicting )?state laws?"
+   ]
+  },
+  {
+   "id": "g-ai-agi",
+   "term": "AI, AGI",
+   "patterns": [
+    "AGI",
+    "AI"
+   ]
+  },
+  {
+   "id": "g-alaska-certification-suit",
+   "term": "Alaska certification suit",
+   "patterns": [
+    "i:Alaska certification suit",
+    "i:Suit to hold Alaska[’']s Senate certification"
+   ]
+  },
+  {
+   "id": "g-alien-enemies-act",
+   "term": "Alien Enemies Act",
+   "patterns": [
+    "Alien Enemies Act"
+   ]
+  },
+  {
+   "id": "g-ama-and-helsinki-codes",
+   "term": "AMA and Helsinki codes",
+   "patterns": [
+    "i:AMA and Helsinki codes",
+    "Declaration of Helsinki"
+   ]
+  },
+  {
+   "id": "g-america-first",
+   "term": "America First",
+   "patterns": [
+    "America First",
+    "America-First"
+   ]
+  },
+  {
+   "id": "g-amnesty",
+   "term": "Amnesty",
+   "patterns": [
+    "i:amnesty(?! International)"
+   ]
+  },
+  {
+   "id": "g-anarcho-capitalism",
+   "term": "Anarcho-capitalism",
+   "patterns": [
+    "i:anarcho-capitalis[mt]s?"
+   ]
+  },
+  {
+   "id": "g-anti-naturalism-sentientist",
+   "term": "Anti-naturalism (sentientist)",
+   "patterns": [
+    "i:(?:sentientist )?anti-naturalism"
+   ]
+  },
+  {
+   "id": "g-anti-totalitarian-parity",
+   "term": "Anti-totalitarian parity",
+   "patterns": [
+    "i:anti-totalitarian parity"
+   ]
+  },
+  {
+   "id": "g-antitrust",
+   "term": "Antitrust",
+   "patterns": [
+    "i:antitrust"
+   ]
+  },
+  {
+   "id": "g-aquaculture-and-breeding-mills",
+   "term": "Aquaculture and breeding mills",
+   "patterns": [
+    "i:aquaculture"
+   ]
+  },
+  {
+   "id": "g-assimilationism",
+   "term": "Assimilationism",
+   "patterns": [
+    "i:assimilationism",
+    "i:assimilationists?",
+    "i:assimilat(?:ion|e|ed)"
+   ]
+  },
+  {
+   "id": "g-assisted-death",
+   "term": "Assisted death",
+   "patterns": [
+    "i:assisted death"
+   ]
+  },
+  {
+   "id": "g-atkins-v-virginia-2002",
+   "term": "Atkins v. Virginia (2002)",
+   "patterns": [
+    "Atkins v\\. Virginia"
+   ]
+  },
+  {
+   "id": "g-autonomous-vehicles-rule",
+   "term": "Autonomous vehicles rule",
+   "patterns": [
+    "i:autonomous vehicles rule",
+    "i:self-driving cars?"
+   ]
+  },
+  {
+   "id": "g-autonomous-weapons-and-space-weapons",
+   "term": "Autonomous weapons and space weapons",
+   "patterns": [
+    "i:autonomous weapons",
+    "i:space weapons"
+   ]
+  },
+  {
+   "id": "g-axioms-s1",
+   "term": "Axioms (S1)",
+   "patterns": [
+    "Axioms? [1-7](?:-[1-7])?",
+    "i:axioms 1-7"
+   ]
+  },
+  {
+   "id": "g-bailouts",
+   "term": "Bailouts",
+   "patterns": [
+    "i:bailouts?"
+   ]
+  },
+  {
+   "id": "g-bioconservatism",
+   "term": "Bioconservatism",
+   "patterns": [
+    "i:bioconservatis[mt]s?",
+    "i:bioconservatives"
+   ]
+  },
+  {
+   "id": "g-birthright-citizenship",
+   "term": "Birthright citizenship",
+   "patterns": [
+    "i:birthright citizenship"
+   ]
+  },
+  {
+   "id": "g-bjs-bls-cbo",
+   "term": "BJS, BLS, CBO",
+   "patterns": [
+    "BJS",
+    "CBO"
+   ]
+  },
+  {
+   "id": "g-body-cameras",
+   "term": "Body cameras",
+   "patterns": [
+    "i:body cameras?"
+   ]
+  },
+  {
+   "id": "g-brain-computer-interfaces",
+   "term": "Brain-computer interfaces",
+   "patterns": [
+    "i:brain-computer interfaces?"
+   ]
+  },
+  {
+   "id": "g-building-bar",
+   "term": "Building bar",
+   "patterns": [
+    "i:building bars?"
+   ]
+  },
+  {
+   "id": "g-bulk-tracking-facial-recognition-and-social-credit",
+   "term": "Bulk tracking, facial recognition, and social credit",
+   "patterns": [
+    "i:bulk tracking",
+    "i:facial recognition",
+    "i:facial-recognition databases",
+    "i:social credit"
+   ]
+  },
+  {
+   "id": "g-burden-of-proof-skepticism",
+   "term": "Burden-of-proof skepticism",
+   "patterns": [
+    "i:burden-of-proof skepticism"
+   ]
+  },
+  {
+   "id": "g-capital-evidentiary-standard",
+   "term": "Capital evidentiary standard",
+   "patterns": [
+    "i:capital evidentiary standard"
+   ],
+   "glossaryHeading": "Capital evidentiary standard"
+  },
+  {
+   "id": "g-capital-track",
+   "term": "Capital track",
+   "patterns": [
+    "i:capital track",
+    "i:capital-track",
+    "i:capital tier",
+    "i:capital-tier"
+   ]
+  },
+  {
+   "id": "g-capture-of-maduro",
+   "term": "Capture of Maduro",
+   "patterns": [
+    "i:capture of Maduro",
+    "i:Maduro[’']s capture"
+   ]
+  },
+  {
+   "id": "g-carbon-price",
+   "term": "Carbon price",
+   "patterns": [
+    "i:carbon price",
+    "i:carbon tax"
+   ]
+  },
+  {
+   "id": "g-carryover-basis",
+   "term": "Carryover basis",
+   "patterns": [
+    "i:carryover basis"
+   ]
+  },
+  {
+   "id": "g-cartels-as-terrorists",
+   "term": "Cartels as terrorists",
+   "patterns": [
+    "i:cartels (?:should be )?(?:treated |designated )?as terrorists"
+   ]
+  },
+  {
+   "id": "g-cat",
+   "term": "CAT",
+   "patterns": [
+    "CAT",
+    "Convention Against Torture"
+   ]
+  },
+  {
+   "id": "g-catastrophe-threshold",
+   "term": "Catastrophe threshold",
+   "patterns": [
+    "i:catastrophe-threshold(?: theory)?",
+    "i:catastrophe threshold"
+   ]
+  },
+  {
+   "id": "g-ceo-iq-id-us-uk-dc",
+   "term": "CEO, IQ, ID, U.S., UK, D.C.",
+   "patterns": [
+    "CEOs?",
+    "IQ",
+    "ID",
+    "U\\.S\\.",
+    "UK",
+    "D\\.C\\."
+   ]
+  },
+  {
+   "id": "g-cephalopods-decapods-bivalves",
+   "term": "Cephalopods, decapods, bivalves",
+   "patterns": [
+    "i:cephalopods",
+    "i:decapods",
+    "i:bivalves"
+   ]
+  },
+  {
+   "id": "g-chapter-188-massachusetts",
+   "term": "Chapter 188 (Massachusetts)",
+   "patterns": [
+    "(?:Massachusetts )?Chapter 188"
+   ]
+  },
+  {
+   "id": "g-charter-schools",
+   "term": "Charter schools",
+   "patterns": [
+    "i:charter schools?",
+    "i:public and charter schools",
+    "i:district or charter",
+    "i:charter students"
+   ]
+  },
+  {
+   "id": "g-child-credit-and-birth-credit",
+   "term": "Child credit and birth credit",
+   "patterns": [
+    "i:child credit",
+    "i:birth credit"
+   ]
+  },
+  {
+   "id": "g-christian-fundamentalism",
+   "term": "Christian fundamentalism",
+   "patterns": [
+    "i:Christian fundamentalis[mt]s?"
+   ]
+  },
+  {
+   "id": "g-civic-disabilities",
+   "term": "Civic disabilities",
+   "patterns": [
+    "i:civic disabilit(?:y|ies)"
+   ]
+  },
+  {
+   "id": "g-civil-asset-forfeiture",
+   "term": "Civil asset forfeiture",
+   "patterns": [
+    "i:civil asset forfeiture",
+    "i:civil forfeiture",
+    "i:asset forfeiture",
+    {
+     "re": "i:forfeit(?:ure|ures|ed)?(?! (?:those|their) property protections)(?<!(?:follows from|That) forfeiture)",
+     "sections": [
+      "Civil Asset Forfeiture",
+      "Due Process and Rule of Law"
+     ]
+    },
+    "i:(?<=leftover |along with |and |assets, )forfeited(?= (?:assets|property))",
+    "i:forfeited(?= holdings| to pay restitution)"
+   ],
+   "note": "bare forfeit* only inside S3 Civil Asset Forfeiture and Due Process (asset-forfeiture discussion), plus 'forfeited property/assets/holdings' (asset seizure) anywhere"
+  },
+  {
+   "id": "g-civil-libertarianism",
+   "term": "Civil libertarianism",
+   "patterns": [
+    "i:civil libertarian(?:ism)?s?"
+   ]
+  },
+  {
+   "id": "g-civil-service-merit-hiring",
+   "term": "Civil service merit hiring",
+   "patterns": [
+    "i:merit hiring",
+    "i:civil service merit hiring"
+   ]
+  },
+  {
+   "id": "g-civilizational-nationalism",
+   "term": "Civilizational nationalism",
+   "patterns": [
+    "i:civilizational nationalis[mt]s?"
+   ]
+  },
+  {
+   "id": "g-classical-liberalism",
+   "term": "Classical liberalism",
+   "patterns": [
+    "i:classical liberal(?:ism|s)?"
+   ]
+  },
+  {
+   "id": "g-close-in-age-exception",
+   "term": "Close-in-age exception",
+   "patterns": [
+    "i:close-in-age exceptions?"
+   ]
+  },
+  {
+   "id": "g-coercive-conversion-methods",
+   "term": "Coercive conversion methods",
+   "patterns": [
+    "i:coercive conversion methods?"
+   ]
+  },
+  {
+   "id": "g-coherentism",
+   "term": "Coherentism",
+   "patterns": [
+    "i:coherentis[mt]s?"
+   ]
+  },
+  {
+   "id": "g-coker-v-georgia-1977",
+   "term": "Coker v. Georgia (1977)",
+   "patterns": [
+    "Coker v\\. Georgia"
+   ]
+  },
+  {
+   "id": "g-colorblind-meritocracy",
+   "term": "Colorblind meritocracy",
+   "patterns": [
+    "i:colorblind meritocra(?:cy|ts?)",
+    "i:colorblind"
+   ]
+  },
+  {
+   "id": "g-companions-in-guilt-argument",
+   "term": "Companions-in-guilt argument",
+   "patterns": [
+    "i:companions-in-guilt(?: argument)?"
+   ]
+  },
+  {
+   "id": "g-compelled-hard-labor",
+   "term": "Compelled hard labor",
+   "patterns": [
+    "i:compelled hard labor"
+   ]
+  },
+  {
+   "id": "g-competence-qualification",
+   "term": "Competence qualification",
+   "patterns": [
+    "i:competence qualification"
+   ]
+  },
+  {
+   "id": "g-competing-currencies",
+   "term": "Competing currencies",
+   "patterns": [
+    "i:competing currencies"
+   ]
+  },
+  {
+   "id": "g-constitutionalism",
+   "term": "Constitutionalism",
+   "patterns": [
+    "i:constitutionalism"
+   ]
+  },
+  {
+   "id": "g-constructivism-humean",
+   "term": "Constructivism (Humean)",
+   "patterns": [
+    "i:constructivis[mt]s?",
+    "i:constructivist-prescriptivist"
+   ]
+  },
+  {
+   "id": "g-corporate-personhood-agent-liability-skepticism",
+   "term": "Corporate personhood (agent-liability skepticism)",
+   "patterns": [
+    "i:corporate personhood"
+   ]
+  },
+  {
+   "id": "g-corporate-veil",
+   "term": "Corporate veil",
+   "patterns": [
+    "i:corporate veil"
+   ]
+  },
+  {
+   "id": "g-cosmopolitan-liberalism",
+   "term": "Cosmopolitan liberalism",
+   "patterns": [
+    "i:cosmopolitan liberalism",
+    "i:progressive-cosmopolitan"
+   ]
+  },
+  {
+   "id": "g-cultural-traditionalism",
+   "term": "Cultural traditionalism",
+   "patterns": [
+    "i:cultural traditionalis[mt]s?"
+   ]
+  },
+  {
+   "id": "g-data-box",
+   "term": "Data box",
+   "patterns": [
+    "i:data (?:box|boxes|callouts?)"
+   ]
+  },
+  {
+   "id": "g-day-fines-income-scaled-fines",
+   "term": "Day fines (income-scaled fines)",
+   "patterns": [
+    "i:day fines?",
+    "i:income-scaled fines?"
+   ],
+   "glossaryHeading": "Income-scaled fine"
+  },
+  {
+   "id": "g-day-one-bans",
+   "term": "Day-one bans",
+   "patterns": [
+    "i:day-one bans?",
+    "i:day one"
+   ]
+  },
+  {
+   "id": "g-death-row",
+   "term": "Death row",
+   "patterns": [
+    "i:death row"
+   ]
+  },
+  {
+   "id": "g-debt-brake",
+   "term": "Debt brake",
+   "patterns": [
+    "i:debt brake"
+   ],
+   "glossaryHeading": "Debt brake"
+  },
+  {
+   "id": "g-deceptive-candidacies",
+   "term": "Deceptive candidacies",
+   "patterns": [
+    "i:deceptive candidac(?:y|ies)"
+   ]
+  },
+  {
+   "id": "g-deepfakes",
+   "term": "Deepfakes",
+   "patterns": [
+    "i:deepfakes?"
+   ]
+  },
+  {
+   "id": "g-default-enrollment-opt-out-defaults",
+   "term": "Default enrollment (opt-out defaults)",
+   "patterns": [
+    "i:default enrollment",
+    "i:opt-out default enrollment",
+    "i:default-enrolled",
+    "i:opt-out defaults"
+   ]
+  },
+  {
+   "id": "g-defensive-accelerationism",
+   "term": "Defensive accelerationism",
+   "patterns": [
+    "i:defensive accelerationism"
+   ]
+  },
+  {
+   "id": "g-dei",
+   "term": "DEI",
+   "patterns": [
+    "DEI"
+   ]
+  },
+  {
+   "id": "g-deontology",
+   "term": "Deontology",
+   "patterns": [
+    "i:deontolog(?:y|ical|ist)",
+    "i:deontology"
+   ]
+  },
+  {
+   "id": "g-desert",
+   "term": "Desert",
+   "patterns": [
+    "i:desert(?! bighorn| tortoise)"
+   ],
+   "glossaryHeading": "Desert"
+  },
+  {
+   "id": "g-deterrence",
+   "term": "Deterrence",
+   "patterns": [
+    "i:deterrence"
+   ]
+  },
+  {
+   "id": "g-directional-transactional-independent",
+   "term": "Directional (transactional) independent",
+   "patterns": [
+    "i:directional (?:\\(transactional\\) )?independent",
+    "i:Republican-leaning independent"
+   ]
+  },
+  {
+   "id": "g-disparate-impact",
+   "term": "Disparate impact",
+   "patterns": [
+    "i:disparate[- ]impact(?: liability)?"
+   ]
+  },
+  {
+   "id": "g-displacement-trigger-bls-trigger",
+   "term": "Displacement trigger (BLS trigger)",
+   "patterns": [
+    "i:displacement trigger",
+    "BLS trigger"
+   ]
+  },
+  {
+   "id": "g-double-jeopardy",
+   "term": "Double jeopardy",
+   "patterns": [
+    "i:double jeopardy"
+   ]
+  },
+  {
+   "id": "g-dsa",
+   "term": "DSA",
+   "patterns": [
+    "DSA"
+   ]
+  },
+  {
+   "id": "g-earnings-only-top-up",
+   "term": "Earnings-only top-up",
+   "patterns": [
+    "i:earnings-only top-up"
+   ],
+   "glossaryHeading": "Earnings-only top-up"
+  },
+  {
+   "id": "g-east-potomac-golf-closure",
+   "term": "East Potomac golf closure",
+   "patterns": [
+    "i:East Potomac(?: golf)?(?: closure| course)?"
+   ]
+  },
+  {
+   "id": "g-eco-modernism",
+   "term": "Eco-modernism",
+   "patterns": [
+    "i:eco-modernis[mt]s?"
+   ]
+  },
+  {
+   "id": "g-economic-nationalism",
+   "term": "Economic nationalism",
+   "patterns": [
+    "i:economic nationalis[mt]s?"
+   ]
+  },
+  {
+   "id": "g-eighth-amendment",
+   "term": "Eighth Amendment",
+   "patterns": [
+    "i:Eighth Amendment",
+    "8th Amendment"
+   ]
+  },
+  {
+   "id": "g-eitc-and-ctc",
+   "term": "EITC and CTC",
+   "patterns": [
+    "EITC",
+    "CTC"
+   ]
+  },
+  {
+   "id": "g-el-salvador-style-sweeps",
+   "term": "El Salvador-style sweeps",
+   "patterns": [
+    "i:El Salvador-style(?: sweeps)?",
+    "i:Bukele-style"
+   ]
+  },
+  {
+   "id": "g-electoral-college",
+   "term": "Electoral College",
+   "patterns": [
+    "Electoral College"
+   ]
+  },
+  {
+   "id": "g-emergency-on-scene-sentencing",
+   "term": "Emergency on-scene sentencing",
+   "patterns": [
+    "i:(?:emergency )?on-scene sentencing"
+   ]
+  },
+  {
+   "id": "g-emergency-powers-and-sunset-clauses",
+   "term": "Emergency powers and sunset clauses",
+   "patterns": [
+    "i:emergency powers",
+    "i:sunset clauses?"
+   ]
+  },
+  {
+   "id": "g-empiricism-fallibilist",
+   "term": "Empiricism (fallibilist)",
+   "patterns": [
+    "i:fallibilist empiricism",
+    "i:empiricism"
+   ]
+  },
+  {
+   "id": "g-energy-emergency-and-dc-guard-deployment",
+   "term": "Energy emergency and D.C. Guard deployment",
+   "patterns": [
+    "i:energy emergency"
+   ]
+  },
+  {
+   "id": "g-epistemology",
+   "term": "Epistemology",
+   "patterns": [
+    "i:epistemology"
+   ]
+  },
+  {
+   "id": "g-epistocracy",
+   "term": "Epistocracy",
+   "patterns": [
+    "i:epistocra(?:cy|tic)"
+   ],
+   "note": "'epistocratic republic' goes to its own entry (longest match wins)"
+  },
+  {
+   "id": "g-epistocratic-republic",
+   "term": "Epistocratic republic",
+   "patterns": [
+    "i:epistocratic (?:constitutional )?republic"
+   ],
+   "glossaryHeading": "Epistocratic republic"
+  },
+  {
+   "id": "g-esa-harm-rule-endangered-species-act",
+   "term": "ESA \"harm\" rule (Endangered Species Act)",
+   "patterns": [
+    "Endangered Species Act",
+    "ESA [“\"]harm[”\"] rule"
+   ],
+   "note": "bare 'ESA' never matched; only the full form"
+  },
+  {
+   "id": "g-esa-education-savings-account",
+   "term": "ESA (education savings account)",
+   "patterns": [
+    "i:education savings accounts?"
+   ],
+   "note": "bare 'ESA(s)' never matched; only the full form"
+  },
+  {
+   "id": "g-estate-wealth-vat-and-sales-taxes",
+   "term": "Estate, wealth, VAT, and sales taxes",
+   "patterns": [
+    "i:estate tax(?:es)?",
+    "i:wealth tax(?:es)?",
+    "VAT"
+   ]
+  },
+  {
+   "id": "g-et",
+   "term": "ET",
+   "patterns": [
+    "ET"
+   ]
+  },
+  {
+   "id": "g-ethnonationalism",
+   "term": "Ethnonationalism",
+   "patterns": [
+    "i:ethnonationalis[mt]s?"
+   ]
+  },
+  {
+   "id": "g-eudaimonism-stoic",
+   "term": "Eudaimonism (Stoic)",
+   "patterns": [
+    "i:Stoic eudaimonism",
+    "i:eudaimonism"
+   ]
+  },
+  {
+   "id": "g-evidentialism",
+   "term": "Evidentialism",
+   "patterns": [
+    "i:evidentialis[mt]s?"
+   ]
+  },
+  {
+   "id": "g-evolutionary-debunking",
+   "term": "Evolutionary debunking",
+   "patterns": [
+    "i:evolutionary debunking"
+   ]
+  },
+  {
+   "id": "g-ex-post-facto",
+   "term": "Ex post facto",
+   "patterns": [
+    "i:ex post facto"
+   ]
+  },
+  {
+   "id": "g-excluded-ideologies",
+   "term": "Excluded ideologies",
+   "patterns": [
+    "i:excluded ideolog(?:y|ies)",
+    "i:excluded-ideolog(?:y|ies)(?: amendment)?"
+   ]
+  },
+  {
+   "id": "g-executive-discretion-over-federal-property",
+   "term": "Executive discretion over federal property",
+   "patterns": [
+    "i:presidential discretion over federal property",
+    "i:presidential discretion",
+    "i:executive discretion over federal property",
+    "(?<=President should have )discretion",
+    "(?<=That )discretion(?= covers)"
+   ],
+   "note": "bare 'discretion' only where it is the President's discretion over federal property; not prosecutorial, police, agency, Fed, or literacy-test discretion"
+  },
+  {
+   "id": "g-experimentation-track",
+   "term": "Experimentation track",
+   "patterns": [
+    "i:experimentation track",
+    "i:(?<!Scientific )(?<!testing, or )(?<!burden of )(?<!redirection of )(?<!replace )(?<!with )experimentation(?! on living subjects| of any kind)"
+   ],
+   "note": "bare 'experimentation' as the punishment option; not scientific/animal experimentation in general"
+  },
+  {
+   "id": "g-expressivism",
+   "term": "Expressivism",
+   "patterns": [
+    "i:expressivis[mt]s?"
+   ]
+  },
+  {
+   "id": "g-fda-consent-rules",
+   "term": "FDA consent rules",
+   "patterns": [
+    "i:FDA consent rules"
+   ]
+  },
+  {
+   "id": "g-fed-federal-reserve",
+   "term": "Fed (Federal Reserve)",
+   "patterns": [
+    "Fed",
+    "Federal Reserve"
+   ]
+  },
+  {
+   "id": "g-federalism",
+   "term": "Federalism",
+   "patterns": [
+    "i:federalism"
+   ]
+  },
+  {
+   "id": "g-felony-and-misdemeanor",
+   "term": "Felony and misdemeanor",
+   "patterns": [
+    {
+     "re": "i:(?<!disenfranchise )(?:felon(?:y|ies|s)?|misdemeanou?rs?)(?! larceny| cases| conspiracies| arrest)",
+     "pages": [
+      "3.-authority--and--civil-liberties",
+      "6.-criminal-justice--and--security",
+      "where-i-stand",
+      "glossary",
+      "glossary-index"
+     ],
+     "notSections": [
+      "Insanity Defense",
+      "Drug Policy"
+     ]
+    },
+    {
+     "re": "i:felons?(?= voting| do not vote)",
+     "pages": [
+      "13.-news-commentary"
+     ]
+    }
+   ],
+   "glossaryHeading": "Felony and misdemeanor",
+   "note": "framework sense; not current-law felonies (S8 immigration statutes, S13 news, Purdue, historical statistics)"
+  },
+  {
+   "id": "g-fisa-702",
+   "term": "FISA 702",
+   "patterns": [
+    "FISA 702",
+    "FISA Section 702",
+    "Section 702"
+   ]
+  },
+  {
+   "id": "g-fiscal-conservatism",
+   "term": "Fiscal conservatism",
+   "patterns": [
+    "i:fiscal conservatis[mt]s?"
+   ]
+  },
+  {
+   "id": "g-fixed-term-labor-track",
+   "term": "Fixed-term labor track",
+   "patterns": [
+    "i:fixed-term (?:hard )?labor(?: track| sentence)?"
+   ],
+   "glossaryHeading": "Fixed-term labor track"
+  },
+  {
+   "id": "g-flag-burning-prosecution",
+   "term": "Flag-burning prosecution",
+   "patterns": [
+    "i:flag-burning prosecutions?",
+    "i:flag burning"
+   ]
+  },
+  {
+   "id": "g-flat-tax",
+   "term": "Flat tax",
+   "patterns": [
+    "i:flat tax",
+    "i:flat-tax"
+   ]
+  },
+  {
+   "id": "g-flood-insurance-cap",
+   "term": "Flood-insurance cap",
+   "patterns": [
+    "i:flood-insurance cap",
+    "i:cap on flood-insurance increases"
+   ]
+  },
+  {
+   "id": "g-floor-minimal-welfare-floor",
+   "term": "Floor (minimal welfare floor)",
+   "patterns": [
+    "i:minimal (?:welfare )?floor",
+    "i:earnings-only floor",
+    "i:tax-funded floor",
+    "i:bare-minimum safety floor",
+    "i:minimal floor for basic needs",
+    "i:(?<!wage )(?<!constitutional )(?<!fixed )(?<!levy )(?<!no )(?<!not a )(?<!is a )(?<!grant that a )(?<!less than that )(?<!less than the )(?<!abolish the )floor(?! of any size)"
+   ],
+   "note": "'floor' in the welfare/safety-floor sense; never wage floor (minimum wage), constitutional floor, fixed floor of fines, levy floor, K-12 'not a floor', building floors"
+  },
+  {
+   "id": "g-ford-v-wainwright-1986",
+   "term": "Ford v. Wainwright (1986)",
+   "patterns": [
+    "Ford v\\. Wainwright"
+   ]
+  },
+  {
+   "id": "g-forfeiture-rights-forfeiture",
+   "term": "Forfeiture (rights forfeiture)",
+   "patterns": [
+    "i:(?<!civil |asset |one-time |citizenship |sanctuary )forfeit(?:ure|ures|s|ed)?(?! (?:those|their) property protections| ordinary property| it\\b| U\\.S\\. citizenship| citizenship| holdings| to pay| is one-time| would be one-time|: (?:The Sanctuary Levy|Sanctuary Plan)| assets| property)(?<!(?:follows? from|rest on|That) forfeiture)",
+    {
+     "re": "i:forfeit(?:ure|ures|s|ed)?",
+     "sections": [
+      "Laws of War"
+     ]
+    }
+   ],
+   "skipSections": [
+    "Civil Asset Forfeiture",
+    "Due Process and Rule of Law",
+    "Removal of Non-Citizen Residents and Loss of Citizenship",
+    "United Kingdom"
+   ],
+   "note": "rights forfeiture; not asset/civil forfeiture (-> Civil asset forfeiture), Sanctuary wording (-> Sanctuary forfeiture), or citizenship forfeiture (undecidable, left unwrapped)",
+   "glossaryHeading": "Rights forfeiture"
+  },
+  {
+   "id": "g-free-market-environmentalism",
+   "term": "Free-market environmentalism",
+   "patterns": [
+    "i:free-market environmentalis[mt]s?"
+   ]
+  },
+  {
+   "id": "g-free-speech-near-absolutism",
+   "term": "Free-speech near-absolutism",
+   "patterns": [
+    "i:free-speech near-absolutis[mt]s?",
+    "i:near-absolutist on speech"
+   ]
+  },
+  {
+   "id": "g-friedmanite",
+   "term": "Friedmanite",
+   "patterns": [
+    "Friedmanite"
+   ]
+  },
+  {
+   "id": "g-full-expensing",
+   "term": "Full expensing",
+   "patterns": [
+    "i:full expensing"
+   ]
+  },
+  {
+   "id": "g-full-retirement-age",
+   "term": "Full retirement age",
+   "patterns": [
+    "i:full retirement age"
+   ]
+  },
+  {
+   "id": "g-fusionism",
+   "term": "Fusionism",
+   "patterns": [
+    "i:fusionism"
+   ]
+  },
+  {
+   "id": "g-gain-of-function-research",
+   "term": "Gain-of-function research",
+   "patterns": [
+    "i:gain-of-function research",
+    "i:gain-of-function"
+   ]
+  },
+  {
+   "id": "g-gender-critical",
+   "term": "Gender-critical",
+   "patterns": [
+    "i:gender-critical"
+   ]
+  },
+  {
+   "id": "g-gene-drives",
+   "term": "Gene drives",
+   "patterns": [
+    "i:gene drives?",
+    "i:gene-drive methods"
+   ]
+  },
+  {
+   "id": "g-geneva-iv-art-49",
+   "term": "Geneva IV Art. 49",
+   "patterns": [
+    "Geneva IV Art\\. 49",
+    "Article 49 of the Fourth Geneva Convention"
+   ]
+  },
+  {
+   "id": "g-geneva-limits-on-pow-labor",
+   "term": "Geneva limits on POW labor",
+   "patterns": [
+    "Geneva[’']s limits(?: on POW labor)?"
+   ]
+  },
+  {
+   "id": "g-gifted-tracks",
+   "term": "Gifted tracks",
+   "patterns": [
+    "i:gifted tracks?",
+    "i:gifted programs"
+   ]
+  },
+  {
+   "id": "g-gold-card",
+   "term": "Gold Card",
+   "patterns": [
+    "Gold Card"
+   ]
+  },
+  {
+   "id": "g-gold-standard",
+   "term": "Gold standard",
+   "patterns": [
+    "i:gold standard"
+   ]
+  },
+  {
+   "id": "g-gop",
+   "term": "GOP",
+   "patterns": [
+    "GOP"
+   ]
+  },
+  {
+   "id": "g-grave-tier",
+   "term": "Grave tier",
+   "patterns": [
+    "i:grave(?= tier| abuse| cruelty|: three marks| / one-or-two)"
+   ],
+   "glossaryHeading": "Grave tier"
+  },
+  {
+   "id": "g-green-card",
+   "term": "Green card",
+   "patterns": [
+    "i:green cards?",
+    "i:green-card"
+   ]
+  },
+  {
+   "id": "g-greenland-agreement",
+   "term": "Greenland agreement",
+   "patterns": [
+    "i:Greenland agreement",
+    "i:Greenland deal"
+   ],
+   "note": "bare 'Greenland' never matched"
+  },
+  {
+   "id": "g-greens-libertarian-and-constitution-parties",
+   "term": "Greens, Libertarian, and Constitution parties",
+   "patterns": [
+    "Libertarian and Constitution parties",
+    "Constitution Party",
+    "Libertarian Party",
+    "Green Party",
+    {
+     "re": "Greens(?!/EFA)",
+     "pages": [
+      "11.-modern-political-parties"
+     ],
+     "notSections": [
+      "Germany",
+      "Switzerland",
+      "European Union"
+     ]
+    },
+    {
+     "re": "Libertarians?",
+     "pages": [
+      "11.-modern-political-parties"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "g-hard-drugs",
+   "term": "Hard drugs",
+   "patterns": [
+    "i:hard drugs",
+    "i:hard-drug"
+   ]
+  },
+  {
+   "id": "g-hard-entry-ban",
+   "term": "Hard entry ban",
+   "patterns": [
+    "i:hard entry bans?",
+    "i:complete entry ban"
+   ]
+  },
+  {
+   "id": "g-harm-based-limits-greenhouse-gases",
+   "term": "Harm-based limits (greenhouse gases)",
+   "patterns": [
+    "i:harm-based (?:greenhouse-gas )?limits"
+   ]
+  },
+  {
+   "id": "g-hecklers-veto",
+   "term": "Heckler's veto",
+   "patterns": [
+    "i:heckler[’']s veto"
+   ]
+  },
+  {
+   "id": "g-herbivorization",
+   "term": "Herbivorization",
+   "patterns": [
+    "i:herbivoriz(?:ation|e|ed)"
+   ]
+  },
+  {
+   "id": "g-hereditarian-research",
+   "term": "Hereditarian research",
+   "patterns": [
+    "i:hereditarian(?: research)?"
+   ]
+  },
+  {
+   "id": "g-horse-soring-bear-baiting-angling-grazing",
+   "term": "Horse soring, bear baiting, angling, grazing",
+   "patterns": [
+    "i:horse soring",
+    "i:bear baiting"
+   ]
+  },
+  {
+   "id": "g-hostile-conduct-loss-of-civilian-protection",
+   "term": "Hostile conduct (loss of civilian protection)",
+   "patterns": [
+    "i:hostile (?:by )?conduct",
+    "i:found hostile",
+    "i:hostile acts"
+   ]
+  },
+  {
+   "id": "g-icc-and-rome-statute",
+   "term": "ICC and Rome Statute",
+   "patterns": [
+    "ICC",
+    "Rome Statute"
+   ]
+  },
+  {
+   "id": "g-iccpr",
+   "term": "ICCPR",
+   "patterns": [
+    "ICCPR"
+   ]
+  },
+  {
+   "id": "g-ice",
+   "term": "ICE",
+   "patterns": [
+    "ICE"
+   ]
+  },
+  {
+   "id": "g-in-short",
+   "term": "In short",
+   "patterns": [
+    "In short"
+   ]
+  },
+  {
+   "id": "g-incapacitation",
+   "term": "Incapacitation",
+   "patterns": [
+    "i:incapacitation"
+   ]
+  },
+  {
+   "id": "g-index-account",
+   "term": "Index account",
+   "patterns": [
+    "i:(?:private )?index accounts?"
+   ]
+  },
+  {
+   "id": "g-infestation",
+   "term": "Infestation",
+   "patterns": [
+    "i:infestations?"
+   ],
+   "glossaryHeading": "Infestation (pest)"
+  },
+  {
+   "id": "g-interventionism-foreign-policy",
+   "term": "Interventionism (foreign policy)",
+   "patterns": [
+    "i:interventionism"
+   ]
+  },
+  {
+   "id": "g-investor-visas",
+   "term": "Investor visas",
+   "patterns": [
+    "i:investor visas?"
+   ]
+  },
+  {
+   "id": "g-ipcc-and-fao",
+   "term": "IPCC and FAO",
+   "patterns": [
+    "IPCC",
+    "FAO"
+   ]
+  },
+  {
+   "id": "g-islam-as-an-excluded-ideology",
+   "term": "Islam (as an excluded ideology)",
+   "patterns": [
+    "i:Islam is a political ideology",
+    "Islam"
+   ]
+  },
+  {
+   "id": "g-ivf-crispr-and-embryo-screening",
+   "term": "IVF, CRISPR, and embryo screening",
+   "patterns": [
+    "IVF",
+    "CRISPR",
+    "i:embryo screening"
+   ]
+  },
+  {
+   "id": "g-jacksonian",
+   "term": "Jacksonian",
+   "patterns": [
+    "Jacksonian(?:-style)?"
+   ]
+  },
+  {
+   "id": "g-jones-act",
+   "term": "Jones Act",
+   "patterns": [
+    "Jones Act"
+   ]
+  },
+  {
+   "id": "g-jury-nullification",
+   "term": "Jury nullification",
+   "patterns": [
+    "i:jury nullification"
+   ]
+  },
+  {
+   "id": "g-k-12",
+   "term": "K-12",
+   "patterns": [
+    "K-12"
+   ]
+  },
+  {
+   "id": "g-kantian-dignity",
+   "term": "Kantian dignity",
+   "patterns": [
+    "i:Kantian dignity"
+   ]
+  },
+  {
+   "id": "g-kennedy-v-louisiana-2008",
+   "term": "Kennedy v. Louisiana (2008)",
+   "patterns": [
+    "Kennedy v\\. Louisiana"
+   ]
+  },
+  {
+   "id": "g-last-resort-allowance",
+   "term": "Last-resort allowance",
+   "patterns": [
+    "i:last-resort allowance"
+   ],
+   "glossaryHeading": "Last-resort allowance"
+  },
+  {
+   "id": "g-law-firm-orders-and-the-comey-firing",
+   "term": "Law-firm orders and the Comey firing",
+   "patterns": [
+    "i:law-firm orders",
+    "i:orders against law firms",
+    "i:firing of (?:prosecutor )?Maurene Comey"
+   ],
+   "note": "Comey only as 'Maurene Comey' firing; never James Comey"
+  },
+  {
+   "id": "g-legislative-prescriptive-anti-realism",
+   "term": "Legislative (prescriptive) anti-realism",
+   "patterns": [
+    "i:legislative (?:\\(prescriptive\\) )?anti-realism"
+   ]
+  },
+  {
+   "id": "g-liberal-counter-jihad",
+   "term": "Liberal counter-jihad",
+   "patterns": [
+    "i:liberal counter-jihad"
+   ]
+  },
+  {
+   "id": "g-liberal-eugenics",
+   "term": "Liberal eugenics",
+   "patterns": [
+    "i:liberal eugenics"
+   ]
+  },
+  {
+   "id": "g-libertarian-paternalism",
+   "term": "Libertarian paternalism",
+   "patterns": [
+    "i:libertarian paternalis[mt]s?",
+    "i:libertarian-paternalist"
+   ]
+  },
+  {
+   "id": "g-libertarianism",
+   "term": "Libertarianism",
+   "patterns": [
+    "i:libertarianism"
+   ]
+  },
+  {
+   "id": "g-licensing-occupational",
+   "term": "Licensing (occupational)",
+   "patterns": [
+    "i:occupational licensing",
+    "Licensing(?= ought to exist only)",
+    "i:licensing boards"
+   ]
+  },
+  {
+   "id": "g-life-with-labor",
+   "term": "Life with labor",
+   "patterns": [
+    "i:life with labor"
+   ]
+  },
+  {
+   "id": "g-limited-democracy",
+   "term": "Limited democracy",
+   "patterns": [
+    "i:limited democracy"
+   ]
+  },
+  {
+   "id": "g-maga",
+   "term": "MAGA",
+   "patterns": [
+    "MAGA"
+   ]
+  },
+  {
+   "id": "g-mandated-choice-and-presumed-consent",
+   "term": "Mandated choice and presumed consent",
+   "patterns": [
+    "i:mandated choice",
+    "i:presumed consent"
+   ]
+  },
+  {
+   "id": "g-mark",
+   "term": "Mark",
+   "patterns": [
+    "i:(?<!to )marks?(?! J\\.| Perry|ed| Rutte| year one| of their| a place)"
+   ],
+   "note": "penal-count sense; never 'Mark Perry', 'Mark J. Perry', 'to mark it'",
+   "glossaryHeading": "Mark"
+  },
+  {
+   "id": "g-market-pronatalism",
+   "term": "Market pronatalism",
+   "patterns": [
+    "i:market pronatalis[mt]s?",
+    "i:pronatalis[mt]s?"
+   ]
+  },
+  {
+   "id": "g-medicaid-work-requirement-grace-period",
+   "term": "Medicaid work-requirement grace period",
+   "patterns": [
+    "i:Medicaid (?:work-requirement )?grace period"
+   ]
+  },
+  {
+   "id": "g-medicaid-medicare-social-security",
+   "term": "Medicaid, Medicare, Social Security",
+   "patterns": [
+    "Social Security",
+    "i:non-emergency Medicaid",
+    "Medicaid",
+    "Medicare"
+   ]
+  },
+  {
+   "id": "g-meritocracy",
+   "term": "Meritocracy",
+   "patterns": [
+    "i:meritocracy"
+   ]
+  },
+  {
+   "id": "g-metaethics",
+   "term": "Metaethics",
+   "patterns": [
+    "i:meta-?ethics",
+    "i:metaethical"
+   ]
+  },
+  {
+   "id": "g-militant-democracy",
+   "term": "Militant democracy",
+   "patterns": [
+    "i:militant democracy"
+   ]
+  },
+  {
+   "id": "g-miller-v-alabama-2012",
+   "term": "Miller v. Alabama (2012)",
+   "patterns": [
+    "Miller v\\. Alabama"
+   ]
+  },
+  {
+   "id": "g-minarchism",
+   "term": "Minarchism",
+   "patterns": [
+    "i:minarchis[mt]s?"
+   ]
+  },
+  {
+   "id": "g-minimum-wage",
+   "term": "Minimum wage",
+   "patterns": [
+    "i:minimum wages?"
+   ]
+  },
+  {
+   "id": "g-mixed-constitution",
+   "term": "Mixed constitution",
+   "patterns": [
+    "i:mixed constitution"
+   ]
+  },
+  {
+   "id": "g-money-bail-and-pretrial-release",
+   "term": "Money bail and pretrial release",
+   "patterns": [
+    "i:money bail",
+    "i:pretrial release"
+   ]
+  },
+  {
+   "id": "g-moral-anti-realism",
+   "term": "Moral anti-realism",
+   "patterns": [
+    "i:moral anti-realism",
+    "i:anti-realis[mt]s?"
+   ],
+   "glossaryHeading": "Moral anti-realism"
+  },
+  {
+   "id": "g-moral-realism",
+   "term": "Moral realism",
+   "patterns": [
+    "i:moral realism",
+    "i:moral realists?",
+    {
+     "re": "i:realis[mt]s?",
+     "pages": [
+      "1.-ethical-and-philosophical-framework"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "g-mosque-cap",
+   "term": "Mosque cap",
+   "patterns": [
+    "i:mosque cap",
+    "i:existing mosques should be capped",
+    "i:no new mosques"
+   ]
+  },
+  {
+   "id": "g-mothers-exemption",
+   "term": "Mothers' exemption",
+   "patterns": [
+    "i:mothers[’'] (?:income-tax )?exemption",
+    "i:income-tax exemptions? for mothers"
+   ]
+  },
+  {
+   "id": "g-mugler-v-kansas-1887",
+   "term": "Mugler v. Kansas (1887)",
+   "patterns": [
+    "Mugler v\\. Kansas"
+   ]
+  },
+  {
+   "id": "g-named-exception-former-wording",
+   "term": "Named exception (former wording)",
+   "patterns": []
+  },
+  {
+   "id": "g-nation-building",
+   "term": "Nation-building",
+   "patterns": [
+    "i:nation-building"
+   ]
+  },
+  {
+   "id": "g-national-conservatism",
+   "term": "National conservatism",
+   "patterns": [
+    "i:national conservatis[mt]s?"
+   ]
+  },
+  {
+   "id": "g-national-initiative",
+   "term": "National initiative",
+   "patterns": [
+    "i:national initiative"
+   ]
+  },
+  {
+   "id": "g-nato",
+   "term": "NATO",
+   "patterns": [
+    "NATO"
+   ]
+  },
+  {
+   "id": "g-nazism-and-communism",
+   "term": "Nazism and communism",
+   "patterns": [
+    "Nazism",
+    "[Cc]ommunism",
+    "[Cc]ommunists?"
+   ]
+  },
+  {
+   "id": "g-negative-rights",
+   "term": "Negative rights",
+   "patterns": [
+    "i:negative rights",
+    "i:negative-rights"
+   ],
+   "glossaryHeading": "Negative rights"
+  },
+  {
+   "id": "g-negative-utilitarianism",
+   "term": "Negative utilitarianism",
+   "patterns": [
+    "i:negative utilitarian(?:ism|s)?",
+    "i:negative-utilitarian"
+   ]
+  },
+  {
+   "id": "g-neh",
+   "term": "NEH",
+   "patterns": [
+    "NEH",
+    "National Endowment for the Humanities"
+   ]
+  },
+  {
+   "id": "g-neoconservatism",
+   "term": "Neoconservatism",
+   "patterns": [
+    "i:neoconservati(?:sm|ves?)"
+   ]
+  },
+  {
+   "id": "g-net-taxpayer-franchise-net-fiscal-voting-bar",
+   "term": "Net-taxpayer franchise (net fiscal voting bar)",
+   "patterns": [
+    "i:net-taxpayer (?:franchise|test|rule)",
+    "i:net fiscal voting bar",
+    "i:net taxpayers?"
+   ],
+   "glossaryHeading": "Net fiscal voting bar"
+  },
+  {
+   "id": "g-ngo-grants",
+   "term": "NGO grants",
+   "patterns": [
+    "i:NGO grants"
+   ]
+  },
+  {
+   "id": "g-nih-womens-health-division",
+   "term": "NIH women's health division",
+   "patterns": [
+    "i:women[’']s-health NIH division",
+    "i:NIH women[’']s health division"
+   ]
+  },
+  {
+   "id": "g-nit-negative-income-tax",
+   "term": "NIT (negative income tax)",
+   "patterns": [
+    "i:negative income tax"
+   ]
+  },
+  {
+   "id": "g-normative-ethics",
+   "term": "Normative ethics",
+   "patterns": [
+    "i:normative ethics"
+   ]
+  },
+  {
+   "id": "g-nuremberg-code",
+   "term": "Nuremberg Code",
+   "patterns": [
+    "Nuremberg Code"
+   ]
+  },
+  {
+   "id": "g-office-bar-authority-roles",
+   "term": "Office bar (authority roles)",
+   "patterns": [
+    "i:office bars?",
+    "i:sworn authority roles?"
+   ],
+   "glossaryHeading": "Office bar (authority roles)"
+  },
+  {
+   "id": "g-opt-in-fiscal-voluntarism",
+   "term": "Opt-in (fiscal voluntarism)",
+   "patterns": [
+    "i:fiscal voluntarism",
+    "i:consent-based fiscal voluntarism",
+    "i:opt-in (?:social programs|funding|subsidies)",
+    "i:drawn only from taxpayers who opt in",
+    {
+     "re": "i:(?<!parental )(?<!parental-consent )(?<!data should be )(?<!data rules should be )(?<!trading should be )(?<!credit should be )(?<!sales should always be )(?<!data rules, and )(?<!vaccination )(?<!vaccination stays )(?<!should only be )(?<!under )(?<!gap that )(?<!than )(?<!always )opt-in(?! consent| rehab| mechanisms| privacy)",
+     "notSections": [
+      "Privacy Rights",
+      "Surveillance State",
+      "Surveillance and Digital Technology",
+      "Brain-Computer Interfaces and Neurodata",
+      "Pandemics and Biosecurity",
+      "Organ Donation",
+      "Minors and Social Media"
+     ]
+    },
+    "i:opt-in(?= funding)"
+   ],
+   "note": "fiscal sense; not parental, data/privacy, facial-recognition, social-credit, organ-donation, vaccine, retirement-enrollment or rehab opt-in"
+  },
+  {
+   "id": "g-organ-use-from-condemned-offenders",
+   "term": "Organ use from condemned offenders",
+   "patterns": [
+    "i:organ use from condemned offenders",
+    "i:organ use"
+   ]
+  },
+  {
+   "id": "g-originmain-commit-hashes-byte-identical",
+   "term": "origin/main, commit hashes, byte-identical",
+   "patterns": [
+    "origin/main",
+    "i:byte-identical"
+   ]
+  },
+  {
+   "id": "g-paid-leave-mandate",
+   "term": "Paid-leave mandate",
+   "patterns": [
+    "i:paid-leave mandates?"
+   ]
+  },
+  {
+   "id": "g-pap-and-ldp",
+   "term": "PAP and LDP",
+   "patterns": [
+    "PAP",
+    "LDP"
+   ]
+  },
+  {
+   "id": "g-patriots-ecr-esn",
+   "term": "Patriots, ECR, ESN",
+   "patterns": [
+    "Patriots/ECR/ESN",
+    "Patriots for Europe"
+   ]
+  },
+  {
+   "id": "g-pattern-recognition-pattern-realism",
+   "term": "Pattern recognition (pattern realism)",
+   "patterns": [
+    "i:pattern recognition",
+    "i:pattern realism"
+   ],
+   "note": "only these exact phrases; not 'pattern' alone"
+  },
+  {
+   "id": "g-penal-maximalism",
+   "term": "Penal maximalism",
+   "patterns": [
+    "i:penal maximalism",
+    "i:maximal(?:, forfeiture-based)? penal code"
+   ]
+  },
+  {
+   "id": "g-phenomenal-consciousness-first-order-sentience",
+   "term": "Phenomenal consciousness (first-order sentience)",
+   "patterns": [
+    "i:phenomenal consciousness",
+    "i:first-order (?:phenomenal consciousness|sentience|subjective experience)"
+   ]
+  },
+  {
+   "id": "g-police-profiling",
+   "term": "Police profiling",
+   "patterns": [
+    "i:police profiling",
+    "i:profiling by police"
+   ]
+  },
+  {
+   "id": "g-polity-politeia",
+   "term": "Polity (politeia)",
+   "patterns": [
+    "i:Aristotle[’']s polity",
+    "i:Aristotelian polity",
+    "i:politeia"
+   ]
+  },
+  {
+   "id": "g-positive-rights",
+   "term": "Positive rights",
+   "patterns": [
+    "i:positive rights"
+   ]
+  },
+  {
+   "id": "g-pow",
+   "term": "POW",
+   "patterns": [
+    "POWs?"
+   ]
+  },
+  {
+   "id": "g-precautionary-tier",
+   "term": "Precautionary tier",
+   "patterns": [
+    "i:precautionary tier"
+   ]
+  },
+  {
+   "id": "g-prescriptivism-universal",
+   "term": "Prescriptivism (universal)",
+   "patterns": [
+    "i:(?:universal )?prescriptivism",
+    "i:prescriptivist"
+   ]
+  },
+  {
+   "id": "g-preventive-force",
+   "term": "Preventive force",
+   "patterns": [
+    "i:preventive force"
+   ]
+  },
+  {
+   "id": "g-price-stability-rule",
+   "term": "Price-stability rule",
+   "patterns": [
+    "i:price-stability rule",
+    "i:rule-based money"
+   ]
+  },
+  {
+   "id": "g-private-vice",
+   "term": "Private vice",
+   "patterns": [
+    "i:private vice",
+    "i:legalizing vice"
+   ]
+  },
+  {
+   "id": "g-procreative-liberty",
+   "term": "Procreative liberty",
+   "patterns": [
+    "i:procreative[- ]liberty"
+   ]
+  },
+  {
+   "id": "g-prop-12-california",
+   "term": "Prop 12 (California)",
+   "patterns": [
+    "Prop(?:osition)? 12"
+   ]
+  },
+  {
+   "id": "g-prop-209-bleemer-study",
+   "term": "Prop 209 (Bleemer study)",
+   "patterns": [
+    "Prop(?:osition)? 209"
+   ]
+  },
+  {
+   "id": "g-property-exceptions-two",
+   "term": "Property exceptions (two)",
+   "patterns": [
+    "i:two property exceptions",
+    "i:property exceptions?"
+   ]
+  },
+  {
+   "id": "g-prophylaxis",
+   "term": "Prophylaxis",
+   "patterns": [
+    "i:prophylaxis"
+   ],
+   "note": "exact word only"
+  },
+  {
+   "id": "g-psychedelic-therapy",
+   "term": "Psychedelic therapy",
+   "patterns": [
+    "i:psychedelic therapy"
+   ]
+  },
+  {
+   "id": "g-punitive-civil-libertarian",
+   "term": "Punitive civil libertarian",
+   "patterns": [
+    "i:punitive civil libertarian"
+   ]
+  },
+  {
+   "id": "g-qa",
+   "term": "Q&A",
+   "patterns": [
+    "Q&A"
+   ]
+  },
+  {
+   "id": "g-qualified-franchise",
+   "term": "Qualified franchise",
+   "patterns": [
+    "i:qualified[- ]franchise"
+   ]
+  },
+  {
+   "id": "g-qualified-immunity",
+   "term": "Qualified immunity",
+   "patterns": [
+    "i:qualified immunity"
+   ]
+  },
+  {
+   "id": "g-queerness-argument",
+   "term": "Queerness argument",
+   "patterns": [
+    "i:queerness argument",
+    "i:argument from queerness"
+   ]
+  },
+  {
+   "id": "g-questionable-compatibility-list",
+   "term": "Questionable Compatibility list",
+   "patterns": [
+    "i:Questionable Compatibility list"
+   ]
+  },
+  {
+   "id": "g-race-realism",
+   "term": "Race realism",
+   "patterns": [
+    "i:race realism",
+    "i:race-realist"
+   ]
+  },
+  {
+   "id": "g-ranked-choice-voting",
+   "term": "Ranked-choice voting",
+   "patterns": [
+    "i:ranked-choice voting",
+    "i:ranked choice"
+   ]
+  },
+  {
+   "id": "g-rape-and-life-of-mother-exceptions",
+   "term": "Rape and life-of-mother exceptions",
+   "patterns": [
+    "i:rape and life-of-mother exceptions"
+   ]
+  },
+  {
+   "id": "g-realism-foreign-policy",
+   "term": "Realism (foreign policy)",
+   "patterns": [
+    "i:America First realism",
+    "i:hawkish realism",
+    "i:foreign-policy realism",
+    {
+     "re": "i:realis[mt]s?",
+     "pages": [
+      "8.-foreign-policy--and--international-relations",
+      "start-here",
+      "worldview"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "g-rebuttable-presumption",
+   "term": "Rebuttable presumption",
+   "patterns": [
+    "i:rebuttable presumption",
+    "i:Muslim admission presumption"
+   ],
+   "glossaryHeading": "Rebuttable presumption (immigration)"
+  },
+  {
+   "id": "g-red-flag-laws",
+   "term": "Red-flag laws",
+   "patterns": [
+    "i:red-flag laws?"
+   ]
+  },
+  {
+   "id": "g-regime-change",
+   "term": "Regime change",
+   "patterns": [
+    "i:regime change"
+   ]
+  },
+  {
+   "id": "g-regulatory-takings",
+   "term": "Regulatory takings",
+   "patterns": [
+    "i:regulatory takings?",
+    "i:(?<=treated as )takings"
+   ]
+  },
+  {
+   "id": "g-relativism",
+   "term": "Relativism",
+   "patterns": [
+    "i:moral relativis[mt]s?",
+    "i:relativism"
+   ]
+  },
+  {
+   "id": "g-reparations",
+   "term": "Reparations",
+   "patterns": [
+    "i:(?<!war )reparations"
+   ],
+   "note": "never 'war reparations' (Iran news); the entry is about reparations for historical injustice"
+  },
+  {
+   "id": "g-reproductive-cloning-and-research-cloning",
+   "term": "Reproductive cloning and research cloning",
+   "patterns": [
+    "i:reproductive (?:human )?cloning",
+    "i:research cloning",
+    "i:cloning"
+   ]
+  },
+  {
+   "id": "g-restore-britain-and-reform-uk",
+   "term": "Restore Britain and Reform UK",
+   "patterns": [
+    "Restore Britain",
+    "Reform UK"
+   ]
+  },
+  {
+   "id": "g-restrictionism",
+   "term": "Restrictionism",
+   "patterns": [
+    "i:restrictionis[mt]s?"
+   ]
+  },
+  {
+   "id": "g-retributivism",
+   "term": "Retributivism",
+   "patterns": [
+    "i:retributivis[mt]s?"
+   ]
+  },
+  {
+   "id": "g-ritual-slaughter",
+   "term": "Ritual slaughter",
+   "patterns": [
+    "i:ritual slaughter"
+   ]
+  },
+  {
+   "id": "g-roper-v-simmons-2005",
+   "term": "Roper v. Simmons (2005)",
+   "patterns": [
+    "Roper v\\. Simmons"
+   ]
+  },
+  {
+   "id": "g-russia-sanctions-waiver",
+   "term": "Russia sanctions waiver",
+   "patterns": [
+    "i:Russia sanctions waiver"
+   ]
+  },
+  {
+   "id": "g-s11-scorecard",
+   "term": "S11 scorecard",
+   "patterns": [
+    "S11 scorecard",
+    "i:(?<!franchise )scorecard"
+   ]
+  },
+  {
+   "id": "g-s12-grades",
+   "term": "S12 grades",
+   "patterns": [
+    "(?<=Grade:\\s{1,3})(?:Directionally aligned|Directionally opposed|Aligned|Mixed|Opposed)",
+    "(?<=[Gg]raded\\s{1,3})(?:Directionally aligned|Directionally opposed|Aligned|Mixed|Opposed)",
+    "(?<=^\\s*)(?:Directionally aligned|Directionally opposed|Aligned|Mixed|Opposed)(?=(?: \\(details differ\\))?\\s*$)",
+    "(?:Directionally aligned|Directionally opposed|Aligned|Mixed|Opposed)(?=(?: \\(details differ\\))?: \\d)",
+    "i:S12 grades"
+   ]
+  },
+  {
+   "id": "g-safe-third-country",
+   "term": "Safe third country",
+   "patterns": [
+    "i:safe third country"
+   ]
+  },
+  {
+   "id": "g-sanctuary-cities",
+   "term": "Sanctuary cities",
+   "patterns": [
+    "i:sanctuary cities",
+    "i:sanctuary city",
+    "i:sanctuary jurisdictions?",
+    "(?<=abolish )sanctuary policies",
+    "Sanctuary(?= policies place)",
+    "i:sanctuary(?= rights briefing| model in practice| that obstructs)"
+   ],
+   "note": "immigration sense only"
+  },
+  {
+   "id": "g-sanctuary-forfeiture",
+   "term": "Sanctuary forfeiture",
+   "patterns": [
+    "i:sanctuary forfeiture",
+    "i:forfeited (?:those|their) property protections",
+    "i:one-time forfeiture",
+    "i:(?<=the owners )forfeited it",
+    "i:(?<=follows from that )forfeiture",
+    "i:(?<=That )forfeiture(?= is one-time)",
+    "i:forfeited (?:ordinary )?property (?:protections|remedies)",
+    "i:(?<=(?:follows? from|rest on) )forfeiture(?=[:,] (?:those|animal-industry|because))",
+    "i:(?<=That )forfeiture(?= is stated)",
+    "i:(?<=Limit: the )forfeiture",
+    "Forfeiture(?=: (?:The Sanctuary Levy|Sanctuary Plan))",
+    "i:(?<=firms )forfeited those protections"
+   ]
+  },
+  {
+   "id": "g-sanctuary-levy",
+   "term": "Sanctuary Levy",
+   "patterns": [
+    "Sanctuary Levy"
+   ],
+   "glossaryHeading": "Sanctuary Levy"
+  },
+  {
+   "id": "g-sanctuary-license",
+   "term": "Sanctuary license",
+   "patterns": [
+    "i:sanctuary licen[cs]es?"
+   ],
+   "glossaryHeading": "Sanctuary license"
+  },
+  {
+   "id": "g-sanctuary-plan",
+   "term": "Sanctuary Plan",
+   "patterns": [
+    "Sanctuary Plan"
+   ]
+  },
+  {
+   "id": "g-sanctuary-system",
+   "term": "Sanctuary system",
+   "patterns": [
+    "i:sanctuary system",
+    "i:(?<!Liberation )(?<!Farm )(?<!Animal )sanctuar(?:y|ies)(?! Plan| cit(?:y|ies)| Levy| system| licen[cs]e| forfeiture| jurisdictions?| polic(?:y|ies) place| rights briefing| model in practice| that obstructs| from the law)(?<!abolish sanctuary)"
+   ],
+   "note": "animal-sanctuary sense; immigration sense goes to Sanctuary cities; 'a sanctuary from the law' (church refuge) left unwrapped"
+  },
+  {
+   "id": "g-seafood-strategy-and-rancher-support",
+   "term": "Seafood strategy and rancher support",
+   "patterns": [
+    "i:seafood strategy",
+    "i:rancher support"
+   ]
+  },
+  {
+   "id": "g-secret-ballot",
+   "term": "Secret ballot",
+   "patterns": [
+    "i:secret ballot"
+   ]
+  },
+  {
+   "id": "g-section-numbers-s1-s13",
+   "term": "Section numbers (S1-S13)",
+   "patterns": [
+    "S1[0-3]",
+    "S[1-9]",
+    "(?<=This follows )Section 1",
+    "i:section numbers"
+   ]
+  },
+  {
+   "id": "g-secularism",
+   "term": "Secularism",
+   "patterns": [
+    "i:secularism",
+    "i:secularists?"
+   ]
+  },
+  {
+   "id": "g-selective-admissions-tests",
+   "term": "Selective admissions tests",
+   "patterns": [
+    "i:selective admissions tests?"
+   ]
+  },
+  {
+   "id": "g-selective-western-imperialism",
+   "term": "Selective Western imperialism",
+   "patterns": [
+    "i:selective Western imperialism"
+   ]
+  },
+  {
+   "id": "g-self-debunking-objection",
+   "term": "Self-debunking objection",
+   "patterns": [
+    "i:self-debunking(?: objection)?"
+   ]
+  },
+  {
+   "id": "g-sentience-classes",
+   "term": "Sentience classes",
+   "patterns": [
+    "i:sentience class(?:es)?",
+    "i:high-sentience",
+    "i:class threshold"
+   ],
+   "glossaryHeading": "Sentience class"
+  },
+  {
+   "id": "g-sentientism",
+   "term": "Sentientism",
+   "patterns": [
+    "i:sentientis[mt]s?",
+    "i:sentience basis"
+   ],
+   "glossaryHeading": "Sentience basis (sentientism)"
+  },
+  {
+   "id": "g-side-constraint",
+   "term": "Side-constraint",
+   "patterns": [
+    "i:side-constraints?"
+   ]
+  },
+  {
+   "id": "g-snap",
+   "term": "SNAP",
+   "patterns": [
+    "SNAP"
+   ]
+  },
+  {
+   "id": "g-socialism-excluded",
+   "term": "Socialism (excluded)",
+   "patterns": [
+    "Socialism",
+    "socialism"
+   ],
+   "skipSections": [
+    "Socialism"
+   ],
+   "skipPages": [
+    "11.-modern-political-parties"
+   ],
+   "note": "not inside S2's Socialism section or S11, where socialism is discussed as a movement",
+   "glossaryHeading": "Socialism (excluded)"
+  },
+  {
+   "id": "g-sovereigntism",
+   "term": "Sovereigntism",
+   "patterns": [
+    "i:sovereigntis[mt]s?"
+   ]
+  },
+  {
+   "id": "g-stake-qualification",
+   "term": "Stake qualification",
+   "patterns": [
+    "i:stake qualification"
+   ]
+  },
+  {
+   "id": "g-stoicism",
+   "term": "Stoicism",
+   "patterns": [
+    "i:Stoicism",
+    "Secular Stoic",
+    "Stoics?"
+   ]
+  },
+  {
+   "id": "g-subject-of-a-life",
+   "term": "Subject-of-a-life",
+   "patterns": [
+    "i:subject-of-a-life"
+   ]
+  },
+  {
+   "id": "g-substrate-neutral",
+   "term": "Substrate-neutral",
+   "patterns": [
+    "i:substrate-neutral",
+    "i:in any substrate"
+   ]
+  },
+  {
+   "id": "g-svp",
+   "term": "SVP",
+   "patterns": [
+    "SVP"
+   ]
+  },
+  {
+   "id": "g-sweden-democrats-and-the-tido-agreement",
+   "term": "Sweden Democrats and the Tidö Agreement",
+   "patterns": [
+    "Sweden Democrats",
+    "Tidö Agreement"
+   ]
+  },
+  {
+   "id": "g-tariffs-reciprocal-and-replacement",
+   "term": "Tariffs (reciprocal and replacement)",
+   "patterns": [
+    "i:reciprocal tariffs",
+    "i:replacement tariffs",
+    "i:broad (?:baseline )?tariffs",
+    "i:tariffs?"
+   ]
+  },
+  {
+   "id": "g-techno-optimism",
+   "term": "Techno-optimism",
+   "patterns": [
+    "i:techno-optimis[mt]s?"
+   ]
+  },
+  {
+   "id": "g-term-limits",
+   "term": "Term limits",
+   "patterns": [
+    "i:term limits"
+   ]
+  },
+  {
+   "id": "g-three-mark-rule-repeat-offender-threshold",
+   "term": "Three-mark rule (repeat-offender threshold)",
+   "patterns": [
+    "i:three-mark rule",
+    "i:repeat-offender threshold"
+   ],
+   "glossaryHeading": "Repeat-offender threshold"
+  },
+  {
+   "id": "g-threshold-deontology",
+   "term": "Threshold deontology",
+   "patterns": [
+    "i:threshold (?:sentientist )?deontolog(?:y|ist)"
+   ]
+  },
+  {
+   "id": "g-timocracy",
+   "term": "Timocracy",
+   "patterns": [
+    "i:timocra(?:cy|tic)"
+   ]
+  },
+  {
+   "id": "g-top-two-primary",
+   "term": "Top-two primary",
+   "patterns": [
+    "i:top-two primar(?:y|ies)"
+   ]
+  },
+  {
+   "id": "g-transgenderism",
+   "term": "Transgenderism",
+   "patterns": [
+    "i:transgenderism"
+   ]
+  },
+  {
+   "id": "g-transhumanism",
+   "term": "Transhumanism",
+   "patterns": [
+    "i:transhumanis[mt]s?"
+   ]
+  },
+  {
+   "id": "g-transition-levy",
+   "term": "Transition levy",
+   "patterns": [
+    "i:transition levy"
+   ],
+   "glossaryHeading": "Transition levy"
+  },
+  {
+   "id": "g-transition-surcharge",
+   "term": "Transition surcharge",
+   "patterns": [
+    "i:transition surcharge"
+   ]
+  },
+  {
+   "id": "g-triumphal-arch-white-house-ballroom-oval-office-national-monument",
+   "term": "Triumphal arch, White House ballroom, Oval Office National Monument",
+   "patterns": [
+    "i:triumphal arch",
+    "i:White House ballroom",
+    "i:Oval Office National Monument"
+   ]
+  },
+  {
+   "id": "g-true-threats-and-incitement",
+   "term": "True threats and incitement",
+   "patterns": [
+    "i:true threats and incitement",
+    "i:true threats"
+   ]
+  },
+  {
+   "id": "g-two-level-view",
+   "term": "Two-level view",
+   "patterns": [
+    "i:two-level view"
+   ]
+  },
+  {
+   "id": "g-two-state-solution-and-annexation",
+   "term": "Two-state solution and annexation",
+   "patterns": [
+    "i:two-state solution"
+   ]
+  },
+  {
+   "id": "g-ubi-and-citizen-dividend",
+   "term": "UBI and citizen dividend",
+   "patterns": [
+    "UBI",
+    "i:citizen dividend"
+   ]
+  },
+  {
+   "id": "g-unanimous-jury",
+   "term": "Unanimous jury",
+   "patterns": [
+    "i:unanimous jur(?:y|ies)",
+    "i:unanimous 12-person juries",
+    "i:unanimous-jury"
+   ]
+  },
+  {
+   "id": "g-usda-ers-and-pew",
+   "term": "USDA ERS and Pew",
+   "patterns": [
+    "USDA ERS"
+   ]
+  },
+  {
+   "id": "g-utilitarianism",
+   "term": "Utilitarianism",
+   "patterns": [
+    "i:utilitarianism",
+    "i:utilitarians?"
+   ]
+  },
+  {
+   "id": "g-vaccines-opt-in",
+   "term": "Vaccines (opt-in)",
+   "patterns": [
+    "i:vaccines should be opt-in",
+    "i:vaccine mandates",
+    "i:vaccin(?:e|es|ation|ations)"
+   ]
+  },
+  {
+   "id": "g-values-based-immigration-western-values",
+   "term": "Values-based immigration (Western values)",
+   "patterns": [
+    "i:values-based immigration",
+    "i:compatibility-vetted immigration",
+    "i:values vetting"
+   ]
+  },
+  {
+   "id": "g-verified-conduct-test",
+   "term": "Verified-conduct test",
+   "patterns": [
+    "i:verified-conduct test",
+    "i:verified individual evidence of conduct and record",
+    "i:verified evidence of conduct and record",
+    "i:verified conduct and record"
+   ]
+  },
+  {
+   "id": "g-voter-license-test",
+   "term": "Voter license test",
+   "patterns": [
+    "i:voter license test",
+    "i:voter test"
+   ]
+  },
+  {
+   "id": "g-vouchers-esas-and-tax-credit-scholarships",
+   "term": "Vouchers, ESAs, and tax-credit scholarships",
+   "patterns": [
+    "i:vouchers?",
+    "i:tax-credit scholarships"
+   ],
+   "note": "'education savings accounts' goes to the ESA entry"
+  },
+  {
+   "id": "g-war-powers-resolution",
+   "term": "War Powers Resolution",
+   "patterns": [
+    "War Powers Resolution",
+    "i:war powers"
+   ]
+  },
+  {
+   "id": "g-water-rights",
+   "term": "Water rights",
+   "patterns": [
+    "i:water rights"
+   ]
+  },
+  {
+   "id": "g-welfare-voting-bar",
+   "term": "Welfare voting bar",
+   "patterns": [
+    "i:welfare voting bar"
+   ],
+   "glossaryHeading": "Welfare voting bar"
+  },
+  {
+   "id": "g-western-civilization-western-heritage",
+   "term": "Western civilization (Western heritage)",
+   "patterns": [
+    "i:Western heritage",
+    "i:Western civilization"
+   ]
+  },
+  {
+   "id": "g-who",
+   "term": "WHO",
+   "patterns": [
+    "WHO",
+    "World Health Organization"
+   ]
+  },
+  {
+   "id": "g-wild-animal-suffering",
+   "term": "Wild-animal suffering",
+   "patterns": [
+    "i:wild-animal suffering",
+    "i:wild animal suffering"
+   ]
+  },
+  {
+   "id": "g-woodson-v-north-carolina-1976",
+   "term": "Woodson v. North Carolina (1976)",
+   "patterns": [
+    "Woodson v\\. North Carolina"
+   ]
+  },
+  {
+   "id": "g-zero-bracket",
+   "term": "Zero bracket",
+   "patterns": [
+    "i:zero bracket"
+   ]
+  }
+ ]
+}

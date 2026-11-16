@@ -107,6 +107,9 @@ plugins:
   - source: "./plugins/collapsible-tables"
     enabled: true
     order: 95
+  - source: "./plugins/glossary-tooltips"
+    enabled: true
+    order: 96
   - source: "@quartz-community/ox-hugo"
     enabled: false
     order: 91
