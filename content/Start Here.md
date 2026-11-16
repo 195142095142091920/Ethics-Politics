@@ -62,9 +62,7 @@ I strongly support technological advancement and transhumanism, constrained only
 ---
 
 ## [[11. Modern Political Parties]]
-This page measures today's political parties against my framework. Each party is described from its own official platform, then compared section by section with the positions set out on this site. No party matches my framework. Each one aligns with some principles and conflicts with others, and the pattern of those overlaps says more than any party label. The United States gets the most detail. Selected foreign systems follow for contrast.
-
-I break with Republicans on animal agriculture, broad tariffs, entitlements, and private-school vouchers, but I support them over the Democrats. They line up with me on borders, DEI, sex-based policy, defense, crime and policing, guns, abortion, and energy. Democrats oppose me on immigration, crime and policing, Israel, NATO, economics, group preferences, and gender policy ([[11. Modern Political Parties#Republican Party and the MAGA Faction|Republican Party and the MAGA Faction]]; [[11. Modern Political Parties#Democratic Party|Democratic Party]]).
+No modern political party aligns with my entire system of beliefs. I choose to support the most directionally aligned party and policy, which is the Republican party. I do not align with them on animal agriculture and Christian fundamentalism. Republicans directionally align with me on immigration, DEI, sex-based policy, defense, crime and policing, guns, abortion, and energy. Democrats oppose me on immigration, crime and policing, Israel, NATO, economics, group preferences, and gender policy ([[11. Modern Political Parties#Republican Party and the MAGA Faction|Republican Party and the MAGA Faction]]; [[11. Modern Political Parties#Democratic Party|Democratic Party]]).
 
 ---
 
