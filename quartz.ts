@@ -24,6 +24,7 @@ const explorerSortFn = new Function(
     "10. bioethics, progress, & technology",
     "11. modern political parties",
     "12. current administration",
+    "current administration archive",
     "13. news commentary",
     "glossary index",
     "glossary"
