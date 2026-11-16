@@ -1,0 +1,23 @@
+{
+  "name": "glossary-tooltips",
+  "version": "0.1.0",
+  "type": "module",
+  "description": "Build-time glossary hover definitions for 414.onl (first use of each term per h2/h3 section).",
+  "main": "./index.js",
+  "exports": {
+    ".": {
+      "import": "./index.js"
+    }
+  },
+  "quartz": {
+    "name": "glossary-tooltips",
+    "displayName": "Glossary Tooltips",
+    "category": "transformer",
+    "version": "1.0.0",
+    "quartzVersion": ">=5.0.0",
+    "dependencies": [],
+    "defaultOrder": 96,
+    "defaultEnabled": true,
+    "defaultOptions": {}
+  }
+}
