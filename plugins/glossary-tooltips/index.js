@@ -421,6 +421,8 @@ const css = `
 .gt-tip strong{display:block;margin-bottom:.2rem;color:inherit}
 .gt-tip .gt-link{color:inherit;text-decoration:underline;font-weight:600;background:none}
 .gt-tip .gt-src{opacity:.8;font-size:.8rem}
+:root[saved-theme="dark"] .gt-tip{background:var(--light);color:var(--darkgray);box-shadow:inset 0 0 0 1px var(--lightgray)}
+:root[saved-theme="dark"] .gt-tip strong{color:var(--dark)}
 .gt:hover>.gt-tip,.gt:focus-within>.gt-tip,.gt.open>.gt-tip{display:block}
 .gt>.gt-tip:empty,.gt.gt-dismissed>.gt-tip{display:none!important}
 .popover .gt-tip{display:none!important}
