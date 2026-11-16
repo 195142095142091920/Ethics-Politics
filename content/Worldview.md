@@ -7,9 +7,9 @@ aliases:
 
 - a **minimal, opt-in fiscal state**;
 - a **maximal, forfeiture-based penal code**;
-- **values-based civilizational nationalism with secular anti-Islam assimilationism**;
+- **values-based civilizational nationalism with secular pro-American/Western assimilationism**;
 - **hawkish America-First realism**;
-- a **transhumanist program to abolish animal agriculture and reorder nature against predation**.
+- a **transhumanist and bioengineering program to abolish animal agriculture and reorder nature against predation**.
 
 I vote **Republican as the best directional fit**.
 
