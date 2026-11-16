@@ -116,7 +116,7 @@ Notation:
      - a last-resort allowance.
    - **Property.** S3: "once ownership is properly established, it should last," and I believe regulatory takings should be compensated.
    - **Opt-in everywhere.** I believe these should be opt-in: welfare, Social Security, Medicare, the public health plan, subsidies, data trading, facial recognition, social credit, organ donation, and vaccines.
-   - **The two property exceptions** rest on forfeiture and on the excluded-ideology rules. Since e9d1239, S3 Property Rights says: "Two cases fall outside that protection: one is barred by amendment, and in the other the owners forfeited it."
+   - **The two property exceptions** rest on forfeiture and on the excluded-ideology rules. S3 Property Rights says: "Two cases fall outside that protection: one is barred by amendment, and in the other the owners forfeited it."
      - **The sanctuary seizure:** the uncompensated conversion or liquidation of animal-industry firms, with a Sanctuary Levy of no more than 3%. S1, S3, S9, and Where I Stand now all say this follows from forfeiture: "animal-industry firms forfeited ordinary property protections by using their assets to violate animals' rights." S3 calls it "a one-time forfeiture, not a break in the property right." The link name is now "Sanctuary forfeiture." In the S9 Q&A I treat the levy separately, as "a time-limited tax to fund sanctuary care, and I accept that cost."
      - **The building bar.**
 3. **Where I depart from the standard version:**
@@ -491,20 +491,6 @@ These are brief. My site already acknowledges most of them.
   - the Mark J. Perry chart of U.S. price changes;
   - a composite chart of the Fraser tax-progressivity index.
   - My other charts come from official sources (BJS, Oregon Health Authority, USDA ERS, and Pew).
-- **Resolved by e9d1239 (8:46 PM ET): leftover "named exception" wording after the forfeiture reframe.** The previous version listed places that still called the Sanctuary Plan a "named exception" after 3922793. e9d1239 changed all of them to forfeiture:
-  - the S1 note title is now "Forfeiture: Sanctuary Plan and property";
-  - the S9 Position's bold label is now "**Forfeiture:**";
-  - the S9 In short now says "No compensation is owed because those firms forfeited their property protections by using their assets to violate animals' rights";
-  - the S9 Mugler Q&A now says the uncompensated transfers "rest on forfeiture";
-  - S3 Property Rights now says "Two cases fall outside that protection: one is barred by amendment, and in the other the owners forfeited it," and "a one-time forfeiture, not a break in the property right";
-  - S3 Civil Asset Forfeiture now says the plan "follows from forfeiture";
-  - the Where I Stand Sanctuary line now says the firms "forfeited their property protections by violating animals' rights."
-  - The link name is now "Sanctuary forfeiture." The anchor id `^sanctuary-property-exception` is unchanged, but it doesn't show to readers.
-  - A search at e9d1239 found no sanctuary "named exception" wording left.
 - **Resolved earlier tonight (3922793 and 0a7bd23, listed in earlier versions):**
   - the S12 arch, ballroom, and monument grades and the S5 monument Q&A now match my view;
   - all X and Wikipedia citations were replaced, and the Brivael Le Pogam and Palmer Luckey quotes were cut.
-
----
-
-*Draft only. No site files were changed. This is the first-person version of `/workspace/drafts/2026-11-15-readability-review/ideology-labels-report.md`, checked against origin/main e9d1239.*
