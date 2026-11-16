@@ -370,8 +370,8 @@ The Greens are closest on animals and nothing else
 - **[[11. Modern Political Parties#Green Party|Green Party]]:** I see it as the closest party to me on animal welfare.
 - **[[11. Modern Political Parties#Democratic Socialists of America and the Progressive Wing|Democratic Socialists of America and the Progressive Wing]]:** It conflicts with my positions at the foundation: on property, taxation, policing, prisons, bail, borders, the Senate, Israel, and gender policy.
 - **[[11. Modern Political Parties#Constitution Party|Constitution Party]]:** I align with it fully on borders, phasing out Social Security, and sex-based policy, and directionally on capital punishment.
-- **[[11. Modern Political Parties#Public Opinion Trends: Socialism and Islamism|Public Opinion Trends]]:** General Islamic population growth, not just conversion, is extremely dangerous to the cohesion of our nation.
-- **[[11. Modern Political Parties#Method|Method]]:** No American party matches my positions.
+- **[[11. Modern Political Parties#Public Opinion Trends: Socialism and Islamism|Public Opinion Trends]]:** General Islamic population growth, not just conversion, is extremely dangerous to the cohesion of our nation. Acceptance among youth of socialism is extremely dangerous.
+- **[[11. Modern Political Parties#Method|Conclusion]]:** No American party matches my positions fully, but the Republican party is my choice for closest directional alignment.
 
 ---
 
