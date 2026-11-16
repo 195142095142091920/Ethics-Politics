@@ -21,22 +21,7 @@ Each part below follows my site's sections. It opens with the labels that fit, t
 
 ## [[1. Ethical and Philosophical Framework]]
 
-**Labels:** I am a constructivist-prescriptivist moral anti-realist and a threshold sentientist deontologist: negative-rights side-constraints plus forfeiture. Moral status, on my view, is sentience that is substrate-neutral and graded, with equal rights above a class threshold. My epistemology is evidentialist scientific naturalism ("testable, repeatable proof"), and my personal ethics is secular Stoicism.
-
-**Related labels:** Humean constructivism plus Harean universal prescriptivism, with an expressivist element. "Prescriptive Threshold Sentientist Deontology (Negative-rights focused)," the name I give it in [[1. Ethical and Philosophical Framework|S1]]. Abolitionist animal rights, wild-animal-suffering interventionism, and predation abolitionism. Fallibilist empiricism. An agent-liability skepticism of corporate personhood.
-
-**Why:** I describe my metaethics as a hybrid: "constructivist in the Humean sense… prescriptivist in form, in the tradition of R. M. Hare… an expressive element." Rights are side-constraints, "not goals to maximize," and "I'm a threshold deontologist, not a utilitarian" ([[1. Ethical and Philosophical Framework|S1]]).
-
-**Where I depart from the standard version:**
-
-- Most anti-realists hold back from strong first-order moral confidence. I draw hard verdicts and treat enforcement as part of my system's authority. Mine is a *legislative* or *prescriptive* anti-realism, not a relativist one.
-- In standard threshold deontology, a threshold of bad *consequences* overrides the constraints (Moore). In my view the threshold is the *agent's own violation*, so mine is a forfeiture theory more than a catastrophe-threshold theory. Proportionality is applied once, at the forfeiture decision.
-- Sentientism is usually utilitarian (Singer). Mine is rights-based, and I use sentience, not Regan's "subject-of-a-life."
-- Regan denied any duty to stop predation. I believe there is one.
-- Francione-style abolitionists are nonviolent and anti-carceral. I believe animal killing belongs on the capital track.
-- I apply an empiricist standard to whether moral facts exist, which is why I am an anti-realist. I don't apply that standard to the choice of my basic prescription, which I own as a choice.
-
-**My positions:**
+I am a constructivist-prescriptivist moral anti-realist and a threshold sentientist deontologist, holding negative-rights side-constraints plus forfeiture. My metaethics is a hybrid, close to Humean constructivism plus Harean universal prescriptivism: "constructivist in the Humean sense… prescriptivist in form, in the tradition of R. M. Hare… an expressive element." I call my ethics "Prescriptive Threshold Sentientist Deontology (Negative-rights focused)": rights are side-constraints, "not goals to maximize," and "I'm a threshold deontologist, not a utilitarian" ([[1. Ethical and Philosophical Framework|S1]]). Unlike most anti-realists, I draw hard verdicts and treat enforcement as part of my system's authority, so mine is a *legislative* or *prescriptive* anti-realism, not a relativist one. Unlike standard threshold deontology, where a threshold of bad *consequences* overrides the constraints (Moore), my threshold is the *agent's own violation*, and proportionality is applied once, at the forfeiture decision. Moral status rests on sentience that is substrate-neutral and graded, with equal rights above a class threshold, which makes me an abolitionist on animal rights, a wild-animal-suffering interventionist, and a predation abolitionist. My sentientism is rights-based rather than utilitarian (Singer), uses sentience rather than Regan's "subject-of-a-life" and, against Regan, holds a duty to stop predation; unlike Francione-style abolitionists, I believe animal killing belongs on the capital track. My epistemology is evidentialist scientific naturalism ("testable, repeatable proof"), a fallibilist empiricism I apply to whether moral facts exist but not to the choice of my basic prescription, which I own as a choice. In personal ethics I am a secular Stoic, and I hold an agent-liability skepticism of corporate personhood.
 
 - **[[1. Ethical and Philosophical Framework#Meta-Ethics|Meta-Ethics]]:** I claim no objective moral truth.
 - **[[1. Ethical and Philosophical Framework#Metaphysics|Metaphysics]]:** I'm an agnostic atheist: I hold no belief in gods, but I stay open in principle to evidence.
@@ -54,17 +39,7 @@ Each part below follows my site's sections. It opens with the labels that fit, t
 
 ## [[2. Political and Social Character]]
 
-**Labels:** Values-based civilizational nationalism with secular anti-Islam assimilationism. It is civic, not ethnic. Toward the four excluded ideologies, I hold anti-totalitarian parity.
-
-**Related labels:** Civic, non-ethnic civilizational nationalism. National conservatism and fusionism, with the differences set out in the table below.
-
-**Where I depart from the standard version:**
-
-- Unlike ethnonationalists, my test is explicitly about values and open to any ancestry.
-- Unlike national conservatives, I am secular, and I define culture by values, not heritage.
-- I believe the state should officially condemn all four excluded ideologies, while praising either Nazism or communism stays legal.
-
-**My positions:**
+My nationalism is values-based civilizational nationalism with secular anti-Islam assimilationism, civic rather than ethnic. It sits near national conservatism and fusionism, with the differences set out in the table below. Unlike ethnonationalists, my test is explicitly about values and open to any ancestry, and unlike national conservatives, I am secular and define culture by values, not heritage. Toward the four excluded ideologies I hold anti-totalitarian parity: the state should officially condemn all four, while praising either Nazism or communism stays legal.
 
 - **[[2. Political and Social Character#Civilizational Nationalism|Civilizational Nationalism]]:** The country should put its own citizens first, keep strong borders, and admit immigrants who share Western values and assimilate.
 - **[[2. Political and Social Character#Western Values and Compatibility|Western Values and Compatibility]]:** To me, "Western" means a set of values, not an ethnicity or a place: rights, liberty, religious freedom with church-state separation, rule of law, civic responsibility, and opportunity. Supporting Nazism, Islam, Communism, or Socialism, and a general unwillingness to accept our laws, rights, traditions, and language, presumes an anti-western incompatibility.
@@ -83,22 +58,7 @@ Each part below follows my site's sections. It opens with the labels that fit, t
 
 ## [[3. Authority & Civil Liberties]]
 
-**Labels:** An epistocratic constitutional republic with a qualified franchise: a modern **Aristotelian polity** (politeia) or **timocracy**, close to Brennan's epistocracy. My rights theory is a negative-rights side-constraint theory with forfeiture. On civil liberties I am a procedural civil libertarian, on emergencies a sunset-clause constitutionalist, and on federalism a conventional federalist.
-
-**Related labels:** Limited democracy. Minarchist-leaning constitutionalism. A form of **militant democracy**, Karl Loewenstein's term, for the excluded-ideologies amendment. Nozickian libertarian rights with a floor justified by security. Consent-based fiscal voluntarism ("opt-in"). Libertarian paternalism, the "nudge" approach, for defaults only where a person protects themselves.
-
-**Why:** The franchise pairs a stake qualification (net taxpayers, "close to what Aristotle called timocracy") with a competence qualification (a voter license test). In [[1. Ethical and Philosophical Framework|S1]] I say: "I reject positive rights." The floor is "not a right anyone can claim" but part of the state's security role.
-
-**Where I depart from the standard version:**
-
-- Brennan's epistocracy usually comes with cosmopolitan liberalism. Mine comes with civilizational nationalism.
-- My stake test is fiscal, not about property or military service.
-- I keep Swiss-style initiatives inside an epistocracy.
-- Militant democracies such as Germany ban parties. I would ban no party and no speech. The bars reach only *sworn authority roles* and the *buildings* that promote the excluded ideologies, and I name one religion among them.
-- Strict Nozickians accept no compelled floor. I would fund one through minimal taxes.
-- I treat both property exceptions as following from my own premises: firms whose assets were used to violate animals' rights, and institutions organized to subvert the rights order. A standard libertarian would not.
-
-**My positions:**
+I want an epistocratic constitutional republic with a qualified franchise, which is a modern Aristotelian polity (politeia) or timocracy, close to Brennan's epistocracy: a limited democracy under minarchist-leaning constitutionalism. The franchise pairs a stake qualification (net taxpayers, "close to what Aristotle called timocracy") with a competence qualification (a voter license test). My stake test is fiscal, not about property or military service, and I keep Swiss-style initiatives inside an epistocracy. Brennan's epistocracy usually comes with cosmopolitan liberalism; mine comes with civilizational nationalism. The excluded-ideologies amendment is a form of militant democracy, Karl Loewenstein's term, but where militant democracies such as Germany ban parties, I would ban no party and no speech: the bars reach only *sworn authority roles* and the *buildings* that promote the excluded ideologies, and I name one religion among them. My rights theory is a negative-rights side-constraint theory with forfeiture, which means Nozickian libertarian rights with a floor justified by security, and consent-based fiscal voluntarism ("opt-in"). "I reject positive rights" ([[1. Ethical and Philosophical Framework|S1]]), so the floor is "not a right anyone can claim" but part of the state's security role; strict Nozickians accept no compelled floor, while I would fund one through minimal taxes. I treat both property exceptions as following from my own premises, which a standard libertarian would not: firms whose assets were used to violate animals' rights, and institutions organized to subvert the rights order. For defaults I use libertarian paternalism, the "nudge" approach, only where a person protects themselves. On civil liberties I am a procedural civil libertarian, on emergencies a sunset-clause constitutionalist, and on federalism a conventional federalist.
 
 - **[[3. Authority & Civil Liberties#Individual Liberty vs State Power|Individual Liberty vs State Power]]:** The government should leave people alone unless they are actively harming others or about to do so.
 - **[[3. Authority & Civil Liberties#Emergency Powers|Emergency Powers]]:** Emergency powers should be necessary, narrow, and temporary.
@@ -129,17 +89,7 @@ Each part below follows my site's sections. It opens with the labels that fit, t
 
 ## [[4. Religion & Secularism]]
 
-**Labels:** A secular agnostic atheist and strict church-state separationist, with a secular, anti-Islam assimilationism.
-
-**Related labels:** Burden-of-proof skepticism, which grounds my agnostic atheism. Militant democracy, with one religion included.
-
-**Where I depart from the standard version:**
-
-- Unlike social conservatives, I am secular and against Christian law.
-- Unlike liberal secularists, I would put civic disabilities on Islam. This is a much more forceful version of the "liberal counter-jihad" pattern.
-- I describe the disabilities as "not a penalty": I believe no one should be fined, jailed, or silenced for belief.
-
-**My positions:**
+I am a secular agnostic atheist and a strict church-state separationist, with a burden-of-proof skepticism behind the atheism. Unlike social conservatives, I am secular and against Christian law. Unlike liberal secularists, I would put civic disabilities on Islam, a much more forceful version of the "liberal counter-jihad" pattern and a militant democracy with one religion included. I describe the disabilities as "not a penalty": I believe no one should be fined, jailed, or silenced for belief.
 
 - **[[4. Religion & Secularism#Role of Religion in Government|Role of Religion in Government]]:** Religion should stay out of government, and officials should not turn scripture into law.
 - **[[4. Religion & Secularism#Oath of Office and Perjury|Oath of Office and Perjury]]:** I treat authority roles as sworn positions.
@@ -159,19 +109,7 @@ Each part below follows my site's sections. It opens with the labels that fit, t
 
 ## [[5. Domestic Policy & Governance]]
 
-**Labels:** Flat-tax, free-market classical liberalism with an opt-in welfare state and a floor modeled on a negative income tax. On family, I am a market pronatalist. On federal property, I hold bounded executive discretion within statutory limits.
-
-**Related labels:** Minarchist-leaning fiscal conservatism. Friedmanite: an NIT-style top-up and a rule-based Fed. Pronatalist family-credit conservatism. Libertarian-paternalist defaults.
-
-**Where I depart from the standard version:**
-
-- From standard conservatism: no vouchers, no broad tariffs, no protection for entitlements, no farm subsidies.
-- From libertarianism: I would keep a public K-12 guarantee, a voluntary public health plan, natalist credits, and a trigger that can raise taxes on capital under measured AI displacement.
-- From economic nationalism: I treat tariffs cautiously and prefer tax and regulatory relief to mandates.
-- My opt-in-taxpayer funding device ("subsidies only from taxpayers who choose to chip in") is close to my own invention.
-- I say plainly that fast, near-total AI displacement would force a choice beyond a "minimal" state ([[10. Bioethics, Progress, & Technology|S10]]).
-
-**My positions:**
+My economics is flat-tax, free-market classical liberalism with an opt-in welfare state and a floor modeled on a negative income tax. That is minarchist-leaning fiscal conservatism, Friedmanite in its NIT-style top-up and rule-based Fed, with pronatalist family-credit conservatism and libertarian-paternalist defaults. On family I am a market pronatalist, and on federal property I hold bounded executive discretion within statutory limits. I part from standard conservatism on vouchers, broad tariffs, entitlements, and farm subsidies, all of which I oppose. I part from libertarianism by keeping a public K-12 guarantee, a voluntary public health plan, natalist credits, and a trigger that can raise taxes on capital under measured AI displacement. I part from economic nationalism by treating tariffs cautiously and preferring tax and regulatory relief to mandates. My opt-in-taxpayer funding device ("subsidies only from taxpayers who choose to chip in") is close to my own invention, and I say plainly that fast, near-total AI displacement would force a choice beyond a "minimal" state ([[10. Bioethics, Progress, & Technology|S10]]).
 
 - **[[5. Domestic Policy & Governance#Economic System|Economic System]]:** Markets work better than the alternatives for making people richer over time.
 - **[[5. Domestic Policy & Governance#Socialism|Socialism]]:** I see socialism in its core sense, social or state ownership of the means of production and planning in place of markets, as antithetical to my framework and a terrible idea, because it seizes property, forces redistribution, compels labor and speech, and suppresses dissent.
@@ -203,18 +141,7 @@ Each part below follows my site's sections. It opens with the labels that fit, t
 
 ## [[6. Criminal Justice & Security]]
 
-**Labels:** Hard retributivism through rights forfeiture, or penal maximalism.
-
-**Related labels:** Punitive civil libertarian: a maximal penalty scale with strict procedural safeguards. Close to Singapore's and Bukele's approaches ([[11. Modern Political Parties|S11]], [[13. News Commentary|S13]]). Wellman's forfeiture theory of punishment, applied across my whole system.
-
-**Where I depart from the standard version:**
-
-- Unlike tough-on-crime conservatives, I would abolish qualified immunity and hold police to a higher liability standard, release defendants before trial by default, require unanimous 12-person juries, end civil forfeiture without conviction, and compensate the wrongly convicted.
-- I would set an "objective evidence" capital standard: video or physical proof, not testimony alone.
-- My view departs from *Roper*, *Miller*, *Woodson*, *Atkins*, *Ford*, *Coker*, and *Kennedy*.
-- My capital scope is wider than any U.S. tradition.
-
-**My positions:**
+My penal view is hard retributivism through rights forfeiture, or penal maximalism. It is a punitive civil libertarianism, with a maximal penalty scale under strict procedural safeguards, close to Singapore's and Bukele's approaches ([[11. Modern Political Parties|S11]], [[13. News Commentary|S13]]) and built on Wellman's forfeiture theory of punishment, applied across my whole system. Unlike tough-on-crime conservatives, I would abolish qualified immunity and hold police to a higher liability standard, release defendants before trial by default, require unanimous 12-person juries, end civil forfeiture without conviction, and compensate the wrongly convicted. I would set an "objective evidence" capital standard, video or physical proof rather than testimony alone, and my view departs from *Roper*, *Miller*, *Woodson*, *Atkins*, *Ford*, *Coker*, and *Kennedy*. My capital scope is wider than any U.S. tradition.
 
 - **[[6. Criminal Justice & Security#Evidentiary Standard|Evidentiary Standard]]:** Nobody should be executed unless the proof is overwhelming and backed by objective evidence such as video and physical evidence, not just testimony.
 - **[[6. Criminal Justice & Security#Murder, Rape, and the Mandatory Death Penalty|Murder, Rape, and the Mandatory Death Penalty]]:** Deliberate murder should be punished by death, and so should violent rape, child molestation, child rape, kidnapping, human trafficking, and selling or distributing hard drugs proven to the same strict standard.
@@ -249,17 +176,7 @@ Each part below follows my site's sections. It opens with the labels that fit, t
 
 ## [[7. Cultural & Social Issues]]
 
-**Labels:** Secular, gender-critical cultural traditionalist ("preference, not mandate") with classical liberal carve-outs for personal liberty. On race, individualist colorblind meritocracy with pattern realism.
-
-**Related labels:** Classical liberal-conservative fusionism on culture. Colorblind meritocrat. Free-speech near-absolutist. "Judged as an individual, by the same law." Anti-DEI equal treatment, applied in either direction.
-
-**Where I depart from the standard version:**
-
-- Unlike social conservatives, I support same-sex marriage and legalizing vice.
-- Unlike standard colorblind conservatives, I welcome research on group differences and say outright that pattern recognition is reasonable ([[#Apparent tensions and my resolutions|tension 6]]).
-- Unlike race-realist movements, I would bar private actors from deciding by group, and I make the individual the only unit of verdict.
-
-**My positions:**
+On culture I am a secular, gender-critical cultural traditionalist ("preference, not mandate") with classical liberal carve-outs for personal liberty: Classical liberal-conservative fusionism on culture, a colorblind meritocrat, and a free-speech near-absolutist. Unlike social conservatives, I support same-sex marriage and legalizing vice. On race I hold individualist colorblind meritocracy with pattern realism and anti-DEI equal treatment, applied in either direction: "Judged as an individual, by the same law." Unlike standard colorblind conservatives, I welcome research on group differences and say outright that pattern recognition is reasonable ([[#Apparent tensions and my resolutions|tension 6]]); unlike race-realist movements, I would bar private actors from deciding by group and make the individual the only unit of verdict.
 
 - **[[7. Cultural & Social Issues#Family and Gender|Family and Gender]]:** The healthiest family is close to the traditional nuclear family, and I see traditional roles as best, but nothing should be mandated.
 - **[[7. Cultural & Social Issues#Feminism and Sex Equality|Feminism and Sex Equality]]:** Both sexes hold equal rights and should be judged by the same rules.
@@ -286,19 +203,7 @@ Each part below follows my site's sections. It opens with the labels that fit, t
 
 ## [[8. Foreign Policy & International Relations]]
 
-**Labels:** America First hawkish realism with "selective Western imperialism," my own phrase, defined as defeating and containing threats without governing territory. On immigration, values-selective restrictionism, or civilizational assimilationism.
-
-**Related labels:** Jacksonian (Walter Russell Mead). Sovereigntist hawk. Interventionism that punishes threats but rejects nation-building. Compatibility-vetted immigration.
-
-**Where I depart from the standard version:**
-
-- Unlike MAGA restrainers, I am pro-Ukraine and want *more* force on Iran.
-- Unlike neoconservatives, I reject nation-building and democracy promotion.
-- Unlike classical realists, I use civilizational language, while defining hostility by conduct.
-- I am stricter on war powers than the War Powers Resolution: 30 days, versus 60 plus 30.
-- Unlike most restrictionists, my approach is religion-specific and puts cohesion above the CBO's fiscal gains. I call many Latin American families compatible.
-
-**My positions:**
+Abroad I hold America First hawkish realism with "selective Western imperialism," my own phrase, defined as defeating and containing threats without governing territory. It is Jacksonian (Walter Russell Mead): a sovereigntist hawk's interventionism that punishes threats but rejects nation-building. Unlike MAGA restrainers, I am pro-Ukraine and want *more* force on Iran; unlike neoconservatives, I reject nation-building and democracy promotion; unlike classical realists, I use civilizational language while defining hostility by conduct. I am stricter on war powers than the War Powers Resolution: 30 days, versus 60 plus 30. On immigration I am a values-selective restrictionist, or civilizational assimilationist, favoring compatibility-vetted immigration. Unlike most restrictionists, my approach is religion-specific and puts cohesion above the CBO's fiscal gains, and I call many Latin American families compatible.
 
 - **[[8. Foreign Policy & International Relations#Interventionism vs Non-Intervention|Interventionism vs Non-Intervention]]:** The U.S. should intervene where its safety is at stake, especially against Iran.
 - **[[8. Foreign Policy & International Relations#Alliances and NATO|Alliances and NATO]]:** The U.S. should join alliances only when they make the country safer and never give up its sovereignty.
@@ -333,13 +238,7 @@ Each part below follows my site's sections. It opens with the labels that fit, t
 
 ## [[9. Energy & Environment]]
 
-**Labels:** Market eco-modernism ("reliability first, no mandates, nuclear yes") plus sentientist anti-naturalism.
-
-**Related labels:** Free-market environmentalism, with polluter-pays as a rights violation. Ecomodernist. "Civilize nature."
-
-**Where I depart from the standard version:** Unlike conservative energy politics, I treat climate change as a real harm and greenhouse gases as pollution. Unlike environmentalists, I reject mandates and subsidies, and I would preserve nature only where rights are not violated.
-
-**My positions:**
+On the environment I hold market eco-modernism ("reliability first, no mandates, nuclear yes") plus sentientist anti-naturalism: free-market environmentalism, with polluter-pays as a rights violation, and an ecomodernist aim to "Civilize nature." Unlike conservative energy politics, I treat climate change as a real harm and greenhouse gases as pollution. Unlike environmentalists, I reject mandates and subsidies, and I would preserve nature only where rights are not violated.
 
 - **[[9. Energy & Environment#Climate Change|Climate Change]]:** Climate change is real and nearly all recent warming is human-caused (IPCC), but it is not apocalyptic.
 - **[[9. Energy & Environment#Adaptation and Disaster Policy|Adaptation and Disaster Policy]]:** I see climate adaptation as practical.
@@ -363,16 +262,7 @@ Each part below follows my site's sections. It opens with the labels that fit, t
 
 ## [[10. Bioethics, Progress, & Technology]]
 
-**Labels:** Sentientist transhumanist techno-optimism, plus Pearce-style abolitionism, meaning a reordering of nature against predation.
-
-**Related labels:** Defensive accelerationism on AI: pro-AI, with AI regulated as an existential risk and a defensive AGI prepared. Liberal eugenics in Agar's sense: "designer babies are fine if rights are respected after sentience," and non-coercive by design. Procreative liberty (John Robertson) on cloning.
-
-**Where I depart from the standard version:**
-
-- **Cloning.** Most bioethics positions and most national laws ban reproductive cloning, often on consent or anti-commodification grounds. I answer both: procreation never has the child's consent, and a clone is a full rights-holder, not a product. That puts me with the procreative-liberty view (John Robertson) and with the more permissive transhumanists, not with the bioconservatives (Kass) or the mainstream ban.
-- **Basis.** Most transhumanists are utilitarian or progressive-cosmopolitan, and Pearce is a negative utilitarian. I am deontological, nationalist, and forfeiture-based. I would replace animal research subjects with condemned offenders instead of seeking only non-animal methods, and I ground that choice in forfeiture, not in consequences.
-
-**My positions:**
+On technology I hold sentientist transhumanist techno-optimism, plus Pearce-style abolitionism, meaning a reordering of nature against predation. On AI that means defensive accelerationism: pro-AI, with AI regulated as an existential risk and a defensive AGI prepared. On reproduction it is liberal eugenics in Agar's sense, "designer babies are fine if rights are respected after sentience," and non-coercive by design. Most bioethics positions and most national laws ban reproductive cloning, often on consent or anti-commodification grounds; I answer both, since procreation never has the child's consent and a clone is a full rights-holder, not a product. That puts me with the procreative-liberty view (John Robertson) and the more permissive transhumanists, not with the bioconservatives (Kass) or the mainstream ban. Most transhumanists are utilitarian or progressive-cosmopolitan, and Pearce is a negative utilitarian; I am deontological, nationalist, and forfeiture-based, and I would replace animal research subjects with condemned offenders instead of seeking only non-animal methods, grounding that choice in forfeiture, not in consequences.
 
 - **[[10. Bioethics, Progress, & Technology#AI and Automation|AI and Automation]]:** I am pro-AI but treat it as a serious existential risk, so government should regulate it and prepare a defensive AGI.
 - **[[10. Bioethics, Progress, & Technology#AI Sentience Determination|AI Sentience Determination]]:** AI sentience should be decided by scientific consensus, and sentient AI should get full rights.
@@ -397,15 +287,7 @@ Each part below follows my site's sections. It opens with the labels that fit, t
 
 ## [[11. Modern Political Parties]]
 
-**Labels:** A Republican-leaning, directional (transactional) independent who backs the Trump administration overall, with stated dissents.
-
-**Related labels:** Cost-analysis Republican voter. Directionally aligned MAGA-adjacent independent.
-
-**Why:** On my [[index|homepage]], my support is "a cost analysis," given to sides that are "stringently anti-crime, anti-mass/illegal immigration, pro-assimilation, futurist, non-welfarist, and fights for traditional social values."
-
-**Where I depart from the standard version:** Mine is not a partisan identity: "No modern political party aligns with my entire system." I see the Greens as the closest party on animals and nothing else.
-
-**My positions:**
+I am a Republican-leaning, directional (transactional) independent who backs the Trump administration overall, with stated dissents: a cost-analysis Republican voter, directionally aligned and MAGA-adjacent. On my [[index|homepage]], my support is "a cost analysis," given to sides that are "stringently anti-crime, anti-mass/illegal immigration, pro-assimilation, futurist, non-welfarist, and fights for traditional social values." Mine is not a partisan identity: "No modern political party aligns with my entire system." I see the Greens as the closest party on animals and nothing else.
 
 - **[[11. Modern Political Parties#The Party Landscape|The Party Landscape]]:** Most Americans are independents, but almost all votes go to the two major parties.
 - **[[11. Modern Political Parties#Democratic Party|Democratic Party]]:** I align with it fully only on same-sex marriage and directionally on marijuana and drug reform.
@@ -421,17 +303,13 @@ Each part below follows my site's sections. It opens with the labels that fit, t
 
 ## [[12. Current Administration]]
 
-**Why the label is directional:** Of the 87 actions I grade, 52 point toward my view and 20 point away. My main dissents are on animals, tariffs, entitlements, vouchers, war-powers process, and due process.
-
-**My positions:**
+My support is directional: of the 87 actions I grade, 52 point toward my view and 20 point away. My main dissents are on animals, tariffs, entitlements, vouchers, war-powers process, and due process.
 
 - **[[12. Current Administration#Summary of Grades|Summary of Grades]]:** I grade the current administration's major actions separately against my positions.
 
 ---
 
 ## [[13. News Commentary]]
-
-**My positions:**
 
 - **[[13. News Commentary#Case: France riots, 17 October 2026|Case: France riots, 17 October 2026]]:** These riots aren't really about school funding or the cost of living.
 - **[[13. News Commentary#Case: Greenland, 2024–2026|Case: Greenland, 2024–2026]]:** Documented timeline of the U.S. push for Greenland and the September 2026 defense agreement.
