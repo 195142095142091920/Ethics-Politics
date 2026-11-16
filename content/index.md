@@ -12,4 +12,6 @@ The path we are currently treading as a nation does not inch closer to the natio
 
 Supporting parties or policies is a cost analysis. They are never perfect and will never be fully inside my worldview framework. When a side is directionally aligned on major points - such as stringently anti-crime, anti-mass/illegal immigration, pro-assimilation, futurist, non-welfarist, and fights for traditional social values - I will support them.
 
+My [[Worldview]] page is a plain-language overview of what I believe and which labels fit.
+
 Frontier LLMs have assisted in formulating and revising text, deep research, and critical hardening.

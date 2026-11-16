@@ -24,7 +24,7 @@
   },
   "byPageSlugContains": {
     "glossary": ["definition", "key term"],
-    "start-here": ["start here", "reading order"],
+    "worldview": ["overview", "my labels", "ideology"],
     "where-i-stand": ["positions summary", "scorecard"]
   }
 }
