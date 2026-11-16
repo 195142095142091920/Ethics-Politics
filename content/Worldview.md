@@ -213,7 +213,7 @@ For each topic: the main label, other labels that fit, what I believe, and where
 **What I believe:**
 - **Homepage:** my support is "a cost analysis," for sides that are "stringently anti-crime, anti-mass/illegal immigration, pro-assimilation, futurist, non-welfarist, and fights for traditional social values."
 - **Party scorecard (S11):** Republicans +9, Libertarians and Constitution Party +3, Democrats -10, Greens and DSA -13. Republicans fully agree with me on borders, DEI, sex-based policy, missile defense and alliances. They clash with me on animal farming (overriding California's Prop 12), broad tariffs, entitlements, tax carve-outs and private-school tax-credit scholarships, and I note qualified immunity as a gap. Abroad, closest are Restore Britain, then Reform UK, Switzerland's SVP, the Sweden Democrats and their governing partners, the right-wing groups in the European Parliament, and Singapore's and Japan's ruling parties on the death penalty.
-- **Administration grades (S12):** 87 actions: 18 Aligned, 34 Directionally aligned, 15 Mixed, 11 Directionally opposed, 9 Opposed. That's 52 my way and 20 against, matching Start Here. My biggest breaks are on animals and farming: 8 of that section's 15 grades are Opposed, which is 8 of the 9 Opposed overall. The ninth is prosecuting flag burning. Government structure: 3 Aligned, 4 Directionally aligned, 3 Mixed, 4 Directionally opposed, 0 Opposed.
+- **Administration grades (S12):** 87 actions: 18 Aligned, 34 Directionally aligned, 15 Mixed, 11 Directionally opposed, 9 Opposed. That's 52 my way and 20 against. My biggest breaks are on animals and farming: 8 of that section's 15 grades are Opposed, which is 8 of the 9 Opposed overall. The ninth is prosecuting flag burning. Government structure: 3 Aligned, 4 Directionally aligned, 3 Mixed, 4 Directionally opposed, 0 Opposed.
 
 **Where I differ:**
 - It's not a team identity: "No modern political party aligns with my entire system."
@@ -298,7 +298,6 @@ My site already admits most of them.
 
 ## 5. Notes on my site
 
-- **Still open:** Start Here says I break with Republicans on "animal agriculture and Christian fundamentalism," but S11 lists animal farming, broad tariffs, entitlements, tax carve-outs and private-school tax-credit scholarships. The lists don't match.
 - **Still open:** S5 still shows charts made by others:
   - Econ Chris Clarke's billionaires-vs-poverty chart (now cited to Forbes and the World Bank, but the image is his);
   - Mark J. Perry's price-change chart;
