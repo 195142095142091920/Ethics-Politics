@@ -151,6 +151,8 @@ The disabilities are "not a penalty": no one should be fined, jailed, or silence
 
 Flat-tax, free-market classical liberalism with an opt-in welfare state and a Friedmanite, NIT-style floor
 
+Sowellian on prices and disparities: markets over price controls, and outcomes explained by culture and choices, not by discrimination alone
+
 Market pronatalist; bounded executive discretion over federal property
 
 Unlike conservatives: no vouchers, broad tariffs, entitlement protection, or farm subsidies
@@ -416,6 +418,7 @@ The Greens are closest on animals and nothing else
 | **Tom Regan, Gary Francione** (animal-rights abolitionism) | Abolish animal agriculture and testing. Animals as rights-holders | Sentience, not subject-of-a-life. A duty to stop predation. Capital penalties for killing animals |
 | **David Pearce, Oscar Horta, Jeff McMahan** (abolitionist project, wild-animal suffering) | Herbivorization and reengineered ecosystems (I cite Pearce and McMahan in [[7. Cultural & Social Issues\|S7]]) | I am deontological, not negative-utilitarian. Nationalist politics, built on forfeiture |
 | **Classical liberalism / Milton Friedman** | Free markets, a flat tax, an NIT-style top-up, rule-based money | Restrictionist immigration, ideology bars, a maximal penal code |
+| **Thomas Sowell** (constrained vision, culture and outcomes) | The constrained vision of human nature in *A Conflict of Visions*. Price signals over price controls, rent control, and minimum-wage mandates. Group disparities have many causes besides discrimination, so I oppose affirmative action and equity mandates. Culture largely shapes group outcomes, and immigrants' cultural fit matters | Sowell treats genetic explanations as unproven. I believe heritable group differences shouldn't be ruled out as one influence on culture itself |
 | **Thaler and Sunstein** (libertarian paternalism) | Opt-out defaults for retirement, disability insurance, and index accounts. I cite Madrian and Shea ([[5. Domestic Policy & Governance\|S5]], [[10. Bioethics, Progress, & Technology\|S10]]) | I use defaults only where people protect themselves, with no state-held accounts |
 | **John Robertson** (procreative liberty) | I believe IVF, embryo screening, gene editing, and reproductive cloning should all be allowed. A clone is a full person, and lack of the child's consent is no reason to ban one route and not the other ([[10. Bioethics, Progress, & Technology\|S10]]) | My view is grounded in sentience-based negative rights, not in autonomy alone. I give embryos provisional protection, and I believe elective abortion should be banned from conception |
 | **National conservatism (Hazony)** | Fiscal restraint, a strong military, assimilation, patriotism, sovereignty | I am secular: churches taxed, same-sex marriage. I define culture by values, not heritage |
