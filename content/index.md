@@ -2,7 +2,7 @@
 title: Ethics and Politics
 enableToc: false
 ---
-This site is a researched collection of my ethics, philosophies, and normative beliefs - an honest analysis of politics and ethics leading to my conclusions.
+Here I set out my ethics, philosophies, and normative beliefs as a researched collection - an honest analysis of politics and ethics leading to my conclusions.
 
 I present positions as my ideal for America: a negative-rights focused, epistocratic republic with a qualified franchise. Only net taxpayers who pass a voter license test would vote, by ranked-choice voting. It would have a hard criminal code, assimilation and values filters, and a thin state on tax and markets. It is a destination I am stating, not a poll of what is popular.
 
