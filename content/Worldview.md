@@ -399,7 +399,7 @@ Notation:
      - the women's-health NIH division;
      - the East Potomac golf closure.
    - I see the Greens as the closest party on animals and nothing else.
-   - **Arch, ballroom, and monument (changed in 3922793 and 0a7bd23):**
+   - **Arch, ballroom, and monument:**
      - I now grade the triumphal arch Directionally aligned. It is directional because NEH public funds are reserved, and I would prefer private or opt-in money.
      - I grade the White House ballroom and the Oval Office National Monument Aligned.
      - Each entry says I believe presidential discretion covers only property the executive already controls (Park Service land at Memorial Circle, the White House grounds, the rooms), and not anything beyond the laws that authorize the executive.
