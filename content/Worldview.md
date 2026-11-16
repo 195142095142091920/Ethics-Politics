@@ -21,11 +21,15 @@ Each part below follows my site's sections. It opens with the labels that fit, t
 
 ## [[1. Ethical and Philosophical Framework]]
 
-* Moral anti-realist: constructivist-prescriptivist (Hume plus Hare), not relativist, and I still draw hard, enforceable verdicts
-* Threshold sentientist deontologist: rights are side-constraints, "not goals to maximize" ([[1. Ethical and Philosophical Framework|S1]])
-* Forfeiture, not catastrophe: the threshold is the agent's own violation, not bad consequences (Moore)
-* Sentientist: status is substrate-neutral and graded; rights-based, unlike Singer, Regan, and Francione, with a duty to stop predation
-* Evidentialist scientific naturalist; a secular Stoic in personal ethics
+Moral anti-realist: constructivist-prescriptivist (Hume plus Hare), not relativist, and I still draw hard, enforceable verdicts
+
+Threshold sentientist deontologist: rights are side-constraints, "not goals to maximize" ([[1. Ethical and Philosophical Framework|S1]])
+
+Forfeiture, not catastrophe: the threshold is the agent's own violation, not bad consequences (Moore)
+
+Sentientist: status is substrate-neutral and graded; rights-based, unlike Singer, Regan, and Francione, with a duty to stop predation
+
+Evidentialist scientific naturalist; a secular Stoic in personal ethics
 
 - **[[1. Ethical and Philosophical Framework#Meta-Ethics|Meta-Ethics]]:** I claim no objective moral truth.
 - **[[1. Ethical and Philosophical Framework#Metaphysics|Metaphysics]]:** I'm an agnostic atheist: I hold no belief in gods, but I stay open in principle to evidence.
