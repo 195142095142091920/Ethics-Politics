@@ -65,11 +65,11 @@ Anti-totalitarian parity: the state should condemn all four excluded ideologies
 - **[[2. Political and Social Character#Order and Security|Order and Security]]:** Crime should be met hard: a mandatory death penalty for murder (including attempted murder), violent rape, child molestation, child rape, kidnapping, human trafficking, and selling or distributing hard drugs.
 - **[[2. Political and Social Character#The Future and Technology|The Future and Technology]]:** I embrace technology within sentient-rights limits: I support AI and genetics, data should be opt-in, all animal testing should end immediately, and sentient AI should have rights and the same forfeiture rules as everyone else.
 - **[[2. Political and Social Character#Relation to Other Political Traditions|Relation to Other Political Traditions]]:** I share the liberal and libertarian commitment to rights, property, and markets, but I accept far more force against criminals and at the border.
-- **[[2. Political and Social Character#Socialism|Socialism]]:** Socialism is state or collective ownership of productive property, central planning in place of prices, and redistribution by force.
-- **[[2. Political and Social Character#Communism|Communism]]:** Communism is the program of abolishing private property, with one party holding a monopoly of power.
-- **[[2. Political and Social Character#Cultural Marxism|Cultural Marxism]]:** Cultural Marxism is the critical theory of the Frankfurt School and its offshoots, which recasts class struggle as oppressed groups against oppressors and carries it into culture and education.
-- **[[2. Political and Social Character#Islamism|Islamism]]:** Islamism is the political project of ruling by Islamic law. I also condemn Islam itself as an incompatible ideology.
-- **[[2. Political and Social Character#Nazism|Nazism]]:** Nazism ranked human beings by supposed race and used the state to strip, expel, and kill those it ranked lowest.
+- **[[2. Political and Social Character#Socialism|Socialism]]:** Socialism is state or collective ownership of productive property, central planning in place of prices, and redistribution by force. Excluded and condemned.
+- **[[2. Political and Social Character#Communism|Communism]]:** Communism is the program of abolishing private property, with one party holding a monopoly of power. Excluded and condemned.
+- **[[2. Political and Social Character#Cultural Marxism|Cultural Marxism]]:** Cultural Marxism is the critical theory of the Frankfurt School and its offshoots, which recasts class struggle as oppressed groups against oppressors and carries it into culture and education. Excluded and condemned.
+- **[[2. Political and Social Character#Islamism|Islamism]]:** Islamism is the political project of ruling by Islamic law. I condemn Islam itself as an incompatible ideology. Excluded and condemned.
+- **[[2. Political and Social Character#Nazism|Nazism]]:** Nazism ranked human beings by supposed race and used the state to strip, expel, and kill those it ranked lowest. Excluded and condemned.
 
 ---
 
