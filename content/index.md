@@ -465,4 +465,8 @@ I acknowledge each of these in the section cited.
 - **AI displacement:** I say fast, near-total displacement would force taxing beyond "minimal" ([[10. Bioethics, Progress, & Technology|S10]]).
 
 
-[Frontier LLMs have assisted in formulating and revising text, deep research, and critical hardening.]
+---
+
+## How this was written
+
+The positions and conclusions here are mine. Frontier LLMs helped me draft and revise the text, research and check sources, organize the sections, and stress-test my arguments against the strongest objections I could find. Sources are linked so any claim can be checked. My standard of proof applies however the words were drafted: a claim stands on testable, checkable evidence or reasoning, not on who wrote the sentence ([[1. Ethical and Philosophical Framework#Meta-Ethics|Meta-Ethics]]).
