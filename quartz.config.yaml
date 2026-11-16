@@ -78,7 +78,7 @@ plugins:
     enabled: true
     order: 40
   - source: "@quartz-community/table-of-contents"
-    enabled: true
+    enabled: false
     order: 50
     layout:
       position: right
@@ -170,6 +170,11 @@ plugins:
     layout:
       position: left
       priority: 50
+  - source: "./plugins/explorer-toc"
+    enabled: true
+    layout:
+      position: left
+      priority: 51
   - source: "@quartz-community/graph"
     enabled: false
     layout:

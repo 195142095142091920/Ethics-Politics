@@ -1,0 +1,38 @@
+{
+  "name": "explorer-toc",
+  "version": "0.1.0",
+  "type": "module",
+  "description": "Nest the current page's headings under its Explorer entry and drop the right-hand TOC.",
+  "main": "./index.js",
+  "exports": {
+    ".": {
+      "import": "./index.js"
+    },
+    "./components": {
+      "import": "./components/index.js"
+    },
+    "./package.json": "./package.json"
+  },
+  "peerDependencies": {
+    "preact": "^10.0.0"
+  },
+  "quartz": {
+    "name": "explorer-toc",
+    "displayName": "Explorer TOC",
+    "category": "component",
+    "version": "1.0.0",
+    "quartzVersion": ">=5.0.0",
+    "dependencies": [],
+    "defaultOrder": 51,
+    "defaultEnabled": true,
+    "defaultOptions": {},
+    "components": {
+      "ExplorerToc": {
+        "displayName": "Explorer TOC",
+        "defaultPosition": "left",
+        "defaultPriority": 51
+      }
+    },
+    "optionSchema": {}
+  }
+}
