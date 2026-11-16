@@ -228,7 +228,7 @@ My position on every topic, one line each, taken from each topic's summary. Foll
 - **[[7. Cultural & Social Issues#End-of-Life Care and Lost Sentience|End-of-Life Care and Lost Sentience]]:** Patients should decide their own care while they are conscious, and their written wishes should be followed.
 - **[[7. Cultural & Social Issues#Abortion and Fetal Rights: Technology|Abortion and Fetal Rights: Technology]]:** New technology should change abortion policy only if it reveals new rights violations.
 - **[[10. Bioethics, Progress, & Technology#Reproductive Technology|Reproductive Technology]]:** I support IVF, embryo screening, and gene editing.
-- **[[10. Bioethics, Progress, & Technology#Human Cloning|Human Cloning]]:** Reproductive human cloning should be banned.
+- **[[10. Bioethics, Progress, & Technology#Human Cloning|Human Cloning]]:** Reproductive human cloning should not be banned, and any cloned person has full rights.
 - **[[10. Bioethics, Progress, & Technology#Organ Donation|Organ Donation]]:** Organ donation and sales should always be opt-in, even after death, and any government payment needs opt-in funding.
 - **[[10. Bioethics, Progress, & Technology#Psychedelic Therapy|Psychedelic Therapy]]:** Psychedelic therapy should be legal by prescription in licensed settings.
 - **[[10. Bioethics, Progress, & Technology#Animal Rights and Sentience Technology|Animal Rights and Sentience Technology]]:** Animal agriculture and all animal testing should end immediately, and lab-grown meat is the goal and the replacement for animal agriculture, even if it cannot meet demand at the same cost right away. It scales up over time.
