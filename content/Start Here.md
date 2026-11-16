@@ -67,7 +67,7 @@ No modern political party aligns with my entire system of beliefs. I choose to s
 ---
 
 ## [[12. Current Administration]]
-I break with the Trump administration most on animals and agriculture. But overall I support it: the border crackdown and deportations, the end of DEI, the recognition of two sexes, the push on crime, and a tougher line abroad all move my way, and 49 of its 87 policy actions point in my direction, against 23 that point away. Grades reflect my positions, set out in the sections linked from each entry; descriptions are drawn from the official text of each action.
+I break with the Trump administration most on animals and agriculture. But overall I support it: the border crackdown and deportations, the end of DEI, the recognition of two sexes, the push on crime, and a tougher line abroad all move my way, and 52 of its 87 policy actions point in my direction, against 20 that point away. Grades reflect my positions, set out in the sections linked from each entry; descriptions are drawn from the official text of each action.
 
 ![[12. Current Administration#Summary of Grades]]
 
