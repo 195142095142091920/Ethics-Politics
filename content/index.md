@@ -14,8 +14,6 @@ The path we are currently treading as a nation does not inch closer to the natio
 
 Supporting parties or policies is a cost analysis. They are never perfect and will never be fully inside my worldview framework. When a side is directionally aligned on major points - such as stringently anti-crime, anti-mass/illegal immigration, pro-assimilation, futurist, non-welfarist, and fights for traditional social values - I will support them.
 
-My [[index|Worldview]] page is a plain-language overview of what I believe and which labels fit.
-
 Frontier LLMs have assisted in formulating and revising text, deep research, and critical hardening.
 
 ---
@@ -376,7 +374,7 @@ Republican-leaning directional independent backing the Trump administration over
 
 Non-collectivist, non-progressivist, directionally opposed to general Democrat policy
 
-My support is "a cost analysis," not a partisan identity ([[index|homepage]])
+My support is "a cost analysis," not a partisan identity
 
 The Greens are closest on animals and nothing else
 
