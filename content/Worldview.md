@@ -11,10 +11,10 @@ A plain guide to what I believe and which labels fit. When a technical term is t
 
 **In one line:** I care about anything that can feel. I believe you lose rights when you violate someone else's. I want a republic where only qualified voters vote, a small government you opt into, very tough punishment, a country built on shared Western values, a hawkish America-First foreign policy, and technology that ends animal farming and cuts suffering in nature. I vote Republican because it's the closest fit, not a perfect one.
 
-**In a phrase:** *Sentientist epistocratic national-liberal.*
+**In a phrase:** *Sentientist epistocratic national-individualist.*
 - **Sentientist:** moral worth comes from being able to feel.
 - **Epistocratic:** voting should take a basic test, not just turning 18.
-- **National-liberal:** free markets and individual rights, in a country that guards its borders and culture.
+- **National-individualist:** free markets and individual rights, in a country that guards its borders and culture.
 
 The full list: sentientist, negative-rights, forfeiture-retributivist, epistocratic-republican, civilizational-nationalist, free-market, transhumanist-abolitionist. Each is explained below.
 
