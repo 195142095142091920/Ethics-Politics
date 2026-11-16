@@ -35,7 +35,9 @@
    "term": "Abolitionist project (Pearce)",
    "patterns": [
     "i:abolitionist project",
-    "i:Pearce[’']s proposal"
+    "i:Pearce[’']s proposal",
+    "i:predation-abolitionists?",
+    "i:Pearce-style abolition of predation"
    ]
   },
   {
@@ -70,6 +72,13 @@
    ]
   },
   {
+   "id": "g-age-of-criminal-responsibility",
+   "term": "Age of criminal responsibility",
+   "patterns": [
+    "i:age of criminal (?:responsibility|liability)"
+   ]
+  },
+  {
    "id": "g-agency",
    "term": "Agency",
    "patterns": [
@@ -81,7 +90,8 @@
    "id": "g-agnostic-atheism",
    "term": "Agnostic atheism",
    "patterns": [
-    "i:agnostic atheis[mt]s?"
+    "i:agnostic atheis[mt]s?",
+    "i:agnostic-atheis[mt]s?"
    ]
   },
   {
@@ -146,10 +156,20 @@
    ]
   },
   {
+   "id": "g-anti-collectivism",
+   "term": "Anti-collectivism",
+   "patterns": [
+    "i:anti-collectivist individualists?",
+    "i:anti-collectivis[mt]s?",
+    "i:non-collectivis[mt]s?"
+   ]
+  },
+  {
    "id": "g-anti-naturalism-sentientist",
    "term": "Anti-naturalism (sentientist)",
    "patterns": [
-    "i:(?:sentientist )?anti-naturalism"
+    "i:(?:sentientist )?anti-naturalism",
+    "i:anti-naturalists?"
    ]
   },
   {
@@ -170,7 +190,9 @@
    "id": "g-aquaculture-and-breeding-mills",
    "term": "Aquaculture and breeding mills",
    "patterns": [
-    "i:aquaculture"
+    "i:aquaculture",
+    "i:breeding[- ]mills?",
+    "i:fish farming"
    ]
   },
   {
@@ -225,6 +247,13 @@
    "term": "Bailouts",
    "patterns": [
     "i:bailouts?"
+   ]
+  },
+  {
+   "id": "g-basic-law-germany",
+   "term": "Basic Law (Germany)",
+   "patterns": [
+    "(?:German )?Basic Law"
    ]
   },
   {
@@ -292,7 +321,9 @@
    "id": "g-capital-evidentiary-standard",
    "term": "Capital evidentiary standard",
    "patterns": [
-    "i:capital evidentiary standard"
+    "i:capital evidentiary standard",
+    "i:capital standard",
+    "i:strict evidence standard"
    ]
   },
   {
@@ -405,6 +436,14 @@
    ]
   },
   {
+   "id": "g-citizen-initiative",
+   "term": "Citizen initiative",
+   "patterns": [
+    "i:(?:qualified )?citizen initiatives?",
+    "i:Swiss-style initiatives?"
+   ]
+  },
+  {
    "id": "g-civic-disabilities",
    "term": "Civic disabilities",
    "patterns": [
@@ -449,14 +488,23 @@
    "id": "g-civilizational-nationalism",
    "term": "Civilizational nationalism",
    "patterns": [
-    "i:civilizational nationalis[mt]s?"
+    "i:civilizational nationalis[mt]s?",
+    "i:civilizational-nationalis[mt]s?"
    ]
   },
   {
    "id": "g-classical-liberalism",
    "term": "Classical liberalism",
    "patterns": [
-    "i:classical liberal(?:ism|s)?"
+    "i:classical liberal(?:ism|s)?",
+    "i:classical-liberal(?:ism|s)?"
+   ]
+  },
+  {
+   "id": "g-clear-and-convincing-evidence",
+   "term": "Clear and convincing evidence",
+   "patterns": [
+    "i:clear and convincing(?: evidence)?"
    ]
   },
   {
@@ -496,6 +544,13 @@
    ]
   },
   {
+   "id": "g-combatant-track",
+   "term": "Combatant track",
+   "patterns": [
+    "i:combatant track"
+   ]
+  },
+  {
    "id": "g-companions-in-guilt-argument",
    "term": "Companions-in-guilt argument",
    "patterns": [
@@ -527,7 +582,8 @@
    "id": "g-constitutionalism",
    "term": "Constitutionalism",
    "patterns": [
-    "i:constitutionalism"
+    "i:constitutionalism",
+    "i:(?:sunset-clause )?constitutionalists?"
    ]
   },
   {
@@ -558,6 +614,13 @@
    "patterns": [
     "i:cosmopolitan liberalism",
     "i:progressive-cosmopolitan"
+   ]
+  },
+  {
+   "id": "g-cultural-marxism",
+   "term": "Cultural Marxism",
+   "patterns": [
+    "i:cultural Marxis[mt]s?"
    ]
   },
   {
@@ -632,7 +695,8 @@
    "id": "g-defensive-accelerationism",
    "term": "Defensive accelerationism",
    "patterns": [
-    "i:defensive accelerationism"
+    "i:defensive accelerationism",
+    "i:defensive accelerationists?"
    ]
   },
   {
@@ -684,7 +748,23 @@
    "term": "Displacement trigger (BLS trigger)",
    "patterns": [
     "i:displacement trigger",
-    "BLS trigger"
+    "BLS trigger",
+    "i:AI-displacement trigger",
+    "i:AI displacement"
+   ]
+  },
+  {
+   "id": "g-distributive-justice-patterned-principles",
+   "term": "Distributive justice (patterned principles)",
+   "patterns": [
+    "i:distributive (?:justice|patterns?)"
+   ]
+  },
+  {
+   "id": "g-dominant-party-state",
+   "term": "Dominant-party state",
+   "patterns": [
+    "i:dominant-party (?:state|system)s?"
    ]
   },
   {
@@ -699,6 +779,20 @@
    "term": "DSA",
    "patterns": [
     "DSA"
+   ]
+  },
+  {
+   "id": "g-due-process",
+   "term": "Due process",
+   "patterns": [
+    "i:due process"
+   ]
+  },
+  {
+   "id": "g-duty-to-retreat",
+   "term": "Duty to retreat",
+   "patterns": [
+    "i:duty to retreat"
    ]
   },
   {
@@ -809,7 +903,9 @@
    "id": "g-epistocratic-republic",
    "term": "Epistocratic republic",
    "patterns": [
-    "i:epistocratic (?:constitutional )?republic"
+    "i:epistocratic (?:constitutional )?republic",
+    "i:epistocratic-republicans?",
+    "i:stake and competence qualifications"
    ]
   },
   {
@@ -902,6 +998,13 @@
    "note": "bare 'discretion' only where it is the President's discretion over federal property; not prosecutorial, police, agency, Fed, or literacy-test discretion"
   },
   {
+   "id": "g-existential-risk",
+   "term": "Existential risk",
+   "patterns": [
+    "i:existential risks?"
+   ]
+  },
+  {
    "id": "g-experimentation-track",
    "term": "Experimentation track",
    "patterns": [
@@ -936,7 +1039,8 @@
    "id": "g-federalism",
    "term": "Federalism",
    "patterns": [
-    "i:federalism"
+    "i:federalism",
+    "i:federalists?"
    ]
   },
   {
@@ -1034,6 +1138,14 @@
    ]
   },
   {
+   "id": "g-foreign-terrorist-organization-fto",
+   "term": "Foreign Terrorist Organization (FTO)",
+   "patterns": [
+    "Foreign Terrorist Organizations?",
+    "FTOs?"
+   ]
+  },
+  {
    "id": "g-forfeiture-rights-forfeiture",
    "term": "Forfeiture (rights forfeiture)",
    "patterns": [
@@ -1043,7 +1155,8 @@
      "sections": [
       "Laws of War"
      ]
-    }
+    },
+    "i:rights-forfeiture principle"
    ],
    "skipSections": [
     "Civil Asset Forfeiture",
@@ -1052,6 +1165,21 @@
     "United Kingdom"
    ],
    "note": "rights forfeiture; not asset/civil forfeiture (-> Civil asset forfeiture), Sanctuary wording (-> Sanctuary forfeiture), or citizenship forfeiture (undecidable, left unwrapped)"
+  },
+  {
+   "id": "g-frankfurt-school-critical-theory",
+   "term": "Frankfurt School (critical theory)",
+   "patterns": [
+    "Frankfurt School",
+    "i:critical theory"
+   ]
+  },
+  {
+   "id": "g-free-market-capitalism",
+   "term": "Free-market capitalism",
+   "patterns": [
+    "i:free-market capitalis[mt]s?"
+   ]
   },
   {
    "id": "g-free-market-environmentalism",
@@ -1094,6 +1222,13 @@
    "term": "Fusionism",
    "patterns": [
     "i:fusionism"
+   ]
+  },
+  {
+   "id": "g-futurism",
+   "term": "Futurism",
+   "patterns": [
+    "i:futuris[mt]s?"
    ]
   },
   {
@@ -1140,6 +1275,13 @@
    "patterns": [
     "i:gifted tracks?",
     "i:gifted programs"
+   ]
+  },
+  {
+   "id": "g-global-south",
+   "term": "Global South",
+   "patterns": [
+    "Global South"
    ]
   },
   {
@@ -1198,7 +1340,8 @@
     {
      "re": "Greens(?!/EFA)",
      "pages": [
-      "11.-modern-political-parties"
+      "11.-modern-political-parties",
+      "worldview"
      ],
      "notSections": [
       "Germany",
@@ -1259,6 +1402,13 @@
    ]
   },
   {
+   "id": "g-hijra",
+   "term": "Hijra",
+   "patterns": [
+    "Hijra"
+   ]
+  },
+  {
    "id": "g-horse-soring-bear-baiting-angling-grazing",
    "term": "Horse soring, bear baiting, angling, grazing",
    "patterns": [
@@ -1273,6 +1423,13 @@
     "i:hostile (?:by )?conduct",
     "i:found hostile",
     "i:hostile acts"
+   ]
+  },
+  {
+   "id": "g-hot-spot-policing",
+   "term": "Hot-spot policing",
+   "patterns": [
+    "i:hot[- ]spots?(?: policing)?"
    ]
   },
   {
@@ -1356,19 +1513,28 @@
    ]
   },
   {
+   "id": "g-islamism",
+   "term": "Islamism",
+   "patterns": [
+    "Islamism",
+    "Islamists?"
+   ]
+  },
+  {
    "id": "g-ivf-crispr-and-embryo-screening",
    "term": "IVF, CRISPR, and embryo screening",
    "patterns": [
     "IVF",
     "CRISPR",
-    "i:embryo screening"
+    "i:embryo screening",
+    "i:gene editing"
    ]
   },
   {
    "id": "g-jacksonian",
    "term": "Jacksonian",
    "patterns": [
-    "Jacksonian(?:-style)?"
+    "Jacksonians?(?:-style)?"
    ]
   },
   {
@@ -1407,6 +1573,14 @@
    ]
   },
   {
+   "id": "g-lab-grown-meat",
+   "term": "Lab-grown meat",
+   "patterns": [
+    "i:lab-grown meat",
+    "i:(?:cultivated|cultured) meat"
+   ]
+  },
+  {
    "id": "g-last-resort-allowance",
    "term": "Last-resort allowance",
    "patterns": [
@@ -1428,6 +1602,13 @@
    "term": "Legislative (prescriptive) anti-realism",
    "patterns": [
     "i:legislative (?:\\(prescriptive\\) )?anti-realism"
+   ]
+  },
+  {
+   "id": "g-lesser-homicide",
+   "term": "Lesser homicide",
+   "patterns": [
+    "i:lesser homicides?"
    ]
   },
   {
@@ -1510,7 +1691,8 @@
    "term": "Market pronatalism",
    "patterns": [
     "i:market pronatalis[mt]s?",
-    "i:pronatalis[mt]s?"
+    "i:pronatalis[mt]s?",
+    "i:natalist(?: credits)?"
    ]
   },
   {
@@ -1635,6 +1817,20 @@
    ]
   },
   {
+   "id": "g-multiculturalism",
+   "term": "Multiculturalism",
+   "patterns": [
+    "i:multiculturalis[mt]s?"
+   ]
+  },
+  {
+   "id": "g-muslim-brotherhood",
+   "term": "Muslim Brotherhood",
+   "patterns": [
+    "Muslim Brotherhood"
+   ]
+  },
+  {
    "id": "g-nation-building",
    "term": "Nation-building",
    "patterns": [
@@ -1645,14 +1841,23 @@
    "id": "g-national-conservatism",
    "term": "National conservatism",
    "patterns": [
-    "i:national conservatis[mt]s?"
+    "i:national conservatis[mt]s?",
+    "i:national conservatives?"
+   ]
+  },
+  {
+   "id": "g-national-individualism",
+   "term": "National individualism",
+   "patterns": [
+    "i:national[- ]individualis[mt]s?"
    ]
   },
   {
    "id": "g-national-initiative",
    "term": "National initiative",
    "patterns": [
-    "i:national initiative"
+    "i:national initiative",
+    "i:national citizen initiatives?"
    ]
   },
   {
@@ -1668,7 +1873,8 @@
    "patterns": [
     "Nazism",
     "[Cc]ommunism",
-    "[Cc]ommunists?"
+    "[Cc]ommunists?",
+    "i:anti-communis[mt]s?"
    ]
   },
   {
@@ -1676,7 +1882,8 @@
    "term": "Negative rights",
    "patterns": [
     "i:negative rights",
-    "i:negative-rights"
+    "i:negative-rights",
+    "i:negative-rightists?"
    ]
   },
   {
@@ -1715,7 +1922,8 @@
    "id": "g-ngo-grants",
    "term": "NGO grants",
    "patterns": [
-    "i:NGO grants"
+    "i:NGO grants",
+    "NGOs?"
    ]
   },
   {
@@ -1730,7 +1938,8 @@
    "id": "g-nit-negative-income-tax",
    "term": "NIT (negative income tax)",
    "patterns": [
-    "i:negative income tax"
+    "i:negative income tax",
+    "NIT(?:-style)?"
    ]
   },
   {
@@ -1738,6 +1947,13 @@
    "term": "Normative ethics",
    "patterns": [
     "i:normative ethics"
+   ]
+  },
+  {
+   "id": "g-nozickian",
+   "term": "Nozickian",
+   "patterns": [
+    "Nozickian"
    ]
   },
   {
@@ -1752,7 +1968,8 @@
    "term": "Office bar (authority roles)",
    "patterns": [
     "i:office bars?",
-    "i:sworn authority roles?"
+    "i:sworn authority roles?",
+    "i:ideology bars?"
    ]
   },
   {
@@ -1788,6 +2005,13 @@
    ]
   },
   {
+   "id": "g-outer-space-treaty",
+   "term": "Outer Space Treaty",
+   "patterns": [
+    "Outer Space Treaty"
+   ]
+  },
+  {
    "id": "g-paid-leave-mandate",
    "term": "Paid-leave mandate",
    "patterns": [
@@ -1820,11 +2044,19 @@
    "note": "only these exact phrases; not 'pattern' alone"
   },
   {
+   "id": "g-pell-grants",
+   "term": "Pell Grants",
+   "patterns": [
+    "Pell Grants?"
+   ]
+  },
+  {
    "id": "g-penal-maximalism",
    "term": "Penal maximalism",
    "patterns": [
     "i:penal maximalism",
-    "i:maximal(?:, forfeiture-based)? penal code"
+    "i:maximal(?:, forfeiture-based)? penal code",
+    "i:penal maximalists?"
    ]
   },
   {
@@ -1849,7 +2081,8 @@
    "patterns": [
     "i:Aristotle[’']s polity",
     "i:Aristotelian polity",
-    "i:politeia"
+    "i:politeia",
+    "i:polity"
    ]
   },
   {
@@ -1912,6 +2145,14 @@
    ]
   },
   {
+   "id": "g-progressivism",
+   "term": "Progressivism",
+   "patterns": [
+    "i:non-progressivis[mt]s?",
+    "i:progressivism"
+   ]
+  },
+  {
    "id": "g-prop-12-california",
    "term": "Prop 12 (California)",
    "patterns": [
@@ -1940,6 +2181,13 @@
     "i:prophylaxis"
    ],
    "note": "exact word only"
+  },
+  {
+   "id": "g-proportionality-punishment",
+   "term": "Proportionality (punishment)",
+   "patterns": [
+    "i:proportionality"
+   ]
   },
   {
    "id": "g-psychedelic-therapy",
@@ -1996,7 +2244,8 @@
    "term": "Race realism",
    "patterns": [
     "i:race realism",
-    "i:race-realist"
+    "i:race-realist",
+    "i:race realists?"
    ]
   },
   {
@@ -2043,7 +2292,8 @@
    "id": "g-red-flag-laws",
    "term": "Red-flag laws",
    "patterns": [
-    "i:red-flag laws?"
+    "i:red-flag laws?",
+    "i:red flag (?:laws?|orders?|rule)"
    ]
   },
   {
@@ -2066,7 +2316,8 @@
    "term": "Relativism",
    "patterns": [
     "i:moral relativis[mt]s?",
-    "i:relativism"
+    "i:relativism",
+    "i:relativists?"
    ]
   },
   {
@@ -2076,6 +2327,15 @@
     "i:(?<!war )reparations"
    ],
    "note": "never 'war reparations' (Iran news); the entry is about reparations for historical injustice"
+  },
+  {
+   "id": "g-replacement-fertility",
+   "term": "Replacement fertility",
+   "patterns": [
+    "i:replacement[- ]level(?: fertility)?",
+    "i:replacement fertility",
+    "2\\.1 children per woman"
+   ]
   },
   {
    "id": "g-reproductive-cloning-and-research-cloning",
@@ -2105,7 +2365,15 @@
    "id": "g-retributivism",
    "term": "Retributivism",
    "patterns": [
-    "i:retributivis[mt]s?"
+    "i:retributivis[mt]s?",
+    "i:forfeiture-retributivis[mt]s?"
+   ]
+  },
+  {
+   "id": "g-rights-forfeiture-theory-of-punishment",
+   "term": "Rights-forfeiture theory of punishment",
+   "patterns": [
+    "i:rights-forfeiture theory(?: of punishment)?"
    ]
   },
   {
@@ -2217,6 +2485,13 @@
    "note": "animal-sanctuary sense; immigration sense goes to Sanctuary cities; 'a sanctuary from the law' (church refuge) left unwrapped"
   },
   {
+   "id": "g-scientific-naturalism",
+   "term": "Scientific naturalism",
+   "patterns": [
+    "i:scientific naturalis[mt]s?"
+   ]
+  },
+  {
    "id": "g-seafood-strategy-and-rancher-support",
    "term": "Seafood strategy and rancher support",
    "patterns": [
@@ -2246,7 +2521,8 @@
    "term": "Secularism",
    "patterns": [
     "i:secularism",
-    "i:secularists?"
+    "i:secularists?",
+    "i:church-state separation(?:ists?)?"
    ]
   },
   {
@@ -2276,7 +2552,8 @@
    "patterns": [
     "i:sentience class(?:es)?",
     "i:high-sentience",
-    "i:class threshold"
+    "i:class threshold",
+    "i:lower-sentience"
    ]
   },
   {
@@ -2285,6 +2562,13 @@
    "patterns": [
     "i:sentientis[mt]s?",
     "i:sentience basis"
+   ]
+  },
+  {
+   "id": "g-sharia",
+   "term": "Sharia",
+   "patterns": [
+    "i:sharia"
    ]
   },
   {
@@ -2299,6 +2583,22 @@
    "term": "SNAP",
    "patterns": [
     "SNAP"
+   ]
+  },
+  {
+   "id": "g-social-conservatism",
+   "term": "Social conservatism",
+   "patterns": [
+    "i:social conservatis[mt]s?",
+    "i:social conservatives?"
+   ]
+  },
+  {
+   "id": "g-social-transition",
+   "term": "Social transition",
+   "patterns": [
+    "i:social transition(?:ing)?",
+    "i:socially transition(?:ed|ing)?"
    ]
   },
   {
@@ -2327,7 +2627,8 @@
    "id": "g-stake-qualification",
    "term": "Stake qualification",
    "patterns": [
-    "i:stake qualification"
+    "i:stake qualification",
+    "i:(?:fiscal )?stake test"
    ]
   },
   {
@@ -2546,7 +2847,8 @@
    "term": "Voter license test",
    "patterns": [
     "i:voter license test",
-    "i:voter test"
+    "i:voter test",
+    "i:voter licen[cs]es?"
    ]
   },
   {
@@ -2616,6 +2918,13 @@
    "term": "Zero bracket",
    "patterns": [
     "i:zero bracket"
+   ]
+  },
+  {
+   "id": "g-zero-tolerance",
+   "term": "Zero tolerance",
+   "patterns": [
+    "i:zero[- ]tolerance"
    ]
   }
  ]

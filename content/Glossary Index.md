@@ -25,6 +25,8 @@ The specialized terms I use, A to Z, each defined in my own words and linked to 
 
 **Actuarial sex facts** - Sex-based statistics on risk, such as life expectancy or accident rates, used in insurance pricing. I believe this is the one group statistic insurers should be allowed to use. (site S7) ^g-actuarial-sex-facts
 
+**Age of criminal responsibility** - The age below which a child is presumed unable to commit a crime. Many countries fix it by law, commonly between 10 and 14, while many U.S. states set none. I believe there should be no fixed age: a minor's liability should follow the severity of the crime. (standard meaning; site S6) ^g-age-of-criminal-responsibility
+
 **Agency** - Responsibility rests on agency, which scales with cognitive and experiential sophistication; only an agent can generate duties through voluntary choice or forfeit rights through deliberate violation. As I explain in [[1. Ethical and Philosophical Framework#Minors and Incompetent Adults|Ethical and Philosophical Framework: Minors and Incompetent Adults]]. (site S1) ^g-agency
 
 **Agnostic atheism** - Not believing in any god (atheism) while holding that the question can't be settled with certainty (agnosticism). I tie mine to burden-of-proof skepticism: a claim needs testable, repeatable proof before I accept it. (standard meaning; site S1) ^g-agnostic-atheism
@@ -45,7 +47,9 @@ The specialized terms I use, A to Z, each defined in my own words and linked to 
 
 **Anarcho-capitalism** - The view that the state should be abolished and every service, including law, courts, and defense, supplied by private markets. I use it for Hans-Hermann Hoppe; I want a constitutional republic instead. (standard meaning) ^g-anarcho-capitalism
 
-**Anti-naturalism (sentientist)** - Here, the rejection of nature as a moral standard, not the metaethical term. In S1 I say nature may be "ethically indifferent or abominable," and in S7 that "Nature needs to be civilized." The label is not one I use. (standard meaning; site S1, S7) ^g-anti-naturalism-sentientist
+**Anti-collectivism** - Opposition to collectivism, the view that the group, class, or state comes before the individual and may direct individual lives and outcomes. I use it for my own politics: I believe rights belong to individuals, and each person should be judged as an individual, never by group. (site Worldview) ^g-anti-collectivism
+
+**Anti-naturalism (sentientist)** - Here, the rejection of nature as a moral standard, not the metaethical term. In S1 I say nature may be "ethically indifferent or abominable," and in S7 that "Nature needs to be civilized." I use the label only in this sense. (standard meaning; site S1, S7) ^g-anti-naturalism-sentientist
 
 **Anti-totalitarian parity** - My label for treating the excluded ideologies on the same terms in public memory. I believe the state should officially condemn all four and remove public honors for communist figures, while praising Nazism or communism stays legal. (site S1, S2, S13) ^g-anti-totalitarian-parity
 
@@ -68,6 +72,8 @@ The specialized terms I use, A to Z, each defined in my own words and linked to 
 ## B
 
 **Bailouts** - Government rescues of failing firms or banks with public money. I oppose them. (standard meaning) ^g-bailouts
+
+**Basic Law (Germany)** - Germany's constitution, adopted in 1949. It lets the Federal Constitutional Court ban parties that seek to abolish the democratic order, a model of militant democracy, and Article 102 states, "Capital punishment is abolished." (standard meaning; site S11) ^g-basic-law-germany
 
 **Bioconservatism** - Opposition to human enhancement and to reproductive technologies such as cloning, usually on grounds of human dignity or the value of the natural, as argued by Leon Kass. I am against this camp. (standard meaning) ^g-bioconservatism
 
@@ -115,6 +121,8 @@ The specialized terms I use, A to Z, each defined in my own words and linked to 
 
 **Christian fundamentalism** - A strict, literal form of Christianity that seeks to shape law and public life by religious teaching. I list it as a Republican break; I believe religion should stay out of government. (standard meaning) ^g-christian-fundamentalism
 
+**Citizen initiative** - A process that lets voters put a law or constitutional amendment on the ballot by gathering signatures and then decide it by popular vote, as in Switzerland and many U.S. states. I believe states and localities should be free to offer initiatives and referendums, open only to qualified voters, and I support a national initiative. (standard meaning; site S3) ^g-citizen-initiative
+
 **Civic disabilities** - My term for the two restrictions on excluded ideologies, the office bar and the building bar. As I write, they "are not penalties": no one is fined, jailed, or silenced for belief. (site S1, S2) ^g-civic-disabilities
 
 **Civil asset forfeiture** - A legal process in which the government seizes property it says is tied to crime through a civil case against the property itself, often without convicting or even charging the owner. Unlike rights forfeiture in my framework, I believe civil forfeiture without conviction should end. (standard meaning; site S3) ^g-civil-asset-forfeiture
@@ -127,6 +135,8 @@ The specialized terms I use, A to Z, each defined in my own words and linked to 
 
 **Classical liberalism** - The tradition of limited government, individual rights, free markets, and the rule of law, from Locke and Adam Smith through Milton Friedman. (standard meaning) ^g-classical-liberalism
 
+**Clear and convincing evidence** - A standard of proof higher than "more likely than not" but lower than "beyond a reasonable doubt": the fact must be shown to be highly probable. I would require it for the court finding before a green card or visa holder is removed. (standard meaning; site S8) ^g-clear-and-convincing-evidence
+
 **Close-in-age exception** - A rule, sometimes called a "Romeo and Juliet" clause, that relationships between teenagers close in age are not treated as statutory rape. I believe the age of consent should be 18 with such an exception. (standard meaning; site S6, S7) ^g-close-in-age-exception
 
 **Coercive conversion methods** - Forcible or abusive attempts to change a person's sexual orientation or gender identity. I believe they should be banned, while exploratory therapy (talking through a person's feelings without a set goal) should be allowed. (site S7) ^g-coercive-conversion-methods
@@ -136,6 +146,8 @@ The specialized terms I use, A to Z, each defined in my own words and linked to 
 **Coker v. Georgia (1977)** - Supreme Court case barring the death penalty for the rape of an adult woman where the victim is not killed. (standard meaning) ^g-coker-v-georgia-1977
 
 **Colorblind meritocracy** - The view that law and institutions should not treat people differently by race and should reward individual merit. As I write, "Every offender should be judged as an individual, by the same law," and "race doesn't matter in itself; culture and assimilation do" (S6, S7). (standard meaning; site S6, S7) ^g-colorblind-meritocracy
+
+**Combatant track** - My rule for foreign cartels formally designated as war enemies or Foreign Terrorist Organizations: their property should be seized as enemy property under the laws of war, without a domestic civilian conviction. It is not civil forfeiture, and domestic gangs and undesignated actors would still require a conviction and full due process. (site S3) ^g-combatant-track
 
 **Companions-in-guilt argument** - A reply to moral anti-realism: if moral facts are too strange to exist, so are other facts we accept, such as reasons for belief, so the anti-realist argument proves too much. S1 answers this reply in full. (standard meaning; site S1) ^g-companions-in-guilt-argument
 
@@ -154,6 +166,8 @@ The specialized terms I use, A to Z, each defined in my own words and linked to 
 **Corporate veil** - The legal separation that normally protects owners and managers from a company's debts and liabilities. "Piercing the veil" means a court holds them personally liable anyway, which I believe should happen for deliberate violations. (standard meaning; site S6) ^g-corporate-veil
 
 **Cosmopolitan liberalism** - Liberalism that gives equal moral weight to every person regardless of nationality, usually favoring open borders and global institutions. Jason Brennan pairs it with epistocracy; I pair epistocracy with civilizational nationalism. (standard meaning) ^g-cosmopolitan-liberalism
+
+**Cultural Marxism** - As I use it, the critical theory of the Frankfurt School and the strands that grew from it, which recast Marx's class struggle as oppressed groups against oppressors and carry it into culture, institutions, and education. I see it as the main way communism is carried today, and I condemn it because it assigns a person's standing by group instead of by merit or conduct. Critics call the term a conspiracy-theory label; I claim no plot, only published ideas and their spread. (site S2) ^g-cultural-marxism
 
 **Cultural traditionalism** - A preference for traditional family and social forms. Mine is "preference, not mandate": I believe traditional roles are best but should never be mandated. (standard meaning; site S7) ^g-cultural-traditionalism
 
@@ -191,9 +205,17 @@ The specialized terms I use, A to Z, each defined in my own words and linked to 
 
 **Displacement trigger (BLS trigger)** - My rule for AI job loss: after four straight quarters with the BLS labor share at least 3 points below its ten-year average and the prime-age employment-to-population ratio at least 2 points below its level three years earlier, the tax on capital income would rise from 15% to the 20% flat rate, then by a surcharge of up to 5 points after eight quarters, never above 25% including the transition surcharge and the Sanctuary Levy. Each step reverses when the measures recover for four quarters. (site S10) ^g-displacement-trigger-bls-trigger
 
+**Distributive justice (patterned principles)** - The question of how a society's goods should be shared. Robert Nozick contrasted patterned principles, such as "to each according to need," with historical ones that ask only whether holdings were justly acquired and transferred. I hold that distributive patterns are not themselves the measure of justice. (standard meaning; site S1) ^g-distributive-justice-patterned-principles
+
+**Dominant-party state** - A state that holds elections but where one party wins every time and governs for decades, as the People's Action Party has in Singapore since 1959. I want an epistocratic republic, not a dominant-party state. (standard meaning) ^g-dominant-party-state
+
 **Double jeopardy** - The Fifth Amendment rule that a person can't be tried twice for the same offense after an acquittal or conviction. My retrial-after-nullification rule departs from it, which I acknowledge (S3). (standard meaning; site S3) ^g-double-jeopardy
 
 **DSA** - Democratic Socialists of America, a left-wing political organization. (standard meaning) ^g-dsa
+
+**Due process** - The constitutional guarantee, in the Fifth and Fourteenth Amendments, that government cannot take life, liberty, or property without fair legal procedure: notice, a hearing, and an impartial judge. I believe maximal penalties should always come with strict due process. (standard meaning) ^g-due-process
+
+**Duty to retreat** - A rule in some U.S. states that a person must retreat, if they safely can, before using deadly force in self-defense outside the home; "stand your ground" laws remove it. I believe people should be free to defend themselves or others anywhere, with no duty to retreat. (standard meaning; site S3) ^g-duty-to-retreat
 
 ## E
 
@@ -249,6 +271,8 @@ The specialized terms I use, A to Z, each defined in my own words and linked to 
 
 **Executive discretion over federal property** - My view that the President may decide on monuments and improvements on property the executive already controls, preferably privately or opt-in funded, but that this discretion "is not a power to take new land, spend money Congress has not appropriated, or go beyond the laws that authorize the executive." (site S5, S12) ^g-executive-discretion-over-federal-property
 
+**Existential risk** - A risk that could cause human extinction or permanently and drastically curtail humanity's future, such as misaligned advanced AI or an engineered pandemic. I believe regulation should be limited to research that creates existential risk. (standard meaning; site S10) ^g-existential-risk
+
 **Experimentation track** - A sentence for offenders who have forfeited the right to life (the capital tier or three marks): instead of execution, they would be used as research subjects in place of animals. I believe the victim should choose between execution and experimentation; where the victim is dead or there is no single victim, the judge should choose and may not refuse. Harm outside the sentence, such as guard abuse unrelated to a study, should still be punished. (site S6, S10) ^g-experimentation-track
 
 **Expressivism** - The view that moral statements express attitudes such as approval or disapproval rather than describe facts. S1 says my view has "an expressive element." (standard meaning; site S1) ^g-expressivism
@@ -279,7 +303,13 @@ The specialized terms I use, A to Z, each defined in my own words and linked to 
 
 **Ford v. Wainwright (1986)** - Supreme Court case barring the execution of people who are insane at the time of execution. (standard meaning) ^g-ford-v-wainwright-1986
 
+**Foreign Terrorist Organization (FTO)** - A foreign group the U.S. Secretary of State formally designates as terrorist under the Immigration and Nationality Act; giving it material support becomes a federal crime, and its U.S. assets can be blocked. I believe designated foreign cartels should be treated as war enemies. (standard meaning; site S3, S8) ^g-foreign-terrorist-organization-fto
+
 **Forfeiture (rights forfeiture)** - In my framework, forfeiture should be triggered only when an agent crosses the threshold set in Axiom 6: violating another's negative rights through force or fraud, or directly imposing a severe, non-consensual risk of serious harm. I set this out in [[1. Ethical and Philosophical Framework#Axioms|Ethical and Philosophical Framework: Axioms]]. (site S1) ^g-forfeiture-rights-forfeiture
+
+**Frankfurt School (critical theory)** - A circle of Marxist thinkers at the Institute for Social Research in Frankfurt, founded in 1923, including Max Horkheimer, Theodor Adorno, and Herbert Marcuse. Their critical theory, as Horkheimer defined it in 1937, aims not at knowledge for its own sake but at changing society. (standard meaning; site S2) ^g-frankfurt-school-critical-theory
+
+**Free-market capitalism** - An economic system in which property is privately owned and prices, production, and trade are set by voluntary exchange rather than by the state. I support it, with regulation that has to justify itself and no business subsidies without opt-in. (standard meaning; site S5) ^g-free-market-capitalism
 
 **Free-market environmentalism** - Protecting the environment through property rights, markets, and liability for harm, rather than through mandates and subsidies. I treat pollution as a rights violation that the polluter pays for. (standard meaning; site S9) ^g-free-market-environmentalism
 
@@ -292,6 +322,8 @@ The specialized terms I use, A to Z, each defined in my own words and linked to 
 **Full retirement age** - The age at which Social Security pays unreduced benefits, 67 for people born in 1960 or later. (standard meaning) ^g-full-retirement-age
 
 **Fusionism** - The postwar American conservative blend, associated with Frank Meyer, of free-market liberty, traditional values, and anti-communism. It is one of the traditions closest to my view. (standard meaning) ^g-fusionism
+
+**Futurism** - As I use it, an outlook that welcomes and plans for a future reshaped by technology, such as AI, genetic enhancement, and lab-grown meat. It is not the early-20th-century Italian art movement of the same name. (site Worldview) ^g-futurism
 
 ## G
 
@@ -306,6 +338,8 @@ The specialized terms I use, A to Z, each defined in my own words and linked to 
 **Geneva limits on POW labor** - The Third Geneva Convention lets captors put prisoners of war to work only under limits: paid, safe, non-military work, and never officers by compulsion. I believe POWs a tribunal finds to have fought should be open to compelled labor beyond those limits. (standard meaning; site S8) ^g-geneva-limits-on-pow-labor
 
 **Gifted tracks** - Separate, faster classes for high-ability students. I believe every school system should be required to offer them. (site S5) ^g-gifted-tracks
+
+**Global South** - A broad term for the developing countries of Africa, Latin America, and much of Asia, used in place of "Third World." I believe ties with them should serve U.S. interests and help move supply chains away from China. (standard meaning; site S8) ^g-global-south
 
 **Gold Card** - Executive Order 14351's expedited immigrant-visa path for a \$1 million gift to the Department of Commerce. I grade it Directionally opposed because I believe admission should go by values and vetting, not wealth. (site S12) ^g-gold-card
 
@@ -335,9 +369,13 @@ The specialized terms I use, A to Z, each defined in my own words and linked to 
 
 **Hereditarian research** - Research holding that genetic differences explain part of measured group differences in traits such as IQ. S6 calls whether the ability gap is genetic "unresolved" and lays out both hereditarian and environmental research. (standard meaning; site S6) ^g-hereditarian-research
 
+**Hijra** - Muhammad's migration from Mecca to Medina in 622, which marks year one of the Islamic calendar; the Quran also makes migration a religious duty for believers who are oppressed where they live. As I use it, it also names Islamic expansion through migration and integration, a way of taking over countries from within. (standard meaning; site S4) ^g-hijra
+
 **Horse soring, bear baiting, angling, grazing** - Soring is deliberately injuring a horse's legs or hooves to exaggerate its gait in shows; bear baiting is hunting bears over food bait; angling is recreational fishing; grazing means livestock grazing on public land. As I write, the administration actions on each are graded Opposed. (site S12) ^g-horse-soring-bear-baiting-angling-grazing
 
 **Hostile conduct (loss of civilian protection)** - My rule that civilian protection should be absolute except for foreign actors who forfeit it by hostile conduct, as a court finds. Individuals found hostile this way, for example in the West Bank, should be forced out. (site S8) ^g-hostile-conduct-loss-of-civilian-protection
+
+**Hot-spot policing** - Concentrating police patrols and enforcement on the small areas, often a few blocks, where much of a city's crime clusters. A Campbell systematic review of 65 studies found small but significant crime reductions. I support it, with fast, harsh crackdowns in gang and high-crime areas. (standard meaning; site S6) ^g-hot-spot-policing
 
 ## I
 
@@ -363,6 +401,8 @@ The specialized terms I use, A to Z, each defined in my own words and linked to 
 
 **Islam (as an excluded ideology)** - As I write, "Islam is a political ideology whose goal is sharia, the rule of Islamic law," which is why it is the one religion among the four excluded ideologies. Belief, speech, and home practice would stay free. (site S1, S4) ^g-islam-as-an-excluded-ideology
 
+**Islamism** - The political project of ruling by Islamic law (sharia), whose jihadist wing pursues the same goal by terror. I condemn Islam itself, not only its political project, as one of the four excluded ideologies. (standard meaning; site S2) ^g-islamism
+
 **IVF, CRISPR, and embryo screening** - IVF (in vitro fertilization) creates embryos outside the body; embryo screening tests them for genetic conditions before implantation; CRISPR is a gene-editing tool. I support all three, IVF unrestricted. (standard meaning; site S10) ^g-ivf-crispr-and-embryo-screening
 
 ## J
@@ -383,11 +423,15 @@ The specialized terms I use, A to Z, each defined in my own words and linked to 
 
 ## L
 
+**Lab-grown meat** - Meat grown from animal cells instead of taken from slaughtered animals, also called cultivated or cultured meat. I see it as the goal and the replacement for animal agriculture, and I believe it should be allowed to compete and scale up even if it can't meet demand at the same cost right away. (standard meaning; site S9, S10) ^g-lab-grown-meat
+
 **Last-resort allowance** - A strictly means-tested allowance I would provide for severe disability and the elderly poor, from general revenue under the backstop logic, with fraud enforcement and periodic medical reviews; a narrow exception. I set this out in [[5. Domestic Policy & Governance#Welfare and Entitlements|Domestic Policy & Governance: Welfare and Entitlements]]. (site S5) ^g-last-resort-allowance
 
 **Law-firm orders and the Comey firing** - Executive orders limiting security clearances and federal access for specific law firms, and the 2025 firing of prosecutor Maurene Comey (daughter of former FBI Director James Comey) without stated cause, later ruled unlawful. I grade both Directionally opposed. (site S12) ^g-law-firm-orders-and-the-comey-firing
 
 **Legislative (prescriptive) anti-realism** - The label I use for my metaethics: I deny objective moral facts but still prescribe a system and want it enforced, rather than treating all views as equally valid (relativism). ^g-legislative-prescriptive-anti-realism
+
+**Lesser homicide** - My category for a self-defense killing that went too far but was close to justified, similar to what some U.S. states call imperfect self-defense. The prosecution should have to prove intent, and the judge should set a lighter sentence. (site S6) ^g-lesser-homicide
 
 **Liberal counter-jihad** - A label for secular, socially liberal politicians, such as Pim Fortuyn in the Netherlands, who oppose Islam and Muslim immigration in the name of liberal values like gay rights and women's equality. (standard meaning) ^g-liberal-counter-jihad
 
@@ -443,11 +487,17 @@ The specialized terms I use, A to Z, each defined in my own words and linked to 
 
 **Mugler v. Kansas (1887)** - Supreme Court case upholding Kansas's alcohol ban without compensation to a brewer, holding that banning a use harmful to the public is not a taking. My S9 Q&A cites it for the uncompensated Sanctuary Plan transfers. (site S9) ^g-mugler-v-kansas-1887
 
+**Multiculturalism** - The view or policy that a country should keep several distinct cultures side by side rather than expect newcomers to assimilate. I believe it works only when the cultures share important common values. (standard meaning; site S7) ^g-multiculturalism
+
+**Muslim Brotherhood** - A Sunni movement founded in Egypt in 1928 by Hassan al-Banna that seeks government by Islamic law, with national branches and offshoots, including Hamas, across the Middle East and in the West. I believe the U.S. should designate as a terrorist organization every chapter shown to support terrorism or to organize violence. (standard meaning; site S8) ^g-muslim-brotherhood
+
 ## N
 
 **Nation-building** - Using military occupation and aid to rebuild another country's government and institutions. I reject it: I believe the United States should avoid "open-ended nation-building" (S8). (standard meaning; site S8) ^g-nation-building
 
 **National conservatism** - A movement, associated with Yoram Hazony, that stresses national sovereignty, borders, cultural cohesion, and often religion in public life. (standard meaning) ^g-national-conservatism
+
+**National individualism** - My own label for my politics: rights belong to individuals, with free markets and a minimal, opt-in fiscal state, held within a strong nation defined by shared Western values, firm borders, and assimilation. I believe the state exists to protect negative rights and the security of the community that sustains them. (site Worldview) ^g-national-individualism
 
 **National initiative** - A constitutional amendment I support that would let qualified voters put federal statutes (1% of qualified voters' signatures) and amendments (2%) on the ballot. Only voters who meet the full election stack (ID, the voter license test, net-taxpayer status, no felony bar) may sign and vote, and no initiative can override protected rights. (site S3) ^g-national-initiative
 
@@ -473,6 +523,8 @@ The specialized terms I use, A to Z, each defined in my own words and linked to 
 
 **Normative ethics** - The part of ethics that asks which acts are right or wrong and why, as opposed to metaethics. (standard meaning) ^g-normative-ethics
 
+**Nozickian** - After Robert Nozick, whose Anarchy, State, and Utopia (1974) treats rights as side-constraints, defends a minimal state, and rejects distributive patterns as the measure of justice. My rights theory is Nozickian in that sense, with forfeiture and a minimal floor added. (standard meaning; site S1, S3) ^g-nozickian
+
 **Nuremberg Code** - The 1947 research-ethics principles from the Nazi doctors' trial, whose first rule is that "the voluntary consent of the human subject is absolutely essential." I acknowledge my experimentation track conflicts with it. (standard meaning; site S10) ^g-nuremberg-code
 
 ## O
@@ -483,6 +535,8 @@ The specialized terms I use, A to Z, each defined in my own words and linked to 
 
 **Organ use from condemned offenders** - My S10 position that organs from offenders sentenced to death, or at three marks on the execution or experimentation track, should be usable without consent, "under the same logic as the experimentation track," because their rights would be forfeited. (site S10) ^g-organ-use-from-condemned-offenders
 
+**Outer Space Treaty** - The 1967 treaty at the base of space law: it bars nuclear weapons and other weapons of mass destruction in orbit, bars any nation from claiming the Moon or other celestial bodies, and reserves them for peaceful purposes. I believe it should stay as the civil baseline but be read to allow defense. (standard meaning; site S8) ^g-outer-space-treaty
+
 ## P
 
 **Paid-leave mandate** - A law requiring employers to pay workers during family or medical leave. I oppose it. (standard meaning) ^g-paid-leave-mandate
@@ -492,6 +546,8 @@ The specialized terms I use, A to Z, each defined in my own words and linked to 
 **Patriots, ECR, ESN** - Three right-wing groups in the European Parliament: Patriots for Europe, European Conservatives and Reformists, and Europe of Sovereign Nations. (standard meaning) ^g-patriots-ecr-esn
 
 **Pattern recognition (pattern realism)** - My view that noticing real group patterns is reasonable even when a particular person turns out to be harmless, and that statistics shouldn't be denied. Group statistics never become verdicts on individuals; each person is judged on their own values and conduct. (site S6, S7, Worldview) ^g-pattern-recognition-pattern-realism
+
+**Pell Grants** - Federal grants for lower-income undergraduate students that, unlike loans, don't have to be repaid. I would make them opt-in. (standard meaning; site S5) ^g-pell-grants
 
 **Penal maximalism** - My label for using the most severe penalties across a wide range of crimes, such as mandatory death and the three-mark rule, all grounded in forfeiture. (site S6) ^g-penal-maximalism
 
@@ -517,6 +573,8 @@ The specialized terms I use, A to Z, each defined in my own words and linked to 
 
 **Procreative liberty** - John Robertson's principle that people have a strong liberty interest in deciding whether and how to have children, including through reproductive technology. My S10 views on IVF, embryo screening, gene editing, and cloning sit near it, though mine rest on sentience-based negative rights rather than autonomy alone. (standard meaning) ^g-procreative-liberty
 
+**Progressivism** - A reform movement on the left that seeks wider state action to correct social and economic inequality, often through group-based policy. I call myself non-progressivist: I believe the state should protect rights, not equalize outcomes or judge people by group. (standard meaning) ^g-progressivism
+
 **Prop 12 (California)** - A 2018 California ballot measure setting minimum space rules for egg-laying hens, breeding pigs, and veal calves and banning sales of products that don't meet them. S11 faults the Republican push to override it, since I believe the United States should ban animal agriculture. (standard meaning; site S11) ^g-prop-12-california
 
 **Prop 209 (Bleemer study)** - California's 1996 measure ending race-based admissions at public universities. Bleemer (2022) found that underrepresented minority applicants then enrolled at less selective colleges, earned fewer degrees, and earned about 5% less; my S7 cites it as counter-evidence and answers that it "does not make the preference just." (site S7) ^g-prop-209-bleemer-study
@@ -524,6 +582,8 @@ The specialized terms I use, A to Z, each defined in my own words and linked to 
 **Property exceptions (two)** - The two cases S3 puts outside my otherwise permanent property right: "one is barred by amendment, and in the other the owners forfeited it." The first is the building bar; the second is the Sanctuary Plan's uncompensated conversion of animal-industry firms. (site S3) ^g-property-exceptions-two
 
 **Prophylaxis** - A preventive measure taken before harm happens, rather than punishment after it. In my resolution of the first apparent tension on the Worldview page, the office bars and mosque cap are "prophylaxis, not punishment," protecting the rights order from ideologies hostile to it. (standard meaning; site Worldview) ^g-prophylaxis
+
+**Proportionality (punishment)** - The principle that a punishment or defensive response should match the severity of the wrong. In my framework it is applied once, at the forfeiture decision: what is forfeited corresponds to the violation. (standard meaning; site S1, S6) ^g-proportionality-punishment
 
 **Psychedelic therapy** - Clinical use of drugs like psilocybin or MDMA alongside therapy. I believe it should be available by prescription. (standard meaning) ^g-psychedelic-therapy
 
@@ -563,6 +623,8 @@ The specialized terms I use, A to Z, each defined in my own words and linked to 
 
 **Reparations** - Payments to make amends for a past wrong, here historical injustices against Black Americans. I would charge them only to voters of the responsible government, as a principle, while keeping the secret ballot. (site S7) ^g-reparations
 
+**Replacement fertility** - The birth rate at which a population replaces itself from one generation to the next without immigration, about 2.1 children per woman in developed countries. The U.S. rate was about 1.6 in 2024, and I believe America should get back above replacement. (standard meaning; site S5) ^g-replacement-fertility
+
 **Reproductive cloning and research cloning** - Reproductive cloning creates a baby genetically identical to an existing person; research cloning creates embryos for study. I believe reproductive cloning should not be banned, since a clone "is a person like anyone else, not a product," while research cloning should stay inside the fetal, sentience, and research rules, with no gestation to birth for research. (site S10) ^g-reproductive-cloning-and-research-cloning
 
 **Restore Britain and Reform UK** - Two British right-wing parties. Restore Britain, led by Rupert Lowe, is closest to me on crime, pledging a binding referendum on restoring the death penalty; Reform UK, led by Nigel Farage, is next. (site S11) ^g-restore-britain-and-reform-uk
@@ -570,6 +632,8 @@ The specialized terms I use, A to Z, each defined in my own words and linked to 
 **Restrictionism** - Favoring sharply lower immigration and tighter entry rules. I call my version "Values-selective", which selects by fit with Western values. (standard meaning) ^g-restrictionism
 
 **Retributivism** - The theory that punishment is justified because the offender deserves it, in proportion to the crime. I call my severe version "Hard retributivism through rights forfeiture", in which a crime forfeits the rights that would otherwise protect the offender. (standard meaning; site S6) ^g-retributivism
+
+**Rights-forfeiture theory of punishment** - The theory, defended by Christopher Heath Wellman, that punishment is permissible because an offender who violates another's rights forfeits some of their own. I apply it across my whole system: mandatory death, the three-mark rule, and the experimentation track. (standard meaning; site S1) ^g-rights-forfeiture-theory-of-punishment
 
 **Ritual slaughter** - Religious methods of slaughtering animals, such as halal and kosher slaughter without stunning. I believe it should be banned for every faith. (standard meaning; site S1, S4) ^g-ritual-slaughter
 
@@ -597,6 +661,8 @@ The specialized terms I use, A to Z, each defined in my own words and linked to 
 
 **Sanctuary system** - The sanctuaries and licensed nonprofit operators that would care for every animal alive at the shutdown for its natural life under the Sanctuary Plan. (site S9) ^g-sanctuary-system
 
+**Scientific naturalism** - The view that the natural world is all there is, or all we can know, and that science is the best way to know it. My naturalism is about method and evidence; my anti-naturalism is a separate claim, that nature is not a moral standard. (standard meaning; site S1) ^g-scientific-naturalism
+
 **Seafood strategy and rancher support** - The October 2026 America First Seafood Strategy promoting fishing and aquaculture, and the September 2026 orders supporting ranchers and livestock markets. I grade both Opposed because I believe animal agriculture and commercial fishing should end. (site S12) ^g-seafood-strategy-and-rancher-support
 
 **Secret ballot** - Voting in private so no one can know how a given person voted. (standard meaning) ^g-secret-ballot
@@ -615,9 +681,15 @@ The specialized terms I use, A to Z, each defined in my own words and linked to 
 
 **Sentientism** - Any being, biological or artificial, that possesses first-order subjective experience is to be treated as a rights-bearer under my framework. Higher-order self-awareness is not required. For elective abortion, I believe it should be banned from conception by constitutional amendment as a safeguard ([[Glossary Index#^g-abortion-ban-from-conception|Abortion ban (from conception)]]). The rights claim starts at 12 weeks; the earlier ban is not a rewrite of this criterion into conception-as-rights ([[7. Cultural & Social Issues#Abortion and Bioethics|Abortion and Bioethics]]). As I write in [[1. Ethical and Philosophical Framework#Axioms|Ethical and Philosophical Framework: Axioms]]. (site S1) ^g-sentientism
 
+**Sharia** - Islamic law, drawn from the Quran and the example of Muhammad as interpreted by jurists, covering worship, family life, and crime. I protect private religious practice in the home, but I believe sharia should never be state law. (standard meaning; site S4) ^g-sharia
+
 **Side-constraint** - Robert Nozick's term for a limit on action that may not be crossed even to reach a good goal. As I write, rights are side-constraints, "not goals to maximize," and "Negative rights are side-constraints against interference and harm." (site Glossary (Negative rights); site S1; standard meaning) ^g-side-constraint
 
 **SNAP** - The Supplemental Nutrition Assistance Program, often called food stamps. I believe it should be wound down, with phase-outs that honor current recipients. (standard meaning) ^g-snap
+
+**Social conservatism** - A political outlook that defends traditional morality, family structure, and religion's role in public life, often through law. I share the preference for traditional family life, but I am secular, oppose Christian law, and support same-sex marriage and legal vice. (standard meaning) ^g-social-conservatism
+
+**Social transition** - Treating a child as the other gender socially, through a new name, pronouns, clothing, or facilities, without medical treatment. I believe public schools should never socially transition students or keep it from parents. (standard meaning; site S7) ^g-social-transition
 
 **Socialism (excluded)** - **Excluded socialism** = the ideology of state or collective ownership of productive property, central planning in place of prices, and compulsory redistribution beyond a minimal rights-protection floor, imposed by force. That is what the excluded-ideologies amendment I support would bar from office and from building places that promote it ([[1. Ethical and Philosophical Framework#^excluded-ideologies|Excluded ideologies]]). **Not socialism as I use the term:** a flat income tax. The named minimal welfare / earnings-only top-up floor; or the time-limited flat [[Glossary Index#^g-sanctuary-levy|Sanctuary Levy]] (≤3%, income above \$75,000 single / \$150,000 joint) that funds sanctuary care for animals freed by the shutdown. Those are narrow compelled payments for named rights-protection jobs, not collective ownership of production. I judge social democracy (markets + a large welfare state) as too large a compulsory state, not as excluded socialism. Voluntary cooperatives competing in markets should be allowed. I set this out in [[5. Domestic Policy & Governance#Socialism|Domestic Policy: Socialism]]. (site S5) ^g-socialism-excluded
 
@@ -708,3 +780,5 @@ The specialized terms I use, A to Z, each defined in my own words and linked to 
 ## Z
 
 **Zero bracket** - The first slice of income taxed at 0% under my flat tax: about \$42,000 single and \$84,000 joint. (site S5) ^g-zero-bracket
+
+**Zero tolerance** - As I use it, every offense in the targeted categories is met with enforcement and punishment, without informal leniency or warnings. I apply it to criminals who violate others' rights and to riots, blockades, and takeovers. (site S6) ^g-zero-tolerance
