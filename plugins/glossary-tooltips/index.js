@@ -9,8 +9,7 @@
  *
  * Sources of truth:
  *   - terms.json (this folder): which terms, and the exact phrases that may match.
- *   - content/Glossary.md: definitions for terms that have a site Glossary entry.
- *   - content/Glossary Index.md: definitions for every other term.
+ *   - content/Glossary Index.md: the definition for every term.
  */
 import fs from "node:fs"
 import path from "node:path"
@@ -32,30 +31,7 @@ function mdToText(s) {
     .trim()
 }
 
-function headingSlug(h) {
-  // github-slugger compatible for the headings used here
-  return h
-    .toLowerCase()
-    .replace(/[^\p{L}\p{N}\- ]/gu, "")
-    .replace(/ /g, "-")
-}
 
-function readGlossary(contentDir) {
-  const out = new Map()
-  const file = path.join(contentDir, "Glossary.md")
-  if (!fs.existsSync(file)) return out
-  const src = fs.readFileSync(file, "utf8")
-  const parts = src.split(/^## /m).slice(1)
-  for (const part of parts) {
-    const nl = part.indexOf("\n")
-    const heading = part.slice(0, nl).trim()
-    let body = part.slice(nl + 1)
-    body = body.split(/^---\s*$/m)[0]
-    body = body.split(/^Set out in /m)[0]
-    out.set(heading, mdToText(body))
-  }
-  return out
-}
 
 function readIndex(contentDir) {
   const out = new Map()
@@ -71,23 +47,13 @@ function readIndex(contentDir) {
 
 function loadTerms(contentDir) {
   const spec = JSON.parse(fs.readFileSync(path.join(HERE, "terms.json"), "utf8"))
-  const glossary = readGlossary(contentDir)
   const index = readIndex(contentDir)
   const terms = []
   for (const t of spec.terms) {
-    let def, src, href
-    if (t.glossaryHeading) {
-      def = glossary.get(t.glossaryHeading)
-      src = "site Glossary"
-      href = "glossary#" + headingSlug(t.glossaryHeading)
-    } else {
-      const e = index.get(t.id)
-      if (e) {
-        def = e.def
-        src = e.src
-      }
-      href = "glossary-index#" + t.id
-    }
+    const e = index.get(t.id)
+    const def = e ? e.def : undefined
+    const src = e ? e.src : undefined
+    const href = "glossary-index#" + t.id
     if (!def) continue // no definition on the site yet: no tooltip
     const regexes = t.patterns.map((pat) => {
       const o = typeof pat === "string" ? { re: pat } : pat
@@ -235,14 +201,9 @@ function hash(s) {
 
 // ---------- transformer ----------
 function selfWrap(tree, slug, terms, prefix, counter, used) {
-  // On the two glossary pages, each entry's own label is wrapped with its own definition.
-  const byHeading = new Map()
+  // On the glossary page, each entry's own label is wrapped with its own definition.
   const byId = new Map()
-  for (const t of terms) {
-    if (t.glossaryHeading && !byHeading.has(t.glossaryHeading.toLowerCase()))
-      byHeading.set(t.glossaryHeading.toLowerCase(), t)
-    byId.set(t.id, t)
-  }
+  for (const t of terms) byId.set(t.id, t)
   const wrapAll = (el, t) => {
     const kids = el.children ?? []
     const i = kids.findIndex((c) => c.type === "text" && c.value.trim())
@@ -259,11 +220,6 @@ function selfWrap(tree, slug, terms, prefix, counter, used) {
   }
   ;(function walk(node) {
     if (node.type !== "element" && node.type !== "root") return
-    if (slug === "glossary" && node.tagName === "h2") {
-      const t = byHeading.get(textOf(node).trim().toLowerCase())
-      if (t) wrapAll(node, t)
-      return
-    }
     if (slug === "glossary-index" && node.tagName === "p") {
       const id = String(node.properties?.id ?? "")
       const first = (node.children ?? []).find((c) => !(c.type === "text" && !c.value.trim()))

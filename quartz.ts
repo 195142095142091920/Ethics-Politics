@@ -25,6 +25,7 @@ const explorerSortFn = new Function(
     "11. modern political parties",
     "12. current administration",
     "13. news commentary",
+    "glossary index",
     "glossary"
   ];
   function rank(n) {

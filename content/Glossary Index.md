@@ -1,7 +1,9 @@
 ---
 title: Glossary Index
+aliases:
+  - glossary
 ---
-The specialized terms used across the site, A to Z. Terms that already have an entry on the [[Glossary]] point there. Hover over, focus, or tap an underlined term on any page to see its definition.
+The specialized terms used across the site, A to Z, each defined in the site's own words and linked to where it is set out. Unless a definition is describing a real-world concept, these are terms as I use them in my proposed framework, not current law. Hover over, focus, or tap an underlined term on any page to see its definition.
 
 ## 0-9
 
@@ -15,7 +17,7 @@ The specialized terms used across the site, A to Z. Terms that already have an e
 
 **Abolitionist project (Pearce)** - David Pearce's proposal to use technology to abolish suffering in all sentient life, including suffering caused by predation in the wild. On my site it means the future "reordering of nature against predation and suffering," pursued within U.S. borders in phases, with no step that causes more suffering than it prevents. (standard meaning; site S1, S7, S10) ^g-abolitionist-project-pearce
 
-**Abortion ban from conception** - See [[Glossary#Abortion ban (from conception)|Abortion ban (from conception)]] on the Glossary page. ^g-abortion-ban-from-conception
+**Abortion ban from conception** - The legal rule I support on elective abortion: it should be banned from conception, fixed by constitutional amendment. Sentience remains the moral and rights theory. The rights claim starts at 12 weeks, the earliest point in the published expert range for possible fetal sentience onset (~12 weeks to after 24-28 weeks). Before 12 weeks the ban would be a safeguard, not a rights claim: no one can pin down exactly when sentience starts, and countries that set a week limit keep raising it. Denmark and Norway raised their on-request limits from 12 to 18 weeks in 2025, France from 12 to 14 weeks in 2022, and Massachusetts Chapter 188 loosened later-term rules in 2026. The amendment should not move later when onset estimates are revised upward, and it should not be revised by the animal sentience-class board. Rape and life-of-mother exceptions should follow the responsibility and conflicts rules in the Abortion topic. Set out in [[7. Cultural & Social Issues#Abortion and Bioethics|Cultural & Social Issues: Abortion and Bioethics]]. (site S7) ^g-abortion-ban-from-conception
 
 **ACLED** - The Armed Conflict Location & Event Data project, which tracks protests and political violence; it found campus protests 97% peaceful. (standard meaning) ^g-acled
 
@@ -23,7 +25,7 @@ The specialized terms used across the site, A to Z. Terms that already have an e
 
 **Actuarial sex facts** - Sex-based statistics on risk, such as life expectancy or accident rates, used in insurance pricing. I believe this is the one group statistic insurers should be allowed to use. (site S7) ^g-actuarial-sex-facts
 
-**Agency** - See [[Glossary#Agency|Agency]] on the Glossary page. ^g-agency
+**Agency** - Responsibility rests on agency, which scales with cognitive and experiential sophistication; only an agent can generate duties through voluntary choice or forfeit rights through deliberate violation. Set out in [[1. Ethical and Philosophical Framework#Minors and Incompetent Adults|Ethical and Philosophical Framework: Minors and Incompetent Adults]]. (site S1) ^g-agency
 
 **Agnostic atheism** - Not believing in any god (atheism) while holding that the question can't be settled with certainty (agnosticism). The site ties mine to burden-of-proof skepticism: a claim needs testable, repeatable proof before I accept it. (standard meaning; site S1) ^g-agnostic-atheism
 
@@ -85,7 +87,7 @@ The specialized terms used across the site, A to Z. Terms that already have an e
 
 ## C
 
-**Capital evidentiary standard** - See [[Glossary#Capital evidentiary standard|Capital evidentiary standard]] on the Glossary page. ^g-capital-evidentiary-standard
+**Capital evidentiary standard** - Nobody should be executed unless the proof is overwhelming and backed by objective evidence such as video and physical evidence, not just testimony. Set out in [[6. Criminal Justice & Security#Evidentiary Standard|Criminal Justice & Security: Evidentiary Standard]]. (site S6) ^g-capital-evidentiary-standard
 
 **Capital track** - Crimes I would treat as capital: punished by death (public) or the experimentation track, under the capital evidentiary standard. They include murder, violent rape, child molestation, kidnapping, trafficking, selling hard drugs, cruelty causing lasting injury, and killing a high-class animal. (site S1, S6) ^g-capital-track
 
@@ -159,13 +161,13 @@ The specialized terms used across the site, A to Z. Terms that already have an e
 
 **Data box** - A collapsible callout on my site that collects figures and studies on a topic, including counter-evidence. (site) ^g-data-box
 
-**Day fines (income-scaled fines)** - See [[Glossary#Income-scaled fine|Income-scaled fine]] on the Glossary page. ^g-day-fines-income-scaled-fines
+**Day fines (income-scaled fines)** - Any criminal, civil, or regulatory fine should be set in proportion to the offender's income and wealth. Individuals should pay day fines with no floor or cap, always alongside labor that scales with severity. Corporations should pay a share of global revenue, or their gain from the offense if higher, and the CEO should be personally responsible by default, serving the labor and paying a personal fine; the same should apply to heads of nonprofits and religious groups. Set out in [[6. Criminal Justice & Security#Income-Scaled Fines|Criminal Justice & Security: Income-Scaled Fines]]. (site S6) ^g-day-fines-income-scaled-fines
 
 **Day-one bans** - My position that animal agriculture, fishing, aquaculture, breeding mills, and animal testing should be "banned outright and instantly," with "no lag at all" and no gradual wind-down (S1). (site S1, S9) ^g-day-one-bans
 
 **Death row** - The years-long wait between a death sentence and execution. I want 30-day capital trials and same-day execution, with no death row. (standard meaning; site S6) ^g-death-row
 
-**Debt brake** - See [[Glossary#Debt brake|Debt brake]] on the Glossary page. ^g-debt-brake
+**Debt brake** - An automatic rule I would adopt that would raise the temporary income surcharge when debt runs above its legislated path, be suspended in recessions, and force spending cuts if it stays on. Set out in [[5. Domestic Policy & Governance#Fiscal Policy|Domestic Policy & Governance: Fiscal Policy]] and [[5. Domestic Policy & Governance#^surcharge|Taxation]]. (site S5) ^g-debt-brake
 
 **Deceptive candidacies** - Candidates entered mainly to mislead voters or split the vote. I believe the rules for handling them should be fixed before the election (S3 Ballot Access and Deceptive Candidacies). (standard meaning; site S3) ^g-deceptive-candidacies
 
@@ -179,7 +181,7 @@ The specialized terms used across the site, A to Z. Terms that already have an e
 
 **Deontology** - Ethics built on duties and rights that may not be violated, rather than on producing the best outcomes. Its main rival is utilitarianism. (standard meaning) ^g-deontology
 
-**Desert** - See [[Glossary#Desert|Desert]] on the Glossary page. ^g-desert
+**Desert** - Desert means punishment matched to what the offender earned by the crime, regardless of whether it deters. Set out in [[6. Criminal Justice & Security#Deterrence and the Justification for Capital Punishment|Criminal Justice & Security: Deterrence and the Justification for Capital Punishment]]. (standard meaning; site S6) ^g-desert
 
 **Deterrence** - Justifying punishment by its power to discourage future crime. I do not ground punishment in deterrence; I ground it in desert, incapacitation, and forfeiture. (standard meaning; site S6) ^g-deterrence
 
@@ -195,7 +197,7 @@ The specialized terms used across the site, A to Z. Terms that already have an e
 
 ## E
 
-**Earnings-only top-up** - See [[Glossary#Earnings-only top-up|Earnings-only top-up]] on the Glossary page. ^g-earnings-only-top-up
+**Earnings-only top-up** - Under my tax plan, low earners would receive a top-up built into the flat tax's zero bracket: a negative income tax paid only on earned income, never for not working. Set out in [[5. Domestic Policy & Governance#Welfare and Entitlements|Domestic Policy & Governance: Welfare and Entitlements]]. (site S5) ^g-earnings-only-top-up
 
 **East Potomac golf closure** - The Park Service's 2026 move to close the public golf course at East Potomac Park in Washington for redevelopment, now paused by a court order. I grade it Directionally opposed. (site S12) ^g-east-potomac-golf-closure
 
@@ -223,7 +225,7 @@ The specialized terms used across the site, A to Z. Terms that already have an e
 
 **Epistocracy** - "Epistocracy means rule by the knowledgeable." The term is Jason Brennan's. In my system the vote would go to citizens who meet a stake qualification and a competence qualification. (site Glossary; site S3) ^g-epistocracy
 
-**Epistocratic republic** - See [[Glossary#Epistocratic republic|Epistocratic republic]] on the Glossary page. ^g-epistocratic-republic
+**Epistocratic republic** - The constitutional republic I support, with a qualified (restricted) franchise, also called a limited democracy rather than a full democracy. Epistocracy means rule by the knowledgeable. Elections, ranked-choice voting, and the Constitution would stay, and the vote should go to citizens who meet a stake qualification, the [[Glossary Index#^g-net-taxpayer-franchise-net-fiscal-voting-bar|net fiscal voting bar]], and a competence qualification, the voter license test on issues, civics, and laws. Set out in [[3. Authority & Civil Liberties#Epistocratic Republic and Qualified Franchise|Authority & Civil Liberties: Epistocratic Republic and Qualified Franchise]]. (site S3) ^g-epistocratic-republic
 
 **ESA "harm" rule (Endangered Species Act)** - The Endangered Species Act. Its regulatory definition of "harm," which since 1981 covered habitat damage that actually kills or injures listed wildlife, was rescinded effective September 14, 2026. I grade that Opposed. (site S12) ^g-esa-harm-rule-endangered-species-act
 
@@ -259,13 +261,13 @@ The specialized terms used across the site, A to Z. Terms that already have an e
 
 **Federalism** - Dividing power between the national government and the states. Mine puts defense, borders, and immigration at the federal level and schools at the local level. (standard meaning) ^g-federalism
 
-**Felony and misdemeanor** - See [[Glossary#Felony and misdemeanor|Felony and misdemeanor]] on the Glossary page. ^g-felony-and-misdemeanor
+**Felony and misdemeanor** - As I would define them, a felony is any offense worth two or more marks, or any capital-tier crime. A misdemeanor is any offense worth one mark or a fine without a mark. Set out in [[6. Criminal Justice & Security#Repeat Offenders and Forfeiture of the Right to Life|Criminal Justice & Security: Repeat Offenders and Forfeiture of the Right to Life]]. (site S6) ^g-felony-and-misdemeanor
 
 **FISA 702** - Section 702 of the Foreign Intelligence Surveillance Act, which lets agencies collect communications of foreigners abroad from U.S. providers without a warrant and sweeps in Americans' messages. S3 cites a 2022 FISA Court finding of more than 278,000 noncompliant FBI queries. (standard meaning; site S3) ^g-fisa-702
 
 **Fiscal conservatism** - A politics of low taxes, limited spending, and balanced budgets. (standard meaning) ^g-fiscal-conservatism
 
-**Fixed-term labor track** - See [[Glossary#Fixed-term labor track|Fixed-term labor track]] on the Glossary page. ^g-fixed-term-labor-track
+**Fixed-term labor track** - The fixed-term labor track, as I would set it, is the lesser tier, one or two marks, served for a term the judge should set in proportion to the harm, with a known end date. Set out in [[6. Criminal Justice & Security#Abolition of Permanent Incarceration and Compelled Labor|Criminal Justice & Security: Abolition of Permanent Incarceration and Compelled Labor]]. (site S6) ^g-fixed-term-labor-track
 
 **Flag-burning prosecution** - The August 2025 executive order directing prosecution tied to flag burning. I grade it Opposed because I believe only true threats and incitement should be punishable. (site S12) ^g-flag-burning-prosecution
 
@@ -277,7 +279,7 @@ The specialized terms used across the site, A to Z. Terms that already have an e
 
 **Ford v. Wainwright (1986)** - Supreme Court case barring the execution of people who are insane at the time of execution. (standard meaning) ^g-ford-v-wainwright-1986
 
-**Forfeiture (rights forfeiture)** - See [[Glossary#Rights forfeiture|Rights forfeiture]] on the Glossary page. ^g-forfeiture-rights-forfeiture
+**Forfeiture (rights forfeiture)** - In my framework, forfeiture should be triggered only when an agent crosses the threshold set in Axiom 6: violating another's negative rights through force or fraud, or directly imposing a severe, non-consensual risk of serious harm. Set out in [[1. Ethical and Philosophical Framework#Axioms|Ethical and Philosophical Framework: Axioms]]. (site S1) ^g-forfeiture-rights-forfeiture
 
 **Free-market environmentalism** - Protecting the environment through property rights, markets, and liability for harm, rather than through mandates and subsidies. I treat pollution as a rights violation that the polluter pays for. (standard meaning; site S9) ^g-free-market-environmentalism
 
@@ -311,7 +313,7 @@ The specialized terms used across the site, A to Z. Terms that already have an e
 
 **GOP** - "Grand Old Party," the U.S. Republican Party. (standard meaning) ^g-gop
 
-**Grave tier** - See [[Glossary#Grave tier|Grave tier]] on the Glossary page. ^g-grave-tier
+**Grave tier** - In my framework, the grave tier would cover grave abuse that does not cause lasting injury; it would count as three marks at once: execution, experimentation, or life with labor, as the victim chooses. Set out in [[6. Criminal Justice & Security#Abolition of Permanent Incarceration and Compelled Labor|Criminal Justice & Security: Abolition of Permanent Incarceration and Compelled Labor]]. (site S6) ^g-grave-tier
 
 **Green card** - U.S. lawful permanent residence. I believe green-card and visa holders should be removed after a court finding by clear and convincing evidence, for welfare use, failing the civics test, or any crime above a basic infraction. (standard meaning; site S8) ^g-green-card
 
@@ -351,7 +353,7 @@ The specialized terms used across the site, A to Z. Terms that already have an e
 
 **Index account** - A low-cost private investment account that every adult would be enrolled in by default, with a free opt-out and no taxpayer seed. The state should not run or hold the accounts. (site S10) ^g-index-account
 
-**Infestation** - See [[Glossary#Infestation (pest)|Infestation (pest)]] on the Glossary page. ^g-infestation
+**Infestation** - When a high-class pest population occupies a **dwelling**, a **food store**, or a **medical facility** in a way that foreseeably spreads pathogens or destroys necessary stores. Those three sites only. A food store is a structure used to store food for persons or animals under care — not an open field, and not a general agricultural barn that is not a food store. A qualifying infestation is a clear disease or rights threat: lethal control of the occupying population should be treated as lawful self-defense / defense of rights, with separation or exclusion first where they will work and the least-harmful method should be required. Pest status should not demote the species. Rats, mice, pigeons, and other high-class animals should stay in the high class. Preventive area-wide extermination of high-class animals that are not occupying a qualifying site remains murder. Hunger, nuisance alone, or fear that pests might arrive later is not an infestation. Set out in [[7. Cultural & Social Issues#Hunting, Fishing, Pets, and Zoos|Cultural & Social Issues: Hunting, Fishing, Pets, and Zoos]] and [[1. Ethical and Philosophical Framework#Animal Rights and Sentientism|Ethical and Philosophical Framework: Animal Rights and Sentientism]]. (site S7, S1) ^g-infestation
 
 **Interventionism (foreign policy)** - A foreign policy willing to use force abroad. One label for mine is interventionism that punishes threats but rejects nation-building. (standard meaning) ^g-interventionism-foreign-policy
 
@@ -381,7 +383,7 @@ The specialized terms used across the site, A to Z. Terms that already have an e
 
 ## L
 
-**Last-resort allowance** - See [[Glossary#Last-resort allowance|Last-resort allowance]] on the Glossary page. ^g-last-resort-allowance
+**Last-resort allowance** - A strictly means-tested allowance I would provide for severe disability and the elderly poor, from general revenue under the backstop logic, with fraud enforcement and periodic medical reviews; a narrow exception. Set out in [[5. Domestic Policy & Governance#Welfare and Entitlements|Domestic Policy & Governance: Welfare and Entitlements]]. (site S5) ^g-last-resort-allowance
 
 **Law-firm orders and the Comey firing** - Executive orders limiting security clearances and federal access for specific law firms, and the 2025 firing of prosecutor Maurene Comey (daughter of former FBI Director James Comey) without stated cause, later ruled unlawful. I grade both Directionally opposed. (site S12) ^g-law-firm-orders-and-the-comey-firing
 
@@ -407,7 +409,7 @@ The specialized terms used across the site, A to Z. Terms that already have an e
 
 **Mandated choice and presumed consent** - Presumed consent treats everyone as an organ donor unless they opt out; mandated choice requires everyone to state a yes or no, as when getting a driver's license. I believe in mandated choice, never presumed consent. (standard meaning; site S10) ^g-mandated-choice-and-presumed-consent
 
-**Mark** - See [[Glossary#Mark|Mark]] on the Glossary page. ^g-mark
+**Mark** - In my framework, a mark would be a recorded conviction counted toward the repeat-offender threshold, and every mark would include supervised hard labor. Every mark should require proof beyond reasonable doubt. Set out in [[6. Criminal Justice & Security#Repeat Offenders and Forfeiture of the Right to Life|Criminal Justice & Security: Repeat Offenders and Forfeiture of the Right to Life]]. (site S6) ^g-mark
 
 **Market pronatalism** - Pronatalism is policy aimed at raising birth rates. Mine uses credits, tax relief, and housing deregulation rather than mandates, with a goal of 2.1 children per woman; "the nation should renew itself through its own families" (S5). (standard meaning; site S5) ^g-market-pronatalism
 
@@ -431,7 +433,7 @@ The specialized terms used across the site, A to Z. Terms that already have an e
 
 **Money bail and pretrial release** - Money bail requires a payment to be released before trial, refunded if the defendant shows up to court. I believe defendants should be released before trial by default and money bail abolished. (standard meaning; site S3) ^g-money-bail-and-pretrial-release
 
-**Moral anti-realism** - See [[Glossary#Moral anti-realism|Moral anti-realism]] on the Glossary page. ^g-moral-anti-realism
+**Moral anti-realism** - Moral anti-realism is the view that there are no moral facts that hold independently of what anyone thinks or prescribes. Set out in [[1. Ethical and Philosophical Framework#Moral anti-realism|Ethical and Philosophical Framework: Moral anti-realism]]. (standard meaning; site S1) ^g-moral-anti-realism
 
 **Moral realism** - The view that there are objective moral facts that hold whatever anyone thinks. "Realist replies" are the counterarguments realists make against anti-realism, which S1 answers. (standard meaning) ^g-moral-realism
 
@@ -453,7 +455,7 @@ The specialized terms used across the site, A to Z. Terms that already have an e
 
 **Nazism and communism** - Nazism is the racist, totalitarian ideology of Hitler's Germany; communism is the ideology of abolishing private property under one-party rule, as in the Soviet Union and Maoist China. Both are among my four excluded ideologies. (standard meaning; site S1) ^g-nazism-and-communism
 
-**Negative rights** - See [[Glossary#Negative rights|Negative rights]] on the Glossary page. ^g-negative-rights
+**Negative rights** - Negative rights are side-constraints against interference and harm. Set out in [[1. Ethical and Philosophical Framework#Axioms|Ethical and Philosophical Framework: Axioms]]. (standard meaning; site S1) ^g-negative-rights
 
 **Negative utilitarianism** - A form of utilitarianism focused on reducing suffering rather than increasing happiness. David Pearce holds it; I am deontological instead. (standard meaning) ^g-negative-utilitarianism
 
@@ -461,7 +463,7 @@ The specialized terms used across the site, A to Z. Terms that already have an e
 
 **Neoconservatism** - An American foreign-policy school that favors using U.S. power to spread democracy, including through regime change and nation-building. I reject nation-building and democracy promotion. (standard meaning) ^g-neoconservatism
 
-**Net-taxpayer franchise (net fiscal voting bar)** - See [[Glossary#Net fiscal voting bar|Net fiscal voting bar]] on the Glossary page. ^g-net-taxpayer-franchise-net-fiscal-voting-bar
+**Net-taxpayer franchise (net fiscal voting bar)** - I believe only net taxpayers should vote. A person would count as a net taxpayer for the prior completed tax year when taxes paid exceed personally directed transfers received and income-tax liability is positive. The franchise would track current net contribution, not lifetime payroll history, because the franchise decides other people's money. Also called the net taxpayer voting bar. The full measurement rules — what counts as a transfer received, which taxes count as paid, the tax-filing unit, joint filers, refundable credit cash-outs, the mothers' exemption, grandfathered Social Security and Medicare, and when the bar lifts — are set out in [[3. Authority & Civil Liberties#^net-fiscal-vote|Authority & Civil Liberties: net fiscal voting bar]] and the questions under [[3. Authority & Civil Liberties#Voting and Elections|Voting and Elections]]. (site S3) ^g-net-taxpayer-franchise-net-fiscal-voting-bar
 
 **NGO grants** - Government money given to nongovernmental (nonprofit) organizations. I believe grants should end, with contracts for specific services only. (standard meaning; site S5) ^g-ngo-grants
 
@@ -475,7 +477,7 @@ The specialized terms used across the site, A to Z. Terms that already have an e
 
 ## O
 
-**Office bar (authority roles)** - See [[Glossary#Office bar (authority roles)|Office bar (authority roles)]] on the Glossary page. ^g-office-bar-authority-roles
+**Office bar (authority roles)** - Civic disability I would apply to adherents of an [[1. Ethical and Philosophical Framework#^excluded-ideologies|excluded ideology]] (Nazism, communism, socialism, Islam): they should not be allowed to hold **authority roles** — elected or appointed public office; law enforcement, military, and intelligence; judges and prosecutors; immigration and other adjudicators who decide status or benefits; K-12 public curriculum authority. Those roles should be sworn. Lying on the oath should be perjury ([[4. Religion & Secularism#^office-bar|Oath of Office and Perjury]]). **Not covered:** ordinary non-authority taxpayer jobs (accountant, grounds worker, non-adjudicative clerk, and the like). Belief, speech, and home practice would stay free. The separate **building bar** would cap places that promote an excluded ideology ([[3. Authority & Civil Liberties#^building-bar|Property Rights]]). (site S1, S3, S4) ^g-office-bar-authority-roles
 
 **Opt-in (fiscal voluntarism)** - My rule that welfare, Social Security, Medicare, the public health plan, subsidies, and similar programs should be opt-in. For subsidies, any public money should be "drawn only from taxpayers who opt in to fund it" (S9). (site S5, S9, S10) ^g-opt-in-fiscal-voluntarism
 
@@ -549,7 +551,7 @@ The specialized terms used across the site, A to Z. Terms that already have an e
 
 **Realism (foreign policy)** - The view in international relations that states act and should act on national interest and power rather than ideals or international law. My site calls mine "America First realism with selective Western imperialism" (S8). (standard meaning; site S8) ^g-realism-foreign-policy
 
-**Rebuttable presumption** - See [[Glossary#Rebuttable presumption (immigration)|Rebuttable presumption (immigration)]] on the Glossary page. ^g-rebuttable-presumption
+**Rebuttable presumption** - A starting assumption against admission that an individual applicant could overcome with clear and convincing evidence of conduct and record, never by declaration alone. I would apply it to Muslim applicants and to applicants from countries where Islamist movements govern or where most people back state-enforced religious law. Set out in [[8. Foreign Policy & International Relations#Immigration and Borders|Foreign Policy & International Relations: Immigration and Borders]]. (site S8) ^g-rebuttable-presumption
 
 **Red-flag laws** - Laws letting a court temporarily remove guns from someone shown to be a danger to themselves or others. I support them by court order, with background checks. (standard meaning; site S7) ^g-red-flag-laws
 
@@ -587,9 +589,9 @@ The specialized terms used across the site, A to Z. Terms that already have an e
 
 **Sanctuary forfeiture** - My site's ground for taking animal-industry assets without compensation: "Animal-industry firms forfeited those property protections by using their assets to violate animals' rights." Those assets would be compelled to convert, divest, or liquidate, with no compensation to owners and shareholders; S3 calls it "a one-time forfeiture, not a break in the property right." (site S1 (note "Forfeiture: Sanctuary Plan and property"); site S3, S9) ^g-sanctuary-forfeiture
 
-**Sanctuary Levy** - See [[Glossary#Sanctuary Levy|Sanctuary Levy]] on the Glossary page. ^g-sanctuary-levy
+**Sanctuary Levy** - A single flat, time-limited levy I would impose on income above its own line, never above 3%, legally dedicated to sanctuary care for the animals alive when animal agriculture, commercial fishing, breeding mills, and animal testing shut down, to repaying the sanctuary bonds, and to a closing endowment for the last animals. It should only be lowered, and it should end when the national sanctuary population falls below 1% of its starting animal units and the bonds are repaid. Set out in [[9. Energy & Environment#Sanctuary Plan|Energy & Environment: Sanctuary Plan]] and [[5. Domestic Policy & Governance#Taxation|Domestic Policy & Governance: Taxation]]. (site S9, S5) ^g-sanctuary-levy
 
-**Sanctuary license** - See [[Glossary#Sanctuary license|Sanctuary license]] on the Glossary page. ^g-sanctuary-license
+**Sanctuary license** - The license a nonprofit would have to hold to run a sanctuary under the Sanctuary Plan after the emergency phase. It would set care standards, sterilization, adoption vetting and unannounced inspections, and bar the sale of animals or animal products and all breeding. Licensed operators should be paid a fixed amount per animal per year from the Sanctuary Levy, accredited by an independent body and inspected by the state, and should hold use of the land, never ownership, while any animals remain on it. Each site should transfer from the state once its operator passes accreditation. Set out in [[9. Energy & Environment#Handover to Nonprofit Operators|Energy & Environment: Handover to Nonprofit Operators]]. (site S9) ^g-sanctuary-license
 
 **Sanctuary Plan** - My plan for a day-one shutdown of animal agriculture, wild-capture commercial fishing, aquaculture, commercial breeding mills, and animal testing, with no wind-down. Every animal alive that day should be kept alive in sanctuary (then licensed nonprofit care) or adopted under strict vetting, with no breeding, funded by converted or liquidated industry equity, sanctuary bonds, and the Sanctuary Levy. (site S9) ^g-sanctuary-plan
 
@@ -609,15 +611,15 @@ The specialized terms used across the site, A to Z. Terms that already have an e
 
 **Self-debunking objection** - A reply that the evolutionary debunking argument undercuts itself: if evolution makes moral beliefs unreliable, it would make the debunker's own reasoning unreliable too. S1 answers it in full. (standard meaning; site S1) ^g-self-debunking-objection
 
-**Sentience classes** - See [[Glossary#Sentience class|Sentience class]] on the Glossary page. ^g-sentience-classes
+**Sentience classes** - The class a species would fall in for criminal purposes under my framework, set by an expert board on the best available scientific consensus and revised only for acts after a revision takes effect. The high class would cover mammals, birds, cephalopods, and decapod crustaceans such as crabs and lobsters — including rats, mice, and pigeons; fish and shrimp would be placed species by species; bivalves and insects would sit on the lowest, precautionary tier. Pest status should not demote a species. Deliberately killing a high-class animal outside self-defense or defense of rights is murder and should be on the capital track; a qualifying [[Glossary Index#^g-infestation|infestation]] at a dwelling, food store, or medical facility is a clear disease or rights threat under that defense; killing a lower-class animal should be a mark; deliberately killing a lowest-tier animal should carry a small fine. Set out in [[1. Ethical and Philosophical Framework#^sentience-classes|Ethical and Philosophical Framework: Sentience Determination]]. (site S1) ^g-sentience-classes
 
-**Sentientism** - See [[Glossary#Sentience basis (sentientism)|Sentience basis (sentientism)]] on the Glossary page. ^g-sentientism
+**Sentientism** - Any being, biological or artificial, that possesses first-order subjective experience is to be treated as a rights-bearer under my framework. Higher-order self-awareness is not required. For elective abortion, I believe it should be banned from conception by constitutional amendment as a safeguard ([[Glossary Index#^g-abortion-ban-from-conception|Abortion ban (from conception)]]). The rights claim starts at 12 weeks; the earlier ban is not a rewrite of this criterion into conception-as-rights ([[7. Cultural & Social Issues#Abortion and Bioethics|Abortion and Bioethics]]). Set out in [[1. Ethical and Philosophical Framework#Axioms|Ethical and Philosophical Framework: Axioms]]. (site S1) ^g-sentientism
 
 **Side-constraint** - Robert Nozick's term for a limit on action that may not be crossed even to reach a good goal. On my site rights are side-constraints, "not goals to maximize," and "Negative rights are side-constraints against interference and harm." (site Glossary (Negative rights); site S1; standard meaning) ^g-side-constraint
 
 **SNAP** - The Supplemental Nutrition Assistance Program, often called food stamps. I believe it should be wound down, with phase-outs that honor current recipients. (standard meaning) ^g-snap
 
-**Socialism (excluded)** - See [[Glossary#Socialism (excluded)|Socialism (excluded)]] on the Glossary page. ^g-socialism-excluded
+**Socialism (excluded)** - **Excluded socialism** = the ideology of state or collective ownership of productive property, central planning in place of prices, and compulsory redistribution beyond a minimal rights-protection floor, imposed by force. That is what the excluded-ideologies amendment I support would bar from office and from building places that promote it ([[1. Ethical and Philosophical Framework#^excluded-ideologies|Excluded ideologies]]). **Not socialism under this site:** a flat income tax. The named minimal welfare / earnings-only top-up floor; or the time-limited flat [[Glossary Index#^g-sanctuary-levy|Sanctuary Levy]] (≤3%, income above \$75,000 single / \$150,000 joint) that funds sanctuary care for animals freed by the shutdown. Those are narrow compelled payments for named rights-protection jobs, not collective ownership of production. I judge social democracy (markets + a large welfare state) as too large a compulsory state, not as excluded socialism. Voluntary cooperatives competing in markets should be allowed. Set out in [[5. Domestic Policy & Governance#Socialism|Domestic Policy: Socialism]]. (site S5) ^g-socialism-excluded
 
 **Sovereigntism** - Putting national self-government ahead of international bodies and treaties. I believe no foreign tribunal holds a legitimate veto over decisions needed for national survival (S1, S8). (standard meaning; site S8) ^g-sovereigntism
 
@@ -641,7 +643,7 @@ The specialized terms used across the site, A to Z. Terms that already have an e
 
 **Term limits** - Caps on how many terms an official can serve. I want none, with three-year election cycles for every elected office. (standard meaning; site S3) ^g-term-limits
 
-**Three-mark rule (repeat-offender threshold)** - See [[Glossary#Repeat-offender threshold|Repeat-offender threshold]] on the Glossary page. ^g-three-mark-rule-repeat-offender-threshold
+**Three-mark rule (repeat-offender threshold)** - The repeat-offender threshold, as I would set it, is three marks. When an offender reaches three marks, the offender should forfeit the right to life. Set out in [[6. Criminal Justice & Security#Repeat Offenders and Forfeiture of the Right to Life|Criminal Justice & Security: Repeat Offenders and Forfeiture of the Right to Life]]. (site S6) ^g-three-mark-rule-repeat-offender-threshold
 
 **Threshold deontology** - In standard form (Michael Moore), rights hold unless the consequences of respecting them pass a very high threshold. "I'm a threshold deontologist, not a utilitarian" (S1). In mine, the threshold is the agent's own violation set in Axiom 6: violating rights by force or fraud, or directly imposing severe non-consensual risk. (standard meaning; site S1) ^g-threshold-deontology
 
@@ -653,7 +655,7 @@ The specialized terms used across the site, A to Z. Terms that already have an e
 
 **Transhumanism** - The movement to use technology, such as genetic engineering and brain-computer interfaces, to overcome human biological limits. In S10 I say: "I fully support transhuman technology." (standard meaning; site S10) ^g-transhumanism
 
-**Transition levy** - See [[Glossary#Transition levy|Transition levy]] on the Glossary page. ^g-transition-levy
+**Transition levy** - A temporary tax of 16% of all wages I would impose, split between worker and employer, that would replace today's payroll taxes and pay only for the Social Security and Medicare benefits already promised, then the debt. It should never rise above 16%, should step down as the debt is paid, and should end when the protected benefits end. Set out in [[5. Domestic Policy & Governance#Taxation|Domestic Policy & Governance: Taxation]]. (site S5) ^g-transition-levy
 
 **Transition surcharge** - A temporary 2-point surcharge on my flat income-tax rates through 2041, so 22% instead of 20%, and 17% instead of 15% on capital income (S10). (site S5, S10) ^g-transition-surcharge
 
@@ -693,7 +695,7 @@ The specialized terms used across the site, A to Z. Terms that already have an e
 
 **Water rights** - Legal rights to use water from a river, lake, or aquifer. In my view they are property. (standard meaning) ^g-water-rights
 
-**Welfare voting bar** - See [[Glossary#Welfare voting bar|Welfare voting bar]] on the Glossary page. ^g-welfare-voting-bar
+**Welfare voting bar** - Superseded name for the [[Glossary Index#^g-net-taxpayer-franchise-net-fiscal-voting-bar|net fiscal voting bar]] (net taxpayer voting bar): the franchise would be restricted to net taxpayers, not merely barred on binary means-tested receipt. (site S3) ^g-welfare-voting-bar
 
 **Western civilization (Western heritage)** - In my usage, "Western" is "a set of values, not an ethnicity" (S2, S8). I call moderate Christianity and Western heritage "good" (S4). (site S2, S4) ^g-western-civilization-western-heritage
 
