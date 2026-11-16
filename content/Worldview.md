@@ -491,6 +491,3 @@ These are brief. My site already acknowledges most of them.
   - the Mark J. Perry chart of U.S. price changes;
   - a composite chart of the Fraser tax-progressivity index.
   - My other charts come from official sources (BJS, Oregon Health Authority, USDA ERS, and Pew).
-- **Resolved earlier tonight (3922793 and 0a7bd23, listed in earlier versions):**
-  - the S12 arch, ballroom, and monument grades and the S5 monument Q&A now match my view;
-  - all X and Wikipedia citations were replaced, and the Brivael Le Pogam and Palmer Luckey quotes were cut.
