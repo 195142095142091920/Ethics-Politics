@@ -135,7 +135,7 @@ The disabilities are "not a penalty": no one should be fined, jailed, or silence
 - **[[4. Religion & Secularism#Oath of Office and Perjury|Oath of Office and Perjury]]:** I treat authority roles as sworn positions.
 - **[[4. Religion & Secularism#Religious Freedom|Religious Freedom]]:** Religious bodies and private people should choose their associations freely, and businesses should be free to decline expressive work on conscience, but no business open to the public should be allowed to refuse a person for a protected trait.
 - **[[4. Religion & Secularism#Religious Exemptions|Religious Exemptions]]:** Religion should give no exemption from basic taxes.
-- **[[4. Religion & Secularism#Islam and Extremism|Islam and Extremism]]:** I see Islam as the most toxic, problematic major religion on earth by a lot.
+- **[[4. Religion & Secularism#Islam and Extremism|Islam and Extremism]]:** I see Islam as the deadliest and most dangerous major religion on earth by a substantial margin.
 - **[[4. Religion & Secularism#Conflict, Persecution, and Hijra|Conflict, Persecution, and Hijra]]:** Islamic expansion has also come through migration and integration, Hijra, a way of taking over countries from within.
 - **[[4. Religion & Secularism#Sharia as State Law|Sharia as State Law]]:** I protect private religious practice in the home.
 - **[[4. Religion & Secularism#The Islamic Faith in Practice|The Islamic Faith in Practice]]:** I am strongly at odds with, and skeptical of, the Islamic faith as classically taught and widely practiced.
