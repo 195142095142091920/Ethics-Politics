@@ -4,11 +4,13 @@ aliases:
   - worldview
   - where-i-stand
 ---
-Here I set out my ethics, philosophies, and normative beliefs as a researched collection - an honest analysis of politics and ethics leading to my conclusions on all manner of relevant topics.
+On this site, I set out my ethics, philosophies, and normative beliefs as a researched collection - an honest analysis of politics and ethics leading to my conclusions on all manner of relevant topics.
 
 Though I wish it were true, the world I wish for would never actually be reality. On this site, I lay out my ideals and decisions on what policy toward that world might look like. The path we are currently treading as a nation does not inch closer to the nation I wish for, so I favor any directional moves that close the distance to the ideal, though they are not the ideal itself.
 
 Voting for and supporting parties and policies that are directionally aligned is the realistic goal that I follow as a cost analysis. They are very rarely perfect and will likely never match my complete worldview. 
+
+This page is the top-level look at my worldview with descriptions describing my values. Rationale, definitions, rebuttals, and argumentation exists in the sites sections. 
 
 ---
 
