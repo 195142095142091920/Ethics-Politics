@@ -148,8 +148,26 @@ body[data-slug=""] h1 a:hover,
 article {
   line-height: 1.7;
 }
-article p, article li {
-  max-width: 70ch;
+/* Balanced layout: one centered reading column (760px, about 75-80ch of body text) instead of capped
+ * paragraphs inside a column that stretched to the right edge. */
+.page > #quartz-body .center {
+  max-width: 760px;
+  min-width: 0;
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+}
+/* Desktop with the right sidebar empty (the TOC lives in the left Explorer):
+ * size the grid to sidebar + reading column and center the pair in the window.
+ * Inside layer quartz-base so this !important outranks plugins/explorer-toc's
+ * layered "320px auto !important" (layered !important beats unlayered). */
+@layer quartz-base {
+  @media all and ($desktop) {
+    html body .page > #quartz-body:has(> .sidebar.right:empty) {
+      grid-template-columns: 320px minmax(0, 760px) !important;
+      justify-content: center;
+    }
+  }
 }
 .callout {
   margin: 1.25rem 0;
