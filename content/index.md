@@ -77,7 +77,7 @@ Anti-totalitarian parity: the state should condemn all four excluded ideologies
 - **[[2. Political and Social Character#Socialism|Socialism]]:** Socialism is state or collective ownership of productive property, central planning in place of prices, and redistribution by force. Excluded and condemned.
 - **[[2. Political and Social Character#Communism|Communism]]:** Communism is the program of abolishing private property, with one party holding a monopoly of power. Excluded and condemned.
 - **[[2. Political and Social Character#Cultural Marxism|Cultural Marxism]]:** Cultural Marxism is the critical theory of the Frankfurt School and its offshoots, which recasts class struggle as oppressed groups against oppressors and carries it into culture and education. Excluded and condemned.
-- **[[2. Political and Social Character#Islamism|Islam]]:** Islamism is the political project of ruling by Islamic law. I condemn Islam itself as an incompatible ideology. Excluded and condemned.
+- **[[2. Political and Social Character#Islamism|Islam]]:** I condemn Islam itself as an incompatible ideology, not only Islamism, its political project of ruling by Islamic law. Excluded and condemned.
 - **[[2. Political and Social Character#Nazism|Nazism]]:** Nazism ranked human beings by supposed race and used the state to strip, expel, and kill those it ranked lowest. Excluded and condemned.
 
 ---
@@ -471,4 +471,4 @@ I acknowledge each of these in the section cited.
 
 ## How this was written
 
-The positions and conclusions here are mine. Frontier LLMs helped me draft and revise the text, research and check sources, organize the sections, and stress-test my arguments against the strongest objections I could find. Sources are linked so any claim can be checked. My standard of proof applies however the words were drafted: a claim stands on testable, checkable evidence or reasoning, not on who wrote the sentence ([[1. Ethical and Philosophical Framework#Meta-Ethics|Meta-Ethics]]).
+The positions and conclusions here are mine. Frontier LLMs helped me draft and revise the text, research and check sources, organize the sections, and stress-test my arguments against the strongest objections I could find. Sources are linked so any claim can be checked; they sit in the collapsed Sources boxes under each section. Gaps are marked in the open: **Needs research** where data is missing, accepted-risks notes where I take a cost, and the tensions above where my positions pull against each other. My standard of proof applies however the words were drafted: a claim stands on testable, checkable evidence or reasoning, not on who wrote the sentence ([[1. Ethical and Philosophical Framework#Meta-Ethics|Meta-Ethics]]).
