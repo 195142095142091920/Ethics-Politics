@@ -11,8 +11,6 @@ const explorerSortFn = new Function(
   `
   var order = [
     "ethics and politics",
-    "worldview",
-    "where i stand",
     "1. ethical and philosophical framework",
     "2. political and social character",
     "3. authority & civil liberties",

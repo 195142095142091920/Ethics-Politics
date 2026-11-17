@@ -1,7 +1,7 @@
 // Emits static/topicIndex.json for the search plugin: one entry per h2 topic (slug#anchor).
 import path from "path";
 import fs from "fs/promises";
-const TITLE_ONLY = new Set(["where-i-stand", "start-here", "index", "tags/index"]);
+const TITLE_ONLY = new Set(["where-i-stand", "start-here", "tags/index"]);
 const ALIASES = { "world-health-organization": "WHO", "equal-treatment-in-employment-and-business": "DEI", "investor-visas": "EB-5", "ai-and-automation": "AGI" };
 const skip = (n) => n.type === "element" && ((n.tagName === "blockquote" && n.properties?.dataCallout === "quote") || (n.tagName === "a" && n.properties?.role === "anchor") || n.tagName === "script" || n.tagName === "style");
 const text = (n) => n.type === "text" ? n.value : skip(n) ? " " : (n.children || []).map(text).join(n.type === "element" && /^(p|li|h\d|td|th|div|blockquote|tr)$/.test(n.tagName) ? " " : "");

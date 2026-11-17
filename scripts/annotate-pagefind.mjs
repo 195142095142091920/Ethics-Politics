@@ -31,8 +31,6 @@ const SECTION_FROM_FILE = [
   [/^12[.-]/i, "Current Administration"],
   [/^13[.-]/i, "News Commentary"],
   [/^glossary/i, "Glossary"],
-  [/^worldview/i, "Worldview"],
-  [/^where-i-stand/i, "Where I Stand"],
   [/^index\.html$/i, "Home"],
 ]
 
@@ -48,7 +46,7 @@ function typeFor(filename, html) {
   const base = path.basename(filename).toLowerCase()
   if (base.startsWith("glossary")) return "Glossary"
   if (base.startsWith("13.") || base.includes("news-commentary")) return "News"
-  if (base.startsWith("worldview") || base.startsWith("where-i-stand") || base === "index.html")
+  if (base === "index.html")
     return "Index"
   if (html.includes('data-callout="question"')) return "Position" // pages with Q&A still Position; Q&A tagged per-callout
   return "Position"
@@ -232,6 +230,11 @@ async function main() {
     total += changes
     summary.push(`${path.relative(root, file)}  +${changes}  [${section} / ${pageType}]`)
     if (!dryRun) await fs.writeFile(file, html)
+  }
+  // Old home-page names with capitals: Quartz lowercases alias slugs, so write these redirects here.
+  for (const name of ["Worldview", "Where-I-Stand"]) {
+    const redirect = `<!DOCTYPE html>\n<html lang="en-us">\n<head>\n<title>index</title>\n<link rel="canonical" href="./">\n<meta name="robots" content="noindex">\n<meta charset="utf-8">\n<meta http-equiv="refresh" content="0; url=./">\n</head>\n</html>\n`
+    if (!dryRun) await fs.writeFile(path.join(root, `${name}.html`), redirect)
   }
   console.log(
     `${dryRun ? "DRY RUN — " : ""}annotated ${summary.length} HTML files (${total} edits) under ${root}`,
