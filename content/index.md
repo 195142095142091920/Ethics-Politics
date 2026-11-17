@@ -480,7 +480,7 @@ I acknowledge each of these in the section cited.
 - **A capital retrial after jury nullification** departs from double jeopardy. I acknowledge this ([[3. Authority & Civil Liberties|S3]]).
 - **West Bank removals of individuals found hostile** conflict with Geneva IV Art. 49 and the Rome Statute. I acknowledge this: "Neither changes my position" ([[8. Foreign Policy & International Relations|S8]]).
 - **Treaty departures:** exiting the ICCPR, possibly denouncing the CAT, and compelled POW labor beyond Geneva's limits. I acknowledge all of them ([[8. Foreign Policy & International Relations|S8]]).
-- **Reparations charged to the voters of the responsible government** require a voting record that the secret ballot doesn't produce. I call this a principle only ([[7. Cultural & Social Issues|S7]]).
+- **Reparations charged to the voters of the responsible government** require a voting record that the secret ballot doesn't produce. Voter liability is a principle only; legislators and officials on the record can be held liable now ([[7. Cultural & Social Issues|S7]]).
 - **Birth-sex bathroom rules for private businesses**, alongside my association-freedom default. I acknowledge it is a mandate ([[7. Cultural & Social Issues|S7]]).
 - **My France-riots commentary** speaks of rioters who "have no ancestry in it." A critic might set that wording against my values-not-ethnicity standard ([[13. News Commentary|S13]]).
 - **AI displacement:** I say fast, near-total displacement would force taxing beyond "minimal" ([[10. Bioethics, Progress, & Technology|S10]]).
