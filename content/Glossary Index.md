@@ -105,7 +105,7 @@ The specialized terms I use, A to Z, each defined in my own words and linked to 
 
 **Cartels as terrorists** - My view that drug cartels, and governments that shelter them, are national-security threats to be defeated by force, including war on governments that refuse to cooperate. (site S8) ^g-cartels-as-terrorists
 
-**CAT** - The UN Convention against Torture (1984), ratified by the U.S. in 1994. I believe the U.S. should denounce (withdraw from) it if needed, while keeping the bar on removing anyone to torture in statute. (standard meaning; site S8) ^g-cat
+**CAT** - The UN Convention against Torture (1984), ratified by the U.S. in 1994. I believe the U.S. should denounce (withdraw from) it if needed, while keeping the bar on removing any resident to torture in statute. (standard meaning; site S8) ^g-cat
 
 **Catastrophe threshold** - In standard threshold deontology, the point where the bad consequences of respecting a right become so large (a catastrophe) that the right may be overridden. My threshold is different: it is the agent's own violation of another's rights. (standard meaning) ^g-catastrophe-threshold
 
@@ -647,7 +647,7 @@ The specialized terms I use, A to Z, each defined in my own words and linked to 
 
 **S12 grades** - My five-step scale for grading each Trump administration action against my positions: Aligned, Directionally aligned (details differ), Mixed, Directionally opposed, and Opposed. Of 87 graded actions, the counts are 18 / 34 / 15 / 11 / 9. (site S12) ^g-s12-grades
 
-**Safe third country** - A country other than the refugee's home and the destination where the refugee can be sent to seek protection. I believe refugees should go only to a safe third country. (standard meaning; site S8) ^g-safe-third-country
+**Safe third country** - A country other than the refugee's home and the destination where the refugee can be sent to seek protection. I believe resettled refugees being removed should go only to a safe third country. (standard meaning; site S8) ^g-safe-third-country
 
 **Sanctuary cities** - Cities and counties that limit cooperation with federal immigration enforcement. Not related to my Sanctuary Plan for animals. I believe they should be abolished. (standard meaning; site S8) ^g-sanctuary-cities
 
