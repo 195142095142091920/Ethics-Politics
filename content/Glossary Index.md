@@ -273,7 +273,7 @@ The specialized terms I use, A to Z, each defined in my own words and linked to 
 
 **Existential risk** - A risk that could cause human extinction or permanently and drastically curtail humanity's future, such as misaligned advanced AI or an engineered pandemic. I believe regulation should be limited to research that creates existential risk. (standard meaning; site S10) ^g-existential-risk
 
-**Experimentation track** - A sentence for offenders who have forfeited the right to life (the capital tier or three marks): instead of execution, they would be used as research subjects in place of animals. I believe the victim should choose between execution and experimentation; where the victim is dead or there is no single victim, the judge should choose and may not refuse. Harm outside the sentence, such as guard abuse unrelated to a study, should still be punished. (site S6, S10) ^g-experimentation-track
+**Experimentation track** - A sentence for offenders who have forfeited the right to life (the capital tier or three marks): instead of execution, they would be used as research subjects in place of animals. I believe the victim should choose between execution and experimentation; where the victim is dead, the default is the experimentation track unless the victim's close family or friends step forward and choose; where there is no single victim, the judge should choose and may not refuse. Harm outside the sentence, such as guard abuse unrelated to a study, should still be punished. (site S6, S10) ^g-experimentation-track
 
 **Expressivism** - The view that moral statements express attitudes such as approval or disapproval rather than describe facts. S1 says my view has "an expressive element." (standard meaning; site S1) ^g-expressivism
 
