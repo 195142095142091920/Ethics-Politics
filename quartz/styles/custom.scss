@@ -150,22 +150,32 @@ article {
 }
 /* Balanced layout: one centered reading column (760px, about 75-80ch of body text) instead of capped
  * paragraphs inside a column that stretched to the right edge. */
-.page > #quartz-body .center {
-  max-width: 760px;
-  min-width: 0;
-  width: 100%;
-  margin-left: auto;
-  margin-right: auto;
+@media all and ($desktop) {
+  html body div#quartz-root.page > div#quartz-body div.center {
+    box-sizing: border-box;
+    max-width: 760px;
+    min-width: 0;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+  }
 }
 /* Desktop with the right sidebar empty (the TOC lives in the left Explorer):
- * size the grid to sidebar + reading column and center the pair in the window.
- * Inside layer quartz-base so this !important outranks plugins/explorer-toc's
- * layered "320px auto !important" (layered !important beats unlayered). */
+ * the page spans the window so the sidebar stays pinned at the left edge, and the
+ * reading column above centers itself in the space to the right of the sidebar.
+ * The grid override sits in layer quartz-base so its !important outranks
+ * plugins/explorer-toc's layered "320px auto !important". */
+@media all and ($desktop) {
+  html body div#quartz-root.page:has(> #quartz-body > .sidebar.right:empty),
+  html body div#quartz-root.page > div#quartz-body:has(> .sidebar.right:empty) {
+    max-width: none;
+    width: 100%;
+  }
+}
 @layer quartz-base {
   @media all and ($desktop) {
     html body .page > #quartz-body:has(> .sidebar.right:empty) {
-      grid-template-columns: 320px minmax(0, 760px) !important;
-      justify-content: center;
+      grid-template-columns: 320px minmax(0, 1fr) !important;
     }
   }
 }
