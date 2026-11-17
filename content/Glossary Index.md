@@ -47,7 +47,7 @@ The specialized terms I use, A to Z, each defined in my own words and linked to 
 
 **Anarcho-capitalism** - The view that the state should be abolished and every service, including law, courts, and defense, supplied by private markets. I use it for Hans-Hermann Hoppe; I want a constitutional republic instead. (standard meaning) ^g-anarcho-capitalism
 
-**Anti-collectivism** - Opposition to collectivism, the view that the group, class, or state comes before the individual and may direct individual lives and outcomes. I use it for my own politics: I believe rights belong to individuals, and each person should be judged as an individual, never by group. (site Worldview) ^g-anti-collectivism
+**Anti-collectivism** - Opposition to collectivism, the view that the group, class, or state comes before the individual and may direct individual lives and outcomes. I use it for my own politics: I believe rights belong to individuals, and each person should be judged as an individual, never by group. (site home page) ^g-anti-collectivism
 
 **Anti-naturalism (sentientist)** - Here, the rejection of nature as a moral standard, not the metaethical term. In S1 I say nature may be "ethically indifferent or abominable," and in S7 that "Nature needs to be civilized." I use the label only in this sense. (standard meaning; site S1, S7) ^g-anti-naturalism-sentientist
 
@@ -323,7 +323,7 @@ The specialized terms I use, A to Z, each defined in my own words and linked to 
 
 **Fusionism** - The postwar American conservative blend, associated with Frank Meyer, of free-market liberty, traditional values, and anti-communism. It is one of the traditions closest to my view. (standard meaning) ^g-fusionism
 
-**Futurism** - As I use it, an outlook that welcomes and plans for a future reshaped by technology, such as AI, genetic enhancement, and lab-grown meat. It is not the early-20th-century Italian art movement of the same name. (site Worldview) ^g-futurism
+**Futurism** - As I use it, an outlook that welcomes and plans for a future reshaped by technology, such as AI, genetic enhancement, and lab-grown meat. It is not the early-20th-century Italian art movement of the same name. (site home page) ^g-futurism
 
 ## G
 
@@ -497,7 +497,7 @@ The specialized terms I use, A to Z, each defined in my own words and linked to 
 
 **National conservatism** - A movement, associated with Yoram Hazony, that stresses national sovereignty, borders, cultural cohesion, and often religion in public life. (standard meaning) ^g-national-conservatism
 
-**National individualism** - My own label for my politics: rights belong to individuals, with free markets and a minimal, opt-in fiscal state, held within a strong nation defined by shared Western values, firm borders, and assimilation. I believe the state exists to protect negative rights and the security of the community that sustains them. (site Worldview) ^g-national-individualism
+**National individualism** - My own label for my politics: rights belong to individuals, with free markets and a minimal, opt-in fiscal state, held within a strong nation defined by shared Western values, firm borders, and assimilation. I believe the state exists to protect negative rights and the security of the community that sustains them. (site home page) ^g-national-individualism
 
 **National initiative** - A constitutional amendment I support that would let qualified voters put federal statutes (1% of qualified voters' signatures) and amendments (2%) on the ballot. Only voters who meet the full election stack (ID, the voter license test, net-taxpayer status, no felony bar) may sign and vote, and no initiative can override protected rights. (site S3) ^g-national-initiative
 
@@ -545,7 +545,7 @@ The specialized terms I use, A to Z, each defined in my own words and linked to 
 
 **Patriots, ECR, ESN** - Three right-wing groups in the European Parliament: Patriots for Europe, European Conservatives and Reformists, and Europe of Sovereign Nations. (standard meaning) ^g-patriots-ecr-esn
 
-**Pattern recognition (pattern realism)** - My view that noticing real group patterns is reasonable even when a particular person turns out to be harmless, and that statistics shouldn't be denied. Group statistics never become verdicts on individuals; each person is judged on their own values and conduct. (site S6, S7, Worldview) ^g-pattern-recognition-pattern-realism
+**Pattern recognition (pattern realism)** - My view that noticing real group patterns is reasonable even when a particular person turns out to be harmless, and that statistics shouldn't be denied. Group statistics never become verdicts on individuals; each person is judged on their own values and conduct. (site S6, S7, home page) ^g-pattern-recognition-pattern-realism
 
 **Pell Grants** - Federal grants for lower-income undergraduate students that, unlike loans, don't have to be repaid. I would make them opt-in. (standard meaning; site S5) ^g-pell-grants
 
@@ -581,7 +581,7 @@ The specialized terms I use, A to Z, each defined in my own words and linked to 
 
 **Property exceptions (two)** - The two cases S3 puts outside my otherwise permanent property right: "one is barred by amendment, and in the other the owners forfeited it." The first is the building bar; the second is the Sanctuary Plan's uncompensated conversion of animal-industry firms. (site S3) ^g-property-exceptions-two
 
-**Prophylaxis** - A preventive measure taken before harm happens, rather than punishment after it. In my resolution of the first apparent tension on the Worldview page, the office bars and mosque cap are "prophylaxis, not punishment," protecting the rights order from ideologies hostile to it. (standard meaning; site Worldview) ^g-prophylaxis
+**Prophylaxis** - A preventive measure taken before harm happens, rather than punishment after it. In my resolution of the first apparent tension on the home page, the office bars and mosque cap are "prophylaxis, not punishment," protecting the rights order from ideologies hostile to it. (standard meaning; site home page) ^g-prophylaxis
 
 **Proportionality (punishment)** - The principle that a punishment or defensive response should match the severity of the wrong. In my framework it is applied once, at the forfeiture decision: what is forfeited corresponds to the violation. (standard meaning; site S1, S6) ^g-proportionality-punishment
 
@@ -627,6 +627,8 @@ The specialized terms I use, A to Z, each defined in my own words and linked to 
 
 **Reproductive cloning and research cloning** - Reproductive cloning creates a baby genetically identical to an existing person; research cloning creates embryos for study. I believe reproductive cloning should not be banned, since a clone "is a person like anyone else, not a product," while research cloning should stay inside the fetal, sentience, and research rules, with no gestation to birth for research. (site S10) ^g-reproductive-cloning-and-research-cloning
 
+**Rescue purchases** - Paying to get a sentient animal already headed to slaughter out of it. While the industry still operates, I believe that if paying is the only way to save that animal, the person should pay: its certain death now outweighs a speculative effect on future demand. This covers only animals already doomed, never paying a breeder to produce a new animal, and it does not change the Sanctuary Plan, where adoption should never be a purchase. I set this out in [[1. Ethical and Philosophical Framework#Rescue Purchases|Ethical and Philosophical Framework: Rescue Purchases]]. (site S1) ^g-rescue-purchases
+
 **Restore Britain and Reform UK** - Two British right-wing parties. Restore Britain, led by Rupert Lowe, is closest to me on crime, pledging a binding referendum on restoring the death penalty; Reform UK, led by Nigel Farage, is next. (site S11) ^g-restore-britain-and-reform-uk
 
 **Restrictionism** - Favoring sharply lower immigration and tighter entry rules. I call my version "Values-selective", which selects by fit with Western values. (standard meaning) ^g-restrictionism
@@ -651,7 +653,7 @@ The specialized terms I use, A to Z, each defined in my own words and linked to 
 
 **Sanctuary cities** - Cities and counties that limit cooperation with federal immigration enforcement. Not related to my Sanctuary Plan for animals. I believe they should be abolished. (standard meaning; site S8) ^g-sanctuary-cities
 
-**Sanctuary forfeiture** - My ground for taking animal-industry assets without compensation: "Animal-industry firms forfeited those property protections by using their assets to violate animals' rights." Those assets would be compelled to convert, divest, or liquidate, with no compensation to owners and shareholders; S3 calls it "a one-time forfeiture, not a break in the property right." (site S1 (note "Forfeiture: Sanctuary Plan and property"); site S3, S9) ^g-sanctuary-forfeiture
+**Sanctuary forfeiture** - My ground for taking animal-industry assets without compensation: "Animal-industry firms forfeited those property protections by using their assets to violate animals' rights." Those assets would be compelled to convert, divest, or liquidate, with no compensation to owners and shareholders; I call it "a one-time forfeiture, not a break in the property right." (site S1 (note "Forfeiture: Sanctuary Plan and property"); site S3, S9) ^g-sanctuary-forfeiture
 
 **Sanctuary Levy** - A single flat, time-limited levy I would impose on income above its own line, never above 3%, legally dedicated to sanctuary care for the animals alive when animal agriculture, commercial fishing, breeding mills, and animal testing shut down, to repaying the sanctuary bonds, and to a closing endowment for the last animals. It should only be lowered, and it should end when the national sanctuary population falls below 1% of its starting animal units and the bonds are repaid. I set this out in [[9. Energy & Environment#Sanctuary Plan|Energy & Environment: Sanctuary Plan]] and [[5. Domestic Policy & Governance#Taxation|Domestic Policy & Governance: Taxation]]. (site S9, S5) ^g-sanctuary-levy
 
@@ -695,7 +697,7 @@ The specialized terms I use, A to Z, each defined in my own words and linked to 
 
 **Sovereigntism** - Putting national self-government ahead of international bodies and treaties. I believe no foreign tribunal holds a legitimate veto over decisions needed for national survival (S1, S8). (standard meaning; site S8) ^g-sovereigntism
 
-**Stake qualification** - The first half of my qualified franchise: "only net taxpayers would vote, and people living on personally directed transfers would not, because the franchise decides other people's money." S3 calls it "close to what Aristotle called timocracy." (site S3) ^g-stake-qualification
+**Stake qualification** - The first half of my qualified franchise: "only net taxpayers would vote, and people living on personally directed transfers would not, because the franchise decides other people's money." I call it "close to what Aristotle called timocracy." (site S3) ^g-stake-qualification
 
 **Stoicism** - The ancient school (Epictetus, Marcus Aurelius) that teaches virtue, self-control, and calm acceptance of what one can't change. I use it for personal ethics and composure only. (standard meaning; site S1) ^g-stoicism
 
@@ -719,7 +721,7 @@ The specialized terms I use, A to Z, each defined in my own words and linked to 
 
 **Threshold deontology** - In standard form (Michael Moore), rights hold unless the consequences of respecting them pass a very high threshold. "I'm a threshold deontologist, not a utilitarian" (S1). In mine, the threshold is the agent's own violation set in Axiom 6: violating rights by force or fraud, or directly imposing severe non-consensual risk. (standard meaning; site S1) ^g-threshold-deontology
 
-**Timocracy** - In Aristotle, a constitution where political rights depend on a property stake (Plato used the word for rule by the honor-loving). S3 says my net-taxpayer rule is "close to what Aristotle called timocracy." (standard meaning; site S3) ^g-timocracy
+**Timocracy** - In Aristotle, a constitution where political rights depend on a property stake (Plato used the word for rule by the honor-loving). I say my net-taxpayer rule is "close to what Aristotle called timocracy." (standard meaning; site S3) ^g-timocracy
 
 **Top-two primary** - A primary where all candidates run on one ballot and the top two finishers advance regardless of party. I believe parties are private associations and top-two primaries should be banned. (standard meaning; site S3) ^g-top-two-primary
 

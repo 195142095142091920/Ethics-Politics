@@ -1053,7 +1053,6 @@
       "3.-authority--and--civil-liberties",
       "6.-criminal-justice--and--security",
       "index",
-      "worldview",
       "glossary",
       "glossary-index"
      ],
@@ -1342,8 +1341,7 @@
      "re": "Greens(?!/EFA)",
      "pages": [
       "11.-modern-political-parties",
-      "index",
-      "worldview"
+      "index"
      ],
      "notSections": [
       "Germany",
@@ -2276,9 +2274,7 @@
      "re": "i:realis[mt]s?",
      "pages": [
       "8.-foreign-policy--and--international-relations",
-      "start-here",
-      "index",
-      "worldview"
+      "index"
      ]
     }
    ]
@@ -2347,6 +2343,13 @@
     "i:reproductive (?:human )?cloning",
     "i:research cloning",
     "i:cloning"
+   ]
+  },
+  {
+   "id": "g-rescue-purchases",
+   "term": "Rescue purchases",
+   "patterns": [
+    "i:rescue purchases?"
    ]
   },
   {
