@@ -647,7 +647,7 @@ The specialized terms I use, A to Z, each defined in my own words and linked to 
 
 **S11 scorecard** - My net alignment scores for parties in S11: GOP +9, Libertarian and Constitution parties +3, Democrats -10, Greens and DSA -13. (site S11) ^g-s11-scorecard
 
-**S12 grades** - My five-step scale for grading each Trump administration action against my positions: Aligned, Directionally aligned (details differ), Mixed, Directionally opposed, and Opposed. Of 87 graded actions, the counts are 18 / 34 / 15 / 11 / 9. (site S12) ^g-s12-grades
+**S12 grades** - My five-step scale for grading administration actions and politicians against my positions: Aligned, Directionally aligned (details differ), Mixed, Directionally opposed, and Opposed. (site S12) ^g-s12-grades
 
 **Safe third country** - A country other than the refugee's home and the destination where the refugee can be sent to seek protection. I believe resettled refugees being removed should go only to a safe third country. (standard meaning; site S8) ^g-safe-third-country
 

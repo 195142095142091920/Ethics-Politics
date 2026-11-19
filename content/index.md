@@ -390,11 +390,10 @@ The Greens are closest on animals and nothing else
 
 ## [[12. Current Administration|12. Current Politics]]
 
-* Directional: of 92 graded actions, 57 point toward my view and 20 away
 * Main dissents: animals, tariffs, entitlements, vouchers, war-powers process, and due process
 
 - **[[12. Current Administration#Politicians|Politicians]]:** Zohran Mamdani, Mayor of New York City, is graded Directionally opposed as of Nov 18, 2026.
-- **[[12. Current Administration#Summary of Grades|Summary of Grades]]:** I grade the current administration's major actions separately against my positions.
+- **[[12. Current Administration#Summary of Grades|Summary of Grades]]:** I grade administration actions and politicians against my positions.
 
 ---
 
