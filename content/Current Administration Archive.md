@@ -2,7 +2,7 @@
 title: Current Administration Archive
 ---
 
-Resolved and Superseded entries from [[12. Current Administration]] move here once they have been Resolved or Superseded for six months and have shown an Outcome line on that page for at least 30 days, unless another section links to them. Grades stay in the [[12. Current Administration#Summary of Grades|Summary of Grades]] and the totals.
+Resolved and Superseded entries from [[12. Current Administration#Current Administration|Current Administration]] move here once they have been Resolved or Superseded for six months and have shown an Outcome line on that page for at least 30 days, unless another section links to them. Grades stay in the [[12. Current Administration#Summary of Grades|Summary of Grades]] and the totals.
 
 ## Health
 

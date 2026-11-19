@@ -669,7 +669,7 @@ The specialized terms I use, A to Z, each defined in my own words and linked to 
 
 **Secret ballot** - Voting in private so no one can know how a given person voted. (standard meaning) ^g-secret-ballot
 
-**Section numbers (S1-S13)** - The section numbers I use: S1 Ethical and Philosophical Framework, S2 Political and Social Character, S3 Authority & Civil Liberties, S4 Religion & Secularism, S5 Domestic Policy & Governance, S6 Criminal Justice & Security, S7 Cultural & Social Issues, S8 Foreign Policy & International Relations, S9 Energy & Environment, S10 Bioethics, Progress, & Technology, S11 Modern Political Parties, S12 Current Administration, S13 News Commentary. (site) ^g-section-numbers-s1-s13
+**Section numbers (S1-S13)** - The section numbers I use: S1 Ethical and Philosophical Framework, S2 Political and Social Character, S3 Authority & Civil Liberties, S4 Religion & Secularism, S5 Domestic Policy & Governance, S6 Criminal Justice & Security, S7 Cultural & Social Issues, S8 Foreign Policy & International Relations, S9 Energy & Environment, S10 Bioethics, Progress, & Technology, S11 Modern Political Parties, S12 Current Politics, S13 News Commentary. (site) ^g-section-numbers-s1-s13
 
 **Secularism** - Keeping religion and government separate. Mine is strict: I believe church and state should be strictly separated, churches taxed, no school prayer, and ritual slaughter banned for every faith (S4). (standard meaning; site S4) ^g-secularism
 
