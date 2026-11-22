@@ -85,7 +85,7 @@ The specialized terms I use, A to Z, each defined in my own words and linked to 
 
 **Brain-computer interfaces** - Devices that connect the brain directly to a computer. I support them with opt-in neural data. (standard meaning; site S10) ^g-brain-computer-interfaces
 
-**Building bar** - The bar on building, rebuilding, expanding, or relocating places that promote any of the four excluded ideologies, such as a Nazi gathering place or an Islamic center or school; new mosques are barred outright. "The bar falls on the place and the symbols built into it, never on a person's belief, speech, or home practice" (S3). (site S3) ^g-building-bar
+**Building bar** - The bar on building, rebuilding, expanding, or relocating places that promote any of the four excluded ideologies, such as a Nazi gathering place or an Islamic center or school; new mosques would be barred outright. "The bar falls on the place and the symbols built into it, never on a person's belief, speech, or home practice" (S3). (site S3) ^g-building-bar
 
 **Bulk tracking, facial recognition, and social credit** - Mass collection of location or other data on the population, automated identification of faces, scoring citizens' behavior, and selling personal data. I believe each should be opt-in, with a high bar for bulk tracking. (site S3) ^g-bulk-tracking-facial-recognition-and-social-credit
 
@@ -579,7 +579,7 @@ The specialized terms I use, A to Z, each defined in my own words and linked to 
 
 **Prop 209 (Bleemer study)** - California's 1996 measure ending race-based admissions at public universities. Bleemer (2022) found that underrepresented minority applicants then enrolled at less selective colleges, earned fewer degrees, and earned about 5% less; my S7 cites it as counter-evidence and answers that it "does not make the preference just." (site S7) ^g-prop-209-bleemer-study
 
-**Property exceptions (two)** - The two cases S3 puts outside my otherwise permanent property right: "one is barred by amendment, and in the other the owners forfeited it." The first is the building bar; the second is the Sanctuary Plan's uncompensated conversion of animal-industry firms. (site S3) ^g-property-exceptions-two
+**Property exceptions (two)** - The two cases S3 puts outside my otherwise permanent property right: "one would be barred by amendment, and in the other the owners forfeited it." The first is the building bar; the second is the Sanctuary Plan's uncompensated conversion of animal-industry firms. (site S3) ^g-property-exceptions-two
 
 **Prophylaxis** - A preventive measure taken before harm happens, rather than punishment after it. In my resolution of the first apparent tension on the home page, the office bars and mosque cap are "prophylaxis, not punishment," protecting the rights order from ideologies hostile to it. (standard meaning; site home page) ^g-prophylaxis
 
