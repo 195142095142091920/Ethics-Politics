@@ -376,7 +376,7 @@ My support is "a cost analysis," not a partisan identity
 
 The Greens are closest on animals and nothing else
 
-- **[[11. Modern Political Parties#The Party Landscape|The Party Landscape]]:** Most Americans are independents, but almost all votes go to the two major parties.
+- **[[11. Modern Political Parties#The Party Landscape|The Party Landscape]]:** More Americans identify as independents than with either major party, but almost all votes go to the two major parties.
 - **[[11. Modern Political Parties#Democratic Party|Democratic Party]]:** I align with it fully only on same-sex marriage and directionally on marijuana and drug reform.
 - **[[11. Modern Political Parties#Republican Party and the MAGA Faction|Republican Party and the MAGA Faction]]:** I see it as the closest major party to me: fully aligned on borders, DEI, sex-based policy, missile defense, and alliances, and moving my way on punishment, policing, guns, abortion, and energy.
 - **[[11. Modern Political Parties#Libertarian Party|Libertarian Party]]:** I see it as my closest match on opt-in welfare, free labor markets, and self-defense, and it moves my way on drugs and vice.
