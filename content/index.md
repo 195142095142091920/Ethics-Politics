@@ -180,7 +180,7 @@ Tariffs treated cautiously; tax and regulatory relief over mandates
 - **[[5. Domestic Policy & Governance#Social Security and Medicare Transition|Social Security and Medicare Transition]]:** Social Security and Medicare should become voluntary for new entrants.
 - **[[5. Domestic Policy & Governance#Housing, Zoning, and Homelessness|Housing, Zoning, and Homelessness]]:** Housing should be left mainly to property owners and the market.
 - **[[5. Domestic Policy & Governance#Government Home Lending|Government Home Lending]]:** The government should not use taxpayer money to make home loans cheaper.
-- **[[5. Domestic Policy & Governance#Healthcare|Healthcare]]:** People should choose between a publicly supported plan and private insurance.
+- **[[5. Domestic Policy & Governance#Healthcare|Healthcare]]:** People should choose between a publicly supported plan and private insurance, because covering the bill still leaves people waiting for care.
 - **[[5. Domestic Policy & Governance#Healthcare Funding, Emergency Care, and Drug Approval|Healthcare Funding, Emergency Care, and Drug Approval]]:** The public health option should be voluntary, with taxpayers funding it only by choice.
 - **[[5. Domestic Policy & Governance#Private Education Oversight|Private Education Oversight]]:** Private and religious schools have the full right to exist and should be privately funded.
 - **[[5. Domestic Policy & Governance#K-12 Funding|K-12 Funding]]:** Each state should fund about \$10,000 per child per year for basic K-12 education, with a disability add-on set from actual need, following the child to any public school, district or charter, statewide.
