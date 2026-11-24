@@ -1,4 +1,4 @@
-name: Deploy 414.onl site folder to GitHub Pages
+name: Deploy SentientistUSA site folder to GitHub Pages
 
 on:
   push:

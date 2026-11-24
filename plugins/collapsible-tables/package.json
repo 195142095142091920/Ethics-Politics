@@ -2,7 +2,7 @@
   "name": "collapsible-tables",
   "version": "0.1.0",
   "type": "module",
-  "description": "Wrap Markdown tables in collapsed <details> for 414.onl",
+  "description": "Wrap Markdown tables in collapsed <details> for SentientistUSA",
   "main": "./dist/index.js",
   "exports": { ".": { "import": "./dist/index.js" } },
   "quartz": {

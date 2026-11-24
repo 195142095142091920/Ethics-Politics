@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: "414.onl"
+  baseUrl: "sentientistusa.org"
   ignorePatterns:
     - private
     - templates
@@ -262,7 +262,7 @@ plugins:
     enabled: false
     options:
       links:
-        Site index: https://414.onl
+        Site index: https://sentientistusa.org
   - source: "@quartz-community/recent-notes"
     enabled: false
   - source: "@quartz-community/spacer"

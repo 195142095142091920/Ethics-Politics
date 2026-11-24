@@ -1,6 +1,6 @@
 # explorer-toc
 
-Local Quartz v5 component for 414.onl. Removes the need for the right-hand
+Local Quartz v5 component for SentientistUSA. Removes the need for the right-hand
 Table of Contents by nesting the current page's h2/h3 headings under that
 page's entry in the left Explorer. Headings are expanded only for the
 page you are on, update on SPA navigation, and close the mobile Explorer

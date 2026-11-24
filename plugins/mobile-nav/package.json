@@ -2,7 +2,7 @@
   "name": "mobile-nav",
   "version": "0.1.0",
   "type": "module",
-  "description": "Mobile Sections button and bottom-sheet table of contents for 414.onl.",
+  "description": "Mobile Sections button and bottom-sheet table of contents for SentientistUSA.",
   "main": "./dist/index.js",
   "exports": {
     ".": {

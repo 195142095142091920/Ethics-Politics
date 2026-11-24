@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 /**
- * Postbuild HTML annotator for Pagefind (414.onl / Quartz v5).
+ * Postbuild HTML annotator for Pagefind (SentientistUSA / Quartz v5).
  * Mutates public HTML files in place. No content/*.md changes.
  *
  * Usage: node scripts/annotate-pagefind.mjs [--dry-run] [--root public]
